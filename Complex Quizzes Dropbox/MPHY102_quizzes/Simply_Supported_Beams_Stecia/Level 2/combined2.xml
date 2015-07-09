@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!--question 1-->
+<question type="cloze">
+<name>
+<text>Combined 1 Level 2</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/combined2/level2_1.jpg"alt="Beamplot" width="30 height="30"/></p>
+<p style="text-align: left;">Consider a simply supported beam as shown above with length L.</p>
+<p style="text-align: left;">There are two supports at either end of the beam,which generate reaction forces R1 and R2, at positions x=0 and x=L respectively.</p>
+<p style="text-align: left;">There are two external point forces acting on the beam as shown in the diagram.</p>
+<pstyle="text-align: left;" >Using the convention that upward forces and anti-clockwise moments are positive, and the information given:
+<p>a) Calculate the reaction forces R1 and R2 to the nearest whole number.
+<p style="text-align: center;" >R1 = {1:NUMERICAL:= 57:1#Good job!~*#Sorry. Try again.} N</p>
+<p style="text-align: center;" >R2 = {1:NUMERICAL:= 93:1#Good job!~*#Sorry. Try again.} N</p>
+<p style="text-align: left;">b) Calculate and draw the Shear Force Diagram (SFD) on paper and identify the following values:</p>
+<p style="text-align: left;">Shear Force just to the right of A i.e (x=0).</p>
+<p style="text-align: center;">{1:NUMERICAL:= 57:1#Good job!~*#Sorry. Try again.} N</p>
+<p style="text-align: left;">Shear Force just to the right of B i.e. (x=70).</p>
+<p style="text-align: center;">{1:NUMERICAL:=-23:1#Good job!~*#Sorry. Try again.} N</p>
+<p style="text-align: left;">Shear Force just to the right of C i.e. (x=80).</p>
+<p style="text-align: center;">{1:NUMERICAL:=-93:1#Good job!~*#Sorry. Try again.} N</p>
+<p style="text-align: left;">Shear Force just to the right of D i.e (x=L).</p>
+<p style="text-align: center;">{1:NUMERICAL:=  0:1#Good job!~*#Sorry. Try again.} N</p>
+<p style="text-align:left;">From the drop down menus below indicate how the indicated points are connected in the SFD</p>
+<p>1) A and B {1:MULTICHOICE:Either a horizontal or vertical line.~=A combination of horizontal and vertical lines.~A line with a slope.~A curve}</p>
+<p>2) B and C {1:MULTICHOICE:Either a horizontal or vertical line.~=A combination of horizontal and vertical lines.~A line with a slope.~A curve}</p>
+<p>3) C and D {1:MULTICHOICE:Either a horizontal or vertical line.~=A combination of horizontal and vertical lines.~A line with a slope.~A curve}</p>
+<p style="text-align: left;">c) Calculate and draw the Bending Moment Diagram (BMD) on paper and identify the following values:</p>
+<p style="text-align: left;">Bending moment at A.</p>
+<p style="text-align: center;">{1:NUMERICAL:=  0:1#Good job!~*#Sorry. Try again.} N.m</p>
+<p style="text-align: left;">Bending Moment at B.</p>
+<p style="text-align: center;">{1:NUMERICAL:= 40:1#Good job!~*#Sorry. Try again.} N.m</p>
+<p style="text-align: left;">Bending Moment at C.</p>
+<p style="text-align: center;">{1:NUMERICAL:= 37:1#Good job!~*#Sorry. Try again.} N.m</p>
+<p style="text-align: left;">Bending Moment at D.</p>
+<p style="text-align: center;">{1:NUMERICAL:=  0:1#Good job!~*#Sorry. Try again.} N.m</p>
+<p style="text-align:left;">From the drop down menus below indicate how the indicated points are connected in the BMD</p>
+<p>1) A and B {1:MULTICHOICE:Either a horizontal or vertical line.~A combination of horizontal and vertical lines.~=A line with a slope.~A curve}</p>
+<p>2) B and C {1:MULTICHOICE:Either a horizontal or vertical line.~A combination of horizontal and vertical lines.~=A line with a slope.~A curve}</p>
+<p>2) C and D {1:MULTICHOICE:Either a horizontal or vertical line.~A combination of horizontal and vertical lines.~=A line with a slope.~A curve}</p>]]>
+</text>
+</questiontext>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!--question 1-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_1.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=6397:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=6397:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 2-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 2</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_2.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=22432:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=22432:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 3-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 3</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_3.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 4-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 4</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_4.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=30172:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=30172:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 5-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 5</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_5.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=5153:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5153:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 6-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 6</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_6.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=39761:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=39761:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 7-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 7</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_7.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=16:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=16:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=45333:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=45333:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 8-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 8</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_8.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=58214:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=58214:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 9-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 9</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_9.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 10-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 10</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_10.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 11-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 11</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_11.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=4100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=4100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 12-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 12</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_12.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=102354:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=102354:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 13-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 13</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_13.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1886:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1886:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 14-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 14</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_14.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=73662:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=73662:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 15-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 15</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_15.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=22432:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=22432:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 16-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 16</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_16.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=125664:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=125664:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 17-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 17</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_17.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 18-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 18</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_18.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 19-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 19</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_19.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1402:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1402:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 20-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 20</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_20.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=113561:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=113561:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 21-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 21</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_21.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 5:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 5:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=491:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=491:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 22-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 22</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_22.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 23-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 23</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_23.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=73662:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=73662:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 24-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 24</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_24.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=82448:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=82448:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 25-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 25</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_25.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 26-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 26</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_26.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=11499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=11499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 27-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 27</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_27.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=5153:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5153:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 28-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 28</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_28.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 29-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 29</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_29.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 30-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 30</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_30.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=102354:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=102354:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 31-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 31</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_31.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 32-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 32</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_32.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=5153:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5153:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 33-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 33</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_33.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1886:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1886:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 34-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 34</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_34.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1886:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1886:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 35-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 35</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_35.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=82448:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=82448:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 36-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 36</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_36.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=26087:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=26087:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 37-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 37</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_37.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=26087:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=26087:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 38-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 38</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_38.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1886:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1886:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 39-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 39</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_39.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=82448:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=82448:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 40-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 40</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_40.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=34719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=34719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 41-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 41</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_41.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=7854:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=7854:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 42-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 42</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_42.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 43-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 43</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_43.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=11499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=11499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 44-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 44</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_44.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 45-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 45</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_45.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=4100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=4100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 46-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 46</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_46.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1402:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1402:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 47-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 47</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_47.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 48-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 48</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_48.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=4100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=4100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 49-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 49</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_49.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=11499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=11499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 50-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 50</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_50.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 51-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 51</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_51.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=91998:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=91998:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 52-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 52</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_52.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=113561:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=113561:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 53-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 53</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_53.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 54-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 54</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_54.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 55-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 55</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_55.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=7854:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=7854:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 56-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 56</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_56.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=91998:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=91998:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 57-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 57</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_57.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=9547:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=9547:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 58-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 58</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_58.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1402:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1402:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 59-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 59</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_59.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 60-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 60</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_60.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=11499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=11499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 61-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 61</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_61.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=4100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=4100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 62-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 62</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_62.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=11499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=11499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 63-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 63</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_63.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 64-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 64</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_64.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1886:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1886:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 65-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 65</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_65.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=113561:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=113561:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 66-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 66</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_66.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=113561:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=113561:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 67-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 67</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_67.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=26087:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=26087:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 68-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 68</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_68.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 69-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 69</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_69.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=4100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=4100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 70-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 70</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_70.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=7854:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=7854:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 71-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 71</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_71.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=73662:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=73662:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 72-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 72</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_72.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 5:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 5:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=491:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=491:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 73-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 73</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_73.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 74-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 74</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_74.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 75-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 75</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_75.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=39761:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=39761:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 76-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 76</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_76.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=16:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=16:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=51472:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=51472:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 77-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 77</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_77.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=39761:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=39761:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 78-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 78</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_78.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 79-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 79</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_79.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=22432:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=22432:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 80-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 80</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_80.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=6397:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=6397:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 81-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 81</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_81.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=58214:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=58214:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 82-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 82</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_82.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 83-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 83</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_83.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=16:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=16:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=45333:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=45333:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 84-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 84</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_84.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=2485:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 85-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 85</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_85.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=9547:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=9547:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 86-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 86</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_86.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=34719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=34719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 87-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 87</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_87.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 88-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 88</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_88.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=1018:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 89-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 89</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_89.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=102354:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=102354:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 90-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 90</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_90.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 91-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 91</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_91.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 92-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 92</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_92.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 93-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 93</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_93.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=13737:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 94-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 94</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_94.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=6397:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=6397:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 95-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 95</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_95.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 96-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 96</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_96.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=19175:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 97-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 97</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_97.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=73662:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=73662:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 98-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 98</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_98.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=17:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=65597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 99-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 99</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_99.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=34719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=34719:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 100-->
+<question type="cloze">
+<name>
+<text>Centroid: Solid Circle 100</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/Centroid/Level_1/CentroidL1_100.jpg"alt="circle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=9547:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=9547:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the circle and 
+<p>for a circle I<sub>x</sub> is equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

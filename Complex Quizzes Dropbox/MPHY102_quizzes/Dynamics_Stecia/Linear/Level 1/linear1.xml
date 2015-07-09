@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!--question 1-->
+<question type="cloze">
+<name>
+<text>Linear 1 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 57 km/h.The driver notices that the road has collapsed at a distance 15 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  8:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 2-->
+<question type="cloze">
+<name>
+<text>Linear 2 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 54 km/h.The driver notices that the road has collapsed at a distance 19 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  6:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 3-->
+<question type="cloze">
+<name>
+<text>Linear 3 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 63 km/h.The driver notices that the road has collapsed at a distance 16 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 10:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 4-->
+<question type="cloze">
+<name>
+<text>Linear 4 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 71 km/h.The driver notices that the road has collapsed at a distance 12 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 16:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 5-->
+<question type="cloze">
+<name>
+<text>Linear 5 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 75 km/h.The driver notices that the road has collapsed at a distance 24 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  9:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 6-->
+<question type="cloze">
+<name>
+<text>Linear 6 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 62 km/h.The driver notices that the road has collapsed at a distance 26 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  6:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 7-->
+<question type="cloze">
+<name>
+<text>Linear 7 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 53 km/h.The driver notices that the road has collapsed at a distance 18 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  6:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 8-->
+<question type="cloze">
+<name>
+<text>Linear 8 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 50 km/h.The driver notices that the road has collapsed at a distance 14 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  7:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 9-->
+<question type="cloze">
+<name>
+<text>Linear 9 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 50 km/h.The driver notices that the road has collapsed at a distance 13 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  7:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 10-->
+<question type="cloze">
+<name>
+<text>Linear 10 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 57 km/h.The driver notices that the road has collapsed at a distance 15 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  8:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 11-->
+<question type="cloze">
+<name>
+<text>Linear 11 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 58 km/h.The driver notices that the road has collapsed at a distance 12 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 11:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 12-->
+<question type="cloze">
+<name>
+<text>Linear 12 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 80 km/h.The driver notices that the road has collapsed at a distance 28 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  9:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 13-->
+<question type="cloze">
+<name>
+<text>Linear 13 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 97 km/h.The driver notices that the road has collapsed at a distance 14 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 26:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 14-->
+<question type="cloze">
+<name>
+<text>Linear 14 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 74 km/h.The driver notices that the road has collapsed at a distance 17 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 12:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 15-->
+<question type="cloze">
+<name>
+<text>Linear 15 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 76 km/h.The driver notices that the road has collapsed at a distance 15 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 15:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 16-->
+<question type="cloze">
+<name>
+<text>Linear 16 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 53 km/h.The driver notices that the road has collapsed at a distance 19 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  6:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 17-->
+<question type="cloze">
+<name>
+<text>Linear 17 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 58 km/h.The driver notices that the road has collapsed at a distance 10 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 13:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 18-->
+<question type="cloze">
+<name>
+<text>Linear 18 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 98 km/h.The driver notices that the road has collapsed at a distance 19 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 20:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 19-->
+<question type="cloze">
+<name>
+<text>Linear 19 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 99 km/h.The driver notices that the road has collapsed at a distance 26 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 15:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 20-->
+<question type="cloze">
+<name>
+<text>Linear 20 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 50 km/h.The driver notices that the road has collapsed at a distance 24 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  4:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 21-->
+<question type="cloze">
+<name>
+<text>Linear 21 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 86 km/h.The driver notices that the road has collapsed at a distance 23 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 12:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 22-->
+<question type="cloze">
+<name>
+<text>Linear 22 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 78 km/h.The driver notices that the road has collapsed at a distance 14 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 17:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 23-->
+<question type="cloze">
+<name>
+<text>Linear 23 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 89 km/h.The driver notices that the road has collapsed at a distance 14 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 22:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 24-->
+<question type="cloze">
+<name>
+<text>Linear 24 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 68 km/h.The driver notices that the road has collapsed at a distance 28 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:=  6:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 25-->
+<question type="cloze">
+<name>
+<text>Linear 25 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 93 km/h.The driver notices that the road has collapsed at a distance 18 m ahead and applies brakes. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the deceleration required to stop the truck before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Deceleration = {1:NUMERICAL:= 19:1#Good job!~*#Sorry. Try again.} ms<sup>-2</sup></p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 26-->
+<question type="cloze">
+<name>
+<text>Linear 26 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 22 m ahead of him. He immediately applies brakes with a deceleration of   8 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 66:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 27-->
+<question type="cloze">
+<name>
+<text>Linear 27 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 29 m ahead of him. He immediately applies brakes with a deceleration of  12 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 96:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 28-->
+<question type="cloze">
+<name>
+<text>Linear 28 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 16 m ahead of him. He immediately applies brakes with a deceleration of  15 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 80:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 29-->
+<question type="cloze">
+<name>
+<text>Linear 29 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 19 m ahead of him. He immediately applies brakes with a deceleration of  18 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 93:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 30-->
+<question type="cloze">
+<name>
+<text>Linear 30 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 10 m ahead of him. He immediately applies brakes with a deceleration of  36 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 96:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 31-->
+<question type="cloze">
+<name>
+<text>Linear 31 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 25 m ahead of him. He immediately applies brakes with a deceleration of   9 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 77:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 32-->
+<question type="cloze">
+<name>
+<text>Linear 32 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 17 m ahead of him. He immediately applies brakes with a deceleration of   8 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 59:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 33-->
+<question type="cloze">
+<name>
+<text>Linear 33 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 16 m ahead of him. He immediately applies brakes with a deceleration of   8 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 59:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 34-->
+<question type="cloze">
+<name>
+<text>Linear 34 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 21 m ahead of him. He immediately applies brakes with a deceleration of   9 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 70:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 35-->
+<question type="cloze">
+<name>
+<text>Linear 35 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 21 m ahead of him. He immediately applies brakes with a deceleration of   5 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 52:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 36-->
+<question type="cloze">
+<name>
+<text>Linear 36 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 15 m ahead of him. He immediately applies brakes with a deceleration of  11 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 64:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 37-->
+<question type="cloze">
+<name>
+<text>Linear 37 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 13 m ahead of him. He immediately applies brakes with a deceleration of  11 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 62:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 38-->
+<question type="cloze">
+<name>
+<text>Linear 38 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 29 m ahead of him. He immediately applies brakes with a deceleration of  13 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 98:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 39-->
+<question type="cloze">
+<name>
+<text>Linear 39 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 25 m ahead of him. He immediately applies brakes with a deceleration of  13 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 91:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 40-->
+<question type="cloze">
+<name>
+<text>Linear 40 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 17 m ahead of him. He immediately applies brakes with a deceleration of   8 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 58:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 41-->
+<question type="cloze">
+<name>
+<text>Linear 41 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 10 m ahead of him. He immediately applies brakes with a deceleration of  13 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 59:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 42-->
+<question type="cloze">
+<name>
+<text>Linear 42 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 24 m ahead of him. He immediately applies brakes with a deceleration of   7 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 66:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 43-->
+<question type="cloze">
+<name>
+<text>Linear 43 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 21 m ahead of him. He immediately applies brakes with a deceleration of  12 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 81:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 44-->
+<question type="cloze">
+<name>
+<text>Linear 44 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 16 m ahead of him. He immediately applies brakes with a deceleration of  13 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 72:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 45-->
+<question type="cloze">
+<name>
+<text>Linear 45 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 25 m ahead of him. He immediately applies brakes with a deceleration of   9 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 75:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 46-->
+<question type="cloze">
+<name>
+<text>Linear 46 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 22 m ahead of him. He immediately applies brakes with a deceleration of  14 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 88:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 47-->
+<question type="cloze">
+<name>
+<text>Linear 47 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 23 m ahead of him. He immediately applies brakes with a deceleration of  13 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 88:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 48-->
+<question type="cloze">
+<name>
+<text>Linear 48 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 20 m ahead of him. He immediately applies brakes with a deceleration of   6 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 56:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 49-->
+<question type="cloze">
+<name>
+<text>Linear 49 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">The driver of a truck notices that the road has collapesed 11 m ahead of him. He immediately applies brakes with a deceleration of  16 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the maximum velocity, u (in km/h), at which the truck must be moving for it to stop before the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Velocity = {1:NUMERICAL:= 67:1#Good job!~*#Sorry. Try again.} km/h</p>
+How would your answer change if the deceleration of the brakes were half as large?</p>
+<p>{1:MULTICHOICE:Remain the same.~Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~=Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 50-->
+<question type="cloze">
+<name>
+<text>Linear 50 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 57 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   9 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 14:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 51-->
+<question type="cloze">
+<name>
+<text>Linear 51 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 84 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  14 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 19:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 52-->
+<question type="cloze">
+<name>
+<text>Linear 52 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 85 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  19 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 15:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 53-->
+<question type="cloze">
+<name>
+<text>Linear 53 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 50 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   5 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 21:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 54-->
+<question type="cloze">
+<name>
+<text>Linear 54 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 64 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   5 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 29:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 55-->
+<question type="cloze">
+<name>
+<text>Linear 55 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 96 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  20 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 18:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 56-->
+<question type="cloze">
+<name>
+<text>Linear 56 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 51 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   4 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 24:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 57-->
+<question type="cloze">
+<name>
+<text>Linear 57 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 92 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  11 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 30:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 58-->
+<question type="cloze">
+<name>
+<text>Linear 58 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 52 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   5 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 19:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 59-->
+<question type="cloze">
+<name>
+<text>Linear 59 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 79 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  10 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 24:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 60-->
+<question type="cloze">
+<name>
+<text>Linear 60 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 86 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  12 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 23:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 61-->
+<question type="cloze">
+<name>
+<text>Linear 61 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 87 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  17 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 17:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 62-->
+<question type="cloze">
+<name>
+<text>Linear 62 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 79 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  20 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 12:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 63-->
+<question type="cloze">
+<name>
+<text>Linear 63 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 52 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   3 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 30:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 64-->
+<question type="cloze">
+<name>
+<text>Linear 64 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 64 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   7 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 22:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 65-->
+<question type="cloze">
+<name>
+<text>Linear 65 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 99 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  29 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 13:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 66-->
+<question type="cloze">
+<name>
+<text>Linear 66 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 59 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   8 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 17:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 67-->
+<question type="cloze">
+<name>
+<text>Linear 67 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 97 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  20 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 18:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 68-->
+<question type="cloze">
+<name>
+<text>Linear 68 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 63 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  12 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 13:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 69-->
+<question type="cloze">
+<name>
+<text>Linear 69 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 70 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  11 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 17:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 70-->
+<question type="cloze">
+<name>
+<text>Linear 70 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 56 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   6 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 19:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 71-->
+<question type="cloze">
+<name>
+<text>Linear 71 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 54 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   5 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 22:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 72-->
+<question type="cloze">
+<name>
+<text>Linear 72 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 50 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   4 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 22:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 73-->
+<question type="cloze">
+<name>
+<text>Linear 73 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 90 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  22 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 14:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 74-->
+<question type="cloze">
+<name>
+<text>Linear 74 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 72 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of  10 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 21:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 75-->
+<question type="cloze">
+<name>
+<text>Linear 75 Level 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/mechanics/truck1.jpg"alt="truck" width="30 height="30"/></p>
+<p style="text-align: left;">A truck is moving at 53 km/h.The driver notices that the road has collapsed ahead of him. He immediately applies brakes with a deceleration of   5 ms<sup>-2</sup>. Assuming that the driver's thinking time is negligible and that the deceleration produced by the brakes is uniform, find the minimum distance,s, required to stop before reaching the collapsed road.</p>(Give your answer to the nearest whole number.)</p>
+<p style="text-align: center;" >Distance = {1:NUMERICAL:= 20:1#Good job!~*#Sorry. Try again.} m</p>
+How would your answer change if the truck was moving twice as fast?</p>
+<p>{1:MULTICHOICE:Remain the same.~=Increase by a factor of 4.~Increase by a factor of 2.~Decrease by a factor of 4.~Decrease by a factor of 2.}</p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>To solve this problem, you can use the one-dimensional equation of motion for constant acceleration systems.</p>
+<p>v<sup>2</sup>=u<sup>2</sup>+2as</p>
+<p>Where v is the final velocity, u is the initial velocity, a is the acceleration and s is the displacement.</p>
+<p>In this case v=0. Also convert the initial velocity, u, from km/hr to ms<sup>-1</sup> before making calculations.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

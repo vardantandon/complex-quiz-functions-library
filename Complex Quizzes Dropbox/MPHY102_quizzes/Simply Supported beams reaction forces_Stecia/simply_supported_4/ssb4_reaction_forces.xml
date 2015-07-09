@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><!-- question 1 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot1.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 65 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 92.77:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 87.23:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 2 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot2.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 186 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=148.47:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 61.53:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 3 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot3.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 29 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 77.24:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 92.76:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 4 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot4.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 22 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 74.77:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 35.23:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 5 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot5.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 128 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 59.18:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 30.82:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 6 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot6.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 61 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=111.39:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 58.61:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 7 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot7.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 100 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=142.35:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=127.65:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 8 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot8.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 35 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=121.29:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 48.71:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 9 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot9.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 67 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 87.54:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 32.46:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 10 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot10.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 174 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 28.74:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 31.26:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 11 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot11.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 42 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=196.67:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 93.33:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 12 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot12.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 108 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 41.20:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 98.80:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 13 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot13.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 90 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=211.67:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 88.33:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 14 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot14.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 124 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 46.90:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 63.10:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 15 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot15.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 50 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 74.60:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 65.40:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 16 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot16.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 154 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=207.53:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=112.47:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 17 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot17.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 34 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 58.97:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 61.03:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 18 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot18.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 112 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 69.87:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=120.13:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 19 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot19.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 116 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 89.01:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=100.99:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 20 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot20.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 57 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 37.98:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 32.02:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 21 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot21.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 50 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 67.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 33.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 22 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot22.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 183 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 87.49:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 72.51:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 23 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot23.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 67 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 57.46:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 42.54:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 24 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot24.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 96 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 62.08:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 87.92:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 25 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot25.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 152 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=147.83:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 92.17:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 26 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot26.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 114 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 65.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 55.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 27 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot27.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 198 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 91.89:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 58.11:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 28 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot28.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 80 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=101.75:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 78.25:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 29 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot29.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 161 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 79.60:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 60.40:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 30 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot30.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 25 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 92.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=108.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 31 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot31.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 175 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=100.29:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 49.71:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 32 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot32.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 108 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=126.67:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 53.33:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 33 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot33.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 143 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=183.18:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 76.82:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 34 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot34.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 150 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=214.33:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=205.67:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 35 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot35.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 102 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 48.97:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 41.03:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 36 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot36.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 170 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 88.74:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 81.26:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 37 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot37.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 133 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 66.54:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 73.46:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 38 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot38.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 87 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=117.36:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 32.64:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 39 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot39.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 153 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=123.14:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=196.86:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 40 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot40.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 74 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 76.82:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 53.18:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 41 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot41.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 43 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=145.93:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=104.07:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 42 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot42.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 54 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=121.76:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=108.24:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 43 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot43.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 88 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 91.48:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 38.52:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 44 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot44.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 89 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 81.18:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 88.82:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 45 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot45.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 197 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=150.66:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=129.34:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 46 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot46.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 168 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=175.71:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 94.29:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 47 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot47.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 52 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=130.10:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 89.90:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 48 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot48.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 135 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=171.19:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 88.81:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 49 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot49.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 168 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=101.58:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=108.42:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 50 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot50.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 160 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 79.84:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 40.16:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 51 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot51.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 115 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=105.43:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=144.57:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 52 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot52.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 63 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 25.08:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 34.92:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 53 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot53.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 60 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 77.92:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 42.08:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 54 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot54.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 128 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 77.38:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 62.62:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 55 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot55.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 159 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=128.84:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=101.16:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 56 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot56.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 105 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=116.19:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 43.81:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 57 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot57.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 186 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=120.59:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 79.41:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 58 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot58.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 143 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=110.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=100.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 59 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot59.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 191 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=178.06:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 81.94:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 60 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot60.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 103 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 88.01:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=111.99:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 61 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot61.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 170 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=191.59:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 78.41:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 62 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot62.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 77 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 96.23:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 93.77:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 63 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot63.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 137 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 33.28:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 26.72:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 64 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot64.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 39 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=146.92:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 73.08:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 65 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot65.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 159 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 76.86:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 53.14:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 66 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot66.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 115 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=112.48:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=117.52:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 67 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot67.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 114 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 53.68:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 76.32:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 68 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot68.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 63 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 78.33:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 91.67:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 69 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot69.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 147 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 55.99:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 24.01:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 70 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot70.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 168 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=174.05:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=205.95:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 71 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot71.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 156 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 64.29:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 95.71:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 72 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot72.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 99 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=123.48:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=106.52:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 73 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot73.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 180 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=204.19:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=145.81:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 74 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot74.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 162 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 83.27:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 56.73:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 75 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot75.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 109 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=156.10:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 63.90:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 76 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot76.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 188 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=108.09:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 51.91:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 77 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot77.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 176 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=158.92:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=101.08:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 78 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot78.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 110 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 67.77:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 62.23:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 79 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot79.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 140 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=151.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=139.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 80 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot80.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 159 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=116.29:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=123.71:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 81 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot81.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 107 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 36.59:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 73.41:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 82 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot82.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 85 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 49.71:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 20.29:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 83 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot83.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 54 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=121.76:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 68.24:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 84 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot84.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 116 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=130.17:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 59.83:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 85 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot85.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 57 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=115.09:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 54.91:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 86 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot86.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 39 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 55.64:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 94.36:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 87 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot87.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 151 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=138.71:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=141.29:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 88 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot88.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 162 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 77.44:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 82.56:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 89 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot89.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 74 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 53.11:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 86.89:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 90 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot90.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 121 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 61.16:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 68.84:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 91 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot91.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 79 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=105.25:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=154.75:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 92 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot92.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 72 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 22.36:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 27.64:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 93 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot93.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 85 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 97.65:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 82.35:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 94 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot94.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 142 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=175.99:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=124.01:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 95 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot95.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 53 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=117.55:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 42.45:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 96 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot96.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 63 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 34.37:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 15.63:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 97 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot97.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 75 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 42.53:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 17.47:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 98 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot98.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 73 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 21.92:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 18.08:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 99 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot99.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 160 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 88.19:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=111.81:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 100 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 4</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported4/4_beamplot100.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 155 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are 2 loads distributed as shown.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=110.23:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 79.77:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p><p>Recall that when dealing with distributed loads, you can assume that the total force is acting at the midpoint of the load.]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

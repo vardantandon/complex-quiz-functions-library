@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!--question 1-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 1</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_1.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=139100:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=33148:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 2-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 2</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_2.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=132472:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=77096:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 3-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 3</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_3.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=149035:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=33920:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 4-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 4</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_4.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=126310:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=36336:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 5-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 5</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_5.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=67525:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=12617:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 6-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 6</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_6.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=74659:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=9139:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 7-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 7</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_7.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=99374:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=10054:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 8-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 8</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_8.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=54869:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=6769:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 9-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 9</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_9.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=80176:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=21124:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 10-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 10</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_10.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=132472:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=77096:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 11-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 11</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_11.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=64257:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=7135:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 12-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 12</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_12.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=212805:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=98845:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 13-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 13</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_13.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=59315:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5612:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 14-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 14</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_14.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=75959:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=17962:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 15-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 15</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_15.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=86142:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=11522:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 16-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 16</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_16.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=137778:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=47168:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 17-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 17</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_17.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=50649:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5324:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 18-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 18</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_18.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=73150:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=12958:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 19-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 19</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_19.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=98834:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=25969:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 20-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 20</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_20.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=53584:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=9834:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 21-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 21</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_21.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 5:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=66254:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=3581:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 22-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 22</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_22.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=23:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=189769:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=58519:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 23-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 23</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_23.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=117288:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=35448:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 24-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 24</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_24.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=80176:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=21124:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 25-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 25</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_25.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=23:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=159431:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=34691:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 26-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 26</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_26.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=74659:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=9139:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 27-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 27</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_27.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=122613:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=40503:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 28-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 28</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_28.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=111112:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=20392:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 29-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 29</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_29.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=148142:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=87595:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 30-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 30</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_30.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=99924:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=63909:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 31-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 31</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_31.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=23:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=197350:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=65822:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 32-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 32</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_32.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=58310:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=10115:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 33-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 33</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_33.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=109680:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=43712:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 34-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 34</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_34.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=97125:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=46800:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 35-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 35</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_35.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=89370:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=36447:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 36-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 36</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_36.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=138579:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=58499:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 37-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 37</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_37.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=172754:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=76714:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 38-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 38</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_38.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=120661:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=17998:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 39-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 39</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_39.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=86429:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=9597:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 40-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 40</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_40.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=89248:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=45498:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 41-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 41</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_41.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=106636:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=26636:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 42-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 42</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_42.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=156126:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=38998:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 43-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 43</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_43.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=160698:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=74885:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 44-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 44</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_44.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=145718:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=38110:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 45-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 45</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_45.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=63307:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=10397:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 46-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 46</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_46.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 5:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=70985:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=3665:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 47-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 47</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_47.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=69328:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=7318:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 48-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 48</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_48.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=23:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=182186:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=51776:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 49-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 49</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_49.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=101308:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=22838:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 50-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 50</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_50.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=85686:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=40256:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 51-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 51</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_51.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=39299:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=3879:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 52-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 52</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_52.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=63996:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5756:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 53-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 53</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_53.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=178789:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=70429:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 54-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 54</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_54.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=80257:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=7684:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 55-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 55</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_55.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=123449:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=27969:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 56-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 56</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_56.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=23:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=174603:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=45573:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 57-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 57</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_57.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=125861:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=24553:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 58-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 58</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_58.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=133366:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=63868:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 59-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 59</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_59.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=42871:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5036:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 60-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 60</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_60.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=69964:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=17476:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 61-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 61</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_61.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=184478:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=64358:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 62-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 62</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_62.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=64292:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=16990:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 63-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 63</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_63.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=95980:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=19420:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 64-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 64</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_64.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=141948:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=42531:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 65-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 65</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_65.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=10:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=86856:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=21695:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 66-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 66</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_66.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=107032:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=78595:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 67-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 67</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_67.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=46652:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5180:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 68-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 68</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_68.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=69198:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=8911:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 69-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 69</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_69.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=90651:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=16361:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 70-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 70</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_70.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=23:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=220083:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=91323:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 71-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 71</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_71.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=13:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=89248:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=45498:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 72-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 72</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_72.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=75959:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=17962:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 73-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 73</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_73.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=166423:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=83193:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 74-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 74</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_74.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=148142:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=87595:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 75-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 75</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_75.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=109680:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=43712:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 76-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 76</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_76.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=129617:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=32376:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 77-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 77</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_77.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=141948:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=42531:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 78-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 78</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_78.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=46652:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5180:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 79-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 79</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_79.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=23:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=98713:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=8233:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 80-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 80</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_80.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=74994:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=26974:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 81-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 81</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_81.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=12:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=170304:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=50624:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 82-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 82</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_82.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=71742:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=15132:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 83-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 83</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_83.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=159845:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=89845:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 84-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 84</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_84.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=104874:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=58947:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 85-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 85</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_85.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=104942:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=17179:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 86-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 86</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_86.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=75959:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=17962:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 87-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 87</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_87.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=63996:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5756:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 88-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 88</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_88.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=80400:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=9368:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 89-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 89</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_89.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=11:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=108707:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=34561:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 90-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 90</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_90.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=19:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=67525:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=12617:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 91-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 91</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_91.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=86142:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=11522:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 92-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 92</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_92.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=15:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=212805:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=98845:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 93-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 93</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_93.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 9:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=112619:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=17589:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 94-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 94</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_94.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=68917:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=5900:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 95-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 95</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_95.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:=14:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=198645:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=80373:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 96-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 96</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_96.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=22:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=99374:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=12084:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 97-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 97</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_97.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 5:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=21:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=57432:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=3415:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 98-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 98</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_98.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 8:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=79079:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=13299:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 99-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 99</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_99.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 7:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=18:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=50539:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=6586:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+<!--question 100-->
+<question type="cloze">
+<name>
+<text>Centroid: Rectangle with Circular Hollow 100</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[<p><img style="width: 625px; heght: 500px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~rmapdpg/MoodleQuiz/WarrenTruss/Level_2/WarrenTrussL2_100.jpg"alt="rectangle" width="30 height="30"/></p>
+<p style="text-align: left;">Determine the centroid of the above section</p>
+<p style="text-align: center;" >x = {1:NUMERICAL:= 6:1#Good job!~*#Sorry. Try again.} mm</p>
+<p style="text-align: center;" >y = {1:NUMERICAL:=20:1#Good job!~*#Sorry. Try again.} mm</p>
+and calculate the second moment of area with respect to both x and y axis.</p>(Give your answer as a number, i.e. not in standard form)</p>
+<p style="text-align: center;" >I<sub>x</sub> = {1:NUMERICAL:=54373:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>
+<p style="text-align: center;" >I<sub>y</sub> = {1:NUMERICAL:=4323:1#Good job!~*#Sorry. Try again.} mm<sup>4</sup></p>]]>
+</text>
+</questiontext>
+<generalfeedback format="html">
+<text>
+<![CDATA[<p>The centroid is the central point of the whole section and 
+<p>for the above section I<sub>x</sub> is not equal to I<sub>y</sub>.</p>]]>
+</text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

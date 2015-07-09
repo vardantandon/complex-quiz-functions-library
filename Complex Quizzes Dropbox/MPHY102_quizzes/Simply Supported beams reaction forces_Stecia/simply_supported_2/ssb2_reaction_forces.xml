@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz><!-- question 1 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot1.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 150 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 9 N, acting at distances 66 cm and 78 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.48:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  9.52:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 2 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot2.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 35 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 10 N, acting at distances 8 cm and 18 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.80:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  7.20:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 3 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot3.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 117 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 13 N, acting at distances 21 cm and 96 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.90:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.10:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 4 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot4.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 196 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 12 N, acting at distances 98 cm and 136 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  9.67:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 14.33:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 5 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot5.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 79 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 8 N, acting at distances 25 cm and 66 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.84:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.16:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 6 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot6.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 31 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 11 N, acting at distances 14 cm and 23 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.87:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 13.13:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 7 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot7.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 168 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 15 N and 9 N, acting at distances 80 cm and 100 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.50:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.50:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 8 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot8.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 182 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 12 N, acting at distances 57 cm and 147 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.55:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 13.45:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 9 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot9.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 116 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 11 N, acting at distances 34 cm and 101 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  7.78:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.22:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 10 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot10.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 132 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 10 N, acting at distances 53 cm and 92 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.81:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.19:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 11 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot11.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 120 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 13 N, acting at distances 40 cm and 79 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.44:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.56:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 12 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot12.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 171 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 11 N, acting at distances 44 cm and 111 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.51:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.49:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 13 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot13.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 160 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 13 N, acting at distances 46 cm and 137 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.13:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 14.87:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 14 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot14.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 161 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 11 N, acting at distances 26 cm and 117 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.91:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.09:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 15 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot15.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 103 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 14 N, acting at distances 22 cm and 52 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.22:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  8.78:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 16 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot16.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 176 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 12 N, acting at distances 66 cm and 102 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.05:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  9.95:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 17 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot17.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 123 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 12 N, acting at distances 47 cm and 64 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.70:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  9.30:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 18 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot18.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 30 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 11 N, acting at distances 4 cm and 24 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 19 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot19.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 131 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 8 N, acting at distances 60 cm and 111 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  7.73:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.27:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 20 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot20.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 39 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 12 N, acting at distances 7 cm and 20 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 15.69:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  8.31:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 21 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot21.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 158 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 14 N and 15 N, acting at distances 75 cm and 109 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.01:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 16.99:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 22 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot22.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 69 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 12 N, acting at distances 22 cm and 54 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.06:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.94:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 23 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot23.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 35 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 9 N, acting at distances 11 cm and 31 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  9.94:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.06:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 24 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot24.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 126 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 13 N, acting at distances 61 cm and 84 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.01:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 13.99:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 25 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot25.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 171 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 13 N, acting at distances 57 cm and 109 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.71:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.29:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 26 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot26.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 63 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 11 N, acting at distances 29 cm and 34 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.54:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.46:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 27 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot27.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 100 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 14 N, acting at distances 28 cm and 65 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.10:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.90:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 28 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot28.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 90 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 10 N, acting at distances 15 cm and 48 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  7.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 29 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot29.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 97 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 11 N, acting at distances 23 cm and 53 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.62:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  8.38:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 30 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot30.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 109 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 14 N, acting at distances 24 cm and 58 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 16.69:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.31:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 31 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot31.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 91 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 8 N, acting at distances 18 cm and 52 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  9.85:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  6.15:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 32 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot32.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 45 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 9 N, acting at distances 9 cm and 33 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.40:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  8.60:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 33 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot33.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 183 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 15 N and 11 N, acting at distances 38 cm and 117 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 15.85:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.15:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 34 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot34.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 114 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 11 N, acting at distances 17 cm and 64 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.33:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  7.67:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 35 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot35.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 24 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 15 N and 15 N, acting at distances 7 cm and 19 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.75:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 16.25:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 36 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot36.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 21 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 13 N, acting at distances 9 cm and 15 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.14:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 14.86:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 37 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot37.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 59 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 14 N and 10 N, acting at distances 12 cm and 50 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.68:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.32:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 38 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot38.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 175 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 12 N, acting at distances 43 cm and 148 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.15:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.85:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 39 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot39.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 184 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 14 N, acting at distances 46 cm and 122 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.72:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.28:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 40 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot40.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 183 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 13 N, acting at distances 60 cm and 104 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.99:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.01:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 41 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot41.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 80 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 11 N, acting at distances 19 cm and 57 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.03:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  9.97:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 42 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot42.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 28 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 9 N, acting at distances 7 cm and 16 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.86:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  8.14:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 43 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot43.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 47 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 15 N and 14 N, acting at distances 23 cm and 37 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.64:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 18.36:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 44 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot44.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 51 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 8 N, acting at distances 9 cm and 32 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.22:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  6.78:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 45 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot45.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 146 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 11 N, acting at distances 48 cm and 89 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.02:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.98:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 46 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot46.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 110 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 14 N and 12 N, acting at distances 46 cm and 86 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.76:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 15.24:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 47 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot47.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 136 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 10 N, acting at distances 43 cm and 72 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.18:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  7.82:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 48 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot48.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 46 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 11 N, acting at distances 18 cm and 35 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.11:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.89:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 49 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot49.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 66 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 10 N, acting at distances 21 cm and 57 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  6.82:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.18:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 50 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot50.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 184 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 13 N, acting at distances 24 cm and 150 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.97:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.03:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 51 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot51.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 195 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 12 N, acting at distances 57 cm and 148 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.55:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.45:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 52 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot52.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 150 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 10 N, acting at distances 60 cm and 108 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.60:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.40:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 53 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot53.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 41 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 10 N, acting at distances 21 cm and 30 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  6.59:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.41:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 54 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot54.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 194 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 10 N, acting at distances 38 cm and 166 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.68:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.32:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 55 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot55.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 90 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 11 N, acting at distances 16 cm and 58 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.13:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  8.87:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 56 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot56.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 43 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 12 N, acting at distances 6 cm and 22 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 15.33:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  7.67:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 57 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot57.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 123 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 14 N and 11 N, acting at distances 26 cm and 88 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 14.17:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.83:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 58 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot58.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 31 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 9 N, acting at distances 12 cm and 26 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.19:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.81:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 59 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot59.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 195 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 14 N and 10 N, acting at distances 61 cm and 153 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.77:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.23:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 60 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot60.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 62 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 15 N and 12 N, acting at distances 22 cm and 35 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 14.90:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.10:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 61 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot61.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 36 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 15 N, acting at distances 17 cm and 28 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.61:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 16.39:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 62 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot62.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 151 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 14 N, acting at distances 52 cm and 99 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.72:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.28:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 63 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot63.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 198 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 12 N, acting at distances 49 cm and 103 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.78:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  8.22:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 64 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot64.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 151 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 14 N, acting at distances 49 cm and 124 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.61:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 15.39:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 65 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot65.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 162 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 14 N, acting at distances 48 cm and 87 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.52:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.48:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 66 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot66.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 39 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 15 N, acting at distances 13 cm and 30 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.13:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 14.87:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 67 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot67.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 76 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 15 N, acting at distances 34 cm and 57 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  9.28:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 15.72:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 68 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot68.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 66 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 8 N and 12 N, acting at distances 29 cm and 57 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  6.12:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 13.88:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 69 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot69.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 31 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 14 N, acting at distances 7 cm and 18 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 15.16:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.84:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 70 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot70.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 100 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 13 N, acting at distances 44 cm and 58 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.62:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.38:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 71 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot71.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 77 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 12 N, acting at distances 30 cm and 43 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.79:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.21:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 72 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot72.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 46 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 12 N, acting at distances 22 cm and 23 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.74:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.26:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 73 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot73.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 29 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 14 N and 11 N, acting at distances 9 cm and 23 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.93:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 13.07:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 74 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot74.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 85 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 14 N, acting at distances 34 cm and 53 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.47:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 13.53:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 75 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot75.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 137 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 15 N and 12 N, acting at distances 21 cm and 90 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 16.82:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.18:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 76 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot76.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 75 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 15 N, acting at distances 31 cm and 43 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.27:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.73:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 77 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot77.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 161 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 14 N, acting at distances 81 cm and 106 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  9.25:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 13.75:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 78 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot78.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 151 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 10 N, acting at distances 65 cm and 80 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.97:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.03:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 79 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot79.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 126 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 15 N and 11 N, acting at distances 25 cm and 98 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 14.47:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.53:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 80 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot80.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 27 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 15 N and 12 N, acting at distances 12 cm and 16 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.22:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 13.78:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 81 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot81.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 110 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 14 N, acting at distances 55 cm and 95 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  7.91:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 18.09:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 82 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot82.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 142 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 11 N, acting at distances 68 cm and 83 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.30:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.70:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 83 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot83.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 91 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 14 N, acting at distances 31 cm and 80 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.26:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 16.74:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 84 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot84.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 194 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 8 N, acting at distances 95 cm and 100 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 85 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot85.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 75 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 15 N, acting at distances 24 cm and 53 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.56:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 14.44:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 86 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot86.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 98 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 8 N, acting at distances 39 cm and 79 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.78:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 11.22:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 87 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot87.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 45 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 10 N, acting at distances 10 cm and 34 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.00:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 88 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot88.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 50 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 9 N, acting at distances 9 cm and 31 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.62:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  7.38:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 89 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot89.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 179 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 9 N, acting at distances 49 cm and 155 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  9.20:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 10.80:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 90 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot90.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 93 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 14 N and 11 N, acting at distances 34 cm and 77 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 10.77:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 14.23:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 91 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot91.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 162 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 15 N, acting at distances 70 cm and 107 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.34:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 14.66:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 92 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot92.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 80 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 13 N, acting at distances 37 cm and 51 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.16:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 13.84:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 93 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot93.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 153 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 15 N and 12 N, acting at distances 51 cm and 95 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 14.55:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 12.45:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 94 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot94.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 32 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 11 N, acting at distances 5 cm and 16 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 13.09:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  6.91:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 95 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot95.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 185 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 13 N and 8 N, acting at distances 23 cm and 107 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 14.76:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  6.24:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 96 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot96.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 102 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 9 N and 13 N, acting at distances 13 cm and 64 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 12.70:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  9.30:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 97 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot97.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 161 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 8 N, acting at distances 47 cm and 84 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.61:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  7.39:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 98 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot98.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 36 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 12 N and 14 N, acting at distances 8 cm and 30 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.67:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 14.33:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 99 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot99.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 194 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 11 N and 9 N, acting at distances 40 cm and 136 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:= 11.42:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:=  8.58:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question><!-- question 100 -->
+<question type="cloze">
+<name>
+<text>Simply supported beams. Finding reaction forces. Level 2</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="width: 626px; height: 495px; margin-right: auto; margin-left: auto; display: block;"src="http://www.ucl.ac.uk/~wmapsfl/moodle/simplysupported2/2_beamplot100.png" alt="Beamplot" width="28" height="30"/></p>
+ <p style="text-align: left;">A simply supported beam of length 157 cm is shown in the figure above. There are two reaction forces, R1 and R2, one at either end of the beam. There are two external force of 10 N and 13 N, acting at distances 47 cm and 133 cm respectively from A.</p>
+<p style="text-align: left;">By resolving forces and taking moments about A, determine the magnitude of reaction forces, R1 and R2.</p>
+<p style="text-align: left;">Write your answer correct to 2 d.p.</p>
+ <p style="text-align: center;">R1 = {1:NUMERICAL:=  8.99:0.01#Good job!~%0%*#Sorry. Try again.} N </p>
+ <p style="text-align: center;">R2 = {1:NUMERICAL:= 14.01:0.01#Good job!~%0%*#Sorry. Try again.} N </p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>Remember that when resolving forces, the sum of the upward forces must be equal to the sum of the downward forces.</p><p>For a system in equilibrium, the sum of the clockwise moments must be equal to the sum of the anticlockwise moments.</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

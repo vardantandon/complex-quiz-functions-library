@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!--question: 1 -->
+<question type="cloze">
+<name>
+<text>I-beam 1 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_1.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.4#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.2#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=382737:3827#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=159491:1595#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 2 -->
+<question type="cloze">
+<name>
+<text>I-beam 2 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_2.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  15.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  27.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=390821:3908#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=62912:629#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 3 -->
+<question type="cloze">
+<name>
+<text>I-beam 3 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_3.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  14.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  23.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=312883:3129#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=59192:592#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 4 -->
+<question type="cloze">
+<name>
+<text>I-beam 4 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_4.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  21.0#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=455700:4557#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=228977:2290#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 5 -->
+<question type="cloze">
+<name>
+<text>I-beam 5 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_5.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  30.1#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=488753:4888#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=95205:952#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 6 -->
+<question type="cloze">
+<name>
+<text>I-beam 6 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_6.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  22.9#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=292404:2924#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=221879:2219#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 7 -->
+<question type="cloze">
+<name>
+<text>I-beam 7 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_7.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  19.9#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=228449:2284#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=134941:1349#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 8 -->
+<question type="cloze">
+<name>
+<text>I-beam 8 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_8.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  21.6#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.3#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=481794:4818#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=233792:2338#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 9 -->
+<question type="cloze">
+<name>
+<text>I-beam 9 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_9.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.0#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=350555:3506#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=95600:956#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 10 -->
+<question type="cloze">
+<name>
+<text>I-beam 10 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_10.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.0#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=330486:3305#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=170717:1707#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 11 -->
+<question type="cloze">
+<name>
+<text>I-beam 11 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_11.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.9#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  19.4#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=273187:2732#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=110071:1101#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 12 -->
+<question type="cloze">
+<name>
+<text>I-beam 12 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_12.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  23.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=441696:4417#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=172998:1730#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 13 -->
+<question type="cloze">
+<name>
+<text>I-beam 13 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_13.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  22.6#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  25.8#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=476294:4763#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=247172:2472#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 14 -->
+<question type="cloze">
+<name>
+<text>I-beam 14 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_14.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.6#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=275708:2757#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=72908:729#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 15 -->
+<question type="cloze">
+<name>
+<text>I-beam 15 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_15.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.8#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  26.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=410949:4109#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=99250:993#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 16 -->
+<question type="cloze">
+<name>
+<text>I-beam 16 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_16.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  14.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  18.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=180190:1802#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=44256:443#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 17 -->
+<question type="cloze">
+<name>
+<text>I-beam 17 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_17.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  18.1#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=267012:2670#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=195044:1950#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 18 -->
+<question type="cloze">
+<name>
+<text>I-beam 18 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_18.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.0#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  26.2#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=455608:4556#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=136165:1362#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 19 -->
+<question type="cloze">
+<name>
+<text>I-beam 19 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_19.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  21.8#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  25.3#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=538239:5382#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=234670:2347#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 20 -->
+<question type="cloze">
+<name>
+<text>I-beam 20 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_20.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.0#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  20.4#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=306161:3062#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=132033:1320#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 21 -->
+<question type="cloze">
+<name>
+<text>I-beam 21 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_21.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=414697:4147#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=115736:1157#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 22 -->
+<question type="cloze">
+<name>
+<text>I-beam 22 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_22.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  29.8#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=598540:5985#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=129846:1298#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 23 -->
+<question type="cloze">
+<name>
+<text>I-beam 23 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_23.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.0#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  28.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=397393:3974#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=78099:781#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 24 -->
+<question type="cloze">
+<name>
+<text>I-beam 24 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_24.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  19.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=294109:2941#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=171467:1715#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 25 -->
+<question type="cloze">
+<name>
+<text>I-beam 25 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_25.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  28.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=458897:4589#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=126608:1266#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 26 -->
+<question type="cloze">
+<name>
+<text>I-beam 26 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_26.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  22.0#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=522789:5228#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=267331:2673#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 27 -->
+<question type="cloze">
+<name>
+<text>I-beam 27 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_27.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=423754:4238#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=108147:1081#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 28 -->
+<question type="cloze">
+<name>
+<text>I-beam 28 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_28.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  13.8#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  25.4#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=304920:3049#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=51342:513#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 29 -->
+<question type="cloze">
+<name>
+<text>I-beam 29 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_29.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  15.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  20.0#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=247413:2474#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=84941:849#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 30 -->
+<question type="cloze">
+<name>
+<text>I-beam 30 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_30.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  14.4#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=248635:2486#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=47765:478#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 31 -->
+<question type="cloze">
+<name>
+<text>I-beam 31 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_31.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  28.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=508373:5084#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=135950:1359#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 32 -->
+<question type="cloze">
+<name>
+<text>I-beam 32 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_32.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.2#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=339418:3394#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=160637:1606#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 33 -->
+<question type="cloze">
+<name>
+<text>I-beam 33 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_33.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.6#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  29.8#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=639242:6392#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=137302:1373#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 34 -->
+<question type="cloze">
+<name>
+<text>I-beam 34 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_34.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.8#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  25.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=469725:4697#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=109030:1090#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 35 -->
+<question type="cloze">
+<name>
+<text>I-beam 35 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_35.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.9#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  23.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=369903:3699#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=162094:1621#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 36 -->
+<question type="cloze">
+<name>
+<text>I-beam 36 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_36.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.0#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.2#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=310676:3107#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=114250:1143#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 37 -->
+<question type="cloze">
+<name>
+<text>I-beam 37 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_37.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.0#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=232826:2328#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=107337:1073#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 38 -->
+<question type="cloze">
+<name>
+<text>I-beam 38 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_38.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  22.6#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  17.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=213284:2133#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=191617:1916#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 39 -->
+<question type="cloze">
+<name>
+<text>I-beam 39 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_39.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  14.4#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.0#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=195132:1951#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=41843:418#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 40 -->
+<question type="cloze">
+<name>
+<text>I-beam 40 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_40.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  15.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.3#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=210096:2101#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=51436:514#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 41 -->
+<question type="cloze">
+<name>
+<text>I-beam 41 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_41.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  25.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=604742:6047#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=200983:2010#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 42 -->
+<question type="cloze">
+<name>
+<text>I-beam 42 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_42.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.8#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  19.9#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=367263:3673#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=222745:2227#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 43 -->
+<question type="cloze">
+<name>
+<text>I-beam 43 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_43.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.7#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  15.8#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=132538:1325#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=84812:848#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 44 -->
+<question type="cloze">
+<name>
+<text>I-beam 44 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_44.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=585584:5856#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=243813:2438#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 45 -->
+<question type="cloze">
+<name>
+<text>I-beam 45 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_45.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.0#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  27.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=580708:5807#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=140847:1408#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 46 -->
+<question type="cloze">
+<name>
+<text>I-beam 46 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_46.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  18.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=159729:1597#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=53981:540#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 47 -->
+<question type="cloze">
+<name>
+<text>I-beam 47 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_47.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  25.2#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=601287:6013#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=222240:2222#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 48 -->
+<question type="cloze">
+<name>
+<text>I-beam 48 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_48.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  29.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=608348:6083#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=109905:1099#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 49 -->
+<question type="cloze">
+<name>
+<text>I-beam 49 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_49.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  20.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=283883:2839#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=126293:1263#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 50 -->
+<question type="cloze">
+<name>
+<text>I-beam 50 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_50.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.8#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=433195:4332#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=181679:1817#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 51 -->
+<question type="cloze">
+<name>
+<text>I-beam 51 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_51.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  21.7#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.4#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=383605:3836#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=229015:2290#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 52 -->
+<question type="cloze">
+<name>
+<text>I-beam 52 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_52.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  15.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  20.9#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=207291:2073#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=46662:467#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 53 -->
+<question type="cloze">
+<name>
+<text>I-beam 53 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_53.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.9#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=352783:3528#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=138737:1387#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 54 -->
+<question type="cloze">
+<name>
+<text>I-beam 54 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_54.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=256238:2562#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=113893:1139#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 55 -->
+<question type="cloze">
+<name>
+<text>I-beam 55 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_55.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  23.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  28.4#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=839661:8397#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=302598:3026#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 56 -->
+<question type="cloze">
+<name>
+<text>I-beam 56 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_56.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.0#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  18.8#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=180594:1806#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=79913:799#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 57 -->
+<question type="cloze">
+<name>
+<text>I-beam 57 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_57.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  23.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=289703:2897#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=102509:1025#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 58 -->
+<question type="cloze">
+<name>
+<text>I-beam 58 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_58.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.9#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  28.3#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=501057:5011#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=160580:1606#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 59 -->
+<question type="cloze">
+<name>
+<text>I-beam 59 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_59.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  17.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=200815:2008#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=143484:1435#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 60 -->
+<question type="cloze">
+<name>
+<text>I-beam 60 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_60.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  17.8#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=202881:2029#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=110464:1105#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 61 -->
+<question type="cloze">
+<name>
+<text>I-beam 61 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_61.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.4#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  26.1#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=380272:3803#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=136329:1363#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 62 -->
+<question type="cloze">
+<name>
+<text>I-beam 62 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_62.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.9#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=288936:2889#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=80694:807#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 63 -->
+<question type="cloze">
+<name>
+<text>I-beam 63 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_63.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  21.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  23.2#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=441240:4412#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=218727:2187#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 64 -->
+<question type="cloze">
+<name>
+<text>I-beam 64 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_64.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  23.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=364188:3642#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=102931:1029#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 65 -->
+<question type="cloze">
+<name>
+<text>I-beam 65 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_65.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.0#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  28.1#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=434320:4343#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=118279:1183#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 66 -->
+<question type="cloze">
+<name>
+<text>I-beam 66 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_66.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.6#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.4#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=413443:4134#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=192293:1923#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 67 -->
+<question type="cloze">
+<name>
+<text>I-beam 67 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_67.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.4#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=231625:2316#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=70439:704#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 68 -->
+<question type="cloze">
+<name>
+<text>I-beam 68 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_68.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.6#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.0#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=229081:2291#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=80351:804#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 69 -->
+<question type="cloze">
+<name>
+<text>I-beam 69 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_69.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.4#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  17.8#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=237293:2373#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=136464:1365#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 70 -->
+<question type="cloze">
+<name>
+<text>I-beam 70 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_70.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.8#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.2#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=444857:4449#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=178389:1784#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 71 -->
+<question type="cloze">
+<name>
+<text>I-beam 71 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_71.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  20.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=245122:2451#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=70596:706#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 72 -->
+<question type="cloze">
+<name>
+<text>I-beam 72 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_72.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.6#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=395101:3951#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=153677:1537#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 73 -->
+<question type="cloze">
+<name>
+<text>I-beam 73 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_73.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  19.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=455819:4558#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=173939:1739#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 74 -->
+<question type="cloze">
+<name>
+<text>I-beam 74 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_74.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  15.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  25.4#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=374329:3743#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=67182:672#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 75 -->
+<question type="cloze">
+<name>
+<text>I-beam 75 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_75.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.7#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  25.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=505763:5058#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=116798:1168#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 76 -->
+<question type="cloze">
+<name>
+<text>I-beam 76 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_76.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.9#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.2#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=304484:3045#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=114440:1144#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 77 -->
+<question type="cloze">
+<name>
+<text>I-beam 77 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_77.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  21.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.1#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=430790:4308#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=201783:2018#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 78 -->
+<question type="cloze">
+<name>
+<text>I-beam 78 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_78.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.9#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=407389:4074#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=110670:1107#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 79 -->
+<question type="cloze">
+<name>
+<text>I-beam 79 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_79.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  21.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.8#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=481028:4810#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=204866:2049#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 80 -->
+<question type="cloze">
+<name>
+<text>I-beam 80 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_80.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  15.7#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=361879:3619#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=68784:688#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 81 -->
+<question type="cloze">
+<name>
+<text>I-beam 81 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_81.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  26.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=556820:5568#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=135089:1351#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 82 -->
+<question type="cloze">
+<name>
+<text>I-beam 82 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_82.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.4#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.8#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=443010:4430#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=89271:893#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 83 -->
+<question type="cloze">
+<name>
+<text>I-beam 83 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_83.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.8#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  16.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=167188:1672#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=101657:1017#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 84 -->
+<question type="cloze">
+<name>
+<text>I-beam 84 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_84.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  26.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=669374:6694#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=231410:2314#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 85 -->
+<question type="cloze">
+<name>
+<text>I-beam 85 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_85.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.8#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  19.1#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=303260:3033#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=162464:1625#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 86 -->
+<question type="cloze">
+<name>
+<text>I-beam 86 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_86.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  22.2#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  26.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=492846:4928#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=239119:2391#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 87 -->
+<question type="cloze">
+<name>
+<text>I-beam 87 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_87.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  21.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  20.7#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=347238:3472#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=202886:2029#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 88 -->
+<question type="cloze">
+<name>
+<text>I-beam 88 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_88.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.4#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  22.1#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=409361:4094#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=137253:1373#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 89 -->
+<question type="cloze">
+<name>
+<text>I-beam 89 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_89.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.4#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.0#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=357933:3579#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=83173:832#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 90 -->
+<question type="cloze">
+<name>
+<text>I-beam 90 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_90.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  24.0#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=367964:3680#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=87438:874#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 91 -->
+<question type="cloze">
+<name>
+<text>I-beam 91 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_91.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  22.3#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  27.3#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=601065:6011#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=271387:2714#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 92 -->
+<question type="cloze">
+<name>
+<text>I-beam 92 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_92.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  18.6#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  29.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=678514:6785#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=165846:1658#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 93 -->
+<question type="cloze">
+<name>
+<text>I-beam 93 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_93.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  15.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  21.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=249154:2492#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=67349:673#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 94 -->
+<question type="cloze">
+<name>
+<text>I-beam 94 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_94.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.5#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  28.6#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=666985:6670#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=189991:1900#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 95 -->
+<question type="cloze">
+<name>
+<text>I-beam 95 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_95.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  14.8#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  23.0#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=317831:3178#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=57570:576#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 96 -->
+<question type="cloze">
+<name>
+<text>I-beam 96 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_96.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  33.3#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=730307:7303#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=93361:934#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 97 -->
+<question type="cloze">
+<name>
+<text>I-beam 97 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_97.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  17.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  20.9#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=256573:2566#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=93028:930#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 98 -->
+<question type="cloze">
+<name>
+<text>I-beam 98 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_98.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.1#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  19.2#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=268240:2682#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=144553:1446#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 99 -->
+<question type="cloze">
+<name>
+<text>I-beam 99 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_99.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  16.7#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  27.5#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=631045:6310#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=132149:1321#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+<!--question: 100 -->
+<question type="cloze">
+<name>
+<text>I-beam 100 (Level 4)</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><img style="margin-right: auto; margin-left: auto; display: block;" src="http://www.ucl.ac.uk/~wmapsfl/moodle/I-beam/Ibeam_4/ibeam4_100.jpg" alt="Beamplot" width="561" height="420"/></p>
+<p style="text-align: center;">Given an I-beam with dimensions as indicated in the image above, find the x and y coordinates of the centroid, to 1 d.p., in mm.</p>
+<p style="text-align: center;">Centroid = ({1:NUMERICAL:=  20.7#Excellent!~*#I'm sorry}  ,  {1:NUMERICAL:=  28.1#Excellent!~*#I'm sorry})  mm </p>
+<p style="text-align: center;"> Calculate the second moments of inertia of the given area with respect to both x and y.</p>
+<p style="text-align: center;"> Give your answer to the nearest whole number and in mm<sup>4</sup>.</p>
+<p style="text-align: center;">I<sub>x</sub> = {2:NUMERICAL:=527958:5280#Excellent!~*#I'm sorry} mm<sup>4</sup></p>
+<p style="text-align: center;">I<sub>y</sub> = {2:NUMERICAL:=179370:1794#Excellent!~*#I'm sorry} mm<sup>4</sup></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>In order to calculate the moments of inertia, it may be useful to split the area into different segments, in order to simplify the problem.</p>]]></text>
+</generalfeedback>
+</question>
+</quiz>
