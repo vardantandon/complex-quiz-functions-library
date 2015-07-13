@@ -1,101 +1,59 @@
-%Sample code to demonstrate the use of Cloze Question Generation
-%functions: question_cloze, cloze_mcq, cloze_numerical, cloze_short,
-%quiz_start, quiz_end
-%This code will generate a sampleQuestion.xml file containing Moodle xml
-%code for 100 variations of a question. The question has different types of
-%multiple choice questions, a numerical question and a short answer
-%question embedded. 
-%
-%Last Updated: 26/06/2015
-%Created By: Avinash Javaji under supervision of Dr. Pilar Garcia Souto
+%Last Updated: 13/07/2015
+%Authored By: Avinash Javaji under supervision of Dr. Pilar Garcia Souto
 %UCL Department: Medical Physics and Bioengineering
 
-file=fopen('sampleQuestion.xml','w'); 
+file=fopen('question5.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
 
-for i=1:1:10
+for i=1:1:100
     
     %Calculations
-    a = randi(6)+3;
-    b = randi(6)+3;
-    c = a + b;
+%     a = randi([1,10]);
+%     b = randi([1,10]);
     
-    %Plot generation
-    w=a;
-    h=b;
+    syms x a b c d m g h;
+    a = randi([1 5]);
+    b = randi([6 9]);
+    c = randi([1 9]);
+    d = randi([20 30]);
+    m = randi([2 5]);
+    g = randi([1 3]);
+    h = randi([3 6]);
+    f = ((g*s^2 + (a*h + b*g + g*m)*s + a*h*m + b*g*m + d) / ((s + m)*(a*s^2 + b * s + c)));
+    output = ilaplace(f);
     
-    plotVar=plot([0,w],[0,0],'Color','black','linewidth',3);
-    hold on
-    plot([0,0],[0,h],'Color','black','linewidth',3);
-    plot([0,w],[h,h],'Color','black','linewidth',3);
-    plot([w,w],[0,h],'Color','black','linewidth',3);
-    
-    reset(gca);
-    reset(gcf);
-    
-    if i==1
-    set(gca, 'Position', get(gca, 'OuterPosition') - ...
-        get(gca, 'TightInset') * [-1 0 1 0; 0 -1 0 1; 0 0 1 0; 0 0 0 1]);
-    end
-    
-    axis([-1.4 (w+0.5) -1.1 (h+0.5)]);
-    axis off
-    
-    xlabel=strcat(num2str(w),'mm');
-    ylabel=strcat(num2str(h),'mm');
-
-    text((w/2) - 0.8,-0.4,xlabel,'fontsize',22,'fontweight','bold');
-    text(-1.25,(h/2),ylabel,'fontsize',18,'fontweight','bold');
-    
-    hold off;
-    
-    %Plot string generation
-    plotString = generateImageString(plotVar, 'image.jpg');
-    
-    %Embedded components string generation
-    mcqStringDrop = cloze_mcq('drop', 3, ...
-        num2str(a+b-2), 'Too too low', ...
-        num2str(a+b-1), 'Too low', ...
-        num2str(a+b), 'You got it!', ... 
-        num2str(a+b+1), 'Too high', ... 
-        num2str(a+b+2), 'Too too high');
-    
-    mcqStringVertical = cloze_mcq('vertical', 3, ...
-        num2str(a+b-2), 'Too too low', ...
-        num2str(a+b-1), 'Too low', ...
-        num2str(a+b), 'You got it!', ... 
-        num2str(a+b+1), 'Too high', ... 
-        num2str(a+b+2), 'Too too high');
-    
-    mcqStringHorizontal = cloze_mcq('horizontal', 3, ...
-        num2str(a+b-2), 'Too too low', ...
-        num2str(a+b-1), 'Too low', ...
-        num2str(a+b), 'You got it!', ... 
-        num2str(a+b+1), 'Too high', ... 
-        num2str(a+b+2), 'Too too high');
-    
-    numString = cloze_numerical(c, 1, 'Good job!', 'Incorrect, try again');
-    
-    shortString = cloze_short('Paris', 'Good job!', 'Incorrect, try again');
-    
-    %Question string joining
-    questionString = strcat(num2str(a), ' +&nbsp;', num2str(b), ' = <br>', ...
-        '<img src="@@PLUGINFILE@@/image.jpg" style="width:400px; height:auto;"><br>', ...
-        'Dropdown box', mcqStringDrop, ...
-        '<br>Vertical MCQs', mcqStringVertical, ...
-        '<br>Horizontal MCQs', mcqStringHorizontal, ...
-        '<br>Numerical Box <br>', numString, ...
-        '<br>Capital of France? <br>', shortString);
-    
-    %Complete question XML code generation
-    xmlCode = question_cloze(i, ...
-        'Question Title', ... 
-        questionString, ...
-        'Question Description comes here', ...
-        plotString);
-    
-    %Output
-    fprintf(file, xmlCode);
+    %Question output
+    fprintf(file,'  <!-- question: %i  -->', i);
+    fprintf(file,'\n  <question type="algebra">');
+    fprintf(file,'\n    <name>');
+    fprintf(file,'\n      <text>Laplace Transform</text>');
+    fprintf(file,'\n    </name>');
+    fprintf(file,'\n    <questiontext format="html">');
+    fprintf(file,'\n      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = %i and dy/dt = %i at t = 0:<br><br>$$ \\small %i\\frac{d^2 y}{d t^2} + %i\\frac{dy}{dt} + %iy = %iexp(-%it) $$ </p>]]></text>', g, h, a, b, c, d, m);
+    fprintf(file,'\n    </questiontext>');
+    fprintf(file,'\n    <generalfeedback format="html">');
+    fprintf(file,'\n      <text></text>');
+    fprintf(file,'\n    </generalfeedback>');
+    fprintf(file,'\n    <defaultgrade>1.0000000</defaultgrade>');
+    fprintf(file,'\n    <penalty>0.3333333</penalty>');
+    fprintf(file,'\n    <hidden>0</hidden>');
+    fprintf(file,'\n    <compareby>eval</compareby>');
+    fprintf(file,'\n    <tolerance>0.001</tolerance>');
+    fprintf(file,'\n    <nchecks>10</nchecks>');
+    fprintf(file,'\n    <disallow><text></text></disallow>');
+    fprintf(file,'\n    <allowedfuncs></allowedfuncs>');
+    fprintf(file,'\n    <answerprefix><text></text></answerprefix>');
+    fprintf(file,'\n    <answer fraction="100" format="moodle_auto_format">');
+    fprintf(file,'\n      <text>%s</text>', strrep(char(output), 'exp(', 'e^('));
+    fprintf(file,'\n      <feedback format="html">');
+    fprintf(file,'\n        <text></text>');
+    fprintf(file,'\n      </feedback>');
+    fprintf(file,'\n    </answer>');
+    fprintf(file,'\n    <variable name="t">');
+    fprintf(file,'\n        <min>1</min>');
+    fprintf(file,'\n        <max>10</max>');
+    fprintf(file,'\n    </variable>');
+    fprintf(file,'\n  </question>');
     
 end
 fprintf(file, quiz_end()); %xml closing code

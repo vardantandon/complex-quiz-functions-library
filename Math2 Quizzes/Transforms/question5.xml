@@ -1,0 +1,3003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>  <!-- question: 1  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 3 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 7y = 28exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>6*e^(-(9*t)/2)*(cosh((53^(1/2)*t)/2) + (22*53^(1/2)*sinh((53^(1/2)*t)/2))/159) - 4*e^(-2*t)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 2  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 6y = 27exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>17*e^(-t) - (35*e^(-2*t))/2 + (3*e^(-4*t))/2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 3  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 4 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 6y = 21exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(21*e^(-5*t))/76 - (e^(-(3*t)/4)*(cos((15^(1/2)*t)/4) - (986*15^(1/2)*sin((15^(1/2)*t)/4))/15))/38</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 4  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 8y = 25exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(25*e^(-2*t))/6 - (19*e^(-(7*t)/6)*(cos((47^(1/2)*t)/6) - (443*47^(1/2)*sin((47^(1/2)*t)/6))/893))/6</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 5  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 3y = 22exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(22*e^(-2*t))/3 + (205*e^(-t/2))/24 - (125*e^(-(3*t)/2))/8</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 6  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 5 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 9y = 20exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(5*e^(-5*t))/26 + (e^(-(3*t)/5)*(cos((6*t)/5) + (2251*sin((6*t)/5))/3))/130</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 7  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 2y = 27exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(27*e^(-5*t))/82 + (111*e^(-(9*t)/10)*(cosh((41^(1/2)*t)/10) + (307*41^(1/2)*sinh((41^(1/2)*t)/10))/37))/410</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 8  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 1y = 20exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(31*e^(-4*t)*(cosh(15^(1/2)*t) + (136*15^(1/2)*sinh(15^(1/2)*t))/465))/7 - (10*e^(-3*t))/7</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 9  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 5 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 8y = 30exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(51*e^(-4*t)*(cosh(2*2^(1/2)*t) + (89*2^(1/2)*sinh(2*2^(1/2)*t))/204))/7 - (30*e^(-5*t))/7</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 10  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 6 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 2y = 29exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(42*e^(-4*t)*(cosh(14^(1/2)*t) + (101*14^(1/2)*sinh(14^(1/2)*t))/588))/13 - (29*e^(-5*t))/13</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 11  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 5 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 3y = 29exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(219*e^(-t/2))/35 - (47*e^(-3*t))/5 + (29*e^(-4*t))/7</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 12  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 4 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 3y = 27exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(27*e^(-5*t))/98 + (159*e^(-(3*t)/5)*(cos((6^(1/2)*t)/5) + (10354*6^(1/2)*sin((6^(1/2)*t)/5))/477))/490</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 13  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 5 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 4y = 29exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(41*e^(-3*t)*(cosh(5^(1/2)*t) + (17*5^(1/2)*sinh(5^(1/2)*t))/41))/4 - (29*e^(-2*t))/4</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 14  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 6 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 9y = 25exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(36*e^(-(9*t)/2)*(cosh((3*5^(1/2)*t)/2) + (103*5^(1/2)*sinh((3*5^(1/2)*t)/2))/270))/11 - (25*e^(-5*t))/11</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 15  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 4 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 3y = 22exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(22*e^(-4*t))/47 - (16*e^(-(9*t)/10)*(cosh((21^(1/2)*t)/10) - (851*21^(1/2)*sinh((21^(1/2)*t)/10))/14))/235</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 16  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 5 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 9y = 25exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(5*e^(-3*t))/6 - (7*e^(-(4*t)/5)*(cos((29^(1/2)*t)/5) - (239*29^(1/2)*sin((29^(1/2)*t)/5))/29))/30</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 17  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 5 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 1y = 28exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(28*e^(-4*t))/25 - (59*e^(-t)*(cosh((2^(1/2)*3^(1/2)*t)/3) - (376*2^(1/2)*3^(1/2)*sinh((2^(1/2)*3^(1/2)*t)/3))/59))/75</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 18  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 2y = 28exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(14*e^(-2*t))/3 - (67*e^(-t))/2 + (355*e^(-t/2))/12</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 19  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 6 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 2y = 25exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(33*e^(-(7*t)/2)*(cosh((41^(1/2)*t)/2) + (227*41^(1/2)*sinh((41^(1/2)*t)/2))/1353))/8 - (25*e^(-2*t))/8</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 20  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 4 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 6y = 20exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(5*e^(-2*t))/3 - (22*e^(-(7*t)/10)*(cos((71^(1/2)*t)/10) - (557*71^(1/2)*sin((71^(1/2)*t)/10))/781))/15</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 21  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 5 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 4y = 30exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(31*e^(-(9*t)/2)*(cosh((65^(1/2)*t)/2) + (239*65^(1/2)*sinh((65^(1/2)*t)/2))/2015))/8 - (15*e^(-4*t))/8</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 22  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 8y = 30exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(5*e^(-2*t))/2 - (7*e^(-(3*t)/4)*(cos((23^(1/2)*t)/4) - (209*23^(1/2)*sin((23^(1/2)*t)/4))/161))/4</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 23  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 6 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 9y = 27exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(27*e^(-2*t))/17 - (118*e^(-(3*t)/5)*(cos((6*t)/5) - (659*sin((6*t)/5))/118))/85</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 24  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 6 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 5y = 22exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(11*e^(-5*t))/50 - (e^(-(3*t)/5)*(cos((4*t)/5) - 503*sin((4*t)/5)))/50</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 25  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 5 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 2y = 28exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(9*e^(-(9*t)/4)*(cosh((65^(1/2)*t)/4) + (101*65^(1/2)*sinh((65^(1/2)*t)/4))/585))/2 - (7*e^(-2*t))/2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 26  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 8y = 21exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(21*e^(-3*t))/8 - (17*e^(-(3*t)/2)*(cos((7^(1/2)*t)/2) - (21*7^(1/2)*sin((7^(1/2)*t)/2))/17))/8</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 27  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 4 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 2y = 28exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2*e^(-4*t) - (5*e^(-(3*t)/2)*(cosh((3^(1/2)*19^(1/2)*t)/6) - (69*3^(1/2)*19^(1/2)*sinh((3^(1/2)*19^(1/2)*t)/6))/95))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 28  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 5 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 7y = 27exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(3*e^(-4*t))/7 - (e^(-(3*t)/5)*(cos((26^(1/2)*t)/5) - 58*26^(1/2)*sin((26^(1/2)*t)/5)))/35</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 29  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 3y = 26exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>e^(-t)/27 + (26*e^(-4*t))/27 + (125*t*e^(-t))/9</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 30  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 5 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 6y = 25exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(43*e^(-4*t)*(cosh(10^(1/2)*t) + (71*10^(1/2)*sinh(10^(1/2)*t))/215))/9 - (25*e^(-3*t))/9</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 31  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 4 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 8y = 26exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(26*e^(-5*t))/103 - (27*e^(-(3*t)/5)*(cos((31^(1/2)*t)/5) - (15941*31^(1/2)*sin((31^(1/2)*t)/5))/837))/515</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 32  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 4 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 7y = 23exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(17*e^(-t))/3 - (23*e^(-2*t))/5 - e^(-7*t)/15</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 33  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 3 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 4y = 29exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(3*e^(-t))/64 + (29*e^(-5*t))/64 + (133*t*e^(-t))/16</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 34  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 3 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 9y = 23exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(23*e^(-4*t))/45 - (e^(-(7*t)/8)*(cos((95^(1/2)*t)/8) - (1103*95^(1/2)*sin((95^(1/2)*t)/8))/19))/90</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 35  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 2y = 20exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(593*e^(-t/2))/36 - 16*e^(-t) + (5*e^(-5*t))/18</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 36  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 4 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 6y = 30exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2*e^(-3*t) - e^(-t)*(cos(t) - 13*sin(t))</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 37  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 3 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 9y = 26exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>26*e^(-2*t) - 25*e^(-2*t)*(cos((2^(1/2)*t)/2) - (9*2^(1/2)*sin((2^(1/2)*t)/2))/25)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 38  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 9y = 28exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(28*e^(-3*t))/9 - (29*e^(-(3*t)/2)*(cos((3*t)/2) - (209*sin((3*t)/2))/29))/18</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 39  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 4 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 4y = 20exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(20*e^(-3*t))/19 - (21*e^(-(7*t)/8)*(cos((15^(1/2)*t)/8) - (2827*15^(1/2)*sin((15^(1/2)*t)/8))/315))/38</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 40  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 3 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 8y = 21exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(21*e^(-3*t))/20 - (11*e^(-t)*(cos(t) - (172*sin(t))/11))/20</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 41  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 3 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 6y = 29exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(29*e^(-3*t))/24 - (17*e^(-(3*t)/4)*(cos((15^(1/2)*t)/4) - (267*15^(1/2)*sin((15^(1/2)*t)/4))/85))/24</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 42  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 6 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 8y = 23exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(45*e^(-t))/7 - (23*e^(-2*t))/6 - (25*e^(-8*t))/42</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 43  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 4 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 9y = 30exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(30*e^(-2*t))/13 - (124*e^(-(4*t)/5)*(cos((29^(1/2)*t)/5) - (784*29^(1/2)*sin((29^(1/2)*t)/5))/899))/65</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 44  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 5 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 5y = 28exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(37*e^(-(9*t)/2)*(cosh((61^(1/2)*t)/2) + (311*61^(1/2)*sinh((61^(1/2)*t)/2))/2257))/9 - (28*e^(-2*t))/9</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 45  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 4 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 4y = 28exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(13*e^(-4*t)*(cosh(2*3^(1/2)*t) + (6*3^(1/2)*sinh(2*3^(1/2)*t))/13))/3 - (7*e^(-4*t))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 46  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 5y = 24exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(15*e^(-(9*t)/4)*(cosh((41^(1/2)*t)/4) + (23*41^(1/2)*sinh((41^(1/2)*t)/4))/205))/2 - 6*e^(-3*t)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 47  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 4 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 4y = 28exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(28*e^(-3*t))/31 - (78*e^(-(3*t)/5)*(cos((11^(1/2)*t)/5) - (3227*11^(1/2)*sin((11^(1/2)*t)/5))/429))/155</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 48  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 5 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 6y = 27exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>5*e^(-4*t)*(cosh(10^(1/2)*t) + (8*10^(1/2)*sinh(10^(1/2)*t))/25) - 3*e^(-3*t)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 49  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 1y = 27exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(9*e^(-5*t))/32 - (147*e^(-t))/16 + (1521*e^(-t/5))/160</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 50  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 5 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 4y = 29exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>15*e^(-2*t)*(cosh(2^(1/2)*t) - (13*2^(1/2)*sinh(2^(1/2)*t))/60) - (29*e^(-3*t))/2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 51  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 4 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 7y = 24exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>8*e^(-t) - 8*e^(-2*t) + e^(-(7*t)/2)/2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 52  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 3y = 23exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(23*e^(-3*t))/24 - (125*e^(-t))/4 + (3707*e^(-(3*t)/5))/120</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 53  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 4 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 7y = 20exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(20*e^(-4*t))/23 - (37*e^(-(4*t)/3)*(cos((5^(1/2)*t)/3) - (1768*5^(1/2)*sin((5^(1/2)*t)/3))/185))/69</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 54  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 4 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 1y = 30exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(6*e^(-4*t))/5 - (8*e^(-t)*(cosh((2^(1/2)*3^(1/2)*t)/3) - (41*2^(1/2)*3^(1/2)*sinh((2^(1/2)*3^(1/2)*t)/3))/4))/15</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 55  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 4 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 4y = 23exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>25*e^(-3*t)*(cosh(5^(1/2)*t) - (36*5^(1/2)*sinh(5^(1/2)*t))/125) - 23*e^(-5*t)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 56  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 7y = 29exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(68*e^(-(9*t)/2)*(cosh((53^(1/2)*t)/2) + (134*53^(1/2)*sinh((53^(1/2)*t)/2))/901))/13 - (29*e^(-4*t))/13</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 57  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 7y = 25exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(25*e^(-5*t))/17 - (33*e^(-2*t)*(cosh((2^(1/2)*t)/2) - (118*2^(1/2)*sinh((2^(1/2)*t)/2))/11))/34</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 58  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 5y = 25exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(41*e^(-t))/8 - (25*e^(-3*t))/4 + (17*e^(-5*t))/8</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 59  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 5y = 22exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(11*e^(-5*t))/45 + (16*e^(-(4*t)/5)*(cos((3*t)/5) + (851*sin((3*t)/5))/16))/45</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 60  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 4 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 8y = 20exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>10*e^(-2*t) - 9*e^(-(3*t)/2)*(cos((3^(1/2)*5^(1/2)*t)/6) - (11*3^(1/2)*5^(1/2)*sin((3^(1/2)*5^(1/2)*t)/6))/15)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 61  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 4 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 9y = 28exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(4*e^(-4*t))/3 - (e^(-(3*t)/2)*(cos((3^(1/2)*t)/2) - (89*3^(1/2)*sin((3^(1/2)*t)/2))/3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 62  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 3y = 26exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(33*e^(-(7*t)/2)*(cosh((37^(1/2)*t)/2) + (169*37^(1/2)*sinh((37^(1/2)*t)/2))/1221))/7 - (26*e^(-2*t))/7</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 63  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 7y = 30exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(10*e^(-5*t))/29 + (37*e^(-(9*t)/10)*(cos((59^(1/2)*t)/10) + (13447*59^(1/2)*sin((59^(1/2)*t)/10))/2183))/145</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 64  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 1y = 23exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(23*e^(-5*t))/86 + (143*e^(-(4*t)/5)*(cosh((11^(1/2)*t)/5) + (18153*11^(1/2)*sinh((11^(1/2)*t)/5))/1573))/430</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 65  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 4 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 3y = 20exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(5*e^(-3*t))/3 - (17*e^(-(9*t)/8)*(cosh((33^(1/2)*t)/8) - (291*33^(1/2)*sinh((33^(1/2)*t)/8))/187))/12</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 66  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 8y = 24exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(12*e^(-3*t))/7 - (29*e^(-(7*t)/6)*(cos((47^(1/2)*t)/6) - (1019*47^(1/2)*sin((47^(1/2)*t)/6))/1363))/21</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 67  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 3 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 7y = 20exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(4*e^(-4*t))/3 - (e^(-(3*t)/2)*(cos((5^(1/2)*t)/2) - 13*5^(1/2)*sin((5^(1/2)*t)/2)))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 68  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 5 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 1y = 25exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(25*e^(-2*t))/3 - (91*e^(-(7*t)/8)*(cosh((33^(1/2)*t)/8) - (607*33^(1/2)*sinh((33^(1/2)*t)/8))/1001))/12</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 69  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 4 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 8y = 26exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>e^(-4*t)/2 + (e^(-(9*t)/10)*(cos((79^(1/2)*t)/10) + (1041*79^(1/2)*sin((79^(1/2)*t)/10))/79))/10</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 70  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 5 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 1y = 25exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>25*e^(-3*t) - 24*e^(-(3*t)/2)*(cosh((3^(1/2)*23^(1/2)*t)/6) - (25*3^(1/2)*23^(1/2)*sinh((3^(1/2)*23^(1/2)*t)/6))/138)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 71  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 5 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 8y = 25exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(25*e^(-4*t))/56 - (69*e^(-(4*t)/5)*(cos((2*6^(1/2)*t)/5) - (306*6^(1/2)*sin((2*6^(1/2)*t)/5))/23))/280</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 72  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 5y = 28exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(28*e^(-2*t))/9 - (113*e^(-(4*t)/5)*(cos((3*t)/5) - (829*sin((3*t)/5))/113))/45</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 73  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 6 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 6y = 25exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(25*e^(-3*t))/9 - (19*e^(-(4*t)/3)*(cos((2^(1/2)*t)/3) - (407*2^(1/2)*sin((2^(1/2)*t)/3))/38))/9</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 74  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 5 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 1y = 25exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(51*e^(-(9*t)/8)*(cosh((65^(1/2)*t)/8) - (69*65^(1/2)*sinh((65^(1/2)*t)/8))/1105))/2 - 25*e^(-2*t)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 75  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 4y = 29exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(43*e^(-(9*t)/2)*(cosh((65^(1/2)*t)/2) + (297*65^(1/2)*sinh((65^(1/2)*t)/2))/2795))/14 - (29*e^(-3*t))/14</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 76  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 1y = 21exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(34*e^(-(9*t)/2)*(cosh((77^(1/2)*t)/2) + (150*77^(1/2)*sinh((77^(1/2)*t)/2))/1309))/13 - (21*e^(-2*t))/13</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 77  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 3 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 3y = 22exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(22*e^(-2*t))/3 + (125*e^(-t/2))/12 - (69*e^(-(3*t)/2))/4</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 78  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 5 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 3y = 28exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(7*e^(-5*t))/17 - 33*e^(-t) + (2233*e^(-(3*t)/4))/68</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 79  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 8y = 30exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(15*e^(-4*t))/14 - (31*e^(-(7*t)/6)*(cos((47^(1/2)*t)/6) - (2011*47^(1/2)*sin((47^(1/2)*t)/6))/1457))/42</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 80  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 3y = 26exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>26*e^(-2*t) - 25*e^(-(7*t)/6)*(cosh((13^(1/2)*t)/6) - (183*13^(1/2)*sinh((13^(1/2)*t)/6))/325)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 81  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 3 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 1y = 29exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(47*e^(-(7*t)/2)*(cosh((3*5^(1/2)*t)/2) + (31*5^(1/2)*sinh((3*5^(1/2)*t)/2))/235))/9 - (29*e^(-5*t))/9</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 82  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 7y = 24exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(24*e^(-5*t))/47 + (23*e^(-(7*t)/6)*(cos((35^(1/2)*t)/6) + (3889*35^(1/2)*sin((35^(1/2)*t)/6))/805))/47</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 83  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 6 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 8y = 22exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>11*e^(-2*t) - 10*e^(-(7*t)/4)*(cos((15^(1/2)*t)/4) - (28*15^(1/2)*sin((15^(1/2)*t)/4))/75)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 84  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 5 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 6\frac{dy}{dt} + 1y = 30exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(6*e^(-4*t))/5 - (8*e^(-t)*(cosh((2^(1/2)*3^(1/2)*t)/3) - (179*2^(1/2)*3^(1/2)*sinh((2^(1/2)*3^(1/2)*t)/3))/16))/15</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 85  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 7y = 22exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(11*e^(-5*t))/36 + (4*e^(-(7*t)/8)*(cos((3*7^(1/2)*t)/8) + (425*7^(1/2)*sin((3*7^(1/2)*t)/8))/56))/9</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 86  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 9y = 25exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>e^(-4*t) + (46*11^(1/2)*e^(-(4*t)/3)*sin((11^(1/2)*t)/3))/11</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 87  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 6 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 3y = 27exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(41*e^(-(7*t)/2)*(cosh((37^(1/2)*t)/2) + (101*37^(1/2)*sinh((37^(1/2)*t)/2))/1517))/7 - (27*e^(-5*t))/7</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 88  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 3 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 4y = 29exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(29*e^(-4*t))/4 - (23*e^(-2*t)*(cosh(2^(1/2)*t) - (53*2^(1/2)*sinh(2^(1/2)*t))/23))/4</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 89  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 4 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 2y = 20exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(61*e^(-(9*t)/4)*(cosh((65^(1/2)*t)/4) + (11*65^(1/2)*sinh((65^(1/2)*t)/4))/65))/14 - (20*e^(-3*t))/7</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 90  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 1y = 25exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(25*e^(-5*t))/41 - (34*e^(-(7*t)/6)*(cosh((37^(1/2)*t)/6) - (2687*37^(1/2)*sinh((37^(1/2)*t)/6))/629))/123</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 91  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 4 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 3y = 27exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(69*e^(-2*t)*(cosh((2^(1/2)*5^(1/2)*t)/2) + (26*2^(1/2)*5^(1/2)*sinh((2^(1/2)*5^(1/2)*t)/2))/69))/10 - (27*e^(-2*t))/5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 92  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 7y = 30exp(-5t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>13*e^(-(7*t)/2)*(cosh((21^(1/2)*t)/2) + (21^(1/2)*sinh((21^(1/2)*t)/2))/91) - 10*e^(-5*t)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 93  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 6 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 5y = 24exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(24*e^(-2*t))/7 - (106*e^(-(9*t)/10)*(cos((19^(1/2)*t)/10) - (2277*19^(1/2)*sin((19^(1/2)*t)/10))/1007))/35</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 94  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 5 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 1y = 24exp(-3t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(7*e^(-(9*t)/4)*(cosh((73^(1/2)*t)/4) + (7*73^(1/2)*sinh((73^(1/2)*t)/4))/73))/2 - 3*e^(-3*t)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 95  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 5 at t = 0:<br><br>$$ \small 2\frac{d^2 y}{d t^2} + 9\frac{dy}{dt} + 5y = 28exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(33*e^(-(9*t)/4)*(cosh((41^(1/2)*t)/4) + (263*41^(1/2)*sinh((41^(1/2)*t)/4))/1353))/5 - (28*e^(-2*t))/5</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 96  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 6 at t = 0:<br><br>$$ \small 5\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 8y = 29exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(29*e^(-2*t))/12 - (133*e^(-(4*t)/5)*(cos((2*6^(1/2)*t)/5) - (517*6^(1/2)*sin((2*6^(1/2)*t)/5))/266))/60</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 97  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 3 and dy/dt = 6 at t = 0:<br><br>$$ \small 1\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 3y = 28exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>7*e^(-(7*t)/2)*(cosh((37^(1/2)*t)/2) + (45*37^(1/2)*sinh((37^(1/2)*t)/2))/259) - 4*e^(-2*t)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 98  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 3 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 1y = 26exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(79*e^(-(7*t)/6)*(cosh((37^(1/2)*t)/6) - (301*37^(1/2)*sinh((37^(1/2)*t)/6))/2923))/3 - 26*e^(-2*t)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 99  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 1 and dy/dt = 5 at t = 0:<br><br>$$ \small 3\frac{d^2 y}{d t^2} + 8\frac{dy}{dt} + 8y = 25exp(-2t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(25*e^(-2*t))/4 - (71*e^(-(4*t)/3)*(cos((2*2^(1/2)*t)/3) - (205*2^(1/2)*sin((2*2^(1/2)*t)/3))/142))/12</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 100  -->
+  <question type="algebra">
+    <name>
+      <text>Laplace Transform</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 4 at t = 0:<br><br>$$ \small 4\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 5y = 29exp(-4t) $$ </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(29*e^(-4*t))/41 - (17*e^(-(7*t)/8)*(cos((31^(1/2)*t)/8) - (6083*31^(1/2)*sin((31^(1/2)*t)/8))/527))/82</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>
+</quiz>
