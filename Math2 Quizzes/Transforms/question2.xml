@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Camera Lens</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When a camera lens is defocussed, which of the following statements is&nbsp;true: <br><br>{1:MCV:~=The spectrum of spatial frequencies contained within the image becomes narrower.#You got it!~The camera's "point response function" becomes narrower.#Incorrect~The image appears sharper.#Incorrect~Multiplying the Fourier transform of the image by a constant will affect the smoothness of the image.#Incorrect}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Camera Lens</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Camera Lens</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When a camera lens is defocussed, which of the following statements is&nbsp;false: <br><br>{1:MCV:~Multiplying the Fourier transform of the image by a constant will not affect the smoothness of the image.#Incorrect~=The spectrum of spatial frequencies contained within the image becomes broader.#You got it!~The image appears smoother.#Incorrect~The camera's "point response function" becomes broader.#Incorrect}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Camera Lens</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Camera Lens</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When a camera lens is defocussed, which of the following statements is&nbsp;true: <br><br>{1:MCV:~The camera's "point response function" becomes narrower.#Incorrect~Multiplying the Fourier transform of the image by a constant will affect the smoothness of the image.#Incorrect~The image appears sharper.#Incorrect~=The spectrum of spatial frequencies contained within the image becomes narrower.#You got it!}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Camera Lens</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Camera Lens</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When a camera lens is defocussed, which of the following statements is&nbsp;false: <br><br>{1:MCV:~The camera's "point response function" becomes broader.#Incorrect~=The spectrum of spatial frequencies contained within the image becomes broader.#You got it!~The image appears smoother.#Incorrect~Multiplying the Fourier transform of the image by a constant will not affect the smoothness of the image.#Incorrect}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Camera Lens</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Camera Lens</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When a camera lens is defocussed, which of the following statements is&nbsp;true: <br><br>{1:MCV:~The image appears sharper.#Incorrect~The camera's "point response function" becomes narrower.#Incorrect~Multiplying the Fourier transform of the image by a constant will affect the smoothness of the image.#Incorrect~=The spectrum of spatial frequencies contained within the image becomes narrower.#You got it!}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Camera Lens</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Camera Lens</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When a camera lens is defocussed, which of the following statements is&nbsp;false: <br><br>{1:MCV:~The camera's "point response function" becomes broader.#Incorrect~=The spectrum of spatial frequencies contained within the image becomes broader.#You got it!~Multiplying the Fourier transform of the image by a constant will not affect the smoothness of the image.#Incorrect~The image appears smoother.#Incorrect}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Camera Lens</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Camera Lens</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When a camera lens is defocussed, which of the following statements is&nbsp;true: <br><br>{1:MCV:~The image appears sharper.#Incorrect~Multiplying the Fourier transform of the image by a constant will affect the smoothness of the image.#Incorrect~=The spectrum of spatial frequencies contained within the image becomes narrower.#You got it!~The camera's "point response function" becomes narrower.#Incorrect}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Camera Lens</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Camera Lens</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When a camera lens is defocussed, which of the following statements is&nbsp;false: <br><br>{1:MCV:~The camera's "point response function" becomes broader.#Incorrect~Multiplying the Fourier transform of the image by a constant will not affect the smoothness of the image.#Incorrect~The image appears smoother.#Incorrect~=The spectrum of spatial frequencies contained within the image becomes broader.#You got it!}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Camera Lens</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Camera Lens</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When a camera lens is defocussed, which of the following statements is&nbsp;true: <br><br>{1:MCV:~The camera's "point response function" becomes narrower.#Incorrect~The image appears sharper.#Incorrect~=The spectrum of spatial frequencies contained within the image becomes narrower.#You got it!~Multiplying the Fourier transform of the image by a constant will affect the smoothness of the image.#Incorrect}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Camera Lens</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Camera Lens</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When a camera lens is defocussed, which of the following statements is&nbsp;false: <br><br>{1:MCV:~Multiplying the Fourier transform of the image by a constant will not affect the smoothness of the image.#Incorrect~=The spectrum of spatial frequencies contained within the image becomes broader.#You got it!~The camera's "point response function" becomes broader.#Incorrect~The image appears smoother.#Incorrect}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Camera Lens</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+</quiz>

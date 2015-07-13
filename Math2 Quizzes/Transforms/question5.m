@@ -6,7 +6,7 @@
 %multiple choice questions, a numerical question and a short answer
 %question embedded. 
 %
-%Last Updated: 13/07/2015
+%Last Updated: 26/06/2015
 %Created By: Avinash Javaji under supervision of Dr. Pilar Garcia Souto
 %UCL Department: Medical Physics and Bioengineering
 
@@ -50,7 +50,7 @@ for i=1:1:10
     hold off;
     
     %Plot string generation
-    plotString = generateImageString(gcf, 'image');
+    plotString = generateImageString(plotVar, 'image.jpg');
     
     %Embedded components string generation
     mcqStringDrop = cloze_mcq('drop', 3, ...
@@ -80,7 +80,7 @@ for i=1:1:10
     
     %Question string joining
     questionString = strcat(num2str(a), ' +&nbsp;', num2str(b), ' = <br>', ...
-        '<img src="@@PLUGINFILE@@/image.jpg" style="width:100%%; height:auto;"><br>', ...
+        '<img src="@@PLUGINFILE@@/image.jpg" style="width:400px; height:auto;"><br>', ...
         'Dropdown box', mcqStringDrop, ...
         '<br>Vertical MCQs', mcqStringVertical, ...
         '<br>Horizontal MCQs', mcqStringHorizontal, ...
