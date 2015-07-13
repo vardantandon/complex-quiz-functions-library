@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;17 and&nbsp;82 = <br><br>Answer : <br>{1:NUMERICAL:=1650:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :3,6...90<br><br>Answer : <br>{1:NUMERICAL:=1395:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;12 and&nbsp;89 = <br><br>Answer : <br>{1:NUMERICAL:=1950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;19 and&nbsp;94 = <br><br>Answer : <br>{1:NUMERICAL:=2166:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,18...90<br><br>Answer : <br>{1:NUMERICAL:=1365:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...100<br><br>Answer : <br>{1:NUMERICAL:=1050:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;4 and&nbsp;90 = <br><br>Answer : <br>{1:NUMERICAL:=2068:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :6,9...84<br><br>Answer : <br>{1:NUMERICAL:=1215:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :10,15...85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;5 and&nbsp;90 = <br><br>Answer : <br>{1:NUMERICAL:=2021:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,18...87<br><br>Answer : <br>{1:NUMERICAL:=1275:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,20...100<br><br>Answer : <br>{1:NUMERICAL:=1035:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;14 and&nbsp;91 = <br><br>Answer : <br>{1:NUMERICAL:=2028:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :10,15...85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :9,12...81<br><br>Answer : <br>{1:NUMERICAL:=1125:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,18...90<br><br>Answer : <br>{1:NUMERICAL:=1365:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;8 and&nbsp;94 = <br><br>Answer : <br>{1:NUMERICAL:=2244:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...80<br><br>Answer : <br>{1:NUMERICAL:=680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;6 and&nbsp;81 = <br><br>Answer : <br>{1:NUMERICAL:=1672:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...90<br><br>Answer : <br>{1:NUMERICAL:=855:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :10,15...90<br><br>Answer : <br>{1:NUMERICAL:=850:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :20,25...85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :3,6...99<br><br>Answer : <br>{1:NUMERICAL:=1683:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :20,25...85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,18...93<br><br>Answer : <br>{1:NUMERICAL:=1458:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :20,25...100<br><br>Answer : <br>{1:NUMERICAL:=1020:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...80<br><br>Answer : <br>{1:NUMERICAL:=680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :3,6...87<br><br>Answer : <br>{1:NUMERICAL:=1305:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :20,25...85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,20...90<br><br>Answer : <br>{1:NUMERICAL:=840:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :20,25...85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :12,15...87<br><br>Answer : <br>{1:NUMERICAL:=1287:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :12,15...96<br><br>Answer : <br>{1:NUMERICAL:=1566:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :6,9...90<br><br>Answer : <br>{1:NUMERICAL:=1392:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :9,12...99<br><br>Answer : <br>{1:NUMERICAL:=1674:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :12,15...84<br><br>Answer : <br>{1:NUMERICAL:=1200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :3,6...90<br><br>Answer : <br>{1:NUMERICAL:=1395:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :10,15...90<br><br>Answer : <br>{1:NUMERICAL:=850:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :20,25...95<br><br>Answer : <br>{1:NUMERICAL:=920:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:40  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;13 and&nbsp;94 = <br><br>Answer : <br>{1:NUMERICAL:=2173:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :18,21...81<br><br>Answer : <br>{1:NUMERICAL:=1089:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:42  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;19 and&nbsp;84 = <br><br>Answer : <br>{1:NUMERICAL:=1683:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...90<br><br>Answer : <br>{1:NUMERICAL:=855:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:44  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :9,12...90<br><br>Answer : <br>{1:NUMERICAL:=1386:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;3 and&nbsp;99 = <br><br>Answer : <br>{1:NUMERICAL:=2499:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,18...81<br><br>Answer : <br>{1:NUMERICAL:=1104:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :18,21...99<br><br>Answer : <br>{1:NUMERICAL:=1638:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :6,9...84<br><br>Answer : <br>{1:NUMERICAL:=1215:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...80<br><br>Answer : <br>{1:NUMERICAL:=680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :10,15...85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;11 and&nbsp;83 = <br><br>Answer : <br>{1:NUMERICAL:=1739:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;11 and&nbsp;99 = <br><br>Answer : <br>{1:NUMERICAL:=2420:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :12,15...87<br><br>Answer : <br>{1:NUMERICAL:=1287:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:54  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :3,6...84<br><br>Answer : <br>{1:NUMERICAL:=1218:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,18...84<br><br>Answer : <br>{1:NUMERICAL:=1188:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:56  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :18,21...84<br><br>Answer : <br>{1:NUMERICAL:=1173:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:57  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :10,15...90<br><br>Answer : <br>{1:NUMERICAL:=850:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,18...90<br><br>Answer : <br>{1:NUMERICAL:=1365:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;9 and&nbsp;97 = <br><br>Answer : <br>{1:NUMERICAL:=2332:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :18,21...87<br><br>Answer : <br>{1:NUMERICAL:=1260:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :20,25...95<br><br>Answer : <br>{1:NUMERICAL:=920:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :6,9...99<br><br>Answer : <br>{1:NUMERICAL:=1680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,18...99<br><br>Answer : <br>{1:NUMERICAL:=1653:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :6,9...90<br><br>Answer : <br>{1:NUMERICAL:=1392:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;5 and&nbsp;91 = <br><br>Answer : <br>{1:NUMERICAL:=2112:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :20,25...90<br><br>Answer : <br>{1:NUMERICAL:=825:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :12,15...90<br><br>Answer : <br>{1:NUMERICAL:=1377:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :9,12...96<br><br>Answer : <br>{1:NUMERICAL:=1575:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :10,15...85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;5 and&nbsp;91 = <br><br>Answer : <br>{1:NUMERICAL:=2064:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;17 and&nbsp;81 = <br><br>Answer : <br>{1:NUMERICAL:=1617:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :20,25...85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;19 and&nbsp;93 = <br><br>Answer : <br>{1:NUMERICAL:=2128:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;15 and&nbsp;92 = <br><br>Answer : <br>{1:NUMERICAL:=2067:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;15 and&nbsp;80 = <br><br>Answer : <br>{1:NUMERICAL:=1551:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...95<br><br>Answer : <br>{1:NUMERICAL:=950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...95<br><br>Answer : <br>{1:NUMERICAL:=950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;2 and&nbsp;96 = <br><br>Answer : <br>{1:NUMERICAL:=2352:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :20,25...95<br><br>Answer : <br>{1:NUMERICAL:=920:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...95<br><br>Answer : <br>{1:NUMERICAL:=950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :12,15...99<br><br>Answer : <br>{1:NUMERICAL:=1665:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...80<br><br>Answer : <br>{1:NUMERICAL:=680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;14 and&nbsp;89 = <br><br>Answer : <br>{1:NUMERICAL:=1976:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :10,15...100<br><br>Answer : <br>{1:NUMERICAL:=1045:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :10,15...100<br><br>Answer : <br>{1:NUMERICAL:=1045:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;17 and&nbsp;90 = <br><br>Answer : <br>{1:NUMERICAL:=1961:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :3,6...99<br><br>Answer : <br>{1:NUMERICAL:=1683:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...85<br><br>Answer : <br>{1:NUMERICAL:=765:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :6,9...93<br><br>Answer : <br>{1:NUMERICAL:=1485:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;16 and&nbsp;86 = <br><br>Answer : <br>{1:NUMERICAL:=1785:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:91  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;20 and&nbsp;84 = <br><br>Answer : <br>{1:NUMERICAL:=1716:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:92  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;10 and&nbsp;99 = <br><br>Answer : <br>{1:NUMERICAL:=2475:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:93  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,20...95<br><br>Answer : <br>{1:NUMERICAL:=935:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:94  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;8 and&nbsp;94 = <br><br>Answer : <br>{1:NUMERICAL:=2193:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:95  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;18 and&nbsp;94 = <br><br>Answer : <br>{1:NUMERICAL:=2184:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:96  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;13 and&nbsp;81 = <br><br>Answer : <br>{1:NUMERICAL:=1598:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:97  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :15,20...95<br><br>Answer : <br>{1:NUMERICAL:=935:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:98  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :18,21...81<br><br>Answer : <br>{1:NUMERICAL:=1089:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:99  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :10,15...85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:100  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :5,10...85<br><br>Answer : <br>{1:NUMERICAL:=765:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sum of numbers</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+</quiz>
