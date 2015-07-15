@@ -6,7 +6,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;17 and&nbsp;82 = <br><br>Answer : <br>{1:NUMERICAL:=1650:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;17 and&nbsp;95<br><br>Answer : <br>{1:NUMERICAL:=2240:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -21,7 +21,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :3,6...90<br><br>Answer : <br>{1:NUMERICAL:=1395:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;6 and&nbsp;88<br><br>Answer : <br>{1:NUMERICAL:=1974:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -36,7 +36,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;12 and&nbsp;89 = <br><br>Answer : <br>{1:NUMERICAL:=1950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;17 and&nbsp;96<br><br>Answer : <br>{1:NUMERICAL:=2240:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -51,7 +51,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;19 and&nbsp;94 = <br><br>Answer : <br>{1:NUMERICAL:=2166:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>3+6+9.....90+93<br><br>Answer : <br>{1:NUMERICAL:=1488:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -66,7 +66,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,18...90<br><br>Answer : <br>{1:NUMERICAL:=1365:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+18+21.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1275:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -81,7 +81,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...100<br><br>Answer : <br>{1:NUMERICAL:=1050:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....80+85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -96,7 +96,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;4 and&nbsp;90 = <br><br>Answer : <br>{1:NUMERICAL:=2068:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;15 and&nbsp;97<br><br>Answer : <br>{1:NUMERICAL:=2296:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -111,7 +111,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :6,9...84<br><br>Answer : <br>{1:NUMERICAL:=1215:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>6+9+12.....90+93<br><br>Answer : <br>{1:NUMERICAL:=1485:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -126,7 +126,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :10,15...85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;9 and&nbsp;97<br><br>Answer : <br>{1:NUMERICAL:=2385:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -141,7 +141,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;5 and&nbsp;90 = <br><br>Answer : <br>{1:NUMERICAL:=2021:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....90+95<br><br>Answer : <br>{1:NUMERICAL:=945:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -156,7 +156,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,18...87<br><br>Answer : <br>{1:NUMERICAL:=1275:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>3+6+9.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1305:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -171,7 +171,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,20...100<br><br>Answer : <br>{1:NUMERICAL:=1035:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>5+10+15.....80+85<br><br>Answer : <br>{1:NUMERICAL:=765:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -186,7 +186,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;14 and&nbsp;91 = <br><br>Answer : <br>{1:NUMERICAL:=2028:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;5 and&nbsp;87<br><br>Answer : <br>{1:NUMERICAL:=1886:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -201,7 +201,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :10,15...85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+18+21.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1275:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -216,7 +216,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :9,12...81<br><br>Answer : <br>{1:NUMERICAL:=1125:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>18+21+24.....78+81<br><br>Answer : <br>{1:NUMERICAL:=1089:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -231,7 +231,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,18...90<br><br>Answer : <br>{1:NUMERICAL:=1365:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;15 and&nbsp;99<br><br>Answer : <br>{1:NUMERICAL:=2451:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -246,7 +246,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;8 and&nbsp;94 = <br><br>Answer : <br>{1:NUMERICAL:=2244:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>3+6+9.....90+93<br><br>Answer : <br>{1:NUMERICAL:=1488:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -261,7 +261,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...80<br><br>Answer : <br>{1:NUMERICAL:=680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>3+6+9.....93+96<br><br>Answer : <br>{1:NUMERICAL:=1584:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -276,7 +276,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;6 and&nbsp;81 = <br><br>Answer : <br>{1:NUMERICAL:=1672:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....80+85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -291,7 +291,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...90<br><br>Answer : <br>{1:NUMERICAL:=855:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;5 and&nbsp;92<br><br>Answer : <br>{1:NUMERICAL:=2156:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -306,7 +306,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :10,15...90<br><br>Answer : <br>{1:NUMERICAL:=850:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;14 and&nbsp;81<br><br>Answer : <br>{1:NUMERICAL:=1598:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -321,7 +321,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :20,25...85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;7 and&nbsp;93<br><br>Answer : <br>{1:NUMERICAL:=2150:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -336,7 +336,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :3,6...99<br><br>Answer : <br>{1:NUMERICAL:=1683:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>9+12+15.....93+96<br><br>Answer : <br>{1:NUMERICAL:=1575:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -351,7 +351,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :20,25...85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;13 and&nbsp;99<br><br>Answer : <br>{1:NUMERICAL:=2464:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -366,7 +366,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,18...93<br><br>Answer : <br>{1:NUMERICAL:=1458:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>20+25+30.....75+80<br><br>Answer : <br>{1:NUMERICAL:=650:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -381,7 +381,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :20,25...100<br><br>Answer : <br>{1:NUMERICAL:=1020:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;9 and&nbsp;94<br><br>Answer : <br>{1:NUMERICAL:=2236:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -396,7 +396,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...80<br><br>Answer : <br>{1:NUMERICAL:=680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>5+10+15.....75+80<br><br>Answer : <br>{1:NUMERICAL:=680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -411,7 +411,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :3,6...87<br><br>Answer : <br>{1:NUMERICAL:=1305:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>20+25+30.....90+95<br><br>Answer : <br>{1:NUMERICAL:=920:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -426,7 +426,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :20,25...85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>20+25+30.....80+85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -441,7 +441,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,20...90<br><br>Answer : <br>{1:NUMERICAL:=840:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+18+21.....87+90<br><br>Answer : <br>{1:NUMERICAL:=1365:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -456,7 +456,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :20,25...85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>12+15+18.....93+96<br><br>Answer : <br>{1:NUMERICAL:=1566:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -471,7 +471,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :12,15...87<br><br>Answer : <br>{1:NUMERICAL:=1287:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;10 and&nbsp;84<br><br>Answer : <br>{1:NUMERICAL:=1739:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -486,7 +486,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :12,15...96<br><br>Answer : <br>{1:NUMERICAL:=1566:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+18+21.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1275:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -501,7 +501,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :6,9...90<br><br>Answer : <br>{1:NUMERICAL:=1392:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>3+6+9.....81+84<br><br>Answer : <br>{1:NUMERICAL:=1218:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -516,7 +516,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :9,12...99<br><br>Answer : <br>{1:NUMERICAL:=1674:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;9 and&nbsp;85<br><br>Answer : <br>{1:NUMERICAL:=1833:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -531,7 +531,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :12,15...84<br><br>Answer : <br>{1:NUMERICAL:=1200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+20+25.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1035:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -546,7 +546,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :3,6...90<br><br>Answer : <br>{1:NUMERICAL:=1395:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>6+9+12.....78+81<br><br>Answer : <br>{1:NUMERICAL:=1131:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -561,7 +561,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :10,15...90<br><br>Answer : <br>{1:NUMERICAL:=850:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>9+12+15.....90+93<br><br>Answer : <br>{1:NUMERICAL:=1479:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -576,7 +576,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :20,25...95<br><br>Answer : <br>{1:NUMERICAL:=920:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....85+90<br><br>Answer : <br>{1:NUMERICAL:=850:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -591,7 +591,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;13 and&nbsp;94 = <br><br>Answer : <br>{1:NUMERICAL:=2173:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;19 and&nbsp;90<br><br>Answer : <br>{1:NUMERICAL:=1944:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -606,7 +606,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :18,21...81<br><br>Answer : <br>{1:NUMERICAL:=1089:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;20 and&nbsp;94<br><br>Answer : <br>{1:NUMERICAL:=2166:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -621,7 +621,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;19 and&nbsp;84 = <br><br>Answer : <br>{1:NUMERICAL:=1683:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+18+21.....90+93<br><br>Answer : <br>{1:NUMERICAL:=1458:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -636,7 +636,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...90<br><br>Answer : <br>{1:NUMERICAL:=855:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>18+21+24.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1260:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -651,7 +651,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :9,12...90<br><br>Answer : <br>{1:NUMERICAL:=1386:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;6 and&nbsp;99<br><br>Answer : <br>{1:NUMERICAL:=2444:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -666,7 +666,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;3 and&nbsp;99 = <br><br>Answer : <br>{1:NUMERICAL:=2499:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....90+95<br><br>Answer : <br>{1:NUMERICAL:=945:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -681,7 +681,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,18...81<br><br>Answer : <br>{1:NUMERICAL:=1104:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;19 and&nbsp;89<br><br>Answer : <br>{1:NUMERICAL:=1890:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -696,7 +696,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :18,21...99<br><br>Answer : <br>{1:NUMERICAL:=1638:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....90+95<br><br>Answer : <br>{1:NUMERICAL:=945:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -711,7 +711,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :6,9...84<br><br>Answer : <br>{1:NUMERICAL:=1215:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;7 and&nbsp;93<br><br>Answer : <br>{1:NUMERICAL:=2200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -726,7 +726,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...80<br><br>Answer : <br>{1:NUMERICAL:=680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;5 and&nbsp;100<br><br>Answer : <br>{1:NUMERICAL:=2544:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -741,7 +741,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :10,15...85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>6+9+12.....78+81<br><br>Answer : <br>{1:NUMERICAL:=1131:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -756,7 +756,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;11 and&nbsp;83 = <br><br>Answer : <br>{1:NUMERICAL:=1739:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>3+6+9.....81+84<br><br>Answer : <br>{1:NUMERICAL:=1218:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -771,7 +771,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;11 and&nbsp;99 = <br><br>Answer : <br>{1:NUMERICAL:=2420:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;9 and&nbsp;96<br><br>Answer : <br>{1:NUMERICAL:=2332:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -786,7 +786,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :12,15...87<br><br>Answer : <br>{1:NUMERICAL:=1287:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;6 and&nbsp;81<br><br>Answer : <br>{1:NUMERICAL:=1672:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -801,7 +801,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :3,6...84<br><br>Answer : <br>{1:NUMERICAL:=1218:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>5+10+15.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1050:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -816,7 +816,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,18...84<br><br>Answer : <br>{1:NUMERICAL:=1188:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>3+6+9.....90+93<br><br>Answer : <br>{1:NUMERICAL:=1488:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -831,7 +831,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :18,21...84<br><br>Answer : <br>{1:NUMERICAL:=1173:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....90+95<br><br>Answer : <br>{1:NUMERICAL:=945:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -846,7 +846,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :10,15...90<br><br>Answer : <br>{1:NUMERICAL:=850:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+20+25.....80+85<br><br>Answer : <br>{1:NUMERICAL:=750:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -861,7 +861,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,18...90<br><br>Answer : <br>{1:NUMERICAL:=1365:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>9+12+15.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1296:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -876,7 +876,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;9 and&nbsp;97 = <br><br>Answer : <br>{1:NUMERICAL:=2332:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;10 and&nbsp;80<br><br>Answer : <br>{1:NUMERICAL:=1620:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -891,7 +891,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :18,21...87<br><br>Answer : <br>{1:NUMERICAL:=1260:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;18 and&nbsp;98<br><br>Answer : <br>{1:NUMERICAL:=2320:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -906,7 +906,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :20,25...95<br><br>Answer : <br>{1:NUMERICAL:=920:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>20+25+30.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1020:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -921,7 +921,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :6,9...99<br><br>Answer : <br>{1:NUMERICAL:=1680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;1 and&nbsp;85<br><br>Answer : <br>{1:NUMERICAL:=1849:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -936,7 +936,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,18...99<br><br>Answer : <br>{1:NUMERICAL:=1653:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;16 and&nbsp;84<br><br>Answer : <br>{1:NUMERICAL:=1700:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -951,7 +951,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :6,9...90<br><br>Answer : <br>{1:NUMERICAL:=1392:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;7 and&nbsp;98<br><br>Answer : <br>{1:NUMERICAL:=2392:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -966,7 +966,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;5 and&nbsp;91 = <br><br>Answer : <br>{1:NUMERICAL:=2112:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;8 and&nbsp;97<br><br>Answer : <br>{1:NUMERICAL:=2385:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -981,7 +981,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :20,25...90<br><br>Answer : <br>{1:NUMERICAL:=825:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>20+25+30.....80+85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -996,7 +996,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :12,15...90<br><br>Answer : <br>{1:NUMERICAL:=1377:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>5+10+15.....90+95<br><br>Answer : <br>{1:NUMERICAL:=950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1011,7 +1011,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :9,12...96<br><br>Answer : <br>{1:NUMERICAL:=1575:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>12+15+18.....87+90<br><br>Answer : <br>{1:NUMERICAL:=1377:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1026,7 +1026,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :10,15...85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;3 and&nbsp;93<br><br>Answer : <br>{1:NUMERICAL:=2160:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1041,7 +1041,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;5 and&nbsp;91 = <br><br>Answer : <br>{1:NUMERICAL:=2064:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1045:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1056,7 +1056,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;17 and&nbsp;81 = <br><br>Answer : <br>{1:NUMERICAL:=1617:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>6+9+12.....90+93<br><br>Answer : <br>{1:NUMERICAL:=1485:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1071,7 +1071,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :20,25...85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;15 and&nbsp;100<br><br>Answer : <br>{1:NUMERICAL:=2451:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1086,7 +1086,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;19 and&nbsp;93 = <br><br>Answer : <br>{1:NUMERICAL:=2128:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+20+25.....75+80<br><br>Answer : <br>{1:NUMERICAL:=665:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1101,7 +1101,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;15 and&nbsp;92 = <br><br>Answer : <br>{1:NUMERICAL:=2067:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;19 and&nbsp;90<br><br>Answer : <br>{1:NUMERICAL:=1980:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1116,7 +1116,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;15 and&nbsp;80 = <br><br>Answer : <br>{1:NUMERICAL:=1551:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>5+10+15.....90+95<br><br>Answer : <br>{1:NUMERICAL:=950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1131,7 +1131,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...95<br><br>Answer : <br>{1:NUMERICAL:=950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>20+25+30.....85+90<br><br>Answer : <br>{1:NUMERICAL:=825:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1146,7 +1146,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...95<br><br>Answer : <br>{1:NUMERICAL:=950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>3+6+9.....81+84<br><br>Answer : <br>{1:NUMERICAL:=1218:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1161,7 +1161,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;2 and&nbsp;96 = <br><br>Answer : <br>{1:NUMERICAL:=2352:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;9 and&nbsp;86<br><br>Answer : <br>{1:NUMERICAL:=1833:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1176,7 +1176,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :20,25...95<br><br>Answer : <br>{1:NUMERICAL:=920:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>6+9+12.....96+99<br><br>Answer : <br>{1:NUMERICAL:=1680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1191,7 +1191,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...95<br><br>Answer : <br>{1:NUMERICAL:=950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+20+25.....75+80<br><br>Answer : <br>{1:NUMERICAL:=665:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1206,7 +1206,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :12,15...99<br><br>Answer : <br>{1:NUMERICAL:=1665:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+20+25.....75+80<br><br>Answer : <br>{1:NUMERICAL:=665:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1221,7 +1221,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...80<br><br>Answer : <br>{1:NUMERICAL:=680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1045:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1236,7 +1236,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;14 and&nbsp;89 = <br><br>Answer : <br>{1:NUMERICAL:=1976:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>12+15+18.....87+90<br><br>Answer : <br>{1:NUMERICAL:=1377:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1251,7 +1251,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :10,15...100<br><br>Answer : <br>{1:NUMERICAL:=1045:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>6+9+12.....90+93<br><br>Answer : <br>{1:NUMERICAL:=1485:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1266,7 +1266,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :10,15...100<br><br>Answer : <br>{1:NUMERICAL:=1045:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;9 and&nbsp;91<br><br>Answer : <br>{1:NUMERICAL:=2100:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1281,7 +1281,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;17 and&nbsp;90 = <br><br>Answer : <br>{1:NUMERICAL:=1961:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>20+25+30.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1020:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1296,7 +1296,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :3,6...99<br><br>Answer : <br>{1:NUMERICAL:=1683:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>5+10+15.....75+80<br><br>Answer : <br>{1:NUMERICAL:=680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1311,7 +1311,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...85<br><br>Answer : <br>{1:NUMERICAL:=765:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;12 and&nbsp;93<br><br>Answer : <br>{1:NUMERICAL:=2173:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1326,7 +1326,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :6,9...93<br><br>Answer : <br>{1:NUMERICAL:=1485:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>18+21+24.....81+84<br><br>Answer : <br>{1:NUMERICAL:=1173:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1341,7 +1341,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;16 and&nbsp;86 = <br><br>Answer : <br>{1:NUMERICAL:=1785:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;3 and&nbsp;91<br><br>Answer : <br>{1:NUMERICAL:=2068:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1356,7 +1356,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;20 and&nbsp;84 = <br><br>Answer : <br>{1:NUMERICAL:=1716:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;16 and&nbsp;89<br><br>Answer : <br>{1:NUMERICAL:=1924:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1371,7 +1371,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;10 and&nbsp;99 = <br><br>Answer : <br>{1:NUMERICAL:=2475:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+20+25.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1035:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1386,7 +1386,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,20...95<br><br>Answer : <br>{1:NUMERICAL:=935:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;18 and&nbsp;81<br><br>Answer : <br>{1:NUMERICAL:=1600:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1401,7 +1401,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;8 and&nbsp;94 = <br><br>Answer : <br>{1:NUMERICAL:=2193:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>9+12+15.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1296:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1416,7 +1416,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;18 and&nbsp;94 = <br><br>Answer : <br>{1:NUMERICAL:=2184:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....90+95<br><br>Answer : <br>{1:NUMERICAL:=945:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1431,7 +1431,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;13 and&nbsp;81 = <br><br>Answer : <br>{1:NUMERICAL:=1598:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>6+9+12.....93+96<br><br>Answer : <br>{1:NUMERICAL:=1581:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1446,7 +1446,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :15,20...95<br><br>Answer : <br>{1:NUMERICAL:=935:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>3+6+9.....81+84<br><br>Answer : <br>{1:NUMERICAL:=1218:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1461,7 +1461,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :18,21...81<br><br>Answer : <br>{1:NUMERICAL:=1089:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;12 and&nbsp;84<br><br>Answer : <br>{1:NUMERICAL:=1728:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1476,7 +1476,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :10,15...85<br><br>Answer : <br>{1:NUMERICAL:=760:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>20+25+30.....90+95<br><br>Answer : <br>{1:NUMERICAL:=920:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1491,7 +1491,7 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :5,10...85<br><br>Answer : <br>{1:NUMERICAL:=765:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;19 and&nbsp;100<br><br>Answer : <br>{1:NUMERICAL:=2460:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
