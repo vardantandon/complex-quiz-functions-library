@@ -11,6 +11,7 @@ for i=1:1:100
     a = randi([1,10]);
     b = randi([1,10]);
     
+    syms t;
     
     if (mod(i,2) == 0)
         f = exp(a*t)*cos(b*t);
@@ -26,7 +27,7 @@ for i=1:1:100
     fprintf(file,'\n      <text>Laplace Transform</text>');
     fprintf(file,'\n    </name>');
     fprintf(file,'\n    <questiontext format="html">');
-    fprintf(file,'\n      <text><![CDATA[<p>Use a <a href="https://en.wikipedia.org/wiki/Laplace_transform">table</a> of Laplace Transforms to find $$ \\small \\mathscr{L}\\{%s\\} $$.</p>]]></text>', latex(f));
+    fprintf(file,'\n      <text><![CDATA[<p>Use a table of Laplace Transforms to find $$ \\small \\mathscr{L}\\{%s\\} $$. <br><br>Find the Laplace Transforms table <a href="https://en.wikipedia.org/wiki/Laplace_transform" target="_blank">here</a>.</p>]]></text>', latex(f));
     fprintf(file,'\n    </questiontext>');
     fprintf(file,'\n    <generalfeedback format="html">');
     fprintf(file,'\n      <text></text>');

@@ -5,14 +5,19 @@
 file=fopen('question1.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
 
-for i=1:1:100
+for i=1:1:10
     
     %Calculations
     period_1 = randi([1, 2]);
     period_2 = randi([10, 15]);
     amp_factor = randi([1, 3]);
     xaxis_length = period_2 * randi([2, 4]) / 2;
-    
+    if period_1 == 1
+        frequency_1_string = '1';
+    else
+        frequency_1_string = '1/2';
+    end
+    frequency_2_string = strcat('1/', num2str(period_2));
     amp_1 = 0.5 * amp_factor;
     amp_2 = 2 * amp_factor;
     
@@ -42,9 +47,6 @@ for i=1:1:100
     xlabel(xlabel_string);
     ylabel(ylabel_string);
 
-%     text((w/2) - 0.8,-0.4,xlabel,'fontsize',22,'fontweight','bold');
-%     text(-1.25,(h/2),ylabel,'fontsize',18,'fontweight','bold');
-
     hold off;
     
     %Plot string generation
@@ -61,11 +63,18 @@ for i=1:1:100
         'Higher Frequency:&nbsp;', numString_higher, ...
         '<br>Lower Frequency:&nbsp;', numString_lower);
     
+    feedbackString = strcat('The signal consists of the sum of two sine waves, with periods of&nbsp', num2str(period_1), '&nbspsecond and&nbsp', num2str(period_2), '&nbspseconds. Thus the peaks will be observed at frequencies of&nbsp', frequency_1_string, '&nbspHz and&nbsp;', frequency_2_string, '&nbspHz (=', num2str(round(1/period_2,3)), '&nbspHz).');
+    
+    hint1 = 'Try again (hint 1)';
+    hint2 = 'Try again (hint2)';
+    
     %Complete question XML code generation
     xmlCode = question_cloze(i, ...
         'Fourier transform of Signal', ... 
         questionString, ...
-        'Fourier transform of Signal', ...
+        feedbackString, ...
+        hint1, ...
+        hint2, ...
         plotString);
     
     %Output

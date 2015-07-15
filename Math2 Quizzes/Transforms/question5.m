@@ -11,7 +11,7 @@ for i=1:1:100
 %     a = randi([1,10]);
 %     b = randi([1,10]);
     
-    syms x a b c d m g h;
+    syms x a b c d m g h s;
     a = randi([1 5]);
     b = randi([6 9]);
     c = randi([1 9]);
@@ -21,15 +21,24 @@ for i=1:1:100
     h = randi([3 6]);
     f = ((g*s^2 + (a*h + b*g + g*m)*s + a*h*m + b*g*m + d) / ((s + m)*(a*s^2 + b * s + c)));
     output = ilaplace(f);
+    aString = '';
+    cString = '';
+    
+    if a ~= 1
+        aString  = num2str(a);
+    end
+    if c ~= 1
+        cString  = num2str(c);
+    end
     
     %Question output
     fprintf(file,'  <!-- question: %i  -->', i);
     fprintf(file,'\n  <question type="algebra">');
     fprintf(file,'\n    <name>');
-    fprintf(file,'\n      <text>Laplace Transform</text>');
+    fprintf(file,'\n      <text>Differential Equations using Laplace Transforms</text>');
     fprintf(file,'\n    </name>');
     fprintf(file,'\n    <questiontext format="html">');
-    fprintf(file,'\n      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = %i and dy/dt = %i at t = 0:<br><br>$$ \\small %i\\frac{d^2 y}{d t^2} + %i\\frac{dy}{dt} + %iy = %iexp(-%it) $$ </p>]]></text>', g, h, a, b, c, d, m);
+    fprintf(file,'\n      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = %i and dy/dt = %i at t = 0:<br><br>$$ \\small %s\\frac{d^2 y}{d t^2} + %i\\frac{dy}{dt} + %sy = %iexp(-%it) $$ <br> Find the Laplace Transforms table <a href="https://en.wikipedia.org/wiki/Laplace_transform" target="_blank">here</a>.</p>]]></text>', g, h, aString, b, cString, d, m);
     fprintf(file,'\n    </questiontext>');
     fprintf(file,'\n    <generalfeedback format="html">');
     fprintf(file,'\n      <text></text>');
@@ -42,7 +51,7 @@ for i=1:1:100
     fprintf(file,'\n    <nchecks>10</nchecks>');
     fprintf(file,'\n    <disallow><text></text></disallow>');
     fprintf(file,'\n    <allowedfuncs></allowedfuncs>');
-    fprintf(file,'\n    <answerprefix><text></text></answerprefix>');
+    fprintf(file,'\n    <answerprefix><text>%s</text></answerprefix>', 'y(t) = ');
     fprintf(file,'\n    <answer fraction="100" format="moodle_auto_format">');
     fprintf(file,'\n      <text>%s</text>', strrep(char(output), 'exp(', 'e^('));
     fprintf(file,'\n      <feedback format="html">');

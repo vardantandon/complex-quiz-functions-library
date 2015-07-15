@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>  <!-- question: 1  -->
+  <question type="algebra">
+    <name>
+      <text>PDE Level1</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p><span>Part of the question has been solved for you. Complete the remaining bit and enter the answer:</span></p>
+        <p></p>
+        <p><span style="text-decoration: underline; font-size: medium;"><strong>Question </strong></span></p>
+        <p>Consider the problem of determining the temperature distribution in a thin homogeneous bar of length L, given the initial temperature throughout the bar and the temperature at both ends at all times. The governing equation is:</p>
+        <p style="text-align: center;"><span>$$ \small \frac{\partial u}{\partial t} = \beta^2 \frac{\partial^2 u}{\partial x^2} $$   <span>(1)</span></span></p>
+        <p>where $$ \small \beta = \sqrt{K/c
+ho} $$</p>
+        <p>Boundary Conditions:</p>
+        <p style="margin-left: 30px;">i)  $$ \small u(0,t) = 0 $$</p>
+        <p style="margin-left: 30px;" dir="ltr">ii) $$ \small u(L,t) = 0 $$</p>
+        <p>Initial Condition:</p>
+        <p style="margin-left: 30px;">i) $$ \small u(x,0) = f(x) $$</p>
+        <p>Given: </p>
+        <p style="margin-left: 30px;">$$ \small   f(x) = -\frac{4\, x\, \sin\!\left(\frac{n\, p\, x}{L}\right)\, \left(\frac{x}{L} - 1\right)}{L} $$   (2)</p>
+        <p>Look for solutions of the form</p>
+        <p style="text-align: left; margin-left: 30px;">$$ \small u(x,t)=T(t)X(x) $$   (3)</p>
+        <p> </p>
+        <p><span style="font-size: medium;"><strong><span style="text-decoration: underline;">Solution</span></strong></span></p>
+        <p>Rewriting the governing equation using (3),</p>
+        <p style="margin-left: 30px;">$$ \small \frac{1}{\beta} \frac{T'(t)}{T(t)} = \frac{X''(x)}{X(x)} = \alpha $$   (4)</p>
+        <p><span style="text-decoration: underline;">Case 1 - $$ \small \alpha $$ &gt; 0</span></p>
+        <p style="margin-left: 30px;">Let: $$ \small \alpha = \lambda^2 $$</p>
+        <p style="margin-left: 30px;">$$ \small X' =  \lambda^{2}X =&gt; X(x) = Ae^{\lambda x} + Be^{-\lambda x} $$</p>
+        <p style="margin-left: 30px;">Applying boundary condition (i) and (ii) will show that this case results in a trivial solution.</p>
+        <p><span style="text-decoration: underline;">Case 2 - $$ \small \alpha $$ &lt; 0</span></p>
+        <p style="margin-left: 30px;">Let: $$ \small \alpha = -\lambda^2 $$</p>
+        <p style="margin-left: 30px;">$$ \small X' = -\lambda^2X =&gt; X(x) = A\cos{\lambda x} + B \sin{\lambda x} $$</p>
+        <p style="margin-left: 30px;"><span style="text-decoration: underline;">From boundary condition (i)</span></p>
+        <p style="margin-left: 30px;">$$ \small u(0,t) = 0 =&gt; X(0) = 0 $$</p>
+        <p style="margin-left: 30px;">$$ \tiny \therefore $$ A = 0</p>
+        <p style="margin-left: 30px;"><span style="text-decoration: underline;">From boundary condition (ii)</span></p>
+        <p style="margin-left: 30px;">$$ \small u(L,t) = 0 =&gt; B \sin{\lambda L} = 0 $$</p>
+        <p style="margin-left: 30px;">$$ \tiny \therefore \small  \lambda L = n\pi $$</p>
+        <p style="margin-left: 30px;">$$ \small\lambda = \frac{n\pi}{L} $$</p>
+        <p style="margin-left: 30px;">$$ \small X_n = B_n\sin{\frac{n\pi x}[L}} $$</p>
+        <p>Also,</p>
+        <p style="margin-left: 30px;">$$ \small T_n(t) = D_n exp [-\frac{n^2\pi^2}{L^2} \beta^{2} t] $$</p>
+        <p style="margin-left: 30px;">$$ \small u_n(x,t) = c_n \sin{\frac{n\pi x}{L}} exp [-\frac{n^2\pi^2}{L^2} \beta^{2} t] $$</p>
+        <p>To satisfy the initial condition we use the superposition principle, i.e, :</p>
+        <p style="margin-left: 30px;">$$ \small u(x,t) =  \sum_{{n}={1}}^{\infty}  u_n(x,t) =  \sum_{{n}={1}}^{\infty} c_n\sin{\frac{n\pi x}{L}}exp [-\frac{n^2\pi^2}{L^2} \beta^{2} t]  $$</p>
+        <p>Thus at $$ \small t $$ = 0, we get</p>
+        <p style="margin-left: 30px;">$$ \small u(x,0) = \sum_{{n}={1}}^{\infty} c_n \sin{\frac{n\pi x}{L}} = f(x) = -\frac{4\, x\, \sin\!\left(\frac{n\, p\, x}{L}\right)\, \left(\frac{x}{L} - 1\right)}{L} $$</p>
+        <p>This is a half-range Fourier series expression. Solve it to find an expression for $$ \small u(x,t) $$. Use L = 10 and $$ \small \beta $$ = 1.</p>
+        <p>$$ \small u(x,t) = \sum_{{n}={i}}^{\infty} [?] $$</p>
+        <p>Enter the ($$ \small ? $$) missing expression in the box below.</p>]]>
+      </text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text></text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(2*e^(-1*(b^2*(2n-1)^2*p^2*t)/L^2)*sin(((2n-1)*p*x)/L)*((16*L*sin(((2n-1)*p)/2)^2)/((2n-1)^3*p^3) - (4*L*sin((2n-1)*p))/((2n-1)^2*p^2)))/L</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="b">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+    <variable name="n">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+    <variable name="p">
+        <min>3.14158</min>
+        <max>3.14160</max>
+    </variable>
+    <variable name="t">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+    <variable name="L">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>
+</quiz>
