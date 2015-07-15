@@ -70,7 +70,7 @@ for i=1:1:100
     numString = cloze_numerical(sum, 0 , 'Good job!', 'Incorrect, try again');
     
  %Question string joining
- questionString = strcat('Find the sum of all ',var ,' numbers between&nbsp;', num2str(a), ' and&nbsp;' , num2str(b), ' = <br>', ...
+ questionString = strcat('Find the sum of all ',var ,' numbers between&nbsp;', num2str(a), ' and&nbsp;' , num2str(b), '<br>', ...
  '<br>Answer : <br>', numString);
     
     else if (flag == 2)
@@ -90,7 +90,7 @@ for i=1:1:100
     numString = cloze_numerical(sum, 0 , 'Good job!', 'Incorrect, try again');
     
  %Question string joining
- questionString = strcat('Find the sum of the series : ',num2str( var_1) ,',',num2str(var_2),'...',num2str(var_3), '<br>', ...
+ questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'+',num2str(var_2),'+',num2str( var_2 + 3),'.....',num2str(var_3 - 3),'+',num2str(var_3), '<br>', ...
  '<br>Answer : <br>', numString);
             
     
@@ -113,7 +113,7 @@ for i=1:1:100
     numString = cloze_numerical(sum, 0 , 'Good job!', 'Incorrect, try again');
     
  %Question string joining
- questionString = strcat('Find the sum of the series : ',num2str( var_1) ,',',num2str(var_2),'...',num2str(var_3), '<br>', ...
+ questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'+',num2str(var_2),'+',num2str(var_2 + 5),'.....',num2str(var_3 - 5),'+',num2str(var_3), '<br>', ...
  '<br>Answer : <br>', numString);
             
             

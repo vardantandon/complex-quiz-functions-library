@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 3 significant figures : <br>$$\small\int_0^12e^{x^2}$$<br><br>Answer : <br>{1:NUMERICAL:=2.9251:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Integral</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 3 significant figures : <br>$$\small\int_0^1e^{x^2}$$<br><br>Answer : <br>{1:NUMERICAL:=1.4625:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Integral</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 3 significant figures : <br>$$\small\int_0^15e^{x^2}$$<br><br>Answer : <br>{1:NUMERICAL:=7.3127:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Integral</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 3 significant figures : <br>$$\small\int_0^14e^{x^2}$$<br><br>Answer : <br>{1:NUMERICAL:=5.8501:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Integral</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 3 significant figures : <br>$$\small\int_0^15e^{x^2}$$<br><br>Answer : <br>{1:NUMERICAL:=7.3127:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Integral</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 3 significant figures : <br>$$\small\int_0^1e^{x^2}$$<br><br>Answer : <br>{1:NUMERICAL:=1.4625:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Integral</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 3 significant figures : <br>$$\small\int_0^14e^{x^2}$$<br><br>Answer : <br>{1:NUMERICAL:=5.8501:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Integral</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 3 significant figures : <br>$$\small\int_0^1e^{x^2}$$<br><br>Answer : <br>{1:NUMERICAL:=1.4625:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Integral</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 3 significant figures : <br>$$\small\int_0^14e^{x^2}$$<br><br>Answer : <br>{1:NUMERICAL:=5.8501:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Integral</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 3 significant figures : <br>$$\small\int_0^14e^{x^2}$$<br><br>Answer : <br>{1:NUMERICAL:=5.8501:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Integral</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+</quiz>
