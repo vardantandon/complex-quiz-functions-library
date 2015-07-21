@@ -72,6 +72,10 @@ for i=1:1:100
  %Question string joining
  questionString = strcat('Find the sum of all ',var ,' numbers between&nbsp;', num2str(a), ' and&nbsp;' , num2str(b), '<br>', ...
  '<br>Answer : <br>', numString);
+
+  
+feedbackString = strcat('First term  = a', '<br>Common difference = d','<br>Last term = a<sub>n</sub><br>', 'Calculate the total number of terms(n) : ', ...
+' a<sub>n</sub> = a + (n-1)d', '<br>Sum = (n/2)(2a + (n-1)d) = ', num2str(sum));
     
     else if (flag == 2)
            
@@ -92,7 +96,9 @@ for i=1:1:100
  %Question string joining
  questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'+',num2str(var_2),'+',num2str( var_2 + 3),'.....',num2str(var_3 - 3),'+',num2str(var_3), '<br>', ...
  '<br>Answer : <br>', numString);
-            
+  
+feedbackString = strcat('First term  = a', '<br>Common difference = d','<br>Last term = a<sub>n</sub><br>', 'Calculate the total number of terms(n) : ', ...
+' a<sub>n</sub> = a + (n-1)d', '<br>Sum = (n/2)(2a + (n-1)d) = ', num2str(sum));
     
 
 
@@ -115,6 +121,8 @@ for i=1:1:100
  %Question string joining
  questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'+',num2str(var_2),'+',num2str(var_2 + 5),'.....',num2str(var_3 - 5),'+',num2str(var_3), '<br>', ...
  '<br>Answer : <br>', numString);
+feedbackString = strcat('First term  = a', '<br>Common difference = d','<br> Last term = a<sub>n</sub><br>', 'Calculate the total number of terms(n) : ', ...
+' a<sub>n</sub> = a + (n-1)d', '<br>Sum = (n/2)(2a + (n-1)d) = ', num2str(sum));
             
             
           
@@ -128,7 +136,7 @@ for i=1:1:100
 xmlCode = question_cloze(i, ...
         'Sum of numbers', ... 
         questionString, ...
-        'Sum of numbers', ...
+        feedbackString, ...
         '');
     
 %Output

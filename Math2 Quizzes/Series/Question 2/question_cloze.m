@@ -22,7 +22,7 @@ function finalStr = question_cloze(num, nameStr, questionStr, generalFeedbackStr
     finalStr = strcat(finalStr, '\n    ', fileStr);
     finalStr = strcat(finalStr, '\n    </questiontext>');
     finalStr = strcat(finalStr, '\n    <generalfeedback format="html">');
-    finalStr = strcat(finalStr, '\n      <text>', generalFeedbackStr, '</text>');
+    finalStr = strcat(finalStr, '\n      <text><![CDATA[<p>', generalFeedbackStr, '</p>]]></text>');
     finalStr = strcat(finalStr, '\n    </generalfeedback>');
     finalStr = strcat(finalStr, '\n    <penalty>0.3333333</penalty>');
     finalStr = strcat(finalStr, '\n    <hidden>0</hidden>');
