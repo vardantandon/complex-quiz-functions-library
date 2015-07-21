@@ -6,11 +6,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[2(\frac{1}{4})^n-5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.3333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-4(9)^{-\frac{n}{2}}+(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.22068:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-3.3333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.22068</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -21,11 +21,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{4})^n+4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.7778:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[4(9)^{-\frac{n}{2}}+3(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.7381:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.7778</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.7381</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -36,11 +36,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[5(\frac{1}{5})^n+4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=10.75:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[3(9)^{-\frac{n}{2}}-4(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.40476:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;10.75</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.40476</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -51,11 +51,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{3})^n-5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-7.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-5(9)^{-\frac{n}{2}}+3(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.26111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-7.5</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.26111</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -66,11 +66,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-5(\frac{1}{4})^n-3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-10:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[3(9)^{-\frac{n}{2}}-2(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.15986:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-10</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.15986</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -81,11 +81,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{4})^n-5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-8.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[5(25)^{-\frac{n}{2}}-4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.045556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-8.6667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.045556</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -96,11 +96,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{5})^n-(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-4.9167:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[3(\frac{1}{2})^n+2(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=3.3333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-4.9167</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;3.3333</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -111,11 +111,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-5(\frac{1}{5})^n+2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.85:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[5(9)^{-\frac{n}{2}}+4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.88889:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-3.85</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.88889</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -126,11 +126,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{3})^n-2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=3.6:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[(25)^{-\frac{n}{2}}-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.039286:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;3.6</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.039286</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -141,11 +141,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{5})^n-5(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-9.375:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-5(\frac{1}{4})^n-5(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.10972:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-9.375</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.10972</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -156,11 +156,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{2})^n-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-7.7143:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(9)^{-\frac{n}{2}}-5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-7.7143</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-3</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -171,11 +171,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{2})^n+5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.7143:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-2(\frac{1}{2})^n+5(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.49444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.7143</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.49444</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -186,11 +186,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[3(\frac{1}{3})^n+3(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=8:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[3(\frac{1}{2})^n-3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.74667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;8</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.74667</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -201,11 +201,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{4})^n-3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-4.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[5(\frac{1}{2})^n-(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.2444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-4.6667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.2444</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -216,11 +216,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{4})^n-(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=4.2083:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[3(\frac{1}{4})^n+3(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;4.2083</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.5</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -231,11 +231,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-4(\frac{1}{3})^n+(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-4.8333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(25)^{-\frac{n}{2}}-4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.4444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-4.8333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.4444</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -246,11 +246,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{3})^n+3(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.42857:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-4(25)^{-\frac{n}{2}}-2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.051111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.42857</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.051111</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -261,11 +261,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{5})^n-4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-5.75:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-4(\frac{1}{4})^n+5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.16667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-5.75</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.16667</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -276,11 +276,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{5})^n-4(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-7.3:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-2(\frac{1}{2})^n+4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.95556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-7.3</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.95556</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -291,11 +291,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{3})^n+(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.3:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(\frac{1}{2})^n-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.23884:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-3.3</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.23884</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -306,11 +306,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{5})^n+2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=7.4:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[5(25)^{-\frac{n}{2}}+2(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.054464:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;7.4</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.054464</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -321,11 +321,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[5(\frac{1}{3})^n+5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=13.3333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[3(\frac{1}{2})^n+(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.75223:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;13.3333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.75223</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -336,11 +336,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[2(\frac{1}{5})^n-4(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-2.3:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[5(\frac{1}{4})^n-(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.39286:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-2.3</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.39286</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -351,11 +351,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{5})^n-2(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-4.8333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[3(25)^{-\frac{n}{2}}-5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.083333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-4.8333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.083333</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -366,11 +366,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{4})^n-2(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-4(25)^{-\frac{n}{2}}-4(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.053605:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-3.6667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.053605</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -381,11 +381,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{2})^n-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-7.7143:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(25)^{-\frac{n}{2}}+2(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.044464:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-7.7143</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.044464</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -396,11 +396,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[3(\frac{1}{3})^n-5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[3(\frac{1}{4})^n-3(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.045833:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.5</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.045833</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -411,11 +411,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[3(\frac{1}{5})^n+4(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=8.4167:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-3(25)^{-\frac{n}{2}}-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.23929:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;8.4167</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.23929</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -426,11 +426,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{4})^n-2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-5.0667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[3(25)^{-\frac{n}{2}}-5(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.080556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-5.0667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.080556</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -441,11 +441,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[5(\frac{1}{4})^n-5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.83333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-3(\frac{1}{2})^n-(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.83333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-3.2</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -456,11 +456,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-4(\frac{1}{5})^n+4(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.33333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-5(9)^{-\frac{n}{2}}+2(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.27331:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.33333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.27331</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -471,11 +471,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{4})^n-5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.66667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-5(25)^{-\frac{n}{2}}-3(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.30357:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.66667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.30357</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -486,11 +486,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{2})^n+2(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.22222:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(9)^{-\frac{n}{2}}-2(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.053333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.22222</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.053333</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -501,11 +501,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[5(\frac{1}{3})^n+(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=8.7:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-(9)^{-\frac{n}{2}}+5(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.11111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;8.7</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.11111</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -516,11 +516,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[(\frac{1}{4})^n+5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=7.1667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[4(\frac{1}{4})^n-5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;7.1667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.5</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -531,11 +531,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[3(\frac{1}{2})^n+4(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=10.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[4(\frac{1}{2})^n-(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=3.8333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;10.6667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;3.8333</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -546,11 +546,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-4(\frac{1}{5})^n+5(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.625:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-2(9)^{-\frac{n}{2}}-4(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.46667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.625</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.46667</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -561,11 +561,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-5(\frac{1}{5})^n-3(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-9.625:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-4(9)^{-\frac{n}{2}}+2(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.21776:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-9.625</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.21776</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -576,11 +576,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{5})^n+3(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=8.375:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-2(\frac{1}{2})^n-5(3)^{2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.0694:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;8.375</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.0694</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -591,11 +591,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[(\frac{1}{2})^n-(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.875:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(9)^{-\frac{n}{2}}-2(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.051091:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.875</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.051091</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -606,11 +606,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[(\frac{1}{4})^n-(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.20833:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-5(\frac{1}{4})^n+2(3)^{2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.4167:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.20833</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.4167</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -621,11 +621,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[3(\frac{1}{5})^n-3(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.15:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-5(\frac{1}{4})^n-3(3)^{2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.1088:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.15</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.1088</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -636,11 +636,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[(\frac{1}{2})^n-3(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-(\frac{1}{2})^n+2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.6:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.5</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.6</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -651,11 +651,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-5(\frac{1}{5})^n+5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.25:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-4(\frac{1}{4})^n+5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.16667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.25</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.16667</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -666,11 +666,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[(\frac{1}{3})^n-4(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.3:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-(25)^{-\frac{n}{2}}-2(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.085714:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-3.3</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.085714</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -681,11 +681,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{4})^n+3(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=8.7619:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[4(\frac{1}{4})^n-2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.26667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;8.7619</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.26667</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -696,11 +696,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[5(\frac{1}{2})^n-2(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=7.75:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(\frac{1}{2})^n+5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.27778:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;7.75</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.27778</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -711,11 +711,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{5})^n+3(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=8.4286:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(\frac{1}{2})^n+5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.017:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;8.4286</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.017</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -726,11 +726,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[5(\frac{1}{3})^n-3(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=3.9:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-2(\frac{1}{2})^n-4(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.1333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;3.9</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.1333</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -741,11 +741,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{4})^n-4(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-7.4667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-5(\frac{1}{4})^n+(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.5238:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-7.4667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.5238</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -756,11 +756,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{2})^n-4(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-8.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[3(25)^{-\frac{n}{2}}-(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.13214:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-8.6667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.13214</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -771,11 +771,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[5(\frac{1}{3})^n+3(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=10.875:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[3(\frac{1}{2})^n-5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.3333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;10.875</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.3333</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -786,11 +786,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-5(\frac{1}{5})^n+5(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.625:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(\frac{1}{4})^n-3(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.066667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.625</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.066667</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -801,11 +801,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{5})^n+4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.9444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[3(25)^{-\frac{n}{2}}-3(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.375:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.9444</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.375</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -816,11 +816,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-4(\frac{1}{2})^n-3(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-11.375:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-3(\frac{1}{2})^n+(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-2.8571:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-11.375</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-2.8571</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -831,11 +831,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{3})^n+2(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-2.25:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(\frac{1}{2})^n+4(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=2.5714:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-2.25</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;2.5714</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -846,11 +846,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{2})^n-(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-7.1429:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[3(\frac{1}{2})^n-(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=2.8:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-7.1429</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;2.8</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -861,11 +861,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{4})^n-(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-5.1429:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(25)^{-\frac{n}{2}}-3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.16667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-5.1429</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.16667</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -876,11 +876,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{3})^n-4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(9)^{-\frac{n}{2}}-4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.21778:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.5</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.21778</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -891,11 +891,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{5})^n-(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.6429:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[(\frac{1}{2})^n+2(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.54762:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-3.6429</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.54762</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -906,11 +906,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-5(\frac{1}{3})^n+2(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-5.2143:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-3(9)^{-\frac{n}{2}}+5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.15551:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-5.2143</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.15551</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -921,11 +921,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[(\frac{1}{4})^n-(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.16667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-(\frac{1}{2})^n+(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.8:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.16667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.8</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -936,11 +936,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{2})^n+(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-4.8571:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(\frac{1}{4})^n-5(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.8889:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-4.8571</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.8889</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -951,11 +951,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{5})^n+3(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.32143:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-(25)^{-\frac{n}{2}}-(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.013401:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.32143</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.013401</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -966,11 +966,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{2})^n-3(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=4.625:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[3(25)^{-\frac{n}{2}}-4(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.016395:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;4.625</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.016395</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -981,11 +981,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[2(\frac{1}{4})^n-4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.8333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[5(25)^{-\frac{n}{2}}+2(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.4722:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.8333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.4722</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -996,11 +996,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[(\frac{1}{4})^n+4(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=6.1333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-4(\frac{1}{2})^n+4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.9556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;6.1333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.9556</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1011,11 +1011,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[2(\frac{1}{4})^n+5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=8.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[2(\frac{1}{4})^n-2(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.13095:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;8.6667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.13095</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1026,11 +1026,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{4})^n-(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=4.1333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(25)^{-\frac{n}{2}}+(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.61111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;4.1333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.61111</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1041,11 +1041,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{3})^n+(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.375:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-2(25)^{-\frac{n}{2}}-5(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.025556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-3.375</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.025556</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1056,11 +1056,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[3(\frac{1}{3})^n+2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=6.9:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[(9)^{-\frac{n}{2}}-(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.13333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;6.9</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.13333</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1071,11 +1071,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[2(\frac{1}{5})^n-(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.3333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-(25)^{-\frac{n}{2}}-3(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.75:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.3333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.75</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1086,11 +1086,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[2(\frac{1}{4})^n-4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.8333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[2(\frac{1}{2})^n+5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.52778:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.8333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.52778</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1101,11 +1101,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{4})^n-3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-6:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(\frac{1}{2})^n-5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.23299:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-6</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.23299</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1116,11 +1116,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[2(\frac{1}{2})^n-(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=2.875:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-(25)^{-\frac{n}{2}}-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.96429:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;2.875</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.96429</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1131,11 +1131,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[5(\frac{1}{4})^n-(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=5.5417:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(25)^{-\frac{n}{2}}-5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.012222:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;5.5417</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.012222</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1146,11 +1146,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{3})^n+4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[5(25)^{-\frac{n}{2}}+3(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.060204:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.5</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.060204</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1161,11 +1161,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-4(\frac{1}{5})^n-4(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-9.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-3(9)^{-\frac{n}{2}}-4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.55556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-9.6667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.55556</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1176,11 +1176,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-4(\frac{1}{4})^n-(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-6.4583:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[(25)^{-\frac{n}{2}}-(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.10714:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-6.4583</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.10714</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1191,11 +1191,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{5})^n-5(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.55556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-2(\frac{1}{4})^n+4(3)^{2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.16667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.55556</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.16667</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1206,11 +1206,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[3(\frac{1}{3})^n+4(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=9.3:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(\frac{1}{4})^n+(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.088889:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;9.3</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.088889</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1221,11 +1221,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-4(\frac{1}{2})^n+5(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-2.375:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(25)^{-\frac{n}{2}}-(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.3:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-2.375</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.3</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1236,11 +1236,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{2})^n-3(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-7.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[5(\frac{1}{4})^n-5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.83333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-7.5</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.83333</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1251,11 +1251,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{2})^n-5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=2.1667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-5(\frac{1}{4})^n+5(3)^{2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.0417:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;2.1667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.0417</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1266,11 +1266,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{3})^n-5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-7.3333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(25)^{-\frac{n}{2}}-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.7143:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-7.3333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-1.7143</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1281,11 +1281,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[3(\frac{1}{5})^n+2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=6.15:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[5(25)^{-\frac{n}{2}}+(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.26111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;6.15</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.26111</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1296,11 +1296,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-5(\frac{1}{5})^n-(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-7.4167:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(9)^{-\frac{n}{2}}+4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-7.4167</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.5</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1311,11 +1311,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[3(\frac{1}{5})^n+(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=4.8611:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[4(\frac{1}{2})^n+2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=2.0667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;4.8611</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;2.0667</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1326,11 +1326,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{5})^n+(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-2.6071:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-5(\frac{1}{2})^n-4(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-5.8:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-2.6071</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-5.8</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1341,11 +1341,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-3(\frac{1}{4})^n-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-9.7143:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(9)^{-\frac{n}{2}}+3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.058889:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-9.7143</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.058889</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1356,11 +1356,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[(\frac{1}{3})^n+2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=3.9:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(\frac{1}{2})^n+3(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=2.4286:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;3.9</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;2.4286</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1371,11 +1371,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{2})^n+3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.3333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[5(25)^{-\frac{n}{2}}+(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.375:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.3333</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.375</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1386,11 +1386,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-2(\frac{1}{4})^n-2(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-4.8889:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[5(\frac{1}{4})^n+(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.8667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-4.8889</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;1.8667</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1401,11 +1401,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[5(\frac{1}{2})^n-4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=5.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[2(\frac{1}{4})^n+(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;5.5</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.2</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1416,11 +1416,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-5(\frac{1}{4})^n-4(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-11.4667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[4(\frac{1}{2})^n+3(3)^{2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=4.375:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-11.4667</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;4.375</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1431,11 +1431,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[4(\frac{1}{4})^n-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.38095:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[2(9)^{-\frac{n}{2}}-5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.21429:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.38095</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.21429</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1446,11 +1446,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{4})^n-4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-5.7778:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-4(9)^{-\frac{n}{2}}-3(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.22892:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-5.7778</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;-0.22892</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1461,11 +1461,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[-(\frac{1}{4})^n+3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[(\frac{1}{4})^n+4(3)^{2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.13889:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;2</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{9}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.13889</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1476,11 +1476,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[(\frac{1}{4})^n+5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=7.0476:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[5(25)^{-\frac{n}{2}}-5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.032993:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{4}$$ and $$\small \frac{1}{8}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;7.0476</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{5}$$ and $$\small \frac{1}{7}$$ respectively.<br>Number of terms n = $$\small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.032993</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1491,11 +1491,11 @@
       <text>Summation series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=0}^{\infty }\:[5(\frac{1}{2})^n+3(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=13.6:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[4(9)^{-\frac{n}{2}}+3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.7:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{2}$$ and $$\small \frac{1}{6}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;13.6</p>]]></text>
+      <text><![CDATA[<p>This contains two geometric series with first term a = 1 and common ratios $$\small \frac{1}{3}$$ and $$\small \frac{1}{10}$$ respectively.<br>Number of terms n = $$ \small \infty$$ <br>Sum = $$\small \frac{a(1 - r^{n})}{1 - r}$$ <br>Sum =&nbsp;&nbsp;0.7</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
