@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Fourier series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A rectangular function is expressed mathematically as follows : <br> f(x) = 1&nbsp;&nbsp;&nbsp;for&nbsp;&nbsp;&nbsp; -$$\pi$$/2<&nbsp;x&nbsp;<$$\pi$$/2 <br>f(x) = 0&nbsp;&nbsp;&nbsp;for&nbsp;&nbsp;&nbsp; -$$\pi$$ <&nbsp;x&nbsp;< $$\pi$$/2&nbsp;&nbsp;and&nbsp;&nbsp; $$\pi$$/2 <&nbsp;x&nbsp;< $$\pi$$<br>Which of the following descriptions of the Fourier series of f(x) is true:<br>{1:MCV:~The Fourier series contains no cosine functions#Incorrect ! The function f(x) is an even function, and therefore contains no sine functions~The Fourier series contains cosine and sine functions#Incorrect ! The function f(x) is an even function, and therefore contains no sine functions~The Fourier series contains no cosine or sine functions#Incorrect ! The function f(x) is an even function, and therefore contains no sine functions~=The Fourier series contains no sine functions#Correct ! The function f(x) is an even function, and therefore contains no sine functions}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The function f(x) is an even function, and therefore contains no sine functions.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+</quiz>
