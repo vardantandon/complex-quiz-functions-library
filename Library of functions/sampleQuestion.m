@@ -6,7 +6,7 @@
 %multiple choice questions, a numerical question and a short answer
 %question embedded. 
 %
-%Last Updated: 13/07/2015
+%Last Updated: 21/07/2015
 %Created By: Avinash Javaji under supervision of Dr. Pilar Garcia Souto
 %UCL Department: Medical Physics and Bioengineering
 
@@ -14,6 +14,8 @@ file=fopen('sampleQuestion.xml','w');
 fprintf(file, quiz_start()); %xml initialization code
 
 for i=1:1:10
+    
+    %fprintf(['Processing Question: ', num2str(i), '\n']);
     
     %Calculations
     a = randi(6)+3;

@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;40&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=25:0.01#You got it!~%100%50:0.01#You got it!~%100%12.5:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/40&nbsp;=&nbsp;25&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;14&nbsp;ms and an amplitude of&nbsp;13dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=71.4286:0.01#You got it!~%100%142.8571:0.01#You got it!~%100%35.7143:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/14&nbsp;=&nbsp;71.43&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;34&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=29.4118:0.01#You got it!~%100%58.8235:0.01#You got it!~%100%14.7059:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/34&nbsp;=&nbsp;29.41&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;37&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=27.027:0.01#You got it!~%100%54.0541:0.01#You got it!~%100%13.5135:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/37&nbsp;=&nbsp;27.03&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;33&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=30.303:0.01#You got it!~%100%60.6061:0.01#You got it!~%100%15.1515:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/33&nbsp;=&nbsp;30.3&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;39&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=25.641:0.01#You got it!~%100%51.2821:0.01#You got it!~%100%12.8205:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/39&nbsp;=&nbsp;25.64&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;46&nbsp;ms and an amplitude of&nbsp;19dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=21.7391:0.01#You got it!~%100%43.4783:0.01#You got it!~%100%10.8696:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/46&nbsp;=&nbsp;21.74&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;17&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=58.8235:0.01#You got it!~%100%117.6471:0.01#You got it!~%100%29.4118:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/17&nbsp;=&nbsp;58.82&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;10&nbsp;ms and an amplitude of&nbsp;10dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=100:0.01#You got it!~%100%200:0.01#You got it!~%100%50:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/10&nbsp;=&nbsp;100&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;38&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=26.3158:0.01#You got it!~%100%52.6316:0.01#You got it!~%100%13.1579:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/38&nbsp;=&nbsp;26.32&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;24&nbsp;ms and an amplitude of&nbsp;19dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=41.6667:0.01#You got it!~%100%83.3333:0.01#You got it!~%100%20.8333:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/24&nbsp;=&nbsp;41.67&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;31&nbsp;ms and an amplitude of&nbsp;16dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=32.2581:0.01#You got it!~%100%64.5161:0.01#You got it!~%100%16.129:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/31&nbsp;=&nbsp;32.26&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;43&nbsp;ms and an amplitude of&nbsp;18dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=23.2558:0.01#You got it!~%100%46.5116:0.01#You got it!~%100%11.6279:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/43&nbsp;=&nbsp;23.26&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;29&nbsp;ms and an amplitude of&nbsp;12dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=34.4828:0.01#You got it!~%100%68.9655:0.01#You got it!~%100%17.2414:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/29&nbsp;=&nbsp;34.48&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;12&nbsp;ms and an amplitude of&nbsp;19dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=83.3333:0.01#You got it!~%100%166.6667:0.01#You got it!~%100%41.6667:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/12&nbsp;=&nbsp;83.33&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;2&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=500:0.01#You got it!~%100%1000:0.01#You got it!~%100%250:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/2&nbsp;=&nbsp;500&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;9&nbsp;ms and an amplitude of&nbsp;20dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=111.1111:0.01#You got it!~%100%222.2222:0.01#You got it!~%100%55.5556:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/9&nbsp;=&nbsp;111.11&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;36&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=27.7778:0.01#You got it!~%100%55.5556:0.01#You got it!~%100%13.8889:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/36&nbsp;=&nbsp;27.78&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;24&nbsp;ms and an amplitude of&nbsp;10dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=41.6667:0.01#You got it!~%100%83.3333:0.01#You got it!~%100%20.8333:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/24&nbsp;=&nbsp;41.67&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;35&nbsp;ms and an amplitude of&nbsp;10dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=28.5714:0.01#You got it!~%100%57.1429:0.01#You got it!~%100%14.2857:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/35&nbsp;=&nbsp;28.57&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;4&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=250:0.01#You got it!~%100%500:0.01#You got it!~%100%125:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/4&nbsp;=&nbsp;250&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;5&nbsp;ms and an amplitude of&nbsp;18dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=200:0.01#You got it!~%100%400:0.01#You got it!~%100%100:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/5&nbsp;=&nbsp;200&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;41&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=24.3902:0.01#You got it!~%100%48.7805:0.01#You got it!~%100%12.1951:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/41&nbsp;=&nbsp;24.39&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;8&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=125:0.01#You got it!~%100%250:0.01#You got it!~%100%62.5:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/8&nbsp;=&nbsp;125&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;26&nbsp;ms and an amplitude of&nbsp;20dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=38.4615:0.01#You got it!~%100%76.9231:0.01#You got it!~%100%19.2308:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/26&nbsp;=&nbsp;38.46&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;33&nbsp;ms and an amplitude of&nbsp;18dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=30.303:0.01#You got it!~%100%60.6061:0.01#You got it!~%100%15.1515:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/33&nbsp;=&nbsp;30.3&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;23&nbsp;ms and an amplitude of&nbsp;14dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=43.4783:0.01#You got it!~%100%86.9565:0.01#You got it!~%100%21.7391:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/23&nbsp;=&nbsp;43.48&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;42&nbsp;ms and an amplitude of&nbsp;10dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=23.8095:0.01#You got it!~%100%47.619:0.01#You got it!~%100%11.9048:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/42&nbsp;=&nbsp;23.81&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;7&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=142.8571:0.01#You got it!~%100%285.7143:0.01#You got it!~%100%71.4286:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/7&nbsp;=&nbsp;142.86&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;20&nbsp;ms and an amplitude of&nbsp;19dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=50:0.01#You got it!~%100%100:0.01#You got it!~%100%25:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/20&nbsp;=&nbsp;50&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;41&nbsp;ms and an amplitude of&nbsp;10dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=24.3902:0.01#You got it!~%100%48.7805:0.01#You got it!~%100%12.1951:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/41&nbsp;=&nbsp;24.39&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;20&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=50:0.01#You got it!~%100%100:0.01#You got it!~%100%25:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/20&nbsp;=&nbsp;50&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;21&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=47.619:0.01#You got it!~%100%95.2381:0.01#You got it!~%100%23.8095:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/21&nbsp;=&nbsp;47.62&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;32&nbsp;ms and an amplitude of&nbsp;13dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=31.25:0.01#You got it!~%100%62.5:0.01#You got it!~%100%15.625:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/32&nbsp;=&nbsp;31.25&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;22&nbsp;ms and an amplitude of&nbsp;10dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=45.4545:0.01#You got it!~%100%90.9091:0.01#You got it!~%100%22.7273:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/22&nbsp;=&nbsp;45.45&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;50&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=20:0.01#You got it!~%100%40:0.01#You got it!~%100%10:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/50&nbsp;=&nbsp;20&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;6&nbsp;ms and an amplitude of&nbsp;14dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=166.6667:0.01#You got it!~%100%333.3333:0.01#You got it!~%100%83.3333:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/6&nbsp;=&nbsp;166.67&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;10&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=100:0.01#You got it!~%100%200:0.01#You got it!~%100%50:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/10&nbsp;=&nbsp;100&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;17&nbsp;ms and an amplitude of&nbsp;20dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=58.8235:0.01#You got it!~%100%117.6471:0.01#You got it!~%100%29.4118:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/17&nbsp;=&nbsp;58.82&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:40  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;47&nbsp;ms and an amplitude of&nbsp;10dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=21.2766:0.01#You got it!~%100%42.5532:0.01#You got it!~%100%10.6383:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/47&nbsp;=&nbsp;21.28&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;37&nbsp;ms and an amplitude of&nbsp;12dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=27.027:0.01#You got it!~%100%54.0541:0.01#You got it!~%100%13.5135:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/37&nbsp;=&nbsp;27.03&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:42  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;22&nbsp;ms and an amplitude of&nbsp;16dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=45.4545:0.01#You got it!~%100%90.9091:0.01#You got it!~%100%22.7273:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/22&nbsp;=&nbsp;45.45&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;48&nbsp;ms and an amplitude of&nbsp;14dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=20.8333:0.01#You got it!~%100%41.6667:0.01#You got it!~%100%10.4167:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/48&nbsp;=&nbsp;20.83&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:44  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;50&nbsp;ms and an amplitude of&nbsp;13dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=20:0.01#You got it!~%100%40:0.01#You got it!~%100%10:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/50&nbsp;=&nbsp;20&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;36&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=27.7778:0.01#You got it!~%100%55.5556:0.01#You got it!~%100%13.8889:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/36&nbsp;=&nbsp;27.78&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;27&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=37.037:0.01#You got it!~%100%74.0741:0.01#You got it!~%100%18.5185:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/27&nbsp;=&nbsp;37.04&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;34&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=29.4118:0.01#You got it!~%100%58.8235:0.01#You got it!~%100%14.7059:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/34&nbsp;=&nbsp;29.41&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;7&nbsp;ms and an amplitude of&nbsp;20dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=142.8571:0.01#You got it!~%100%285.7143:0.01#You got it!~%100%71.4286:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/7&nbsp;=&nbsp;142.86&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;9&nbsp;ms and an amplitude of&nbsp;10dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=111.1111:0.01#You got it!~%100%222.2222:0.01#You got it!~%100%55.5556:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/9&nbsp;=&nbsp;111.11&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;29&nbsp;ms and an amplitude of&nbsp;19dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=34.4828:0.01#You got it!~%100%68.9655:0.01#You got it!~%100%17.2414:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/29&nbsp;=&nbsp;34.48&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;34&nbsp;ms and an amplitude of&nbsp;12dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=29.4118:0.01#You got it!~%100%58.8235:0.01#You got it!~%100%14.7059:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/34&nbsp;=&nbsp;29.41&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;19&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=52.6316:0.01#You got it!~%100%105.2632:0.01#You got it!~%100%26.3158:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/19&nbsp;=&nbsp;52.63&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;50&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=20:0.01#You got it!~%100%40:0.01#You got it!~%100%10:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/50&nbsp;=&nbsp;20&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:54  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;43&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=23.2558:0.01#You got it!~%100%46.5116:0.01#You got it!~%100%11.6279:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/43&nbsp;=&nbsp;23.26&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;19&nbsp;ms and an amplitude of&nbsp;12dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=52.6316:0.01#You got it!~%100%105.2632:0.01#You got it!~%100%26.3158:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/19&nbsp;=&nbsp;52.63&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:56  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;22&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=45.4545:0.01#You got it!~%100%90.9091:0.01#You got it!~%100%22.7273:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/22&nbsp;=&nbsp;45.45&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:57  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;7&nbsp;ms and an amplitude of&nbsp;16dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=142.8571:0.01#You got it!~%100%285.7143:0.01#You got it!~%100%71.4286:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/7&nbsp;=&nbsp;142.86&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;12&nbsp;ms and an amplitude of&nbsp;14dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=83.3333:0.01#You got it!~%100%166.6667:0.01#You got it!~%100%41.6667:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/12&nbsp;=&nbsp;83.33&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;30&nbsp;ms and an amplitude of&nbsp;12dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=33.3333:0.01#You got it!~%100%66.6667:0.01#You got it!~%100%16.6667:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/30&nbsp;=&nbsp;33.33&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;15&nbsp;ms and an amplitude of&nbsp;16dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=66.6667:0.01#You got it!~%100%133.3333:0.01#You got it!~%100%33.3333:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/15&nbsp;=&nbsp;66.67&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;14&nbsp;ms and an amplitude of&nbsp;19dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=71.4286:0.01#You got it!~%100%142.8571:0.01#You got it!~%100%35.7143:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/14&nbsp;=&nbsp;71.43&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;50&nbsp;ms and an amplitude of&nbsp;18dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=20:0.01#You got it!~%100%40:0.01#You got it!~%100%10:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/50&nbsp;=&nbsp;20&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;18&nbsp;ms and an amplitude of&nbsp;16dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=55.5556:0.01#You got it!~%100%111.1111:0.01#You got it!~%100%27.7778:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/18&nbsp;=&nbsp;55.56&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;6&nbsp;ms and an amplitude of&nbsp;19dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=166.6667:0.01#You got it!~%100%333.3333:0.01#You got it!~%100%83.3333:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/6&nbsp;=&nbsp;166.67&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;44&nbsp;ms and an amplitude of&nbsp;18dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=22.7273:0.01#You got it!~%100%45.4545:0.01#You got it!~%100%11.3636:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/44&nbsp;=&nbsp;22.73&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;14&nbsp;ms and an amplitude of&nbsp;16dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=71.4286:0.01#You got it!~%100%142.8571:0.01#You got it!~%100%35.7143:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/14&nbsp;=&nbsp;71.43&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;2&nbsp;ms and an amplitude of&nbsp;14dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=500:0.01#You got it!~%100%1000:0.01#You got it!~%100%250:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/2&nbsp;=&nbsp;500&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;16&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=62.5:0.01#You got it!~%100%125:0.01#You got it!~%100%31.25:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/16&nbsp;=&nbsp;62.5&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;9&nbsp;ms and an amplitude of&nbsp;14dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=111.1111:0.01#You got it!~%100%222.2222:0.01#You got it!~%100%55.5556:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/9&nbsp;=&nbsp;111.11&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;5&nbsp;ms and an amplitude of&nbsp;16dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=200:0.01#You got it!~%100%400:0.01#You got it!~%100%100:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/5&nbsp;=&nbsp;200&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;24&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=41.6667:0.01#You got it!~%100%83.3333:0.01#You got it!~%100%20.8333:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/24&nbsp;=&nbsp;41.67&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;35&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=28.5714:0.01#You got it!~%100%57.1429:0.01#You got it!~%100%14.2857:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/35&nbsp;=&nbsp;28.57&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;2&nbsp;ms and an amplitude of&nbsp;10dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=500:0.01#You got it!~%100%1000:0.01#You got it!~%100%250:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/2&nbsp;=&nbsp;500&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;16&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=62.5:0.01#You got it!~%100%125:0.01#You got it!~%100%31.25:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/16&nbsp;=&nbsp;62.5&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;33&nbsp;ms and an amplitude of&nbsp;14dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=30.303:0.01#You got it!~%100%60.6061:0.01#You got it!~%100%15.1515:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/33&nbsp;=&nbsp;30.3&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;41&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=24.3902:0.01#You got it!~%100%48.7805:0.01#You got it!~%100%12.1951:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/41&nbsp;=&nbsp;24.39&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;49&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=20.4082:0.01#You got it!~%100%40.8163:0.01#You got it!~%100%10.2041:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/49&nbsp;=&nbsp;20.41&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;17&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=58.8235:0.01#You got it!~%100%117.6471:0.01#You got it!~%100%29.4118:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/17&nbsp;=&nbsp;58.82&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;31&nbsp;ms and an amplitude of&nbsp;18dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=32.2581:0.01#You got it!~%100%64.5161:0.01#You got it!~%100%16.129:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/31&nbsp;=&nbsp;32.26&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;22&nbsp;ms and an amplitude of&nbsp;10dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=45.4545:0.01#You got it!~%100%90.9091:0.01#You got it!~%100%22.7273:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/22&nbsp;=&nbsp;45.45&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;14&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=71.4286:0.01#You got it!~%100%142.8571:0.01#You got it!~%100%35.7143:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/14&nbsp;=&nbsp;71.43&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;15&nbsp;ms and an amplitude of&nbsp;14dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=66.6667:0.01#You got it!~%100%133.3333:0.01#You got it!~%100%33.3333:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/15&nbsp;=&nbsp;66.67&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;27&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=37.037:0.01#You got it!~%100%74.0741:0.01#You got it!~%100%18.5185:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/27&nbsp;=&nbsp;37.04&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;44&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=22.7273:0.01#You got it!~%100%45.4545:0.01#You got it!~%100%11.3636:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/44&nbsp;=&nbsp;22.73&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;48&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=20.8333:0.01#You got it!~%100%41.6667:0.01#You got it!~%100%10.4167:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/48&nbsp;=&nbsp;20.83&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;48&nbsp;ms and an amplitude of&nbsp;12dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=20.8333:0.01#You got it!~%100%41.6667:0.01#You got it!~%100%10.4167:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/48&nbsp;=&nbsp;20.83&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;34&nbsp;ms and an amplitude of&nbsp;13dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=29.4118:0.01#You got it!~%100%58.8235:0.01#You got it!~%100%14.7059:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/34&nbsp;=&nbsp;29.41&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;34&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=29.4118:0.01#You got it!~%100%58.8235:0.01#You got it!~%100%14.7059:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/34&nbsp;=&nbsp;29.41&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;4&nbsp;ms and an amplitude of&nbsp;12dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=250:0.01#You got it!~%100%500:0.01#You got it!~%100%125:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/4&nbsp;=&nbsp;250&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;12&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=83.3333:0.01#You got it!~%100%166.6667:0.01#You got it!~%100%41.6667:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/12&nbsp;=&nbsp;83.33&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:91  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;43&nbsp;ms and an amplitude of&nbsp;13dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=23.2558:0.01#You got it!~%100%46.5116:0.01#You got it!~%100%11.6279:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/43&nbsp;=&nbsp;23.26&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:92  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;40&nbsp;ms and an amplitude of&nbsp;17dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=25:0.01#You got it!~%100%50:0.01#You got it!~%100%12.5:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/40&nbsp;=&nbsp;25&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:93  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;1&nbsp;ms and an amplitude of&nbsp;16dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=1000:0.01#You got it!~%100%2000:0.01#You got it!~%100%500:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/1&nbsp;=&nbsp;1000&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:94  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;20&nbsp;ms and an amplitude of&nbsp;20dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=50:0.01#You got it!~%100%100:0.01#You got it!~%100%25:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/20&nbsp;=&nbsp;50&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:95  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;1&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=1000:0.01#You got it!~%100%2000:0.01#You got it!~%100%500:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/1&nbsp;=&nbsp;1000&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:96  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;22&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=45.4545:0.01#You got it!~%100%90.9091:0.01#You got it!~%100%22.7273:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/22&nbsp;=&nbsp;45.45&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:97  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;39&nbsp;ms and an amplitude of&nbsp;13dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=25.641:0.01#You got it!~%100%51.2821:0.01#You got it!~%100%12.8205:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/39&nbsp;=&nbsp;25.64&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:98  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;40&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=25:0.01#You got it!~%100%50:0.01#You got it!~%100%12.5:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/40&nbsp;=&nbsp;25&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:99  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;2&nbsp;ms and an amplitude of&nbsp;11dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=500:0.01#You got it!~%100%1000:0.01#You got it!~%100%250:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/2&nbsp;=&nbsp;500&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:100  -->
+  <question type="cloze">
+    <name>
+      <text>Width of Fourier Spectrum</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>A machine emits a short pulse of sound, with constant intensity over a duration of&nbsp;37&nbsp;ms and an amplitude of&nbsp;15dB. Estimate the highest possible frequency emitted within the pulse (to the nearest 2 d.p.):<br><br>Frequency:&nbsp;{1:NUMERICAL:=27.027:0.01#You got it!~%100%54.0541:0.01#You got it!~%100%13.5135:0.01#You got it!}&nbsp;Hz</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The width of the Fourier spectrum is approximately equal to the reciprocal of the pulse duration, i.e. about 1/37&nbsp;=&nbsp;27.03&nbsp;Hz.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+</quiz>

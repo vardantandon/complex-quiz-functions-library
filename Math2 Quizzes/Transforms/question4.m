@@ -5,21 +5,45 @@
 file=fopen('question4.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
 
-for i=1:1:100
+for i=1:1:10
     
     %Calculations
-    a = randi([1,10]);
-    b = randi([1,10]);
+    alpha = randi([1,10]);
+    w = randi([1,10]);
     
-    syms t;
+    syms t a b s;
     
     if (mod(i,2) == 0)
-        f = exp(a*t)*cos(b*t);
+        f = exp(-alpha*t)*cos(w*t);
+        questionFromTable = exp(-a*t)*cos(b*t);
+        formFromTable = (s + a)/((s + a)^2 + b^2);
+        trigString = 'cos';
+        trigLatex = '\frac{s}{s^2 + b^2}';
     else
-        f = exp(a*t)*sin(b*t);
+        f = exp(-alpha*t)*sin(w*t);
+        questionFromTable = exp(-a*t)*sin(b*t);
+        formFromTable = b/((s + a)^2 + b^2);
+        trigString = 'sin';
+        trigLatex = '\frac{b}{s^2 + b^2}';
     end
     output = laplace(f);
     
+    instruction1 = 'From the Laplace Tables,';
+    instruction2 = 'According to the Shift Theorem,';
+    instruction3 = strcat('If f(t) =&nbsp;', trigString, '(bt), we get:');
+    instruction4 = strcat('Finaly substituting a =&nbsp;', num2str(alpha), ' and b =&nbsp;', num2str(w), ' we get:'); 
+    
+    step1 = strcat('$$ \small \mathscr{L}\{', trigString, '(bt)\} =', trigLatex, ' $$');
+    step2 = strcat('$$ \small \mathscr{L}\{f(t)e^{-at}\} = F(s+a) $$');
+    step3 = strcat('$$ \small \mathscr{L}\{', trigString, '(bt)e^{-at}\} =', latex(formFromTable), ' $$');
+    step4 = strcat('$$ \small \mathscr{L}\{', latex(f), '\} = ', latex(output), ' $$');
+    
+    feedbackString = strcat( ...
+        instruction1, '<br>', step1, '<br>', ...
+        instruction2, '<br>', step2, '<br>', ...
+        instruction3, '<br>', step3, '<br>', ...
+        instruction4, '<br>', step4);
+
     %Question output
     fprintf(file,'  <!-- question: %i  -->', i);
     fprintf(file,'\n  <question type="algebra">');
@@ -27,10 +51,10 @@ for i=1:1:100
     fprintf(file,'\n      <text>Laplace Transform</text>');
     fprintf(file,'\n    </name>');
     fprintf(file,'\n    <questiontext format="html">');
-    fprintf(file,'\n      <text><![CDATA[<p>Use a table of Laplace Transforms to find $$ \\small \\mathscr{L}\\{%s\\} $$. <br><br>Find the Laplace Transforms table <a href="https://en.wikipedia.org/wiki/Laplace_transform" target="_blank">here</a>.</p>]]></text>', latex(f));
+    fprintf(file,'\n      <text><![CDATA[<p>Use a table of Laplace Transforms to find </p><br><p style="text-align: center;">$$ \\small \\mathscr{L}\\{%s\\} $$. </p><p><br>Laplace Transforms table can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/laplace.png" target="_blank">here</a>.<br>Help on how to insert mathmetical expressions in your answer can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/equation_input.png" target="_blank">here</a>.</p>]]></text>', latex(f));
     fprintf(file,'\n    </questiontext>');
     fprintf(file,'\n    <generalfeedback format="html">');
-    fprintf(file,'\n      <text></text>');
+    fprintf(file,'\n      <text><![CDATA[<p>%s</p>]]></text>', feedbackString);
     fprintf(file,'\n    </generalfeedback>');
     fprintf(file,'\n    <defaultgrade>1.0000000</defaultgrade>');
     fprintf(file,'\n    <penalty>0.3333333</penalty>');

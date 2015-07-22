@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1167 samples of vehicle speeds. It is found that the mean speed is&nbsp;53.01 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=52.69:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=53.33:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =53.01 \pm 1.96 \frac{5.5}{\sqrt{1167}} = [52.69,53.33]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [52.69,53.33].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1185 samples of vehicle speeds. It is found that the mean speed is&nbsp;58.45 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=58.15:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=58.75:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =58.45 \pm 1.96 \frac{5.2}{\sqrt{1185}} = [58.15,58.75]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [58.15,58.75].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1181 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.7 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.4:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.7 \pm 1.96 \frac{5.2}{\sqrt{1181}} = [51.4,52]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.4,52].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1349 samples of vehicle speeds. It is found that the mean speed is&nbsp;53.11 kmph while the standard deviation is&nbsp;6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=52.79:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=53.43:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =53.11 \pm 1.96 \frac{6}{\sqrt{1349}} = [52.79,53.43]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [52.79,53.43].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1345 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.85 kmph while the standard deviation is&nbsp;5.9 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.53:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52.17:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.85 \pm 1.96 \frac{5.9}{\sqrt{1345}} = [51.53,52.17]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.53,52.17].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1784 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.39 kmph while the standard deviation is&nbsp;5.1 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.15:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.63:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.39 \pm 1.96 \frac{5.1}{\sqrt{1784}} = [54.15,54.63]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.15,54.63].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1207 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.09 kmph while the standard deviation is&nbsp;5.6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=53.77:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.41:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.09 \pm 1.96 \frac{5.6}{\sqrt{1207}} = [53.77,54.41]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [53.77,54.41].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1210 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.03 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.71:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.35:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.03 \pm 1.96 \frac{5.7}{\sqrt{1210}} = [55.71,56.35]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.71,56.35].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1178 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.17 kmph while the standard deviation is&nbsp;5.3 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=50.87:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=51.47:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.17 \pm 1.96 \frac{5.3}{\sqrt{1178}} = [50.87,51.47]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [50.87,51.47].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1256 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.24 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=53.94:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.54:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.24 \pm 1.96 \frac{5.5}{\sqrt{1256}} = [53.94,54.54]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [53.94,54.54].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1069 samples of vehicle speeds. It is found that the mean speed is&nbsp;52.62 kmph while the standard deviation is&nbsp;5.8 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=52.27:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52.97:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =52.62 \pm 1.96 \frac{5.8}{\sqrt{1069}} = [52.27,52.97]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [52.27,52.97].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1024 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.29 kmph while the standard deviation is&nbsp;5.8 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=58.93:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=59.65:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.29 \pm 1.96 \frac{5.8}{\sqrt{1024}} = [58.93,59.65]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [58.93,59.65].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1391 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.79 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.52:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.06:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.79 \pm 1.96 \frac{5.2}{\sqrt{1391}} = [55.52,56.06]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.52,56.06].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1368 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.64 kmph while the standard deviation is&nbsp;5.6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=59.34:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=59.94:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.64 \pm 1.96 \frac{5.6}{\sqrt{1368}} = [59.34,59.94]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [59.34,59.94].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1417 samples of vehicle speeds. It is found that the mean speed is&nbsp;52.31 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=52.02:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52.6:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =52.31 \pm 1.96 \frac{5.5}{\sqrt{1417}} = [52.02,52.6]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [52.02,52.6].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1500 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.79 kmph while the standard deviation is&nbsp;5.4 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.52:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=57.06:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.79 \pm 1.96 \frac{5.4}{\sqrt{1500}} = [56.52,57.06]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.52,57.06].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1294 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.88 kmph while the standard deviation is&nbsp;5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=59.61:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=60.15:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.88 \pm 1.96 \frac{5}{\sqrt{1294}} = [59.61,60.15]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [59.61,60.15].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1709 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.14 kmph while the standard deviation is&nbsp;5.8 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=58.87:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=59.41:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.14 \pm 1.96 \frac{5.8}{\sqrt{1709}} = [58.87,59.41]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [58.87,59.41].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1079 samples of vehicle speeds. It is found that the mean speed is&nbsp;52.62 kmph while the standard deviation is&nbsp;5.3 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=52.3:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52.94:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =52.62 \pm 1.96 \frac{5.3}{\sqrt{1079}} = [52.3,52.94]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [52.3,52.94].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1544 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.36 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.08:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=51.64:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.36 \pm 1.96 \frac{5.7}{\sqrt{1544}} = [51.08,51.64]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.08,51.64].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1086 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.54 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.21:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.87:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.54 \pm 1.96 \frac{5.5}{\sqrt{1086}} = [56.21,56.87]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.21,56.87].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1624 samples of vehicle speeds. It is found that the mean speed is&nbsp;57.15 kmph while the standard deviation is&nbsp;5.9 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.86:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=57.44:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =57.15 \pm 1.96 \frac{5.9}{\sqrt{1624}} = [56.86,57.44]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.86,57.44].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1713 samples of vehicle speeds. It is found that the mean speed is&nbsp;53.34 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=53.07:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=53.61:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =53.34 \pm 1.96 \frac{5.7}{\sqrt{1713}} = [53.07,53.61]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [53.07,53.61].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1159 samples of vehicle speeds. It is found that the mean speed is&nbsp;50.3 kmph while the standard deviation is&nbsp;5.8 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=49.97:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=50.63:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =50.3 \pm 1.96 \frac{5.8}{\sqrt{1159}} = [49.97,50.63]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [49.97,50.63].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1401 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.8 kmph while the standard deviation is&nbsp;5.9 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.49:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=55.11:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.8 \pm 1.96 \frac{5.9}{\sqrt{1401}} = [54.49,55.11]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.49,55.11].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1488 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.18 kmph while the standard deviation is&nbsp;5.9 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.88:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.48:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.18 \pm 1.96 \frac{5.9}{\sqrt{1488}} = [55.88,56.48]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.88,56.48].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1645 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.77 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.52:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.02:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.77 \pm 1.96 \frac{5.2}{\sqrt{1645}} = [55.52,56.02]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.52,56.02].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1192 samples of vehicle speeds. It is found that the mean speed is&nbsp;58.87 kmph while the standard deviation is&nbsp;5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=58.59:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=59.15:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =58.87 \pm 1.96 \frac{5}{\sqrt{1192}} = [58.59,59.15]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [58.59,59.15].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1392 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.68 kmph while the standard deviation is&nbsp;6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.36:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.68 \pm 1.96 \frac{6}{\sqrt{1392}} = [51.36,52]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.36,52].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1571 samples of vehicle speeds. It is found that the mean speed is&nbsp;55 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.73:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=55.27:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55 \pm 1.96 \frac{5.5}{\sqrt{1571}} = [54.73,55.27]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.73,55.27].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1048 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.82 kmph while the standard deviation is&nbsp;5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.52:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=57.12:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.82 \pm 1.96 \frac{5}{\sqrt{1048}} = [56.52,57.12]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.52,57.12].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1058 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.22 kmph while the standard deviation is&nbsp;5.1 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.91:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=55.53:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.22 \pm 1.96 \frac{5.1}{\sqrt{1058}} = [54.91,55.53]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.91,55.53].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1655 samples of vehicle speeds. It is found that the mean speed is&nbsp;58.18 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=57.91:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=58.45:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =58.18 \pm 1.96 \frac{5.7}{\sqrt{1655}} = [57.91,58.45]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [57.91,58.45].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1120 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.6 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.28:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.92:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.6 \pm 1.96 \frac{5.5}{\sqrt{1120}} = [56.28,56.92]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.28,56.92].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1779 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.49 kmph while the standard deviation is&nbsp;5.8 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.22:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.76:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.49 \pm 1.96 \frac{5.8}{\sqrt{1779}} = [56.22,56.76]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.22,56.76].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1364 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.32 kmph while the standard deviation is&nbsp;5.9 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.01:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.63:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.32 \pm 1.96 \frac{5.9}{\sqrt{1364}} = [54.01,54.63]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.01,54.63].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1067 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.33 kmph while the standard deviation is&nbsp;5.1 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.02:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=51.64:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.33 \pm 1.96 \frac{5.1}{\sqrt{1067}} = [51.02,51.64]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.02,51.64].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1313 samples of vehicle speeds. It is found that the mean speed is&nbsp;58.32 kmph while the standard deviation is&nbsp;5.8 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=58.01:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=58.63:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =58.32 \pm 1.96 \frac{5.8}{\sqrt{1313}} = [58.01,58.63]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [58.01,58.63].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1049 samples of vehicle speeds. It is found that the mean speed is&nbsp;53.99 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=53.66:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.32:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =53.99 \pm 1.96 \frac{5.5}{\sqrt{1049}} = [53.66,54.32]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [53.66,54.32].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:40  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1334 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.57 kmph while the standard deviation is&nbsp;5.6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.27:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.87:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.57 \pm 1.96 \frac{5.6}{\sqrt{1334}} = [56.27,56.87]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.27,56.87].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1234 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.32 kmph while the standard deviation is&nbsp;5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.04:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.6:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.32 \pm 1.96 \frac{5}{\sqrt{1234}} = [54.04,54.6]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.04,54.6].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:42  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1788 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.67 kmph while the standard deviation is&nbsp;5.1 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.43:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=51.91:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.67 \pm 1.96 \frac{5.1}{\sqrt{1788}} = [51.43,51.91]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.43,51.91].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1298 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.98 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.68:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52.28:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.98 \pm 1.96 \frac{5.5}{\sqrt{1298}} = [51.68,52.28]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.68,52.28].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:44  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1272 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.52 kmph while the standard deviation is&nbsp;6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=59.19:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=59.85:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.52 \pm 1.96 \frac{6}{\sqrt{1272}} = [59.19,59.85]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [59.19,59.85].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1043 samples of vehicle speeds. It is found that the mean speed is&nbsp;57.38 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=57.06:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=57.7:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =57.38 \pm 1.96 \frac{5.2}{\sqrt{1043}} = [57.06,57.7]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [57.06,57.7].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1339 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.48 kmph while the standard deviation is&nbsp;6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.16:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=55.8:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.48 \pm 1.96 \frac{6}{\sqrt{1339}} = [55.16,55.8]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.16,55.8].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1335 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.84 kmph while the standard deviation is&nbsp;5.3 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=59.56:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=60.12:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.84 \pm 1.96 \frac{5.3}{\sqrt{1335}} = [59.56,60.12]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [59.56,60.12].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1561 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.67 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.4:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.94:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.67 \pm 1.96 \frac{5.5}{\sqrt{1561}} = [56.4,56.94]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.4,56.94].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1559 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.67 kmph while the standard deviation is&nbsp;5.1 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.42:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.92:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.67 \pm 1.96 \frac{5.1}{\sqrt{1559}} = [56.42,56.92]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.42,56.92].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1103 samples of vehicle speeds. It is found that the mean speed is&nbsp;60 kmph while the standard deviation is&nbsp;5.1 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=59.7:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=60.3:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =60 \pm 1.96 \frac{5.1}{\sqrt{1103}} = [59.7,60.3]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [59.7,60.3].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1027 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.61 kmph while the standard deviation is&nbsp;5.9 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.25:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=55.97:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.61 \pm 1.96 \frac{5.9}{\sqrt{1027}} = [55.25,55.97]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.25,55.97].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1536 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.9 kmph while the standard deviation is&nbsp;5.4 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.63:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52.17:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.9 \pm 1.96 \frac{5.4}{\sqrt{1536}} = [51.63,52.17]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.63,52.17].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1369 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.82 kmph while the standard deviation is&nbsp;5.1 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=59.55:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=60.09:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.82 \pm 1.96 \frac{5.1}{\sqrt{1369}} = [59.55,60.09]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [59.55,60.09].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:54  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1685 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.45 kmph while the standard deviation is&nbsp;5.4 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.19:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.71:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.45 \pm 1.96 \frac{5.4}{\sqrt{1685}} = [56.19,56.71]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.19,56.71].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1153 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.28 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=53.96:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.6:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.28 \pm 1.96 \frac{5.5}{\sqrt{1153}} = [53.96,54.6]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [53.96,54.6].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:56  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1097 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.9 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.59:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.21:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.9 \pm 1.96 \frac{5.2}{\sqrt{1097}} = [55.59,56.21]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.59,56.21].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:57  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1308 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.83 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.55:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.11:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.83 \pm 1.96 \frac{5.2}{\sqrt{1308}} = [55.55,56.11]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.55,56.11].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1233 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.17 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.88:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.46:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.17 \pm 1.96 \frac{5.2}{\sqrt{1233}} = [55.88,56.46]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.88,56.46].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1660 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.83 kmph while the standard deviation is&nbsp;5.8 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=59.55:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=60.11:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.83 \pm 1.96 \frac{5.8}{\sqrt{1660}} = [59.55,60.11]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [59.55,60.11].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1276 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.84 kmph while the standard deviation is&nbsp;5.1 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.56:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.12:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.84 \pm 1.96 \frac{5.1}{\sqrt{1276}} = [55.56,56.12]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.56,56.12].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1726 samples of vehicle speeds. It is found that the mean speed is&nbsp;58.8 kmph while the standard deviation is&nbsp;5.8 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=58.53:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=59.07:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =58.8 \pm 1.96 \frac{5.8}{\sqrt{1726}} = [58.53,59.07]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [58.53,59.07].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1209 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.94 kmph while the standard deviation is&nbsp;5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.66:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.22:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.94 \pm 1.96 \frac{5}{\sqrt{1209}} = [55.66,56.22]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.66,56.22].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1341 samples of vehicle speeds. It is found that the mean speed is&nbsp;53.13 kmph while the standard deviation is&nbsp;5.1 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=52.86:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=53.4:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =53.13 \pm 1.96 \frac{5.1}{\sqrt{1341}} = [52.86,53.4]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [52.86,53.4].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1144 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.23 kmph while the standard deviation is&nbsp;5.1 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=53.93:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.53:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.23 \pm 1.96 \frac{5.1}{\sqrt{1144}} = [53.93,54.53]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [53.93,54.53].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1479 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.71 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.42:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=55:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.71 \pm 1.96 \frac{5.7}{\sqrt{1479}} = [54.42,55]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.42,55].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1560 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.39 kmph while the standard deviation is&nbsp;5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.14:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.64:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.39 \pm 1.96 \frac{5}{\sqrt{1560}} = [56.14,56.64]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.14,56.64].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1056 samples of vehicle speeds. It is found that the mean speed is&nbsp;53.19 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=52.86:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=53.52:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =53.19 \pm 1.96 \frac{5.5}{\sqrt{1056}} = [52.86,53.52]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [52.86,53.52].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1524 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.08 kmph while the standard deviation is&nbsp;5.9 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=53.78:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.38:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.08 \pm 1.96 \frac{5.9}{\sqrt{1524}} = [53.78,54.38]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [53.78,54.38].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1575 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.69 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=59.42:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=59.96:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.69 \pm 1.96 \frac{5.5}{\sqrt{1575}} = [59.42,59.96]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [59.42,59.96].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1261 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.05 kmph while the standard deviation is&nbsp;5.6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=50.74:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=51.36:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.05 \pm 1.96 \frac{5.6}{\sqrt{1261}} = [50.74,51.36]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [50.74,51.36].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1624 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.23 kmph while the standard deviation is&nbsp;5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=53.99:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.47:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.23 \pm 1.96 \frac{5}{\sqrt{1624}} = [53.99,54.47]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [53.99,54.47].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1214 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.53 kmph while the standard deviation is&nbsp;5.3 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.23:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=51.83:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.53 \pm 1.96 \frac{5.3}{\sqrt{1214}} = [51.23,51.83]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.23,51.83].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1353 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.27 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.98:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=55.56:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.27 \pm 1.96 \frac{5.5}{\sqrt{1353}} = [54.98,55.56]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.98,55.56].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1701 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.18 kmph while the standard deviation is&nbsp;6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.89:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=55.47:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.18 \pm 1.96 \frac{6}{\sqrt{1701}} = [54.89,55.47]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.89,55.47].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1511 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.58 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=59.32:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=59.84:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.58 \pm 1.96 \frac{5.2}{\sqrt{1511}} = [59.32,59.84]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [59.32,59.84].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1541 samples of vehicle speeds. It is found that the mean speed is&nbsp;52.89 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=52.61:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=53.17:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =52.89 \pm 1.96 \frac{5.7}{\sqrt{1541}} = [52.61,53.17]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [52.61,53.17].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1557 samples of vehicle speeds. It is found that the mean speed is&nbsp;50.68 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=50.42:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=50.94:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =50.68 \pm 1.96 \frac{5.2}{\sqrt{1557}} = [50.42,50.94]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [50.42,50.94].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1180 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.68 kmph while the standard deviation is&nbsp;5.9 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.34:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=57.02:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.68 \pm 1.96 \frac{5.9}{\sqrt{1180}} = [56.34,57.02]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.34,57.02].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1276 samples of vehicle speeds. It is found that the mean speed is&nbsp;57.81 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=57.5:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=58.12:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =57.81 \pm 1.96 \frac{5.7}{\sqrt{1276}} = [57.5,58.12]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [57.5,58.12].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1006 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.02 kmph while the standard deviation is&nbsp;5.4 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.69:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.35:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.02 \pm 1.96 \frac{5.4}{\sqrt{1006}} = [55.69,56.35]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.69,56.35].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1733 samples of vehicle speeds. It is found that the mean speed is&nbsp;50.01 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=49.75:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=50.27:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =50.01 \pm 1.96 \frac{5.5}{\sqrt{1733}} = [49.75,50.27]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [49.75,50.27].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1340 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.61 kmph while the standard deviation is&nbsp;5.8 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.3:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.92:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.61 \pm 1.96 \frac{5.8}{\sqrt{1340}} = [54.3,54.92]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.3,54.92].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1258 samples of vehicle speeds. It is found that the mean speed is&nbsp;57.85 kmph while the standard deviation is&nbsp;5.5 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=57.55:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=58.15:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =57.85 \pm 1.96 \frac{5.5}{\sqrt{1258}} = [57.55,58.15]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [57.55,58.15].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1029 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.76 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.41:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52.11:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.76 \pm 1.96 \frac{5.7}{\sqrt{1029}} = [51.41,52.11]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.41,52.11].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1379 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.52 kmph while the standard deviation is&nbsp;5.3 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.24:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=51.8:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.52 \pm 1.96 \frac{5.3}{\sqrt{1379}} = [51.24,51.8]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.24,51.8].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1486 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.91 kmph while the standard deviation is&nbsp;5.8 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.62:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52.2:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.91 \pm 1.96 \frac{5.8}{\sqrt{1486}} = [51.62,52.2]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.62,52.2].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1195 samples of vehicle speeds. It is found that the mean speed is&nbsp;59.18 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=58.89:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=59.47:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =59.18 \pm 1.96 \frac{5.2}{\sqrt{1195}} = [58.89,59.47]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [58.89,59.47].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1613 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.88 kmph while the standard deviation is&nbsp;5.3 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.62:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52.14:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.88 \pm 1.96 \frac{5.3}{\sqrt{1613}} = [51.62,52.14]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.62,52.14].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1073 samples of vehicle speeds. It is found that the mean speed is&nbsp;55.76 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.42:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.1:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =55.76 \pm 1.96 \frac{5.7}{\sqrt{1073}} = [55.42,56.1]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.42,56.1].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1438 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.26 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=53.97:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.55:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.26 \pm 1.96 \frac{5.7}{\sqrt{1438}} = [53.97,54.55]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [53.97,54.55].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:91  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1519 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.79 kmph while the standard deviation is&nbsp;5.6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=56.51:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=57.07:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.79 \pm 1.96 \frac{5.6}{\sqrt{1519}} = [56.51,57.07]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [56.51,57.07].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:92  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1757 samples of vehicle speeds. It is found that the mean speed is&nbsp;52.09 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=51.82:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=52.36:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =52.09 \pm 1.96 \frac{5.7}{\sqrt{1757}} = [51.82,52.36]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [51.82,52.36].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:93  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1189 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.19 kmph while the standard deviation is&nbsp;5.6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=50.87:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=51.51:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.19 \pm 1.96 \frac{5.6}{\sqrt{1189}} = [50.87,51.51]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [50.87,51.51].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:94  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1361 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.59 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.29:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=54.89:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.59 \pm 1.96 \frac{5.7}{\sqrt{1361}} = [54.29,54.89]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.29,54.89].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:95  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1617 samples of vehicle speeds. It is found that the mean speed is&nbsp;53.5 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=53.22:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=53.78:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =53.5 \pm 1.96 \frac{5.7}{\sqrt{1617}} = [53.22,53.78]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [53.22,53.78].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:96  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1333 samples of vehicle speeds. It is found that the mean speed is&nbsp;58.42 kmph while the standard deviation is&nbsp;5.9 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=58.1:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=58.74:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =58.42 \pm 1.96 \frac{5.9}{\sqrt{1333}} = [58.1,58.74]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [58.1,58.74].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:97  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1206 samples of vehicle speeds. It is found that the mean speed is&nbsp;56.14 kmph while the standard deviation is&nbsp;5.6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=55.82:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=56.46:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =56.14 \pm 1.96 \frac{5.6}{\sqrt{1206}} = [55.82,56.46]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [55.82,56.46].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:98  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1433 samples of vehicle speeds. It is found that the mean speed is&nbsp;58.7 kmph while the standard deviation is&nbsp;5.2 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=58.43:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=58.97:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =58.7 \pm 1.96 \frac{5.2}{\sqrt{1433}} = [58.43,58.97]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [58.43,58.97].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:99  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1255 samples of vehicle speeds. It is found that the mean speed is&nbsp;51.19 kmph while the standard deviation is&nbsp;6 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=50.86:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=51.52:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =51.19 \pm 1.96 \frac{6}{\sqrt{1255}} = [50.86,51.52]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [50.86,51.52].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:100  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1.	A traffic engineer collected&nbsp;1517 samples of vehicle speeds. It is found that the mean speed is&nbsp;54.79 kmph while the standard deviation is&nbsp;5.7 kmph. Assuming that the speed follow normal distribution, construct the 95% confidence interval on speed.<br><br><br>Answer (to 2 d.p.): <br>There is a 95% chance that the <i>true</i> value of mean speed lies between&nbsp;{1:NUMERICAL:=54.5:0.01#Good job!!~*#Incorrect, try again}&nbsp;and&nbsp;{1:NUMERICAL:=55.08:0.01#Good job!!~*#Incorrect, try again}.</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% C.I. can be determined as<br><br>$$ \small x \pm 1.96 \frac{\sigma}{\sqrt{n}} =54.79 \pm 1.96 \frac{5.7}{\sqrt{1517}} = [54.5,55.08]$$<br><br>The result indicates that there is a 95% chance that the <i>true</i> value of mean speed lies within [54.5,55.08].</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+</quiz>

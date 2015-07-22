@@ -14,7 +14,9 @@ for i=1:1:1
     syms x L n b t p;
     ini_conditions = (4*x/L) * (-x/L + 1);
     f = ini_conditions * sin(n*p*x/L);
-    answer = sin(n*p*x/L) * exp(-(n^2)*(p^2)*(b^2)*t / (L^2)) * int(f, 0, L) * 2 / L
+    answer = sin(n*p*x/L) * exp(-(n^2)*(p^2)*(b^2)*t / (L^2)) * int(f, 0, L) * 2 / L;
+    latex(answer);
+    latex(int(f, 0, L))
     
 %     if (mod(i,2) == 0)
 %         f = exp(a*t)*cos(b*t);

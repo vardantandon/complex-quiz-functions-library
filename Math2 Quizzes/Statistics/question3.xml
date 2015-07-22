@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Lab t-tests</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;two-sample t-test to determine whether the products produced by them are different at a significance level 5%<br><br><table style="text-align:center; border:1px solid black;"><tr style="border:1px solid black;"><td style="border:1px solid black;" colspan="2">28 day strength (MPa)</td></tr><tr style="border:1px solid black;"><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 1</td><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 2</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">37.40</td><td style="border:1px solid black;">53.20</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">54.10</td><td style="border:1px solid black;">51.30</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">54.60</td><td style="border:1px solid black;">45.00</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">35.60</td><td style="border:1px solid black;">48.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">44.90</td><td style="border:1px solid black;">54.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">52.30</td><td style="border:1px solid black;">51.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">39.80</td><td style="border:1px solid black;">48.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">51.70</td><td style="border:1px solid black;">51.30</td><tr></table><br><br>Answer:<br>t* =&nbsp;{1:NUMERICAL:=-1.43:0.01#Good job!!~*#Incorrect, try again}<br>The strength of the concrete produced by the two labs are:<br>{1:MCV:~Not Equal#~=Equal#}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>We set up atwo-tail test of hypotheses where the hypotheses are formulated as:<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal<br><br>Mean of concrete produced by Lab 1: $$ \small \bar{X}_1 =&nbsp;46.3 $$<br>Mean of concrete produced by Lab 2: $$ \small \bar{X}_2 =&nbsp;50.54 $$<br><br>Standard dev. of concrete produced by Lab 1: $$ \small \sigma_1 =&nbsp;7.86 $$<br>Standard dev. of concrete produced by Lab 2: $$ \small \sigma_2 =&nbsp;2.91 $$<br><br>Sample size $$ \small n_1 = n_2 =&nbsp;8 $$<br><br>Calculate the&nbsp;two-sample <i>t</i> statistics as:<br>$$ \small t^* = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{{\sigma_1}^2}{n_1} + \frac{{\sigma_2}^2}{n_2}}} =&nbsp;-1.43$$<br>At 5% significance level, the critical value of t (with degree of freedom:&nbsp;8-1 =&nbsp;7) for rejecting the null hypothesis is t* =&nbsp;-2.84<br><br>Hence the null hypothesis cannot be rejected</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Lab t-tests</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;two-sample t-test to determine whether the products produced by them are different at a significance level 5%<br><br><table style="text-align:center; border:1px solid black;"><tr style="border:1px solid black;"><td style="border:1px solid black;" colspan="2">28 day strength (MPa)</td></tr><tr style="border:1px solid black;"><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 1</td><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 2</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">42.10</td><td style="border:1px solid black;">48.50</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">54.80</td><td style="border:1px solid black;">49.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">36.60</td><td style="border:1px solid black;">50.90</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">40.00</td><td style="border:1px solid black;">46.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">51.30</td><td style="border:1px solid black;">54.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">36.60</td><td style="border:1px solid black;">51.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">45.60</td><td style="border:1px solid black;">46.60</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">51.00</td><td style="border:1px solid black;">50.70</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">49.80</td><td style="border:1px solid black;">54.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">37.80</td><td style="border:1px solid black;">52.90</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">43.80</td><td style="border:1px solid black;">51.90</td><tr></table><br><br>Answer:<br>t* =&nbsp;{1:NUMERICAL:=-2.93:0.01#Good job!!~*#Incorrect, try again}<br>The strength of the concrete produced by the two labs are:<br>{1:MCV:~Equal#~=Not Equal#}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>We set up atwo-tail test of hypotheses where the hypotheses are formulated as:<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal<br><br>Mean of concrete produced by Lab 1: $$ \small \bar{X}_1 =&nbsp;44.49 $$<br>Mean of concrete produced by Lab 2: $$ \small \bar{X}_2 =&nbsp;50.69 $$<br><br>Standard dev. of concrete produced by Lab 1: $$ \small \sigma_1 =&nbsp;6.48 $$<br>Standard dev. of concrete produced by Lab 2: $$ \small \sigma_2 =&nbsp;2.7 $$<br><br>Sample size $$ \small n_1 = n_2 =&nbsp;11 $$<br><br>Calculate the&nbsp;two-sample <i>t</i> statistics as:<br>$$ \small t^* = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{{\sigma_1}^2}{n_1} + \frac{{\sigma_2}^2}{n_2}}} =&nbsp;-2.93$$<br>At 5% significance level, the critical value of t (with degree of freedom:&nbsp;11-1 =&nbsp;10) for rejecting the null hypothesis is t* =&nbsp;-2.63<br><br>Hence the null hypothesis can be rejected</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Lab t-tests</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;two-sample t-test to determine whether the products produced by them are different at a significance level 5%<br><br><table style="text-align:center; border:1px solid black;"><tr style="border:1px solid black;"><td style="border:1px solid black;" colspan="2">28 day strength (MPa)</td></tr><tr style="border:1px solid black;"><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 1</td><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 2</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">41.40</td><td style="border:1px solid black;">51.70</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">53.30</td><td style="border:1px solid black;">48.90</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">52.70</td><td style="border:1px solid black;">52.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">50.90</td><td style="border:1px solid black;">53.20</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">53.60</td><td style="border:1px solid black;">51.00</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">38.50</td><td style="border:1px solid black;">45.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">45.40</td><td style="border:1px solid black;">54.30</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">47.60</td><td style="border:1px solid black;">45.50</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">53.30</td><td style="border:1px solid black;">50.30</td><tr></table><br><br>Answer:<br>t* =&nbsp;{1:NUMERICAL:=-0.85:0.01#Good job!!~*#Incorrect, try again}<br>The strength of the concrete produced by the two labs are:<br>{1:MCV:~=Equal#~Not Equal#}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>We set up atwo-tail test of hypotheses where the hypotheses are formulated as:<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal<br><br>Mean of concrete produced by Lab 1: $$ \small \bar{X}_1 =&nbsp;48.52 $$<br>Mean of concrete produced by Lab 2: $$ \small \bar{X}_2 =&nbsp;50.34 $$<br><br>Standard dev. of concrete produced by Lab 1: $$ \small \sigma_1 =&nbsp;5.66 $$<br>Standard dev. of concrete produced by Lab 2: $$ \small \sigma_2 =&nbsp;3.09 $$<br><br>Sample size $$ \small n_1 = n_2 =&nbsp;9 $$<br><br>Calculate the&nbsp;two-sample <i>t</i> statistics as:<br>$$ \small t^* = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{{\sigma_1}^2}{n_1} + \frac{{\sigma_2}^2}{n_2}}} =&nbsp;-0.85$$<br>At 5% significance level, the critical value of t (with degree of freedom:&nbsp;9-1 =&nbsp;8) for rejecting the null hypothesis is t* =&nbsp;-2.75<br><br>Hence the null hypothesis cannot be rejected</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Lab t-tests</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;two-sample t-test to determine whether the products produced by them are different at a significance level 5%<br><br><table style="text-align:center; border:1px solid black;"><tr style="border:1px solid black;"><td style="border:1px solid black;" colspan="2">28 day strength (MPa)</td></tr><tr style="border:1px solid black;"><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 1</td><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 2</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">52.70</td><td style="border:1px solid black;">52.50</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">49.30</td><td style="border:1px solid black;">54.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">42.60</td><td style="border:1px solid black;">48.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">40.00</td><td style="border:1px solid black;">47.60</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">40.00</td><td style="border:1px solid black;">53.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">50.40</td><td style="border:1px solid black;">53.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">36.00</td><td style="border:1px solid black;">49.60</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">48.70</td><td style="border:1px solid black;">45.90</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">47.40</td><td style="border:1px solid black;">50.60</td><tr></table><br><br>Answer:<br>t* =&nbsp;{1:NUMERICAL:=-2.55:0.01#Good job!!~*#Incorrect, try again}<br>The strength of the concrete produced by the two labs are:<br>{1:MCV:~Not Equal#~=Equal#}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>We set up atwo-tail test of hypotheses where the hypotheses are formulated as:<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal<br><br>Mean of concrete produced by Lab 1: $$ \small \bar{X}_1 =&nbsp;45.23 $$<br>Mean of concrete produced by Lab 2: $$ \small \bar{X}_2 =&nbsp;50.74 $$<br><br>Standard dev. of concrete produced by Lab 1: $$ \small \sigma_1 =&nbsp;5.73 $$<br>Standard dev. of concrete produced by Lab 2: $$ \small \sigma_2 =&nbsp;3.02 $$<br><br>Sample size $$ \small n_1 = n_2 =&nbsp;9 $$<br><br>Calculate the&nbsp;two-sample <i>t</i> statistics as:<br>$$ \small t^* = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{{\sigma_1}^2}{n_1} + \frac{{\sigma_2}^2}{n_2}}} =&nbsp;-2.55$$<br>At 5% significance level, the critical value of t (with degree of freedom:&nbsp;9-1 =&nbsp;8) for rejecting the null hypothesis is t* =&nbsp;-2.75<br><br>Hence the null hypothesis cannot be rejected</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Lab t-tests</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;two-sample t-test to determine whether the products produced by them are different at a significance level 5%<br><br><table style="text-align:center; border:1px solid black;"><tr style="border:1px solid black;"><td style="border:1px solid black;" colspan="2">28 day strength (MPa)</td></tr><tr style="border:1px solid black;"><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 1</td><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 2</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">49.60</td><td style="border:1px solid black;">45.90</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">45.30</td><td style="border:1px solid black;">54.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">50.80</td><td style="border:1px solid black;">50.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">39.10</td><td style="border:1px solid black;">51.20</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">48.60</td><td style="border:1px solid black;">48.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">36.00</td><td style="border:1px solid black;">45.70</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">51.10</td><td style="border:1px solid black;">53.50</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">48.60</td><td style="border:1px solid black;">46.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">54.00</td><td style="border:1px solid black;">48.70</td><tr></table><br><br>Answer:<br>t* =&nbsp;{1:NUMERICAL:=-1.03:0.01#Good job!!~*#Incorrect, try again}<br>The strength of the concrete produced by the two labs are:<br>{1:MCV:~Not Equal#~=Equal#}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>We set up atwo-tail test of hypotheses where the hypotheses are formulated as:<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal<br><br>Mean of concrete produced by Lab 1: $$ \small \bar{X}_1 =&nbsp;47.01 $$<br>Mean of concrete produced by Lab 2: $$ \small \bar{X}_2 =&nbsp;49.3 $$<br><br>Standard dev. of concrete produced by Lab 1: $$ \small \sigma_1 =&nbsp;5.9 $$<br>Standard dev. of concrete produced by Lab 2: $$ \small \sigma_2 =&nbsp;3.16 $$<br><br>Sample size $$ \small n_1 = n_2 =&nbsp;9 $$<br><br>Calculate the&nbsp;two-sample <i>t</i> statistics as:<br>$$ \small t^* = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{{\sigma_1}^2}{n_1} + \frac{{\sigma_2}^2}{n_2}}} =&nbsp;-1.03$$<br>At 5% significance level, the critical value of t (with degree of freedom:&nbsp;9-1 =&nbsp;8) for rejecting the null hypothesis is t* =&nbsp;-2.75<br><br>Hence the null hypothesis cannot be rejected</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Lab t-tests</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;two-sample t-test to determine whether the products produced by them are different at a significance level 5%<br><br><table style="text-align:center; border:1px solid black;"><tr style="border:1px solid black;"><td style="border:1px solid black;" colspan="2">28 day strength (MPa)</td></tr><tr style="border:1px solid black;"><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 1</td><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 2</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">49.00</td><td style="border:1px solid black;">49.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">36.20</td><td style="border:1px solid black;">45.90</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">50.00</td><td style="border:1px solid black;">52.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">43.40</td><td style="border:1px solid black;">51.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">51.30</td><td style="border:1px solid black;">45.70</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">42.60</td><td style="border:1px solid black;">46.20</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">41.40</td><td style="border:1px solid black;">54.90</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">54.80</td><td style="border:1px solid black;">50.00</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">49.40</td><td style="border:1px solid black;">45.20</td><tr></table><br><br>Answer:<br>t* =&nbsp;{1:NUMERICAL:=-1.11:0.01#Good job!!~*#Incorrect, try again}<br>The strength of the concrete produced by the two labs are:<br>{1:MCV:~=Equal#~Not Equal#}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>We set up atwo-tail test of hypotheses where the hypotheses are formulated as:<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal<br><br>Mean of concrete produced by Lab 1: $$ \small \bar{X}_1 =&nbsp;46.46 $$<br>Mean of concrete produced by Lab 2: $$ \small \bar{X}_2 =&nbsp;48.98 $$<br><br>Standard dev. of concrete produced by Lab 1: $$ \small \sigma_1 =&nbsp;5.87 $$<br>Standard dev. of concrete produced by Lab 2: $$ \small \sigma_2 =&nbsp;3.46 $$<br><br>Sample size $$ \small n_1 = n_2 =&nbsp;9 $$<br><br>Calculate the&nbsp;two-sample <i>t</i> statistics as:<br>$$ \small t^* = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{{\sigma_1}^2}{n_1} + \frac{{\sigma_2}^2}{n_2}}} =&nbsp;-1.11$$<br>At 5% significance level, the critical value of t (with degree of freedom:&nbsp;9-1 =&nbsp;8) for rejecting the null hypothesis is t* =&nbsp;-2.75<br><br>Hence the null hypothesis cannot be rejected</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Lab t-tests</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;two-sample t-test to determine whether the products produced by them are different at a significance level 5%<br><br><table style="text-align:center; border:1px solid black;"><tr style="border:1px solid black;"><td style="border:1px solid black;" colspan="2">28 day strength (MPa)</td></tr><tr style="border:1px solid black;"><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 1</td><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 2</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">46.20</td><td style="border:1px solid black;">54.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">44.90</td><td style="border:1px solid black;">51.20</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">36.30</td><td style="border:1px solid black;">47.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">53.00</td><td style="border:1px solid black;">47.00</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">40.80</td><td style="border:1px solid black;">49.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">40.40</td><td style="border:1px solid black;">45.20</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">46.90</td><td style="border:1px solid black;">53.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">44.50</td><td style="border:1px solid black;">51.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">42.40</td><td style="border:1px solid black;">47.00</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">48.10</td><td style="border:1px solid black;">50.20</td><tr></table><br><br>Answer:<br>t* =&nbsp;{1:NUMERICAL:=-3.05:0.01#Good job!!~*#Incorrect, try again}<br>The strength of the concrete produced by the two labs are:<br>{1:MCV:~=Not Equal#~Equal#}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>We set up atwo-tail test of hypotheses where the hypotheses are formulated as:<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal<br><br>Mean of concrete produced by Lab 1: $$ \small \bar{X}_1 =&nbsp;44.35 $$<br>Mean of concrete produced by Lab 2: $$ \small \bar{X}_2 =&nbsp;49.71 $$<br><br>Standard dev. of concrete produced by Lab 1: $$ \small \sigma_1 =&nbsp;4.67 $$<br>Standard dev. of concrete produced by Lab 2: $$ \small \sigma_2 =&nbsp;3.02 $$<br><br>Sample size $$ \small n_1 = n_2 =&nbsp;10 $$<br><br>Calculate the&nbsp;two-sample <i>t</i> statistics as:<br>$$ \small t^* = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{{\sigma_1}^2}{n_1} + \frac{{\sigma_2}^2}{n_2}}} =&nbsp;-3.05$$<br>At 5% significance level, the critical value of t (with degree of freedom:&nbsp;10-1 =&nbsp;9) for rejecting the null hypothesis is t* =&nbsp;-2.68<br><br>Hence the null hypothesis can be rejected</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Lab t-tests</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;two-sample t-test to determine whether the products produced by them are different at a significance level 5%<br><br><table style="text-align:center; border:1px solid black;"><tr style="border:1px solid black;"><td style="border:1px solid black;" colspan="2">28 day strength (MPa)</td></tr><tr style="border:1px solid black;"><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 1</td><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 2</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">46.30</td><td style="border:1px solid black;">54.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">48.60</td><td style="border:1px solid black;">50.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">42.40</td><td style="border:1px solid black;">47.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">36.50</td><td style="border:1px solid black;">47.60</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">44.10</td><td style="border:1px solid black;">52.60</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">35.90</td><td style="border:1px solid black;">55.00</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">49.80</td><td style="border:1px solid black;">48.60</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">35.70</td><td style="border:1px solid black;">52.60</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">54.10</td><td style="border:1px solid black;">46.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">49.90</td><td style="border:1px solid black;">51.00</td><tr></table><br><br>Answer:<br>t* =&nbsp;{1:NUMERICAL:=-2.7:0.01#Good job!!~*#Incorrect, try again}<br>The strength of the concrete produced by the two labs are:<br>{1:MCV:~=Not Equal#~Equal#}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>We set up atwo-tail test of hypotheses where the hypotheses are formulated as:<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal<br><br>Mean of concrete produced by Lab 1: $$ \small \bar{X}_1 =&nbsp;44.33 $$<br>Mean of concrete produced by Lab 2: $$ \small \bar{X}_2 =&nbsp;50.54 $$<br><br>Standard dev. of concrete produced by Lab 1: $$ \small \sigma_1 =&nbsp;6.58 $$<br>Standard dev. of concrete produced by Lab 2: $$ \small \sigma_2 =&nbsp;3.09 $$<br><br>Sample size $$ \small n_1 = n_2 =&nbsp;10 $$<br><br>Calculate the&nbsp;two-sample <i>t</i> statistics as:<br>$$ \small t^* = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{{\sigma_1}^2}{n_1} + \frac{{\sigma_2}^2}{n_2}}} =&nbsp;-2.7$$<br>At 5% significance level, the critical value of t (with degree of freedom:&nbsp;10-1 =&nbsp;9) for rejecting the null hypothesis is t* =&nbsp;-2.68<br><br>Hence the null hypothesis can be rejected</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Lab t-tests</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;two-sample t-test to determine whether the products produced by them are different at a significance level 5%<br><br><table style="text-align:center; border:1px solid black;"><tr style="border:1px solid black;"><td style="border:1px solid black;" colspan="2">28 day strength (MPa)</td></tr><tr style="border:1px solid black;"><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 1</td><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 2</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">44.00</td><td style="border:1px solid black;">53.90</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">47.80</td><td style="border:1px solid black;">52.00</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">37.60</td><td style="border:1px solid black;">47.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">44.10</td><td style="border:1px solid black;">52.60</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">48.10</td><td style="border:1px solid black;">47.90</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">51.60</td><td style="border:1px solid black;">47.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">41.10</td><td style="border:1px solid black;">45.00</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">43.00</td><td style="border:1px solid black;">48.70</td><tr></table><br><br>Answer:<br>t* =&nbsp;{1:NUMERICAL:=-2.5:0.01#Good job!!~*#Incorrect, try again}<br>The strength of the concrete produced by the two labs are:<br>{1:MCV:~=Equal#~Not Equal#}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>We set up atwo-tail test of hypotheses where the hypotheses are formulated as:<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal<br><br>Mean of concrete produced by Lab 1: $$ \small \bar{X}_1 =&nbsp;44.66 $$<br>Mean of concrete produced by Lab 2: $$ \small \bar{X}_2 =&nbsp;49.41 $$<br><br>Standard dev. of concrete produced by Lab 1: $$ \small \sigma_1 =&nbsp;4.41 $$<br>Standard dev. of concrete produced by Lab 2: $$ \small \sigma_2 =&nbsp;3.07 $$<br><br>Sample size $$ \small n_1 = n_2 =&nbsp;8 $$<br><br>Calculate the&nbsp;two-sample <i>t</i> statistics as:<br>$$ \small t^* = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{{\sigma_1}^2}{n_1} + \frac{{\sigma_2}^2}{n_2}}} =&nbsp;-2.5$$<br>At 5% significance level, the critical value of t (with degree of freedom:&nbsp;8-1 =&nbsp;7) for rejecting the null hypothesis is t* =&nbsp;-2.84<br><br>Hence the null hypothesis cannot be rejected</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Lab t-tests</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;two-sample t-test to determine whether the products produced by them are different at a significance level 5%<br><br><table style="text-align:center; border:1px solid black;"><tr style="border:1px solid black;"><td style="border:1px solid black;" colspan="2">28 day strength (MPa)</td></tr><tr style="border:1px solid black;"><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 1</td><td style="border:1px solid black; padding-left:5px; padding-right:5px;">Laboratory 2</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">42.90</td><td style="border:1px solid black;">46.70</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">44.60</td><td style="border:1px solid black;">54.60</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">46.30</td><td style="border:1px solid black;">50.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">44.80</td><td style="border:1px solid black;">47.50</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">40.40</td><td style="border:1px solid black;">50.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">54.80</td><td style="border:1px solid black;">54.20</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">38.60</td><td style="border:1px solid black;">54.00</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">52.30</td><td style="border:1px solid black;">49.80</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">35.60</td><td style="border:1px solid black;">49.40</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">41.60</td><td style="border:1px solid black;">48.10</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">50.00</td><td style="border:1px solid black;">45.50</td><tr><tr style="border:1px solid black;"><td style="border:1px solid black;">47.90</td><td style="border:1px solid black;">52.60</td><tr></table><br><br>Answer:<br>t* =&nbsp;{1:NUMERICAL:=-2.87:0.01#Good job!!~*#Incorrect, try again}<br>The strength of the concrete produced by the two labs are:<br>{1:MCV:~Equal#~=Not Equal#}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>We set up atwo-tail test of hypotheses where the hypotheses are formulated as:<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal<br><br>Mean of concrete produced by Lab 1: $$ \small \bar{X}_1 =&nbsp;44.98 $$<br>Mean of concrete produced by Lab 2: $$ \small \bar{X}_2 =&nbsp;50.3 $$<br><br>Standard dev. of concrete produced by Lab 1: $$ \small \sigma_1 =&nbsp;5.65 $$<br>Standard dev. of concrete produced by Lab 2: $$ \small \sigma_2 =&nbsp;3.06 $$<br><br>Sample size $$ \small n_1 = n_2 =&nbsp;12 $$<br><br>Calculate the&nbsp;two-sample <i>t</i> statistics as:<br>$$ \small t^* = \frac{\bar{X}_1 - \bar{X}_2}{\sqrt{\frac{{\sigma_1}^2}{n_1} + \frac{{\sigma_2}^2}{n_2}}} =&nbsp;-2.87$$<br>At 5% significance level, the critical value of t (with degree of freedom:&nbsp;12-1 =&nbsp;11) for rejecting the null hypothesis is t* =&nbsp;-2.59<br><br>Hence the null hypothesis can be rejected</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+</quiz>
