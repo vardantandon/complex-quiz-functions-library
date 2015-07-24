@@ -2,49 +2,34 @@
 %Authored By: Avinash Javaji under supervision of Dr. Pilar Garcia Souto
 %UCL Department: Medical Physics and Bioengineering
 
-file=fopen('question5.xml','w'); 
+file=fopen('question5_level2.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
 
-for i=1:1:200
+for i=1:1:100
     
     %Calculations
     
-    syms x a b c d m g h s;
-    a = randi([1 5]);
+    syms a b c g h s;
+    a = randi([2 5]);
     b = randi([6 9]);
     c = randi([1 9]);
-    d = randi([20 30]);
-    m = randi([2 5]);
-    g = randi([1 3]);
-    h = randi([3 6]);
-    f = ((g*s^2 + (a*h + b*g + g*m*a)*s + a*h*m + b*g*m + d) / ((s + m)*(a*s^2 + b * s + c)));
+    g = randi([2 7]);
+    h = randi([1 9]);
+    f = (c + a*h*s+ a*h*g) / ((s + g)*(a*s + b));
     output = ilaplace(f);
-    aString = '';
-    cString = '';
-    gString = '';
-    agString = '';
     
-    if a ~= 1
-        aString  = num2str(a);
-    end
-    if c ~= 1
-        cString  = num2str(c);
-    end
-    if g ~= 1
-        gString  = num2str(g);
-    end
-    if a*g ~= 1
-        agString = num2str(a*g);
-    end
+    questionString = ['Level 2 <br><br>Use Laplace transforms to solve the following differential equation given that y = ' num2str(h) ' at t = 0:' ...
+        '<br><br><p style="text-align: center;">$$ \small ' num2str(a) '\frac{dy}{dt} + ' num2str(b) 'y = ' num2str(c) 'exp(-' num2str(g) 't) $$ </p>' ...
+        '<br>Laplace Transforms table can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/laplace.png" target="_blank">here</a>.' ...
+        '<br>Help on how to insert mathmetical expressions in your answer can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/equation_input.png" target="_blank">here</a>.'];
     
-    step1 = strcat(aString,' [ s^2Y(s) - \frac{dy}{dt}(0) - sy(0)] + ', num2str(b), '[sY(s) - y(0)] + ', cString, '[Y(s)] = \frac{', num2str(d), '}{s + ', num2str(m), '}');
-    step2 = strcat(aString,' [ s^2Y(s) - ', num2str(h), ' - ', gString, 's] + ', num2str(b), '[sY(s) - ', num2str(g), '] + ', cString, '[Y(s)] = \frac{', num2str(d), '}{s + ', num2str(m), '}');
-    step3 = strcat(' Y(s) [', aString, 's^2 + ', num2str(b), 's + ', num2str(c), '] = \frac{', num2str(d), '}{s + ', num2str(m), '} + ', agString, 's + ', num2str(a*h + b*g)); %', num2str(), '
-    step4 = strcat(' Y(s) = ', latex(f));
-    step5 = strcat(' Y(s) = ', latex(feval(symengine, 'partfrac', f)));
+    step1 = [num2str(a) ' [sY(s) - y(0)] + ' num2str(b) '[Y(s)] = \frac{' num2str(c) '}{s + ' num2str(g) '}'];
+    step2 = [num2str(a) ' [sY(s) - ' num2str(h) '] + ' num2str(b) '[Y(s)] = \frac{' num2str(c) '}{s + ' num2str(g), '}'];
+    step3 = [' Y(s) [' num2str(a) 's + ' num2str(b) '] = \frac{' num2str(c) '}{s + ' num2str(g), '} + ' num2str(h)];
+    step4 = [' Y(s) = ' latex(f)];
+    step5 = [' Y(s) = ' latex(feval(symengine, 'partfrac', f))];
     
-    feedbackString = strcat('Remember that <br> $$ \small \mathscr{L}\{\frac{d^2 y}{d t^2}\} = s^2Y(s) - \frac{dy}{dt}(0) - sy(0) $$<br>and', ...
-        '<br> $$ \small \mathscr{L}\{\frac{d y}{d t}\} = sY(s) - y(0)$$<br><br>');
+    feedbackString = strcat('Remember that <br>$$ \small \mathscr{L}\{\frac{d y}{d t}\} = sY(s) - y(0)$$<br><br>');
     feedbackString = strcat(feedbackString, 'Step 1: Take laplace transform of both sides:<br>');
     feedbackString = strcat(feedbackString, '$$ \small \Rightarrow', step1, ' $$<br>');
     feedbackString = strcat(feedbackString, 'Step 2: Substitute in coefficients and initial conditions:<br>');
@@ -62,10 +47,10 @@ for i=1:1:200
     fprintf(file,'  <!-- question: %i  -->', i);
     fprintf(file,'\n  <question type="algebra">');
     fprintf(file,'\n    <name>');
-    fprintf(file,'\n      <text>Differential Equations using Laplace Transforms</text>');
+    fprintf(file,'\n      <text>Level 2 - Differential Equations using Laplace Transforms</text>');
     fprintf(file,'\n    </name>');
     fprintf(file,'\n    <questiontext format="html">');
-    fprintf(file,'\n      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = %i and dy/dt = %i at t = 0:<br><br><p style="text-align: center;">$$ \\small %s\\frac{d^2 y}{d t^2} + %i\\frac{dy}{dt} + %sy = %iexp(-%it) $$ </p><br>Laplace Transforms table can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/laplace.png" target="_blank">here</a>.<br>Help on how to insert mathmetical expressions in your answer can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/equation_input.png" target="_blank">here</a>.</p>]]></text>', g, h, aString, b, cString, d, m);
+    fprintf(file,'\n      <text><![CDATA[<p>%s</p>]]></text>', questionString);
     fprintf(file,'\n    </questiontext>');
     fprintf(file,'\n    <generalfeedback format="html">');
     fprintf(file,'\n      <text><![CDATA[<p>%s</p>]]></text>', feedbackString);

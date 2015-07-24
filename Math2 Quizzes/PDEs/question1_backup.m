@@ -5,74 +5,40 @@
 file=fopen('question1.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
 
-for i=1:1:15
+for i=1:1:1
     
     %Calculations
-    %coeff1 = 4; %randi([2,10]) %4
-    %coeff2 = 1; %randi([2,10]) %1
-    
-    coeff1 = randi([1,4]) * 2;
-    coeff2 = randi([1,4]) * 2;
-    
-    oddOrEven = 0; % 0-odd, 1-even
+    coeff1 = 4; %randi([2,10]);
+    coeff2 = 1; %randi([2,10]);
     
     syms x L n b t p;
     ini_conditions = (coeff1*x/L) * (-x/L + coeff2);
     f = ini_conditions * sin(n*p*x/L);
-    intVal = (int(f, 0, L) * 2 / L);
-    answer = intVal * sin(n*p*x/L) * exp(-(n^2)*(p^2)*(b^2)*t / (L^2));
+    answer = (int(f, 0, L) * 2 / L) * sin(n*p*x/L) * exp(-(n^2)*(p^2)*(b^2)*t / (L^2));
+%     answerStr = char(answer);
+%     answerStr = strrep(answerStr, 'n','(2n-1)');
+%     answerStr = strrep(answerStr, 'si(2n-1)', 'sin');
+%     answerStr
+%     assume(p,'clear');
+    assume((n - 1)/2, 'integer');
+    assume(p == pi);
+%     latex(answer)
+    simplifiedAnswer = simplify(answer)
     
-    assume((n - 1)/2, 'integer'); %Assume odd
-    assume(p == pi); %Ensures the numerical value of pi isn't used, and it remains as a symbol
-    oddSimplifiedAnswer = simplify(answer);
+
+%    charAnswer = char(answer)
+%     charAnswer = strrep(charAnswer, 'cos((2n-1)*p)', '(-1)');
+%     charAnswer = strrep(charAnswer, 'cos((2n-1)*p)', '(-1)');
+
     
-    assume(n/2, 'integer'); %Assume odd
-    assume(p == pi); %Ensures the numerical value of pi isn't used, and it remains as a symbol
-    evenSimplifiedAnswer = simplify(answer);
     
-    if oddSimplifiedAnswer == 0 %size(char(oddSimplifiedAnswer)) < 2
-        simplifiedAnswer = evenSimplifiedAnswer;
-        oddOrEven = 1;
-    elseif evenSimplifiedAnswer == 0 %size(char(evenSimplifiedAnswer)) < 2
-        simplifiedAnswer = oddSimplifiedAnswer;
-        oddOrEven = 0;
-    elseif size(char(oddSimplifiedAnswer)) < size(char(evenSimplifiedAnswer))
-        simplifiedAnswer = oddSimplifiedAnswer;
-        oddOrEven = 0;
-    else
-        simplifiedAnswer = evenSimplifiedAnswer;
-        oddOrEven = 1;
-    end
     
-    ansString = char(simplifiedAnswer);
-    ansString = strrep(ansString, 'exp(', 'e^(');
-    %ansString = strrep(ansString, 'n','(2n-1)');
-    %ansString = strrep(ansString, 'si(2n-1)', 'sin');
-    
-    latexAnsString = latex(simplifiedAnswer);
-    latexAnsString = strrep(latexAnsString, 'b', '\beta');
-    %latexAnsString = strrep(latexAnsString, 'n','(2n-1)');
-    %latexAnsString = strrep(latexAnsString, 'si(2n-1)', 'sin');
-    
-    if oddOrEven == 0
-        assume((n - 1)/2, 'integer'); %Assume odd
-        ansString = strrep(ansString, 'n','(2n-1)');
-        ansString = strrep(ansString, 'si(2n-1)', 'sin');
-        latexAnsString = strrep(latexAnsString, 'n','(2n-1)');
-        latexAnsString = strrep(latexAnsString, 'si(2n-1)', 'sin');
-    else
-        assume(n/2, 'integer'); %Assume even
-        ansString = strrep(ansString, 'n','(2n)');
-        ansString = strrep(ansString, 'si(2n)', 'sin');
-        latexAnsString = strrep(latexAnsString, 'n','(2n)');
-        latexAnsString = strrep(latexAnsString, 'si(2n)', 'sin');
-    end
-    assume(p == pi); %Ensures the numerical value of pi isn't used, and it remains as a symbol
-    simplifiedIntVal = simplify(intVal);
-    
-%     latexIntValString = latex(intVal);
-%     latexIntValString = strrep(latexIntValString, 'n','(2n-1)');
-%     latexIntValString = strrep(latexIntValString, 'si(2n-1)', 'sin');
+    ansString = latex(simplifiedAnswer);
+%     ansString = strrep(ansString, 'pi', '\pi');
+    ansString = strrep(ansString, 'b', '\beta');
+    ansString = strrep(ansString, 'n','(2n-1)');
+    ansString = strrep(ansString, 'si(2n-1)', 'sin')
+%     latex(int(f, 0, L))
     
 %     if (mod(i,2) == 0)
 %         f = exp(a*t)*cos(b*t);
@@ -82,27 +48,11 @@ for i=1:1:15
 
     output = laplace(f);
     
-    step0 = '$$ \small u(x,t) =  \sum_{{n}={1}}^{\infty}  u_n(x,t) =  \sum_{{n}={1}}^{\infty} c_n\sin{\frac{n\pi x}{L}}exp [-\frac{n^2\pi^2}{L^2} \beta^{2} t]  $$';
-    step1 = 'This is a half-range Fourier series, so;';
-    step2 = ['$$ \small c_n = \frac{2}{L} \int_{0}^{L} [-\frac{', num2str(-coeff1), 'x^2}{L^2}sin(\frac{n\pi x}{L})+\frac{', num2str(coeff1+coeff2), 'x}{L}sin(\frac{n\pi x}{L})]dx $$'];
-    step3 = 'Solving the integral';
-    step4 = ['$$ \small c_n = ', latex(intVal), ' $$'];
-    %step5 = 'If n is even, c<sub>n</sub> is 0. If n is odd,';
-    if oddOrEven == 0
-        step5 = 'If n is odd,';
-    else
-        step5 = 'If n is even,';
-    end
-    step6 = ['$$ \small c_n = ' latex(simplifiedIntVal) ' $$'];
-    step7 = 'Substituting back into expression for u(x,t):';
-    step8 = ['$$ \small u(x,t) = \sum_{{n}={1}}^{\infty} ', latexAnsString, '$$'];
-    feedbackString = [step0 '<br>' step1 '<br>' step2 '<br>' step3 '<br>' step4 '<br>' step5 '<br>' step6 '<br>' step7 '<br>' step8];
-    
     %Question output
     fprintf(file,'  <!-- question: %i  -->', i);
     fprintf(file,'\n  <question type="algebra">');
     fprintf(file,'\n    <name>');
-    fprintf(file,'\n      <text>PDE Question 1 Level 1</text>');
+    fprintf(file,'\n      <text>PDE Level1</text>');
     fprintf(file,'\n    </name>');
     fprintf(file,'\n    <questiontext format="html">');
     fprintf(file,'\n      <text>');
@@ -148,12 +98,12 @@ for i=1:1:15
     fprintf(file,'\n        <p>Thus at $$ \\small t $$ = 0, we get</p>');
     fprintf(file,'\n        <p style="margin-left: 30px;">$$ \\small u(x,0) = \\sum_{{n}={1}}^{\\infty} c_n \\sin{\\frac{n\\pi x}{L}} = f(x) = %s $$</p>', latex(f));
     fprintf(file,'\n        <p>This is a half-range Fourier series expression. Solve it to find an expression for $$ \\small u(x,t) $$. Use L = 10 and $$ \\small \\beta $$ = 1.</p>');
-    fprintf(file,'\n        <p>$$ \\small u(x,t) = \\sum_{{n}={1}}^{\\infty} [?] $$</p>');
+    fprintf(file,'\n        <p>$$ \\small u(x,t) = \\sum_{{n}={i}}^{\\infty} [?] $$</p>');
     fprintf(file,'\n        <p>Enter the ($$ \\small ? $$) missing expression in the box below.</p>]]>');
     fprintf(file,'\n      </text>');
     fprintf(file,'\n    </questiontext>');
     fprintf(file,'\n    <generalfeedback format="html">');
-    fprintf(file,'\n      <text><![CDATA[<p>%s</p>]]></text>', feedbackString);
+    fprintf(file,'\n      <text></text>');
     fprintf(file,'\n    </generalfeedback>');
     fprintf(file,'\n    <defaultgrade>1.0000000</defaultgrade>');
     fprintf(file,'\n    <penalty>0.3333333</penalty>');
@@ -165,7 +115,7 @@ for i=1:1:15
     fprintf(file,'\n    <allowedfuncs></allowedfuncs>');
     fprintf(file,'\n    <answerprefix><text></text></answerprefix>');
     fprintf(file,'\n    <answer fraction="100" format="moodle_auto_format">');
-    fprintf(file,'\n      <text>%s</text>', ansString);
+    fprintf(file,'\n      <text>%s</text>', strrep(strrep(strrep(char(answer), 'exp(', 'e^('), 'n', '(2n-1)'), 'si(2n-1)', 'sin'));
     fprintf(file,'\n      <feedback format="html">');
     fprintf(file,'\n        <text></text>');
     fprintf(file,'\n      </feedback>');

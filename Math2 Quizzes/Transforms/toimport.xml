@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/Math 2 - Transforms v2/Question 5</text>
+
+    </category>
+  </question>
+
+<!-- question: 1778433  -->
+  <question type="algebra">
+    <name>
+      <text>Unique Differential Equations using Laplace Transforms</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Laplace transforms to solve the following differential equation given that y = 2 and dy/dt = 5 at t = 0:<br><br><p style="text-align: center;">$$ \small 4\frac{d^2 y}{d t^2} + 7\frac{dy}{dt} + 6y = 25exp(-4t) $$ </p><br>Laplace Transforms table can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/laplace.png" target="_blank">here</a>.<br>Help on how to insert mathmetical expressions in your answer can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/equation_input.png" target="_blank">here</a>.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Remember that <br> $$ \small \mathscr{L}\{\frac{d^2 y}{d t^2}\} = s^2Y(s) - \frac{dy}{dt}(0) - sy(0) $$<br>and<br> $$ \small \mathscr{L}\{\frac{d y}{d t}\} = sY(s) - y(0)$$<br><br>Step 1: Take laplace transform of both sides:<br>$$ \small \Rightarrow4 [ s^2Y(s) - \frac{dy}{dt}(0) - sy(0)] +7[sY(s) - y(0)] +6[Y(s)] = \frac{25}{s +4} $$<br>Step 2: Substitute in coefficients and initial conditions:<br>$$ \small \Rightarrow4 [ s^2Y(s) -5 -2s] +7[sY(s) -2] +6[Y(s)] = \frac{25}{s +4} $$<br>Step 3: Collect <b>Y(s)</b> terms on one side and <b>s</b> terms on the other:<br>$$ \small \Rightarrow Y(s) [4s^2 +7s +6] = \frac{25}{s +4} +8s +34 $$<br>Step 4: From an expression for <b>Y(s)</b>:<br>$$ \small \Rightarrow Y(s) =\frac{2\, s^2 + 66\, s + 161}{\left(s + 4\right)\, \left(4\, s^2 + 7\, s + 6\right)} $$<br>Step 5: Split the partial fractions: <br>$$ \small \Rightarrow Y(s) =\frac{\frac{184\, s}{21} + \frac{599}{14}}{4\, s^2 + 7\, s + 6} - \frac{71}{42\, \left(s + 4\right)} $$<br>Finally, rewrite the above to match forms on the Laplace Transforms table and take the inverse laplace, <br>$$ \small \Rightarrow\frac{46\, \mathrm{e}^{-\frac{7\, t}{8}}\, \left(\cos\!\left(\frac{\sqrt{47}\, t}{8}\right) + \frac{1475\, \sqrt{47}\, \sin\!\left(\frac{\sqrt{47}\, t}{8}\right)}{2162}\right)}{21} - \frac{71\, \mathrm{e}^{- 4\, t}}{42} $$<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>1</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow>  <text></text>
+</disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix>  <text>y(t) =</text>
+</answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(46*e^((-7*t)/8)*(cos((47^(1/2)*t)/8)+(1475*47^(1/2)*sin((47^(1/2)*t)/8))/2162))/21-(71*e^(-4*t))/42</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+<variable name="t">
+    <min>1</min>
+    <max>10</max>
+</variable>
+  </question>
+
+</quiz>

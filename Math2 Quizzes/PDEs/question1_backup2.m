@@ -5,16 +5,14 @@
 file=fopen('question1.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
 
-for i=1:1:15
+for i=1:1:5
     
     %Calculations
     %coeff1 = 4; %randi([2,10]) %4
     %coeff2 = 1; %randi([2,10]) %1
     
     coeff1 = randi([1,4]) * 2;
-    coeff2 = randi([1,4]) * 2;
-    
-    oddOrEven = 0; % 0-odd, 1-even
+    coeff2 = randi([1,3]) * 2;
     
     syms x L n b t p;
     ini_conditions = (coeff1*x/L) * (-x/L + coeff2);
@@ -24,49 +22,19 @@ for i=1:1:15
     
     assume((n - 1)/2, 'integer'); %Assume odd
     assume(p == pi); %Ensures the numerical value of pi isn't used, and it remains as a symbol
-    oddSimplifiedAnswer = simplify(answer);
-    
-    assume(n/2, 'integer'); %Assume odd
-    assume(p == pi); %Ensures the numerical value of pi isn't used, and it remains as a symbol
-    evenSimplifiedAnswer = simplify(answer);
-    
-    if oddSimplifiedAnswer == 0 %size(char(oddSimplifiedAnswer)) < 2
-        simplifiedAnswer = evenSimplifiedAnswer;
-        oddOrEven = 1;
-    elseif evenSimplifiedAnswer == 0 %size(char(evenSimplifiedAnswer)) < 2
-        simplifiedAnswer = oddSimplifiedAnswer;
-        oddOrEven = 0;
-    elseif size(char(oddSimplifiedAnswer)) < size(char(evenSimplifiedAnswer))
-        simplifiedAnswer = oddSimplifiedAnswer;
-        oddOrEven = 0;
-    else
-        simplifiedAnswer = evenSimplifiedAnswer;
-        oddOrEven = 1;
-    end
-    
+    simplifiedAnswer = simplify(answer);
+
     ansString = char(simplifiedAnswer);
     ansString = strrep(ansString, 'exp(', 'e^(');
-    %ansString = strrep(ansString, 'n','(2n-1)');
-    %ansString = strrep(ansString, 'si(2n-1)', 'sin');
+    ansString = strrep(ansString, 'n','(2n-1)');
+    ansString = strrep(ansString, 'si(2n-1)', 'sin');
     
     latexAnsString = latex(simplifiedAnswer);
     latexAnsString = strrep(latexAnsString, 'b', '\beta');
-    %latexAnsString = strrep(latexAnsString, 'n','(2n-1)');
-    %latexAnsString = strrep(latexAnsString, 'si(2n-1)', 'sin');
+    latexAnsString = strrep(latexAnsString, 'n','(2n-1)');
+    latexAnsString = strrep(latexAnsString, 'si(2n-1)', 'sin');
     
-    if oddOrEven == 0
-        assume((n - 1)/2, 'integer'); %Assume odd
-        ansString = strrep(ansString, 'n','(2n-1)');
-        ansString = strrep(ansString, 'si(2n-1)', 'sin');
-        latexAnsString = strrep(latexAnsString, 'n','(2n-1)');
-        latexAnsString = strrep(latexAnsString, 'si(2n-1)', 'sin');
-    else
-        assume(n/2, 'integer'); %Assume even
-        ansString = strrep(ansString, 'n','(2n)');
-        ansString = strrep(ansString, 'si(2n)', 'sin');
-        latexAnsString = strrep(latexAnsString, 'n','(2n)');
-        latexAnsString = strrep(latexAnsString, 'si(2n)', 'sin');
-    end
+    assume((n - 1)/2, 'integer'); %Assume odd
     assume(p == pi); %Ensures the numerical value of pi isn't used, and it remains as a symbol
     simplifiedIntVal = simplify(intVal);
     
@@ -87,12 +55,7 @@ for i=1:1:15
     step2 = ['$$ \small c_n = \frac{2}{L} \int_{0}^{L} [-\frac{', num2str(-coeff1), 'x^2}{L^2}sin(\frac{n\pi x}{L})+\frac{', num2str(coeff1+coeff2), 'x}{L}sin(\frac{n\pi x}{L})]dx $$'];
     step3 = 'Solving the integral';
     step4 = ['$$ \small c_n = ', latex(intVal), ' $$'];
-    %step5 = 'If n is even, c<sub>n</sub> is 0. If n is odd,';
-    if oddOrEven == 0
-        step5 = 'If n is odd,';
-    else
-        step5 = 'If n is even,';
-    end
+    step5 = 'If n is even, c<sub>n</sub> is 0. If n is odd,';
     step6 = ['$$ \small c_n = ' latex(simplifiedIntVal) ' $$'];
     step7 = 'Substituting back into expression for u(x,t):';
     step8 = ['$$ \small u(x,t) = \sum_{{n}={1}}^{\infty} ', latexAnsString, '$$'];

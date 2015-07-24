@@ -2,10 +2,10 @@
 %Authored By: Avinash Javaji under supervision of Dr. Pilar Garcia Souto
 %UCL Department: Medical Physics and Bioengineering
 
-file=fopen('question4.xml','w'); 
+file=fopen('question4_level1.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
 
-for i=1:1:10
+for i=1:1:100
     
     %Calculations
     alpha = randi([1,10]);
@@ -13,45 +13,47 @@ for i=1:1:10
     
     syms t a b s;
     
-    if (mod(i,2) == 0)
-        f = exp(-alpha*t)*cos(w*t);
-        questionFromTable = exp(-a*t)*cos(b*t);
-        formFromTable = (s + a)/((s + a)^2 + b^2);
-        trigString = 'cos';
-        trigLatex = '\frac{s}{s^2 + b^2}';
+    if (mod(i,3) == 0)
+        f = cos(w*t);
+        questionFromTable = cos(b*t);
+        formFromTable = s/(s^2 + b^2);
+        substitutionString = strcat('b =&nbsp;', num2str(w)');
+    elseif (mod(i,3) == 1)
+        f = sin(w*t);
+        questionFromTable = sin(b*t);
+        formFromTable = b/(s^2 + b^2);
+        substitutionString = strcat('b =&nbsp;', num2str(w)');
     else
-        f = exp(-alpha*t)*sin(w*t);
-        questionFromTable = exp(-a*t)*sin(b*t);
-        formFromTable = b/((s + a)^2 + b^2);
-        trigString = 'sin';
-        trigLatex = '\frac{b}{s^2 + b^2}';
+        f = exp(-alpha*t);
+        questionFromTable = exp(-a*t);
+        formFromTable = 1/(s + a);
+        substitutionString = strcat('a =&nbsp;', num2str(alpha)');
     end
     output = laplace(f);
     
-    instruction1 = 'From the Laplace Tables,';
-    instruction2 = 'According to the Shift Theorem,';
-    instruction3 = strcat('If f(t) =&nbsp;', trigString, '(bt), we get:');
-    instruction4 = strcat('Finaly substituting a =&nbsp;', num2str(alpha), ' and b =&nbsp;', num2str(w), ' we get:'); 
+    questionString = ['Level 1<br><br>Use a table of Laplace Transforms to find </p><br>' ...
+        '<p style="text-align: center;">$$ \small \mathscr{L}\{', latex(f),'\} $$. </p><p><br>' ...
+        'Laplace Transforms table can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/laplace.png" target="_blank">here</a>.' ...
+        '<br>Help on how to insert mathmetical expressions in your answer can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/equation_input.png" target="_blank">here</a>.'];
     
-    step1 = strcat('$$ \small \mathscr{L}\{', trigString, '(bt)\} =', trigLatex, ' $$');
-    step2 = strcat('$$ \small \mathscr{L}\{f(t)e^{-at}\} = F(s+a) $$');
-    step3 = strcat('$$ \small \mathscr{L}\{', trigString, '(bt)e^{-at}\} =', latex(formFromTable), ' $$');
-    step4 = strcat('$$ \small \mathscr{L}\{', latex(f), '\} = ', latex(output), ' $$');
+    instruction1 = 'From the Laplace Tables,';
+    instruction2 = strcat('Substituting&nbsp;', substitutionString, ', we get:'); 
+    
+    step1 = strcat('$$ \small \mathscr{L}\{', latex(questionFromTable), '\} =', latex(formFromTable), ' $$');
+    step2 = strcat('$$ \small \mathscr{L}\{', latex(f), '\} = ', latex(output), ' $$');
     
     feedbackString = strcat( ...
         instruction1, '<br>', step1, '<br>', ...
-        instruction2, '<br>', step2, '<br>', ...
-        instruction3, '<br>', step3, '<br>', ...
-        instruction4, '<br>', step4);
+        instruction2, '<br>', step2, '<br>');
 
     %Question output
     fprintf(file,'  <!-- question: %i  -->', i);
     fprintf(file,'\n  <question type="algebra">');
     fprintf(file,'\n    <name>');
-    fprintf(file,'\n      <text>Laplace Transform</text>');
+    fprintf(file,'\n      <text>Laplace Transform Level 1</text>');
     fprintf(file,'\n    </name>');
     fprintf(file,'\n    <questiontext format="html">');
-    fprintf(file,'\n      <text><![CDATA[<p>Use a table of Laplace Transforms to find </p><br><p style="text-align: center;">$$ \\small \\mathscr{L}\\{%s\\} $$. </p><p><br>Laplace Transforms table can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/laplace.png" target="_blank">here</a>.<br>Help on how to insert mathmetical expressions in your answer can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/equation_input.png" target="_blank">here</a>.</p>]]></text>', latex(f));
+    fprintf(file,'\n      <text><![CDATA[<p>%s</p>]]></text>', questionString);
     fprintf(file,'\n    </questiontext>');
     fprintf(file,'\n    <generalfeedback format="html">');
     fprintf(file,'\n      <text><![CDATA[<p>%s</p>]]></text>', feedbackString);
