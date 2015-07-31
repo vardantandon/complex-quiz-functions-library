@@ -5,10 +5,10 @@
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(2x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The series expansion for tan(x) is defined as : <br> $$\small x + 2\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...$$<br><br>tan<sup>2</sup>(x) can be calculated as : <br>$$(\small x + 2.\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...).(\small x + 2.\frac{x^{3}}{3!} + 16.\frac{x^{5}}{5!} + ...)$$ => $$\small x^{2} + 4.\frac{x^{4}}{3!} + ... \approx x^{2} + 2.\frac{x^{4}}{3}$$ <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -20,7 +20,7 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>x^2 + (2*x^4)/3</text>
+      <text>4*x^2*(4*x^2 + 3)</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -35,10 +35,10 @@
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(2x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(2x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The series expansion for cos(x) : <br>$$\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \frac{x^{6}}{6!} + ...$$ <br><br>The definition of cos(x) as an infinite series can be written as :<br>$$\small\sum\limits_{n = 0}^\infty {\frac{{\left( { - 1} \right)^n x^{2n} }}{{\left( {2n} \right)!}}}$$<br><br>cos<sup>2</sup>(x) can be calculated as : <br> $$(\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - ...).(\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - ...)$$ => $$\small 1 - 2.\frac{x^{2}}{2!} + ... \approx $$ 1 - x<sup>2</sup> <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -50,7 +50,7 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>4*x^2*(2*x^2 + 3)</text>
+      <text>1 - 4*x^2</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -65,10 +65,10 @@
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(2x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(2x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The series expansion for tan(x) is defined as : <br> $$\small x + 2\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...$$<br><br>tan<sup>2</sup>(x) can be calculated as : <br>$$(\small x + 2.\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...).(\small x + 2.\frac{x^{3}}{3!} + 16.\frac{x^{5}}{5!} + ...)$$ => $$\small x^{2} + 4.\frac{x^{4}}{3!} + ... \approx x^{2} + 2.\frac{x^{4}}{3}$$ <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -80,7 +80,7 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>-4*x^2*(x^2 - 3)</text>
+      <text>(4*x^2*(4*x^2 + 3))/3</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -95,10 +95,10 @@
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(2x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 2sin<sup>2</sup>(2x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=>$$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:.... $$<br><br>The series expansion for sin(x) : <br>$$\small x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - \frac{x^{7}}{7!} + ...$$ <br><br>The definition of sin(x) as an infinite series can be written as : <br>$$\small\sum\limits_{n = 1}^\infty {\frac{{\left( { - 1} \right)^{n - 1} x^{2n - 1} }}{{\left( {2n - 1} \right)!}}}$$<br><br>sin<sup>2</sup>(x) can be calculated as : <br>$$(\small x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - ...).(\small x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - ...)$$ => $$\small x^{2} - 2.\frac{x^{4}}{3!} + ... \approx x^{2} - \frac{x^{4}}{3}$$ <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -110,7 +110,7 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>4*x^2*(2*x^2 + 3)</text>
+      <text>-(8*x^2*(4*x^2 - 3))/3</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -128,7 +128,7 @@
       <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The series expansion for tan(x) is defined as : <br> $$\small x + 2\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...$$<br><br>tan<sup>2</sup>(x) can be calculated as : <br>$$(\small x + 2.\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...).(\small x + 2.\frac{x^{3}}{3!} + 16.\frac{x^{5}}{5!} + ...)$$ => $$\small x^{2} + 4.\frac{x^{4}}{3!} + ... \approx x^{2} + 2.\frac{x^{4}}{3}$$ <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -140,7 +140,7 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>x^2 + (2*x^4)/3</text>
+      <text>(x^2*(x^2 + 3))/3</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -155,10 +155,10 @@
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(2x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The series expansion for tan(x) is defined as : <br> $$\small x + 2\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...$$<br><br>tan<sup>2</sup>(x) can be calculated as : <br>$$(\small x + 2.\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...).(\small x + 2.\frac{x^{3}}{3!} + 16.\frac{x^{5}}{5!} + ...)$$ => $$\small x^{2} + 4.\frac{x^{4}}{3!} + ... \approx x^{2} + 2.\frac{x^{4}}{3}$$ <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -170,7 +170,7 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>2 - 2*x^2</text>
+      <text>4*x^2*(4*x^2 + 3)</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -185,40 +185,10 @@
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(x). </p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
-    </generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <compareby>eval</compareby>
-    <tolerance>0.001</tolerance>
-    <nchecks>10</nchecks>
-    <disallow><text></text></disallow>
-    <allowedfuncs></allowedfuncs>
-    <answerprefix><text>Answer(in x) = </text></answerprefix>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>x^2*(2*x^2 + 3)</text>
-      <feedback format="html">
-        <text></text>
-      </feedback>
-    </answer>
-    <variable name="x">
-        <min>1</min>
-        <max>10</max>
-    </variable>
-  </question>  <!-- question: 8  -->
-  <question type="algebra">
-    <name>
-      <text>Maclaurin Series</text>
-    </name>
-    <questiontext format="html">
       <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The series expansion for cos(x) : <br>$$\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \frac{x^{6}}{6!} + ...$$ <br><br>The definition of cos(x) as an infinite series can be written as :<br>$$\small\sum\limits_{n = 0}^\infty {\frac{{\left( { - 1} \right)^n x^{2n} }}{{\left( {2n} \right)!}}}$$<br><br>cos<sup>2</sup>(x) can be calculated as : <br> $$(\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - ...).(\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - ...)$$ => $$\small 1 - 2.\frac{x^{2}}{2!} + ... \approx $$ 1 - x<sup>2</sup> <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -239,16 +209,16 @@
         <min>1</min>
         <max>10</max>
     </variable>
-  </question>  <!-- question: 9  -->
+  </question>  <!-- question: 8  -->
   <question type="algebra">
     <name>
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(2x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 2sin<sup>2</sup>(x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=>$$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:.... $$<br><br>The series expansion for sin(x) : <br>$$\small x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - \frac{x^{7}}{7!} + ...$$ <br><br>The definition of sin(x) as an infinite series can be written as : <br>$$\small\sum\limits_{n = 1}^\infty {\frac{{\left( { - 1} \right)^{n - 1} x^{2n - 1} }}{{\left( {2n - 1} \right)!}}}$$<br><br>sin<sup>2</sup>(x) can be calculated as : <br>$$(\small x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - ...).(\small x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - ...)$$ => $$\small x^{2} - 2.\frac{x^{4}}{3!} + ... \approx x^{2} - \frac{x^{4}}{3}$$ <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -260,7 +230,37 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>1 - 2*x^2</text>
+      <text>-(2*x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 9  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The series expansion for cos(x) : <br>$$\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \frac{x^{6}}{6!} + ...$$ <br><br>The definition of cos(x) as an infinite series can be written as :<br>$$\small\sum\limits_{n = 0}^\infty {\frac{{\left( { - 1} \right)^n x^{2n} }}{{\left( {2n} \right)!}}}$$<br><br>cos<sup>2</sup>(x) can be calculated as : <br> $$(\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - ...).(\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - ...)$$ => $$\small 1 - 2.\frac{x^{2}}{2!} + ... \approx $$ 1 - x<sup>2</sup> <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 8*x^2</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -275,10 +275,10 @@
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The series expansion for tan(x) is defined as : <br> $$\small x + 2\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...$$<br><br>tan<sup>2</sup>(x) can be calculated as : <br>$$(\small x + 2.\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...).(\small x + 2.\frac{x^{3}}{3!} + 16.\frac{x^{5}}{5!} + ...)$$ => $$\small x^{2} + 4.\frac{x^{4}}{3!} + ... \approx x^{2} + 2.\frac{x^{4}}{3}$$ <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -290,7 +290,7 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>x^2 + (2*x^4)/3</text>
+      <text>x^2*(x^2 + 3)</text>
       <feedback format="html">
         <text></text>
       </feedback>

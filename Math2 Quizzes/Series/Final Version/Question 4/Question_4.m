@@ -7,9 +7,9 @@ flag = randi([1 3],1,1)
 a = randi ([1 2],1,1)
 b = randi([1 3],1,1)
 syms x
-cos_f =  1 - (a*(x^2))/2
-sin_f = a*x - (a*(x^3))/6
-tan_f = a*x +  (a*(x^3))/3
+cos_f =  1 - ((a*x)^2)/2
+sin_f = a*x - ((a*x)^3)/6
+tan_f = a*x +  ((a*x)^3)/6
 
 aString = '';
 bString = '';
@@ -23,18 +23,34 @@ end
 
 if (flag == 1)
         str = 'cos'
-        answer = simplify(b*(cos_f*cos_f  - (a*(x^2)/2)^2) ) 
-        feedbackString = strcat('The Maclaurin expansion for cos(x) : <br>', char(simplify(taylor(cos(x)))),'<br>');
+        answer = simplify(b*(cos_f*cos_f  - (((a*x)^2)/2)^2) ) 
+        feedbackString = strcat('The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:''\left(0\right)x\:+\:\frac{f\:''''\left(0\right)}{2!}x^2\:+\:\frac{f\:''''''\left(0\right)}{3!}x^3\:+\:....$$<br><br>',...
+        'The series expansion for cos(x) : <br>',...
+        '$$\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \frac{x^{6}}{6!} + ...$$ <br><br>',...
+        'The definition of cos(x) as an infinite series can be written as :<br>$$\small\sum\limits_{n = 0}^\infty {\frac{{\left( { - 1} \right)^n x^{2n} }}{{\left( {2n} \right)!}}}$$<br><br>',...
+        'cos<sup>2</sup>(x) can be calculated as : <br> $$(\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - ...).',...
+        '(\small 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - ...)$$ => $$\small 1 - 2.\frac{x^{2}}{2!} + ... \approx $$ 1 - x<sup>2</sup> <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br>');
   
 else if (flag == 2)
         str = 'sin'
-        answer = simplify(b*(sin_f*sin_f -   ((a*(x^3))/6)^2 ))
-         feedbackString = strcat('The Maclaurin expansion for sin(x) : <br>', char(simplify(taylor(sin(x)))),'<br>');
-  
+        answer = simplify(b*(sin_f*sin_f -   (((a*x)^3)/6)^2) )
+        feedbackString = strcat('The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=>$$\small f\left(0\right)\:+\:f\:''\left(0\right)x\:+\:\frac{f\:''''\left(0\right)}{2!}x^2\:+\:\frac{f\:''''''\left(0\right)}{3!}x^3\:+\:.... $$<br><br>',...
+        'The series expansion for sin(x) : <br>',...
+        '$$\small x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - \frac{x^{7}}{7!} + ...$$ <br><br>',...
+        'The definition of sin(x) as an infinite series can be written as : <br>$$\small\sum\limits_{n = 1}^\infty {\frac{{\left( { - 1} \right)^{n - 1} x^{2n - 1} }}{{\left( {2n - 1} \right)!}}}$$<br><br>',...
+        'sin<sup>2</sup>(x) can be calculated as : <br>$$(\small x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - ...).',...
+        '(\small x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - ...)$$ => $$\small x^{2} - 2.\frac{x^{4}}{3!} + ... \approx x^{2} ',...
+        ' - \frac{x^{4}}{3}$$ <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br>');
 else 
         str = 'tan'
-        answer = simplify(b*(tan_f*tan_f  -  ((a*(x^3))/3) ^2 ))
-         feedbackString = strcat('The Maclaurin expansion for tan(x) : <br>', char(simplify(taylor(tan(x)))),'<br>');
+        answer = simplify(b*(tan_f*tan_f  -  (((a*x)^3)/6) ^2 ))
+        feedbackString = strcat('The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:''\left(0\right)x\:+\:\frac{f\:''''\left(0\right)}{2!}x^2\:+\:\frac{f\:''''''\left(0\right)}{3!}x^3\:+\:....$$<br><br>',...
+        'The series expansion for tan(x) is defined as : <br>',...
+        ' $$\small x + 2\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...$$','<br><br>',...
+         'tan<sup>2</sup>(x) can be calculated as : <br>$$(\small x + 2.\frac{x^{3}}{3!} + 16\frac{x^{5}}{5!} + ...).',...
+        '(\small x + 2.\frac{x^{3}}{3!} + 16.\frac{x^{5}}{5!} + ...)$$ => $$\small x^{2} + 4.\frac{x^{4}}{3!} + ... \approx x^{2} ',...
+        ' + 2.\frac{x^{4}}{3}$$ <br>[Higher terms in x are ignored as it is a number smaller than 1, the value of x<sup>n</sup> becomes lower and lower as n increases]<br><br>');
+         
   
     end
 end 
