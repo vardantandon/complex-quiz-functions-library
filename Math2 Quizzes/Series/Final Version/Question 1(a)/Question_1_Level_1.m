@@ -74,7 +74,7 @@ for i=1:1:100
  '<br>Answer : <br>', numString);
 
   
-feedbackString = strcat('First term  = a', '<br>Common difference = d','<br>Last term = a<sub>n</sub><br>', 'Calculate the total number of terms(n) : ', ...
+feedbackString = strcat('ThFirst term  = a', '<br>Common difference = d','<br>Last term = a<sub>n</sub><br>', 'Calculate the total number of terms(n) : ', ...
 ' a<sub>n</sub> = a + (n-1)d', '<br>Sum = (n/2)(2a + (n-1)d) = ', num2str(sum));
     
     else if (flag == 2)
