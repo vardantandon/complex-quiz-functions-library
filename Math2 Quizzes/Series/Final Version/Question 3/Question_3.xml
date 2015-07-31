@@ -6,11 +6,11 @@
       <text>Error approximation</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;10$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=43:1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;8$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=39:1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br>$$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br>Using a calculator, the error is found to be&nbsp;10% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.74875 radians or about&nbsp;42.9 degrees.<br>Smallest positive angle =&nbsp;43 degrees.</p>]]></text>
+      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br><br>=> $$\small \frac{| Expected&nbsp;Value - Approximate&nbsp;Value |}{Expected&nbsp;Value}$$ x 100%<br>=> $$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br><br>Trying with various numbers, you can approximate the solution &nbsp;8% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.6737 radians or about&nbsp;38.6 degrees.<br>Smallest positive angle =&nbsp;39 degrees.</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -21,11 +21,11 @@
       <text>Error approximation</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;8$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=39:1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;7$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=36:1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br>$$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br>Using a calculator, the error is found to be&nbsp;8% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.6737 radians or about&nbsp;38.6 degrees.<br>Smallest positive angle =&nbsp;39 degrees.</p>]]></text>
+      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br><br>=> $$\small \frac{| Expected&nbsp;Value - Approximate&nbsp;Value |}{Expected&nbsp;Value}$$ x 100%<br>=> $$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br><br>Trying with various numbers, you can approximate the solution &nbsp;7% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.63181 radians or about&nbsp;36.2 degrees.<br>Smallest positive angle =&nbsp;36 degrees.</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -36,11 +36,11 @@
       <text>Error approximation</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;11$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=45:1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;7$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=36:1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br>$$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br>Using a calculator, the error is found to be&nbsp;11% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.78191 radians or about&nbsp;44.8 degrees.<br>Smallest positive angle =&nbsp;45 degrees.</p>]]></text>
+      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br><br>=> $$\small \frac{| Expected&nbsp;Value - Approximate&nbsp;Value |}{Expected&nbsp;Value}$$ x 100%<br>=> $$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br><br>Trying with various numbers, you can approximate the solution &nbsp;7% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.63181 radians or about&nbsp;36.2 degrees.<br>Smallest positive angle =&nbsp;36 degrees.</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -51,11 +51,11 @@
       <text>Error approximation</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;5$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=31:1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;6$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=34:1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br>$$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br>Using a calculator, the error is found to be&nbsp;5% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.53582 radians or about&nbsp;30.7 degrees.<br>Smallest positive angle =&nbsp;31 degrees.</p>]]></text>
+      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br><br>=> $$\small \frac{| Expected&nbsp;Value - Approximate&nbsp;Value |}{Expected&nbsp;Value}$$ x 100%<br>=> $$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br><br>Trying with various numbers, you can approximate the solution &nbsp;6% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.58643 radians or about&nbsp;33.6 degrees.<br>Smallest positive angle =&nbsp;34 degrees.</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -66,11 +66,11 @@
       <text>Error approximation</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;11$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=45:1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;9$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=41:1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br>$$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br>Using a calculator, the error is found to be&nbsp;11% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.78191 radians or about&nbsp;44.8 degrees.<br>Smallest positive angle =&nbsp;45 degrees.</p>]]></text>
+      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br><br>=> $$\small \frac{| Expected&nbsp;Value - Approximate&nbsp;Value |}{Expected&nbsp;Value}$$ x 100%<br>=> $$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br><br>Trying with various numbers, you can approximate the solution &nbsp;9% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.71209 radians or about&nbsp;40.8 degrees.<br>Smallest positive angle =&nbsp;41 degrees.</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -81,11 +81,11 @@
       <text>Error approximation</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;10$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=43:1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;12$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=47:1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br>$$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br>Using a calculator, the error is found to be&nbsp;10% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.74875 radians or about&nbsp;42.9 degrees.<br>Smallest positive angle =&nbsp;43 degrees.</p>]]></text>
+      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br><br>=> $$\small \frac{| Expected&nbsp;Value - Approximate&nbsp;Value |}{Expected&nbsp;Value}$$ x 100%<br>=> $$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br><br>Trying with various numbers, you can approximate the solution &nbsp;12% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.81507 radians or about&nbsp;46.7 degrees.<br>Smallest positive angle =&nbsp;47 degrees.</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -96,11 +96,11 @@
       <text>Error approximation</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;10$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=43:1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;8$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=39:1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br>$$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br>Using a calculator, the error is found to be&nbsp;10% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.74875 radians or about&nbsp;42.9 degrees.<br>Smallest positive angle =&nbsp;43 degrees.</p>]]></text>
+      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br><br>=> $$\small \frac{| Expected&nbsp;Value - Approximate&nbsp;Value |}{Expected&nbsp;Value}$$ x 100%<br>=> $$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br><br>Trying with various numbers, you can approximate the solution &nbsp;8% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.6737 radians or about&nbsp;38.6 degrees.<br>Smallest positive angle =&nbsp;39 degrees.</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -111,11 +111,11 @@
       <text>Error approximation</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;8$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=39:1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;11$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=45:1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br>$$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br>Using a calculator, the error is found to be&nbsp;8% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.6737 radians or about&nbsp;38.6 degrees.<br>Smallest positive angle =&nbsp;39 degrees.</p>]]></text>
+      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br><br>=> $$\small \frac{| Expected&nbsp;Value - Approximate&nbsp;Value |}{Expected&nbsp;Value}$$ x 100%<br>=> $$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br><br>Trying with various numbers, you can approximate the solution &nbsp;11% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.78191 radians or about&nbsp;44.8 degrees.<br>Smallest positive angle =&nbsp;45 degrees.</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -126,11 +126,11 @@
       <text>Error approximation</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;8$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=39:1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;10$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=43:1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br>$$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br>Using a calculator, the error is found to be&nbsp;8% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.6737 radians or about&nbsp;38.6 degrees.<br>Smallest positive angle =&nbsp;39 degrees.</p>]]></text>
+      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br><br>=> $$\small \frac{| Expected&nbsp;Value - Approximate&nbsp;Value |}{Expected&nbsp;Value}$$ x 100%<br>=> $$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br><br>Trying with various numbers, you can approximate the solution &nbsp;10% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.74875 radians or about&nbsp;42.9 degrees.<br>Smallest positive angle =&nbsp;43 degrees.</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -141,11 +141,11 @@
       <text>Error approximation</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;7$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=36:1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin($$\small\theta$$) provides a "small angle" approximation: sin($$\small\theta$$) $$\small\approx$$ $$\small\theta$$.<br> What is the smallest positive angle at which this approximation gives and error of&nbsp;8$$\small\%$$<br>Express your answer to the nearest degree.<br><br>Answer : <br>{1:NUMERICAL:=39:1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br>$$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br>Using a calculator, the error is found to be&nbsp;7% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.63181 radians or about&nbsp;36.2 degrees.<br>Smallest positive angle =&nbsp;36 degrees.</p>]]></text>
+      <text><![CDATA[<p>The error for $$\small \theta$$ is given by : <br><br>=> $$\small \frac{| Expected&nbsp;Value - Approximate&nbsp;Value |}{Expected&nbsp;Value}$$ x 100%<br>=> $$\small \frac{sin(\theta) - \theta}{sin(\theta)}$$ x 100%<br><br>Trying with various numbers, you can approximate the solution &nbsp;8% at&nbsp;$$\small \theta$$&nbsp;$$\small \approx$$&nbsp;0.6737 radians or about&nbsp;38.6 degrees.<br>Smallest positive angle =&nbsp;39 degrees.</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
