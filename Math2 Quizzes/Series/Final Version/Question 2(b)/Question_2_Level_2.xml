@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-2(\frac{1}{4})^n-3(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.046296:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$-3$$\small \sum _{n=3}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{729}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0015432<br><br>Total Sum = (-2) * Sum<sub>1</sub> + (-3) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.046296</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(9)^{-\frac{n}{2}}-5(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.05:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>$$\small \sum _{n=3}^{\infty }\:(9)^{-\frac{n}{2}}$$-5$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{27}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.055556&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (1) * Sum<sub>1</sub> + (-5) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.05</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-(25)^{-\frac{n}{2}}-4(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.016173:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=3}^{\infty }\:(25)^{-\frac{n}{2}}$$-4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{9})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{125}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{729}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.01&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0015432<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (-4) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.016173</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[5(9)^{-\frac{n}{2}}+3(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.8869:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>5$$\small \sum _{n=2}^{\infty }\:(9)^{-\frac{n}{2}}$$+3$$\small \sum _{n=2}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{9}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{64}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.16667&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.017857<br><br>Total Sum = (5) * Sum<sub>1</sub> + (3) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.8869</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-3(\frac{1}{2})^n+3\small(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-2.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$+3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{7}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.16667<br><br>Total Sum = (-3) * Sum<sub>1</sub> + (3) * Sum<sub>2</sub><br>Total Sum =&nbsp;-2.5</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(\frac{1}{2})^n+\small(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.2534:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$+$$\small \sum _{n=3}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{343}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0034014<br><br>Total Sum = (1) * Sum<sub>1</sub> + (1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.2534</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[3(\frac{1}{4})^n+5\small(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$+5$$\small \sum _{n=1}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{6}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.2<br><br>Total Sum = (3) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;2</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-3(9)^{-\frac{n}{2}}+5(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.94444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-3$$\small \sum _{n=1}^{\infty }\:(9)^{-\frac{n}{2}}$$+5$$\small \sum _{n=1}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{3}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{10}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.11111<br><br>Total Sum = (-3) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.94444</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-(9)^{-\frac{n}{2}}-2(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.21429:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=2}^{\infty }\:(9)^{-\frac{n}{2}}$$-2$$\small \sum _{n=2}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{9}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{49}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.16667&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.02381<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.21429</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[2(\frac{1}{2})^n-3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.49667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$-3$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (2) * Sum<sub>1</sub> + (-3) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.49667</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-2(\frac{1}{4})^n+\small(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.52381:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-2$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$+$$\small \sum _{n=1}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{8}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.14286<br><br>Total Sum = (-2) * Sum<sub>1</sub> + (1) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.52381</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-(\frac{1}{4})^n+2\small(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.047619:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=2}^{\infty }\:(\frac{1}{4})^n$$+2$$\small \sum _{n=2}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{16}$$ a<sub>2</sub> =$$\small \frac{1}{64}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.083333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.017857<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.047619</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-2(\frac{1}{2})^n+(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.98611:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-2$$\small \sum _{n=2}^{\infty }\:(\frac{1}{2})^n$$+$$\small \sum _{n=2}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{81}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.013889<br><br>Total Sum = (-2) * Sum<sub>1</sub> + (1) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.98611</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[5(25)^{-\frac{n}{2}}+5(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.055556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>5$$\small \sum _{n=3}^{\infty }\:(25)^{-\frac{n}{2}}$$+5$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{125}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.01&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (5) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.055556</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[5(\frac{1}{4})^n-3(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.31667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>5$$\small \sum _{n=2}^{\infty }\:(\frac{1}{4})^n$$-3$$\small \sum _{n=2}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{16}$$ a<sub>2</sub> =$$\small \frac{1}{36}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.083333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.033333<br><br>Total Sum = (5) * Sum<sub>1</sub> + (-3) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.31667</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-(\frac{1}{2})^n+3\small(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.2433:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$+3$$\small \sum _{n=3}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{512}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0022321<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (3) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.2433</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[(25)^{-\frac{n}{2}}+(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.061111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>$$\small \sum _{n=2}^{\infty }\:(25)^{-\frac{n}{2}}$$+$$\small \sum _{n=2}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{25}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{100}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.05&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.011111<br><br>Total Sum = (1) * Sum<sub>1</sub> + (1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.061111</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[4(\frac{1}{4})^n-(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.2083:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$-$$\small \sum _{n=1}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{9}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.125<br><br>Total Sum = (4) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.2083</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(9)^{-\frac{n}{2}}-4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-2.4444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=1}^{\infty }\:(9)^{-\frac{n}{2}}$$-4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{3}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{10}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.11111<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (-4) * Sum<sub>2</sub><br>Total Sum =&nbsp;-2.4444</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[3(\frac{1}{4})^n-2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.051389:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>3$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$-2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{216}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0055556<br><br>Total Sum = (3) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.051389</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[3(\frac{1}{2})^n+2\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=3.2222:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$+2$$\small \sum _{n=1}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{10}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.11111<br><br>Total Sum = (3) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;3.2222</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[4(9)^{-\frac{n}{2}}+(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=2.1667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=1}^{\infty }\:(9)^{-\frac{n}{2}}$$+$$\small \sum _{n=1}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{3}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{7}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.16667<br><br>Total Sum = (4) * Sum<sub>1</sub> + (1) * Sum<sub>2</sub><br>Total Sum =&nbsp;2.1667</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[3(\frac{1}{2})^n+4\small(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=3.5714:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$+4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{8}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.14286<br><br>Total Sum = (3) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;3.5714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(9)^{-\frac{n}{2}}+4(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>2$$\small \sum _{n=1}^{\infty }\:(9)^{-\frac{n}{2}}$$+4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{3}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{7}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.16667<br><br>Total Sum = (2) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.6667</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-(25)^{-\frac{n}{2}}-5(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.25:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=1}^{\infty }\:(25)^{-\frac{n}{2}}$$-5$$\small \sum _{n=1}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{5}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{6}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.2<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (-5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-1.25</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[5(\frac{1}{2})^n+3\small(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=5.6:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>5$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$+3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{6}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.2<br><br>Total Sum = (5) * Sum<sub>1</sub> + (3) * Sum<sub>2</sub><br>Total Sum =&nbsp;5.6</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-4(\frac{1}{2})^n+5\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.99444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$+5$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.99444</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[3(25)^{-\frac{n}{2}}+4(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.4167:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>3$$\small \sum _{n=1}^{\infty }\:(25)^{-\frac{n}{2}}$$+4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{5}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{7}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.16667<br><br>Total Sum = (3) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.4167</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[3(\frac{1}{4})^n+\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.26111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>3$$\small \sum _{n=2}^{\infty }\:(\frac{1}{4})^n$$+$$\small \sum _{n=2}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{16}$$ a<sub>2</sub> =$$\small \frac{1}{100}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.083333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.011111<br><br>Total Sum = (3) * Sum<sub>1</sub> + (1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.26111</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[4(9)^{-\frac{n}{2}}-2(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.75:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=1}^{\infty }\:(9)^{-\frac{n}{2}}$$-2$$\small \sum _{n=1}^{\infty }\:(\frac{1}{9})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{3}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{9}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.125<br><br>Total Sum = (4) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.75</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(25)^{-\frac{n}{2}}+2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.051111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=3}^{\infty }\:(25)^{-\frac{n}{2}}$$+2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{125}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{216}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.01&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0055556<br><br>Total Sum = (4) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.051111</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-4(\frac{1}{4})^n-4(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.089506:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$-4$$\small \sum _{n=3}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{729}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0015432<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (-4) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.089506</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-3(\frac{1}{2})^n+5\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.74444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-3$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$+5$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (-3) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.74444</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-5(25)^{-\frac{n}{2}}+3(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.20833:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-5$$\small \sum _{n=2}^{\infty }\:(25)^{-\frac{n}{2}}$$+3$$\small \sum _{n=2}^{\infty }\:(\frac{1}{9})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{25}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{81}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.05&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.013889<br><br>Total Sum = (-5) * Sum<sub>1</sub> + (3) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.20833</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-5(9)^{-\frac{n}{2}}-(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.28333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-5$$\small \sum _{n=3}^{\infty }\:(9)^{-\frac{n}{2}}$$-$$\small \sum _{n=3}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{27}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{216}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.055556&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0055556<br><br>Total Sum = (-5) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.28333</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-(9)^{-\frac{n}{2}}-(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.7:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=1}^{\infty }\:(9)^{-\frac{n}{2}}$$-$$\small \sum _{n=1}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{3}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{6}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.2<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.7</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-(\frac{1}{2})^n+3\small(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.2398:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$+3$$\small \sum _{n=3}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{343}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0034014<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (3) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.2398</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-3(\frac{1}{2})^n-5(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.625:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$-5$$\small \sum _{n=1}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{9}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.125<br><br>Total Sum = (-3) * Sum<sub>1</sub> + (-5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-3.625</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[2(\frac{1}{2})^n+2(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.0278:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>2$$\small \sum _{n=2}^{\infty }\:(\frac{1}{2})^n$$+2$$\small \sum _{n=2}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{81}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.013889<br><br>Total Sum = (2) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.0278</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:40  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[3(9)^{-\frac{n}{2}}+(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.53333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>3$$\small \sum _{n=2}^{\infty }\:(9)^{-\frac{n}{2}}$$+$$\small \sum _{n=2}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{9}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{36}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.16667&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.033333<br><br>Total Sum = (3) * Sum<sub>1</sub> + (1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.53333</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[(\frac{1}{2})^n-(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.83333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$-$$\small \sum _{n=1}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{7}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.16667<br><br>Total Sum = (1) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.83333</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:42  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(\frac{1}{2})^n+2\small(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.0045:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$+2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{512}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0022321<br><br>Total Sum = (4) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.0045</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-5(9)^{-\frac{n}{2}}-(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.85119:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-5$$\small \sum _{n=2}^{\infty }\:(9)^{-\frac{n}{2}}$$-$$\small \sum _{n=2}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{9}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{64}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.16667&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.017857<br><br>Total Sum = (-5) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.85119</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:44  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[4(\frac{1}{2})^n-2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.9333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=2}^{\infty }\:(\frac{1}{2})^n$$-2$$\small \sum _{n=2}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{36}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.033333<br><br>Total Sum = (4) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.9333</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-4(\frac{1}{2})^n+5\small(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.881:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=2}^{\infty }\:(\frac{1}{2})^n$$+5$$\small \sum _{n=2}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{49}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.02381<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-1.881</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-5(\frac{1}{4})^n+2\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.4444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-5$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$+2$$\small \sum _{n=1}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{10}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.11111<br><br>Total Sum = (-5) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-1.4444</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(25)^{-\frac{n}{2}}-2(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.25:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=1}^{\infty }\:(25)^{-\frac{n}{2}}$$-2$$\small \sum _{n=1}^{\infty }\:(\frac{1}{9})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{5}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{9}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.125<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-1.25</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-4(9)^{-\frac{n}{2}}-(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.22562:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=3}^{\infty }\:(9)^{-\frac{n}{2}}$$-$$\small \sum _{n=3}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{27}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{343}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.055556&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0034014<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.22562</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-4(25)^{-\frac{n}{2}}-(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.041111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=3}^{\infty }\:(25)^{-\frac{n}{2}}$$-$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{125}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.01&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.041111</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-2(9)^{-\frac{n}{2}}-5(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.40278:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-2$$\small \sum _{n=2}^{\infty }\:(9)^{-\frac{n}{2}}$$-5$$\small \sum _{n=2}^{\infty }\:(\frac{1}{9})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{9}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{81}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.16667&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.013889<br><br>Total Sum = (-2) * Sum<sub>1</sub> + (-5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.40278</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(\frac{1}{2})^n+2\small(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$+2$$\small \sum _{n=1}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{7}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.16667<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-3.6667</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[2(\frac{1}{2})^n+3(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.0417:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>2$$\small \sum _{n=2}^{\infty }\:(\frac{1}{2})^n$$+3$$\small \sum _{n=2}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{81}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.013889<br><br>Total Sum = (2) * Sum<sub>1</sub> + (3) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.0417</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-(9)^{-\frac{n}{2}}-2(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.062358:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=3}^{\infty }\:(9)^{-\frac{n}{2}}$$-2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{27}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{343}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.055556&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0034014<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.062358</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:54  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[5(\frac{1}{2})^n-2(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.2469:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>5$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$-2$$\small \sum _{n=3}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{729}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0015432<br><br>Total Sum = (5) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.2469</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-5(\frac{1}{2})^n-2(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.2568:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-5$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$-2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{343}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0034014<br><br>Total Sum = (-5) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-1.2568</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:56  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[4(\frac{1}{4})^n+4(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.38889:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=2}^{\infty }\:(\frac{1}{4})^n$$+4$$\small \sum _{n=2}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{16}$$ a<sub>2</sub> =$$\small \frac{1}{81}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.083333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.013889<br><br>Total Sum = (4) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.38889</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:57  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(9)^{-\frac{n}{2}}-3(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.57143:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>2$$\small \sum _{n=1}^{\infty }\:(9)^{-\frac{n}{2}}$$-3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{3}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{8}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.14286<br><br>Total Sum = (2) * Sum<sub>1</sub> + (-3) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.57143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[3(\frac{1}{2})^n-3(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.74537:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>3$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$-3$$\small \sum _{n=3}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{729}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0015432<br><br>Total Sum = (3) * Sum<sub>1</sub> + (-3) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.74537</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[5(\frac{1}{4})^n-(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.10077:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>5$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$-$$\small \sum _{n=3}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{343}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0034014<br><br>Total Sum = (5) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.10077</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(25)^{-\frac{n}{2}}-4(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.5714:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=1}^{\infty }\:(25)^{-\frac{n}{2}}$$-4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{5}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{8}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.14286<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (-4) * Sum<sub>2</sub><br>Total Sum =&nbsp;-1.5714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-3(\frac{1}{4})^n+5\small(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.034722:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-3$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$+5$$\small \sum _{n=3}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{216}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0055556<br><br>Total Sum = (-3) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.034722</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(\frac{1}{2})^n-(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.99444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$-$$\small \sum _{n=3}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{216}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0055556<br><br>Total Sum = (4) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.99444</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[2(\frac{1}{2})^n+\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.50111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$+$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (2) * Sum<sub>1</sub> + (1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.50111</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[4(\frac{1}{4})^n-3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$-3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{10}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.11111<br><br>Total Sum = (4) * Sum<sub>1</sub> + (-3) * Sum<sub>2</sub><br>Total Sum =&nbsp;1</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-3(\frac{1}{4})^n+2\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.77778:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$+2$$\small \sum _{n=1}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{10}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.11111<br><br>Total Sum = (-3) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.77778</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(25)^{-\frac{n}{2}}+4(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.42857:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=1}^{\infty }\:(25)^{-\frac{n}{2}}$$+4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{5}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{8}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.14286<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.42857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-5(25)^{-\frac{n}{2}}-2(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.29762:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-5$$\small \sum _{n=2}^{\infty }\:(25)^{-\frac{n}{2}}$$-2$$\small \sum _{n=2}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{25}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{49}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.05&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.02381<br><br>Total Sum = (-5) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.29762</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-(\frac{1}{2})^n+5\small(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.28571:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$+5$$\small \sum _{n=1}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{8}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.14286<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.28571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(\frac{1}{2})^n-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.98884:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$-5$$\small \sum _{n=3}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{512}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0022321<br><br>Total Sum = (4) * Sum<sub>1</sub> + (-5) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.98884</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[4(\frac{1}{4})^n-3(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.73333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$-3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{6}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.2<br><br>Total Sum = (4) * Sum<sub>1</sub> + (-3) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.73333</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(\frac{1}{4})^n-2(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.016369:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$-2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{512}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0022321<br><br>Total Sum = (1) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.016369</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(\frac{1}{4})^n+4(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.1667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>2$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$+4$$\small \sum _{n=1}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{9}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.125<br><br>Total Sum = (2) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.1667</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-(\frac{1}{2})^n-2(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.26111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=3}^{\infty }\:(\frac{1}{2})^n$$-2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{8}$$ a<sub>2</sub> =$$\small \frac{1}{216}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0055556<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.26111</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(\frac{1}{4})^n-(3)^{-2n}]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.4583:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$-$$\small \sum _{n=1}^{\infty }\:(3)^{-2n}$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{9}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the second series, the expression can be simplified by taking the square of 3 which equals 9]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.125<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;-1.4583</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(\frac{1}{4})^n+4\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.025278:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$+4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (1) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.025278</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(\frac{1}{2})^n-3(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-4.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$-3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{7}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.16667<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (-3) * Sum<sub>2</sub><br>Total Sum =&nbsp;-4.5</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-4(\frac{1}{4})^n+2\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.081111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$+2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.081111</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[(25)^{-\frac{n}{2}}+3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.58333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>$$\small \sum _{n=1}^{\infty }\:(25)^{-\frac{n}{2}}$$+3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{5}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{10}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.11111<br><br>Total Sum = (1) * Sum<sub>1</sub> + (3) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.58333</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[5(\frac{1}{4})^n+3\small(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=2.2667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>5$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$+3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{6}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.2<br><br>Total Sum = (5) * Sum<sub>1</sub> + (3) * Sum<sub>2</sub><br>Total Sum =&nbsp;2.2667</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-3(\frac{1}{2})^n+4\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.4556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-3$$\small \sum _{n=2}^{\infty }\:(\frac{1}{2})^n$$+4$$\small \sum _{n=2}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{100}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.011111<br><br>Total Sum = (-3) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;-1.4556</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-4(9)^{-\frac{n}{2}}-5(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.75595:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=2}^{\infty }\:(9)^{-\frac{n}{2}}$$-5$$\small \sum _{n=2}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{9}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{64}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.16667&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.017857<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (-5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.75595</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[(9)^{-\frac{n}{2}}+4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.06:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>$$\small \sum _{n=3}^{\infty }\:(9)^{-\frac{n}{2}}$$+4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{27}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.055556&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (1) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.06</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(\frac{1}{4})^n+5\small(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.381:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>2$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$+5$$\small \sum _{n=1}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{8}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.14286<br><br>Total Sum = (2) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.381</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[3(25)^{-\frac{n}{2}}-2(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.025536:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>3$$\small \sum _{n=3}^{\infty }\:(25)^{-\frac{n}{2}}$$-2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{125}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{512}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.01&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0022321<br><br>Total Sum = (3) * Sum<sub>1</sub> + (-2) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.025536</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[2(9)^{-\frac{n}{2}}-(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.8:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>2$$\small \sum _{n=1}^{\infty }\:(9)^{-\frac{n}{2}}$$-$$\small \sum _{n=1}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{3}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{6}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.2<br><br>Total Sum = (2) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.8</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-(\frac{1}{2})^n-3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-1.3333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$-3$$\small \sum _{n=1}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{10}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.11111<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (-3) * Sum<sub>2</sub><br>Total Sum =&nbsp;-1.3333</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-4(\frac{1}{2})^n+5\small(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-3.2857:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{2})^n$$+5$$\small \sum _{n=1}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{2}$$ a<sub>2</sub> =$$\small \frac{1}{8}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;1&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.14286<br><br>Total Sum = (-4) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-3.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-5(\frac{1}{4})^n-4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-2.1111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-5$$\small \sum _{n=1}^{\infty }\:(\frac{1}{4})^n$$-4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{10}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.33333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.11111<br><br>Total Sum = (-5) * Sum<sub>1</sub> + (-4) * Sum<sub>2</sub><br>Total Sum =&nbsp;-2.1111</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[5(9)^{-\frac{n}{2}}+2(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.85556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>5$$\small \sum _{n=2}^{\infty }\:(9)^{-\frac{n}{2}}$$+2$$\small \sum _{n=2}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{9}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{100}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.16667&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.011111<br><br>Total Sum = (5) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.85556</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[4(\frac{1}{4})^n+\small(\frac{1}{6})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.088889:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$+$$\small \sum _{n=3}^{\infty }\:(\frac{1}{6})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{216}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{6}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0055556<br><br>Total Sum = (4) * Sum<sub>1</sub> + (1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.088889</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:91  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-(\frac{1}{4})^n+4\small(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.0072279:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$+4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{343}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0034014<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.0072279</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:92  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[5(25)^{-\frac{n}{2}}+2(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.27778:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>5$$\small \sum _{n=2}^{\infty }\:(25)^{-\frac{n}{2}}$$+2$$\small \sum _{n=2}^{\infty }\:(\frac{1}{9})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{25}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{81}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.05&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.013889<br><br>Total Sum = (5) * Sum<sub>1</sub> + (2) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.27778</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:93  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[-2(\frac{1}{2})^n+4\small(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.95556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-2$$\small \sum _{n=2}^{\infty }\:(\frac{1}{2})^n$$+4$$\small \sum _{n=2}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{100}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.011111<br><br>Total Sum = (-2) * Sum<sub>1</sub> + (4) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.95556</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:94  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[4(25)^{-\frac{n}{2}}-(\frac{1}{9})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.875:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>4$$\small \sum _{n=1}^{\infty }\:(25)^{-\frac{n}{2}}$$-$$\small \sum _{n=1}^{\infty }\:(\frac{1}{9})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{5}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{9}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{9}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.125<br><br>Total Sum = (4) * Sum<sub>1</sub> + (-1) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.875</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:95  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[-5(25)^{-\frac{n}{2}}+5(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.032993:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-5$$\small \sum _{n=3}^{\infty }\:(25)^{-\frac{n}{2}}$$+5$$\small \sum _{n=3}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{125}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{343}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.01&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0034014<br><br>Total Sum = (-5) * Sum<sub>1</sub> + (5) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.032993</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:96  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=3}^{\infty }\:[2(\frac{1}{4})^n-4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.037222:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>2$$\small \sum _{n=3}^{\infty }\:(\frac{1}{4})^n$$-4$$\small \sum _{n=3}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{64}$$ a<sub>2</sub> =$$\small \frac{1}{1000}$$ <br>[At n=3&nbsp;the first term for both the series will be to the power&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.020833&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.0011111<br><br>Total Sum = (2) * Sum<sub>1</sub> + (-4) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.037222</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:97  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[3(\frac{1}{2})^n-3(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=1.4667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>3$$\small \sum _{n=2}^{\infty }\:(\frac{1}{2})^n$$-3$$\small \sum _{n=2}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{4}$$ a<sub>2</sub> =$$\small \frac{1}{100}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{2}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.011111<br><br>Total Sum = (3) * Sum<sub>1</sub> + (-3) * Sum<sub>2</sub><br>Total Sum =&nbsp;1.4667</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:98  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-3(25)^{-\frac{n}{2}}+(\frac{1}{7})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.58333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-3$$\small \sum _{n=1}^{\infty }\:(25)^{-\frac{n}{2}}$$+$$\small \sum _{n=1}^{\infty }\:(\frac{1}{7})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{5}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{7}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;25&nbsp;which equals&nbsp;5]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{5}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{7}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.25&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.16667<br><br>Total Sum = (-3) * Sum<sub>1</sub> + (1) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.58333</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:99  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=1}^{\infty }\:[-(9)^{-\frac{n}{2}}-4(\frac{1}{10})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=-0.94444:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>-$$\small \sum _{n=1}^{\infty }\:(9)^{-\frac{n}{2}}$$-4$$\small \sum _{n=1}^{\infty }\:(\frac{1}{10})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{3}$$&nbsp;a<sub>2</sub> =$$\small \frac{1}{10}$$ <br>[At n=1&nbsp;the first term for both the series will be to the power&nbsp;1. In the first series, the expression can be simplified by taking the square root of&nbsp;9&nbsp;which equals&nbsp;3]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{3}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{10}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.5&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.11111<br><br>Total Sum = (-1) * Sum<sub>1</sub> + (-4) * Sum<sub>2</sub><br>Total Sum =&nbsp;-0.94444</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:100  -->
+  <question type="cloze">
+    <name>
+      <text>Summation series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Evaluate the sum of the infinite series : <br>$$\small \sum _{n=2}^{\infty }\:[(\frac{1}{4})^n+3\small(\frac{1}{8})^n]$$ <br><br>[Calculate upto 2 significant figures]<br><br>Answer : <br>{1:NUMERICAL:=0.1369:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The series can be represented as follows : <br>$$\small \sum _{n=2}^{\infty }\:(\frac{1}{4})^n$$+3$$\small \sum _{n=2}^{\infty }\:(\frac{1}{8})^n$$ <br><br>This contains two geometric series where the following is given : <br>First term : a<sub>1</sub> =$$\small \frac{1}{16}$$ a<sub>2</sub> =$$\small \frac{1}{64}$$ <br>[At n=2&nbsp;the first term for both the series will be to the power&nbsp;2]<br>Common ratios : r<sub>1</sub> =&nbsp;$$\small \frac{1}{4}$$ ,r<sub>2</sub> =&nbsp;$$\small \frac{1}{8}$$<br>Number of terms(n) = $$\small \infty$$ <br><br>The Sum of a Geometric series is given by :<br> $$\small \frac{a(1 - r^{n})}{1 - r}$$  where a is the first term , r is the common difference and n is the number of terms <br><br>As n = $$\small \infty$$, Sum = $$\small \frac{a}{1 - r}$$<br>Sum<sub>1</sub> = $$\small \frac{a_{1}}{1 - r_{1}}$$ ; Sum<sub>2</sub> = $$\small \frac{a_{2}}{1 - r_{2}}$$ <br>Sum<sub>1</sub> =&nbsp;0.083333&nbsp;&nbsp;Sum<sub>2</sub> =&nbsp;0.017857<br><br>Total Sum = (1) * Sum<sub>1</sub> + (3) * Sum<sub>2</sub><br>Total Sum =&nbsp;0.1369</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+</quiz>
