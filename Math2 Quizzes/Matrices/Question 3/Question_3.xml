@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- question:1  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &-10 \\-12 &-18\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.375:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.20833:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.25:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.083333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-18) - (-10)(-18)}\begin{bmatrix}-18 &10 \\12 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.375 &-0.20833 \\-0.25 &0.083333 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.375$$&nbsp;;&nbsp;$$\small a_{12} =-0.20833$$<br>$$\small a_{21} =-0.25$$&nbsp;;&nbsp;$$\small a_{22} =0.083333$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:2  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &-9 \\-11 &18\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-2:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-1:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-1.2222:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.55556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(18) - (-9)(18)}\begin{bmatrix}18 &9 \\11 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-2 &-1 \\-1.2222 &-0.55556 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-2$$&nbsp;;&nbsp;$$\small a_{12} =-1$$<br>$$\small a_{21} =-1.2222$$&nbsp;;&nbsp;$$\small a_{22} =-0.55556$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:3  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &7 \\13 &-19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=1.2667:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.46667:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.86667:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.26667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-19) - (7)(-19)}\begin{bmatrix}-19 &-7 \\-13 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}1.2667 &0.46667 \\0.86667 &0.26667 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =1.2667$$&nbsp;;&nbsp;$$\small a_{12} =0.46667$$<br>$$\small a_{21} =0.86667$$&nbsp;;&nbsp;$$\small a_{22} =0.26667$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:4  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-1 &6 \\15 &-16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.21622:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.081081:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.2027:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.013514:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-1)(-16) - (6)(-16)}\begin{bmatrix}-16 &-6 \\-15 &-1 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.21622 &0.081081 \\0.2027 &0.013514 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.21622$$&nbsp;;&nbsp;$$\small a_{12} =0.081081$$<br>$$\small a_{21} =0.2027$$&nbsp;;&nbsp;$$\small a_{22} =0.013514$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:5  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-2 &7 \\13 &-20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.39216:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.13725:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.2549:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.039216:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-2)(-20) - (7)(-20)}\begin{bmatrix}-20 &-7 \\-13 &-2 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.39216 &0.13725 \\0.2549 &0.039216 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.39216$$&nbsp;;&nbsp;$$\small a_{12} =0.13725$$<br>$$\small a_{21} =0.2549$$&nbsp;;&nbsp;$$\small a_{22} =0.039216$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:6  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-5 &10 \\15 &-18\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.3:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.16667:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.25:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.083333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-5)(-18) - (10)(-18)}\begin{bmatrix}-18 &-10 \\-15 &-5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.3 &0.16667 \\0.25 &0.083333 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.3$$&nbsp;;&nbsp;$$\small a_{12} =0.16667$$<br>$$\small a_{21} =0.25$$&nbsp;;&nbsp;$$\small a_{22} =0.083333$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:7  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &10 \\11 &-16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.34783:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.21739:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.23913:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.086957:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-16) - (10)(-16)}\begin{bmatrix}-16 &-10 \\-11 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.34783 &0.21739 \\0.23913 &0.086957 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.34783$$&nbsp;;&nbsp;$$\small a_{12} =0.21739$$<br>$$\small a_{21} =0.23913$$&nbsp;;&nbsp;$$\small a_{22} =0.086957$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:8  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-2 &8 \\14 &-20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.27778:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.11111:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.19444:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.027778:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-2)(-20) - (8)(-20)}\begin{bmatrix}-20 &-8 \\-14 &-2 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.27778 &0.11111 \\0.19444 &0.027778 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.27778$$&nbsp;;&nbsp;$$\small a_{12} =0.11111$$<br>$$\small a_{21} =0.19444$$&nbsp;;&nbsp;$$\small a_{22} =0.027778$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:9  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &-8 \\-11 &16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-2:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-1:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-1.375:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.625:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(16) - (-8)(16)}\begin{bmatrix}16 &8 \\11 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-2 &-1 \\-1.375 &-0.625 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-2$$&nbsp;;&nbsp;$$\small a_{12} =-1$$<br>$$\small a_{21} =-1.375$$&nbsp;;&nbsp;$$\small a_{22} =-0.625$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:10  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-1 &-7 \\-15 &-17\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.19318:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.079545:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.17045:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.011364:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-1)(-17) - (-7)(-17)}\begin{bmatrix}-17 &7 \\15 &-1 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.19318 &-0.079545 \\-0.17045 &0.011364 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.19318$$&nbsp;;&nbsp;$$\small a_{12} =-0.079545$$<br>$$\small a_{21} =-0.17045$$&nbsp;;&nbsp;$$\small a_{22} =0.011364$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:11  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}1 &-8 \\-15 &16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-0.15385:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.076923:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.14423:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.0096154:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(1)(16) - (-8)(16)}\begin{bmatrix}16 &8 \\15 &1 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-0.15385 &-0.076923 \\-0.14423 &-0.0096154 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-0.15385$$&nbsp;;&nbsp;$$\small a_{12} =-0.076923$$<br>$$\small a_{21} =-0.14423$$&nbsp;;&nbsp;$$\small a_{22} =-0.0096154$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:12  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &-10 \\-14 &17\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-0.30909:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.18182:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.25455:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.090909:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(17) - (-10)(17)}\begin{bmatrix}17 &10 \\14 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-0.30909 &-0.18182 \\-0.25455 &-0.090909 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-0.30909$$&nbsp;;&nbsp;$$\small a_{12} =-0.18182$$<br>$$\small a_{21} =-0.25455$$&nbsp;;&nbsp;$$\small a_{22} =-0.090909$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:13  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}1 &-10 \\-15 &20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-0.15385:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.076923:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.11538:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.0076923:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(1)(20) - (-10)(20)}\begin{bmatrix}20 &10 \\15 &1 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-0.15385 &-0.076923 \\-0.11538 &-0.0076923 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-0.15385$$&nbsp;;&nbsp;$$\small a_{12} =-0.076923$$<br>$$\small a_{21} =-0.11538$$&nbsp;;&nbsp;$$\small a_{22} =-0.0076923$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:14  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-2 &-10 \\-14 &-18\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.17308:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.096154:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.13462:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.019231:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-2)(-18) - (-10)(-18)}\begin{bmatrix}-18 &10 \\14 &-2 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.17308 &-0.096154 \\-0.13462 &0.019231 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.17308$$&nbsp;;&nbsp;$$\small a_{12} =-0.096154$$<br>$$\small a_{21} =-0.13462$$&nbsp;;&nbsp;$$\small a_{22} =0.019231$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:15  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &-10 \\-12 &19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-0.76:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.4:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.48:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(19) - (-10)(19)}\begin{bmatrix}19 &10 \\12 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-0.76 &-0.4 \\-0.48 &-0.2 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-0.76$$&nbsp;;&nbsp;$$\small a_{12} =-0.4$$<br>$$\small a_{21} =-0.48$$&nbsp;;&nbsp;$$\small a_{22} =-0.2$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:16  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &-10 \\-14 &-17\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.23611:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.13889:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.19444:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.055556:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-17) - (-10)(-17)}\begin{bmatrix}-17 &10 \\14 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.23611 &-0.13889 \\-0.19444 &0.055556 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.23611$$&nbsp;;&nbsp;$$\small a_{12} =-0.13889$$<br>$$\small a_{21} =-0.19444$$&nbsp;;&nbsp;$$\small a_{22} =0.055556$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:17  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}2 &9 \\13 &16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-0.18824:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.10588:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.15294:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.023529:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(2)(16) - (9)(16)}\begin{bmatrix}16 &-9 \\-13 &2 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-0.18824 &0.10588 \\0.15294 &-0.023529 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-0.18824$$&nbsp;;&nbsp;$$\small a_{12} =0.10588$$<br>$$\small a_{21} =0.15294$$&nbsp;;&nbsp;$$\small a_{22} =-0.023529$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:18  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-5 &9 \\15 &-19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.475:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.225:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.375:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.125:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-5)(-19) - (9)(-19)}\begin{bmatrix}-19 &-9 \\-15 &-5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.475 &0.225 \\0.375 &0.125 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.475$$&nbsp;;&nbsp;$$\small a_{12} =0.225$$<br>$$\small a_{21} =0.375$$&nbsp;;&nbsp;$$\small a_{22} =0.125$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:19  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &-9 \\-11 &-20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=1.0526:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.47368:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.57895:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.21053:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-20) - (-9)(-20)}\begin{bmatrix}-20 &9 \\11 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}1.0526 &-0.47368 \\-0.57895 &0.21053 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =1.0526$$&nbsp;;&nbsp;$$\small a_{12} =-0.47368$$<br>$$\small a_{21} =-0.57895$$&nbsp;;&nbsp;$$\small a_{22} =0.21053$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:20  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &-7 \\-11 &-18\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=3.6:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-1.4:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-2.2:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.8:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-18) - (-7)(-18)}\begin{bmatrix}-18 &7 \\11 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}3.6 &-1.4 \\-2.2 &0.8 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =3.6$$&nbsp;;&nbsp;$$\small a_{12} =-1.4$$<br>$$\small a_{21} =-2.2$$&nbsp;;&nbsp;$$\small a_{22} =0.8$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:21  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &8 \\12 &19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-19:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=8:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=12:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(19) - (8)(19)}\begin{bmatrix}19 &-8 \\-12 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-19 &8 \\12 &-5 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-19$$&nbsp;;&nbsp;$$\small a_{12} =8$$<br>$$\small a_{21} =12$$&nbsp;;&nbsp;$$\small a_{22} =-5$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:22  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &-9 \\-14 &-16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.25806:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.14516:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.22581:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.064516:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-16) - (-9)(-16)}\begin{bmatrix}-16 &9 \\14 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.25806 &-0.14516 \\-0.22581 &0.064516 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.25806$$&nbsp;;&nbsp;$$\small a_{12} =-0.14516$$<br>$$\small a_{21} =-0.22581$$&nbsp;;&nbsp;$$\small a_{22} =0.064516$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:23  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &-7 \\-13 &-20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=1.8182:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.63636:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-1.1818:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.36364:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-20) - (-7)(-20)}\begin{bmatrix}-20 &7 \\13 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}1.8182 &-0.63636 \\-1.1818 &0.36364 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =1.8182$$&nbsp;;&nbsp;$$\small a_{12} =-0.63636$$<br>$$\small a_{21} =-1.1818$$&nbsp;;&nbsp;$$\small a_{22} =0.36364$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:24  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}4 &8 \\14 &16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-0.33333:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.16667:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.29167:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.083333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(4)(16) - (8)(16)}\begin{bmatrix}16 &-8 \\-14 &4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-0.33333 &0.16667 \\0.29167 &-0.083333 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-0.33333$$&nbsp;;&nbsp;$$\small a_{12} =0.16667$$<br>$$\small a_{21} =0.29167$$&nbsp;;&nbsp;$$\small a_{22} =-0.083333$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:25  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &-6 \\-13 &20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.90909:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.27273:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.59091:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.22727:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(20) - (-6)(20)}\begin{bmatrix}20 &6 \\13 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.90909 &0.27273 \\0.59091 &0.22727 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.90909$$&nbsp;;&nbsp;$$\small a_{12} =0.27273$$<br>$$\small a_{21} =0.59091$$&nbsp;;&nbsp;$$\small a_{22} =0.22727$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:26  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &6 \\14 &19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=1.7273:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.54545:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-1.2727:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.45455:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(19) - (6)(19)}\begin{bmatrix}19 &-6 \\-14 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}1.7273 &-0.54545 \\-1.2727 &0.45455 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =1.7273$$&nbsp;;&nbsp;$$\small a_{12} =-0.54545$$<br>$$\small a_{21} =-1.2727$$&nbsp;;&nbsp;$$\small a_{22} =0.45455$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:27  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-1 &8 \\15 &-19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.18812:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.079208:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.14851:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.009901:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-1)(-19) - (8)(-19)}\begin{bmatrix}-19 &-8 \\-15 &-1 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.18812 &0.079208 \\0.14851 &0.009901 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.18812$$&nbsp;;&nbsp;$$\small a_{12} =0.079208$$<br>$$\small a_{21} =0.14851$$&nbsp;;&nbsp;$$\small a_{22} =0.009901$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:28  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}3 &-7 \\-13 &20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-0.64516:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.22581:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.41935:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.096774:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(3)(20) - (-7)(20)}\begin{bmatrix}20 &7 \\13 &3 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-0.64516 &-0.22581 \\-0.41935 &-0.096774 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-0.64516$$&nbsp;;&nbsp;$$\small a_{12} =-0.22581$$<br>$$\small a_{21} =-0.41935$$&nbsp;;&nbsp;$$\small a_{22} =-0.096774$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:29  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-2 &9 \\12 &-19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.27143:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.12857:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.17143:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.028571:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-2)(-19) - (9)(-19)}\begin{bmatrix}-19 &-9 \\-12 &-2 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.27143 &0.12857 \\0.17143 &0.028571 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.27143$$&nbsp;;&nbsp;$$\small a_{12} =0.12857$$<br>$$\small a_{21} =0.17143$$&nbsp;;&nbsp;$$\small a_{22} =0.028571$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:30  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-3 &7 \\13 &-20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.64516:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.22581:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.41935:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.096774:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-3)(-20) - (7)(-20)}\begin{bmatrix}-20 &-7 \\-13 &-3 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.64516 &0.22581 \\0.41935 &0.096774 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.64516$$&nbsp;;&nbsp;$$\small a_{12} =0.22581$$<br>$$\small a_{21} =0.41935$$&nbsp;;&nbsp;$$\small a_{22} =0.096774$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:31  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-5 &8 \\15 &-16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.4:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.2:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.375:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.125:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-5)(-16) - (8)(-16)}\begin{bmatrix}-16 &-8 \\-15 &-5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.4 &0.2 \\0.375 &0.125 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.4$$&nbsp;;&nbsp;$$\small a_{12} =0.2$$<br>$$\small a_{21} =0.375$$&nbsp;;&nbsp;$$\small a_{22} =0.125$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:32  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-3 &-7 \\-15 &-18\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.35294:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.13725:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.29412:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.058824:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-3)(-18) - (-7)(-18)}\begin{bmatrix}-18 &7 \\15 &-3 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.35294 &-0.13725 \\-0.29412 &0.058824 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.35294$$&nbsp;;&nbsp;$$\small a_{12} =-0.13725$$<br>$$\small a_{21} =-0.29412$$&nbsp;;&nbsp;$$\small a_{22} =0.058824$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:33  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &-8 \\-11 &-19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=1.5833:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.66667:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.91667:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.33333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-19) - (-8)(-19)}\begin{bmatrix}-19 &8 \\11 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}1.5833 &-0.66667 \\-0.91667 &0.33333 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =1.5833$$&nbsp;;&nbsp;$$\small a_{12} =-0.66667$$<br>$$\small a_{21} =-0.91667$$&nbsp;;&nbsp;$$\small a_{22} =0.33333$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:34  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &10 \\12 &19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-0.76:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.4:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.48:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(19) - (10)(19)}\begin{bmatrix}19 &-10 \\-12 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-0.76 &0.4 \\0.48 &-0.2 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-0.76$$&nbsp;;&nbsp;$$\small a_{12} =0.4$$<br>$$\small a_{21} =0.48$$&nbsp;;&nbsp;$$\small a_{22} =-0.2$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:35  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &-6 \\-13 &16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=8:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=3:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=6.5:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=2.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(16) - (-6)(16)}\begin{bmatrix}16 &6 \\13 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}8 &3 \\6.5 &2.5 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =8$$&nbsp;;&nbsp;$$\small a_{12} =3$$<br>$$\small a_{21} =6.5$$&nbsp;;&nbsp;$$\small a_{22} =2.5$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:36  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &6 \\14 &20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=1.25:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.375:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.875:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.3125:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(20) - (6)(20)}\begin{bmatrix}20 &-6 \\-14 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}1.25 &-0.375 \\-0.875 &0.3125 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =1.25$$&nbsp;;&nbsp;$$\small a_{12} =-0.375$$<br>$$\small a_{21} =-0.875$$&nbsp;;&nbsp;$$\small a_{22} =0.3125$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:37  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-5 &7 \\12 &-20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-1.25:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.4375:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.75:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.3125:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-5)(-20) - (7)(-20)}\begin{bmatrix}-20 &-7 \\-12 &-5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-1.25 &-0.4375 \\-0.75 &-0.3125 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-1.25$$&nbsp;;&nbsp;$$\small a_{12} =-0.4375$$<br>$$\small a_{21} =-0.75$$&nbsp;;&nbsp;$$\small a_{22} =-0.3125$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:38  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-1 &8 \\13 &-19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.22353:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.094118:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.15294:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.011765:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-1)(-19) - (8)(-19)}\begin{bmatrix}-19 &-8 \\-13 &-1 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.22353 &0.094118 \\0.15294 &0.011765 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.22353$$&nbsp;;&nbsp;$$\small a_{12} =0.094118$$<br>$$\small a_{21} =0.15294$$&nbsp;;&nbsp;$$\small a_{22} =0.011765$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:39  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-1 &-9 \\-11 &-19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.2375:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.1125:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.1375:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.0125:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-1)(-19) - (-9)(-19)}\begin{bmatrix}-19 &9 \\11 &-1 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.2375 &-0.1125 \\-0.1375 &0.0125 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.2375$$&nbsp;;&nbsp;$$\small a_{12} =-0.1125$$<br>$$\small a_{21} =-0.1375$$&nbsp;;&nbsp;$$\small a_{22} =0.0125$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:40  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}2 &-6 \\-14 &19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-0.41304:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.13043:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.30435:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.043478:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(2)(19) - (-6)(19)}\begin{bmatrix}19 &6 \\14 &2 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-0.41304 &-0.13043 \\-0.30435 &-0.043478 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-0.41304$$&nbsp;;&nbsp;$$\small a_{12} =-0.13043$$<br>$$\small a_{21} =-0.30435$$&nbsp;;&nbsp;$$\small a_{22} =-0.043478$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:41  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}4 &9 \\12 &20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-0.71429:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.32143:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.42857:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.14286:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(4)(20) - (9)(20)}\begin{bmatrix}20 &-9 \\-12 &4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-0.71429 &0.32143 \\0.42857 &-0.14286 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-0.71429$$&nbsp;;&nbsp;$$\small a_{12} =0.32143$$<br>$$\small a_{21} =0.42857$$&nbsp;;&nbsp;$$\small a_{22} =-0.14286$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:42  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}5 &-7 \\-14 &19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-6.3333:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-2.3333:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-4.6667:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-1.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(5)(19) - (-7)(19)}\begin{bmatrix}19 &7 \\14 &5 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-6.3333 &-2.3333 \\-4.6667 &-1.6667 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-6.3333$$&nbsp;;&nbsp;$$\small a_{12} =-2.3333$$<br>$$\small a_{21} =-4.6667$$&nbsp;;&nbsp;$$\small a_{22} =-1.6667$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:43  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &6 \\12 &-17\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=4.25:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=1.5:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=3:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=1:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-17) - (6)(-17)}\begin{bmatrix}-17 &-6 \\-12 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}4.25 &1.5 \\3 &1 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =4.25$$&nbsp;;&nbsp;$$\small a_{12} =1.5$$<br>$$\small a_{21} =3$$&nbsp;;&nbsp;$$\small a_{22} =1$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:44  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-2 &-10 \\-15 &-20\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.18182:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.090909:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.13636:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.018182:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-2)(-20) - (-10)(-20)}\begin{bmatrix}-20 &10 \\15 &-2 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.18182 &-0.090909 \\-0.13636 &0.018182 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.18182$$&nbsp;;&nbsp;$$\small a_{12} =-0.090909$$<br>$$\small a_{21} =-0.13636$$&nbsp;;&nbsp;$$\small a_{22} =0.018182$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:45  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &-6 \\-11 &-18\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=-3:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=1:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=1.8333:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=-0.66667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-18) - (-6)(-18)}\begin{bmatrix}-18 &6 \\11 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}-3 &1 \\1.8333 &-0.66667 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =-3$$&nbsp;;&nbsp;$$\small a_{12} =1$$<br>$$\small a_{21} =1.8333$$&nbsp;;&nbsp;$$\small a_{22} =-0.66667$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:46  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-3 &-8 \\-13 &-19\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.40426:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.17021:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.2766:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.06383:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-3)(-19) - (-8)(-19)}\begin{bmatrix}-19 &8 \\13 &-3 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.40426 &-0.17021 \\-0.2766 &0.06383 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.40426$$&nbsp;;&nbsp;$$\small a_{12} =-0.17021$$<br>$$\small a_{21} =-0.2766$$&nbsp;;&nbsp;$$\small a_{22} =0.06383$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:47  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-1 &8 \\15 &-16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.15385:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.076923:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.14423:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.0096154:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-1)(-16) - (8)(-16)}\begin{bmatrix}-16 &-8 \\-15 &-1 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.15385 &0.076923 \\0.14423 &0.0096154 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.15385$$&nbsp;;&nbsp;$$\small a_{12} =0.076923$$<br>$$\small a_{21} =0.14423$$&nbsp;;&nbsp;$$\small a_{22} =0.0096154$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:48  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-4 &-8 \\-11 &-18\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=1.125:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.5:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.6875:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.25:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-4)(-18) - (-8)(-18)}\begin{bmatrix}-18 &8 \\11 &-4 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}1.125 &-0.5 \\-0.6875 &0.25 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =1.125$$&nbsp;;&nbsp;$$\small a_{12} =-0.5$$<br>$$\small a_{21} =-0.6875$$&nbsp;;&nbsp;$$\small a_{22} =0.25$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:49  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-3 &7 \\11 &-17\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.65385:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=0.26923:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=0.42308:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.11538:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-3)(-17) - (7)(-17)}\begin{bmatrix}-17 &-7 \\-11 &-3 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.65385 &0.26923 \\0.42308 &0.11538 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.65385$$&nbsp;;&nbsp;$$\small a_{12} =0.26923$$<br>$$\small a_{21} =0.42308$$&nbsp;;&nbsp;$$\small a_{22} =0.11538$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:50  -->
+    <question type="cloze">
+        <name>
+            <text>Solving equations using matrix</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Solve the following matrix multiplication for A (using inverse): <br><br>$$\small BA = I$$<br><br>where  $$\small B = \begin{pmatrix}-3 &-6 \\-11 &-16\end{pmatrix}\:$$<br><br>       $$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\:$$<br><br>and    $$\small I  = \begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix}\:$$<br><br>a<sub>11</sub> ={1:NUMERICAL:=0.88889:0.05#Good job!!~*#Incorrect, try again}a<sub>12</sub> ={1:NUMERICAL:=-0.33333:0.05#Good job!!~*#Incorrect, try again}<br>a<sub>21</sub> ={1:NUMERICAL:=-0.61111:0.05#Good job!!~*#Incorrect, try again}a<sub>22</sub> ={1:NUMERICAL:=0.16667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Given the following equation : <br><br>$$\small BA = I$$<br><br>Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>$$\small B^{-1}BA = B^{-1}I$$<br><br>It is known that B<sup>-1</sup>B = I and IX = XI = X where X is any matrix. So,<br><br>$$\small A = B^{-1}$$<br><br>For a 2x2 matrix the inverse can be calculated as follows : <br><br>$$\small B = \begin{pmatrix}b_{11} & b_{12} \\b_{21} & b_{22} \end{pmatrix}\:$$<br><br>$$\small B^{-1} = \frac{1}{|B|}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>$$\small \Rightarrow \frac{1}{b_{11}b_{22} - b_{12}b_{21}}\begin{bmatrix}b_{22} & -b_{12} \\-b_{21} & b_{11} \end{bmatrix}\:$$<br><br>Because it is a 2x2 matrix, B<sup>-1</sup> can be calculated using the shorthand,<br><br>$$\small B^{-1} = \frac{1}{(-3)(-16) - (-6)(-16)}\begin{bmatrix}-16 &6 \\11 &-3 \end{bmatrix}\:$$<br><br>On solving B<sup>-1</sup>,Comparing the LHS with RHS we get A : <br><br>$$\small A = \begin{pmatrix}a_{11} & a_{12} \\a_{21} & a_{22} \end{pmatrix}\: = \begin{bmatrix}0.88889 &-0.33333 \\-0.61111 &0.16667 \end{bmatrix}\:$$<br><br>The correct answers are : <br><br>$$\small a_{11} =0.88889$$&nbsp;;&nbsp;$$\small a_{12} =-0.33333$$<br>$$\small a_{21} =-0.61111$$&nbsp;;&nbsp;$$\small a_{22} =0.16667$$<br><br></p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+</quiz>

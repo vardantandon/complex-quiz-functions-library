@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>2x-2y =22<br>-10x-4y =-49<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=6.6429:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-4.3571:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-3x-3y =-48<br>-3x +5y =-8<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=11:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>2x-4y =16<br>-x +6y =21<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=22.5:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=7.25:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-x-7y =-8<br>-3x-9y =18<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-16.5:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=3.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-2x +5y =-48<br>-6x +y =-3<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-1.1786:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-10.0714:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>x-y =-27<br>-9x-10y =-28<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-12.7368:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=14.2632:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-5x-6y =-37<br>10x-10y =-26<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=1.9455:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=4.5455:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-10x +2y =-43<br>-5x +3y =-1<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=6.35:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=10.25:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>4x-8y =-27<br>-10x +10y =-39<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=14.55:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=10.65:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>7x-10y =-50<br>-x-y =16<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-12.3529:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-3.6471:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-5x-3y =-3<br>-5x-7y =-49<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-6.3:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=11.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>2x-9y =9<br>7x-7y =-46<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-9.7347:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-3.1633:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>x-3y =36<br>5x-6y =-3<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-25:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-20.3333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-3x-7y =-16<br>5x-10y =-35<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-1.3077:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=2.8462:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-10x-7y =-6<br>-10x-6y =-30<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=17.4:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-24:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-4x-9y =16<br>2x +2y =-7<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-3.1:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-0.4:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-x-6y =50<br>-4x-3y =29<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-1.1429:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-8.1429:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-2x-4y =-27<br>6x-y =-32<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-3.8846:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=8.6923:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-10x-10y =9<br>-8x +5y =24<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-2.1923:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=1.2923:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-10x +8y =-3<br>-6x-7y =-16<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=1.2627:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=1.2034:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>2x-8y =-45<br>-10x +5y =3<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=2.8714:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=6.3429:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>6x-10y =-37<br>-2x-5y =12<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-6.1:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=0.04:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-2x-8y =-31<br>-3x-9y =-50<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=20.1667:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-1.1667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-3x-10y =8<br>7x +2y =-25<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-3.6562:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=0.29688:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-8x +6y =6<br>-6x-10y =33<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-2.2241:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-1.9655:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-4x-9y =-24<br>6x-4y =50<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=7.8:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-0.8:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>9x +10y =5<br>-4x-y =32<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-10.4839:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=9.9355:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-4x +y =-22<br>-6x +3y =-36<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=5:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-6x-9y =-39<br>7x-y =-43<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-5.0435:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=7.6957:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-9x-3y =-16<br>-7x-4y =-7<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=2.8667:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-3.2667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-4x-3y =-21<br>-5x-7y =-42<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=1.6154:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=4.8462:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-9x +2y =-42<br>-x +7y =27<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=5.7049:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=4.6721:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-7x-6y =24<br>-2x-9y =-43<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-9.2941:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=6.8431:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>5x-7y =-6<br>7x-y =-45<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-7.0227:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-4.1591:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-2x-2y =-43<br>-7x-y =-36<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=2.4167:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=19.0833:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-9x +8y =-17<br>-2x-y =-18<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=6.44:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=5.12:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-7x-5y =-6<br>2x +2y =-12<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=18:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-24:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-6x-3y =27<br>-3x-3y =45<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=6:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-21:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-6x-9y =-11<br>9x-3y =4<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=0.69697:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=0.75758:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:40  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-7x +y =-8<br>-7x-6y =-20<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=1.3878:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=1.7143:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-6x-10y =-41<br>5x-7y =42<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=7.6848:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-0.51087:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:42  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-9x +5y =12<br>5x-7y =21<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-4.9737:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-6.5526:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-6x-y =-44<br>-7x-4y =-43<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=7.8235:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-2.9412:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:44  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-10x +5y =-13<br>7x-y =-14<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-3.32:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-9.24:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>8x-3y =-21<br>-2x-y =22<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-6.2143:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-9.5714:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>2x +9y =16<br>-10x-10y =-13<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-0.61429:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=1.9143:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-5x-6y =-50<br>-8x-3y =-16<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-1.6364:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=9.697:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-7x-6y =-3<br>-10x-10y =-37<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-19.2:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=22.9:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-5x +3y =-36<br>3x-6y =-39<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=15.8571:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=14.4286:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-5x +8y =-16<br>-5x-3y =-13<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=2.7636:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-0.27273:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-6x +10y =7<br>-8x-8y =20<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-2:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-0.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>2x-y =35<br>-9x +4y =-23<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-117:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-269:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>3x +10y =-35<br>3x-7y =-16<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-7.9412:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-1.1176:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:54  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-7x +y =39<br>-9x-10y =-40<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-4.4304:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=7.9873:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>8x-2y =-18<br>-x +8y =-33<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-3.3871:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-4.5484:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>8x-9y =-47<br>-x-5y =-5<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-3.8776:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=1.7755:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-2x +9y =10<br>-5x +4y =-48<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=12.7568:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=3.9459:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-5x +2y =-7<br>3x-7y =-18<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=2.931:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=3.8276:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-3x-10y =-19<br>-2x +2y =31<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-10.4615:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=5.0385:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-x-6y =-10<br>4x-4y =-39<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-6.9286:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=2.8214:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>x +7y =-6<br>4x +8y =20<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=9.4:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-2.2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-x +2y =-45<br>3x-7y =-9<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=333:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=144:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-2x-9y =39<br>-6x-6y =-35<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=13.0714:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-7.2381:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-5x-7y =-15<br>-4x-7y =-39<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-24:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=19.2857:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-4x +2y =-11<br>-9x +7y =-10<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=5.7:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=5.9:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-8x-4y =32<br>-9x +5y =16<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-2.9474:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-2.1053:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-2x-8y =-44<br>-8x-4y =21<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-6.1429:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=7.0357:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>4x +8y =-27<br>-6x-5y =-33<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=14.25:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-10.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>4x-5y =-16<br>-3x-7y =-48<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=2.9767:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=5.5814:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-9x-6y =-29<br>8x +8y =-43<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=20.4167:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-25.7917:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-x-4y =-20<br>7x +10y =-6<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-12.4444:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=8.1111:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-10x-3y =-49<br>7x-10y =-43<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=2.9835:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=6.3884:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-3x-4y =-6<br>10x +6y =-24<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-6:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=6:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-8x-6y =-20<br>-2x-10y =-44<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-0.94118:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=4.5882:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-10x +9y =-49<br>-4x-y =11<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-1.087:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-6.6522:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-10x-5y =-15<br>9x-7y =42<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=2.7391:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-2.4783:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>8x-10y =40<br>3x +2y =-8<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=0:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-4:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-5x-7y =-33<br>-8x +4y =-40<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=5.4211:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=0.84211:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-6x +6y =-29<br>-8x-y =-15<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=2.2037:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-2.6296:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-9x +3y =22<br>-5x-10y =-11<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-1.781:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=1.9905:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-6x +3y =10<br>9x +y =-5<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-0.75758:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=1.8182:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-4x +7y =-16<br>6x-3y =-45<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-12.1:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-9.2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>5x +2y =-20<br>-3x +2y =-4<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-2:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-8x-5y =40<br>-6x +8y =19<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-4.4149:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-0.93617:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-10x-y =6<br>4x-2y =-24<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-1.5:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=9:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>3x +y =-1<br>-9x-8y =-21<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-1.9333:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=4.8:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-3x-9y =-14<br>-x-10y =11<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=11.381:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-2.2381:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-6x +8y =50<br>2x-6y =-27<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-4.2:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=3.1:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:91  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-3x-y =17<br>-7x +7y =-1<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-4.2143:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-4.3571:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:92  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>5x-2y =26<br>3x +7y =23<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=5.561:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=0.90244:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:93  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-7x-5y =-40<br>6x +5y =28<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=12:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-8.8:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:94  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-9x +9y =-36<br>5x +10y =32<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=4.8:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=0.8:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:95  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>7x-5y =1<br>-3x-8y =-2<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=0.25352:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=0.15493:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:96  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>8x-7y =-5<br>-7x +2y =41<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-8.3939:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-8.8788:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:97  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-3x-6y =-4<br>-2x-9y =-36<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-12:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=6.6667:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:98  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>9x +4y =-18<br>6x-2y =-39<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-4.5714:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=5.7857:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:99  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>-7x-5y =31<br>10x +8y =-40<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=-8:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:100  -->
+  <question type="cloze">
+    <name>
+      <text>Gaussian elimination Level 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Solve the following system of simultaneous equations using standard Gaussian elimination (including row sums): <br><br>4x +9y =-34<br>-6x-8y =-2<br>[Calculate upto 2 significant]<br><br>x ={1:NUMERICAL:=13.1818:0.05#Good job!!~*#Incorrect, try again} y ={1:NUMERICAL:=-9.6364:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+</quiz>
