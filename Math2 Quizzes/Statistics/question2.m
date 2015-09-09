@@ -1,4 +1,4 @@
-%Last Updated: 20/07/2015
+%Last Updated: 07/09/2015
 %Created By: Avinash Javaji under supervision of Dr. Pilar Garcia Souto
 %UCL Department: Medical Physics and Bioengineering
 
@@ -7,63 +7,59 @@ fprintf(file, quiz_start()); %xml initialization code
 
 for i=1:1:100
     
+    close all
+    
     %Calculations
     
-    p0_05 = [12.71, 4.30, 3.18, 2.78, 2.57, 2.45, 2.36, 2.31, 2.26, 2.23, 2.20, 2.18, 2.16, 2.14, 2.13];
-    p0_025 = [25.45, 6.20, 4.17, 3.50, 3.16, 2.97, 2.84, 2.75, 2.68, 2.63, 2.59, 2.56, 2.53, 2.51, 2.49];
+    mean = randi([8,16]) * 5;
+    s = randi([7, 15]);
+    answerRaw = (2*1.96*s*10/mean)^2;
+    answer = ceil(answerRaw);
     
-    n = randi([8,12]);
-    lab1 = randi([35, 55],n,1);
-    lab2 = randi([45, 55],n,1);
-    s = randi([6, 14]);
-    twoTail = randi([0,1]);
+    intermediateAnswer = 1.96 * s / sqrt(answerRaw);
+    fromVal = round(mean - intermediateAnswer, 2);
+    toVal = round(mean + intermediateAnswer, 2);
     
-    mean1 = mean(lab1);
-    mean2 = mean(lab2);
-    std1 = std(lab1);
-    std2 = std(lab2);
-    tstar = (mean1-mean2) / (sqrt((std1^2 + std2^2)/n));
+    %Plot generation - Question
+    clf
+    hold on
     
-    if twoTail == 1
-        tcrit = p0_025(n-1);
-        twoTailString = 'two';
-    else
-        tcrit = p0_05(n-1);
-        twoTailString = 'one';
-    end
+    p = normspec([fromVal,toVal], mean, s / sqrt(answerRaw), 'inside');
+    text(fromVal, -0.05, [num2str(fromVal) ' N/mm^2'], 'Fontsize',10,'VerticalAlignment','top', 'HorizontalAlign', 'center');
+    text(toVal, -0.05, [num2str(toVal) ' N/mm^2'], 'Fontsize',10,'VerticalAlignment','top', 'HorizontalAlign', 'center');
+    text(mean, 0.15, '95%', 'Fontsize',10,'VerticalAlignment','top', 'HorizontalAlign', 'center');
+    
+    axis on;
+    axis([mean - 2*intermediateAnswer, mean + 2*intermediateAnswer, 0, 0.6]);
+    set(gca, 'Position',[0.12 .16 0.8 0.7], 'YLabel',[], 'XLabel',[]);
+    
+    hold off;
+    plotStringFeedback = generateImageString(gcf, 'imageFeedback');
     
     %Embedded components string generation
-    numString = cloze_numerical(round(tcrit,2), 0.01, 'Good job!', 'Incorrect, try again');
-    mcqString = 
+    numString = cloze_numerical(answer, 0, 'Good job!', 'Incorrect, try again');
     
     %Question string joining
-    tableString = '<table><tr><td colspan="2">28 day strength (MPa)</td></tr><tr><td>Laboratory 1</td><td>Laboratory 2</td><tr>';
-    for j = 1:n
-        tableString = strcat(tableString, '<tr><td>', lab1(j), '</td><td>', lab2(j), '</td><tr>');
-    end
-    tableString = strcat(tableString, '</table>');
+    questionString = ['Based on a number of strength tests, it is found from the test results that the average strength of a material is ' num2str(mean) ' N/mm^2, and the standard deviation of the measured strength is ' num2str(s) ' N/mm^2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95%% confidence interval on the expected strength of the material with a width less than ' num2str(0.1*mean) ' N/mm^2 (i.e. 10%% of the average measured strength ' num2str(mean) ' N/mm^2).<br><br><br>Answer:<br>Minimum number of tests required: ' numString];
     
-    questionString = strcat('The table below summarises the test results obtained from a set of strength tests on the concrete produced by two laboratories. Formulate a&nbsp;', twoTailString, '-sample t-test to determine whether the products produced by them are different at a significance level 5%%');
-    questionString = strcat(questionString, '<br><br>', tableString);
-    questionString = strcat(questionString, '<br><br>Answer:<br>t* =&nbsp;', numString, '<br>The strength of the concrete produced by the two labs are:<br>', mcqString);
-    
-    feedbackString = 'The 95%% confidence interval on the true strength &mu; can then be determined as:';
-    feedbackString = strcat(feedbackString, '<br>$$ \\small \\bar{X} \\pm 1.96 \\frac{\\sigma}{\\sqrt{n}} $$');
-    feedbackString = strcat(feedbackString, '<br>Hence, the width of the 95%% confidence interval is:');
-    feedbackString = strcat(feedbackString, '<br>$$ \\small 2(1.96) \\frac{\\sigma}{\\sqrt{n}} $$');
-    feedbackString = strcat(feedbackString, '<br>And it is required that:');
-    feedbackString = strcat(feedbackString, '<br>$$ \\small 2(1.96) \\frac{\\sigma}{\\sqrt{n}} \\leq 0.1 \\bar{X}$$');
-    feedbackString = strcat(feedbackString, '<br>$$ \\small \\Rightarrow n \\geq \\left( \\frac{2(1.96)\\sigma}{0.1\\bar{X}} \\right)^2 =&nbsp;', num2str(round(answer,2)), '$$');
-    feedbackString = strcat(feedbackString, '<br>Hence, the minimum number of tests is&nbsp;', num2str(ceil(answer)), '.');
+    feedbackString = ['<img src="@@PLUGINFILE@@/imageFeedback.png" style="width:100%%; height:auto;"><br><br>' ...
+        'The 95%% confidence interval on the true strength &mu; can then be determined as:<br>' ...
+        '$$ \\small \\bar{X} \\pm 1.96 \\frac{\\sigma}{\\sqrt{n}} $$<br>' ...
+        'Hence, the width of the 95%% confidence interval is:<br>' ...
+        '$$ \\small 2(1.96) \\frac{\\sigma}{\\sqrt{n}} $$<br>' ...
+        'It is required that:<br>$$ \\small 2(1.96) \\frac{\\sigma}{\\sqrt{n}} \\leq 0.1 \\bar{X}$$<br>' ...
+        '$$ \\small \\Rightarrow n \\geq \\left( \\frac{2(1.96)(' num2str(s) ')}{0.1(' num2str(mean) ')} \\right)^2 = ' num2str(answerRaw) '$$' ...
+        '<br>Hence, the minimum number of tests is <b>' num2str(answer) '</b>.'];
     
     %Complete question XML code generation
     xmlCode = question_cloze(i, ...
-        'Mean Speed range', ... 
+        'Strength Tests', ... 
         questionString, ...
         feedbackString, ...
         '', ...
         '', ...
-        '');
+        '', ...
+        plotStringFeedback);
     
     %Output
     fprintf(file, xmlCode);
