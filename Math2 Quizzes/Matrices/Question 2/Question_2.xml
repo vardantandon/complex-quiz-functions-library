@@ -1,0 +1,2903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>  <!-- question: 1  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}4 & 13 & 17 \\13 & 1 & 10 \\17 & 10 & 16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}12 & 8 & 2 \\-8 & 2 & 12 \\-2 & -12 & 3\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}11 & 0 & 0 \\0 & 20 & 0 \\0 & 0 & 17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}18 & 4 & 20 \\0 & 3 & 8 \\0 & 0 & 15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}12 & 0 & 0 \\4 & 15 & 0 \\10 & 2 & 12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 17 & 3 \\0 & 0 & 8 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\17 & 0 & 0 \\8 & 3 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 2  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-17 & -3 & -10 \\-3 & -2 & -13 \\-10 & -13 & -9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-11 & -10 & -11 \\10 & -2 & -6 \\11 & 6 & -18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-7 & 0 & 0 \\0 & -15 & 0 \\0 & 0 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-19 & -10 & -6 \\0 & -2 & -20 \\0 & 0 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-3 & 0 & 0 \\-14 & -15 & 0 \\-13 & -11 & -11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -10 & -18 \\0 & 0 & -10 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-1 & 0 & 0 \\-20 & -2 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 3  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-11 & 5 & 11 \\5 & -17 & 3 \\11 & 3 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}1 & -20 & -11 \\20 & -20 & -18 \\11 & 18 & 19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-9 & 0 & 0 \\0 & 8 & 0 \\0 & 0 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}4 & -9 & -11 \\0 & 11 & -19 \\0 & 0 & -17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}16 & 0 & 0 \\13 & 5 & 0 \\3 & -11 & 1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 11 & 19 \\0 & 0 & -20 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-5 & 0 & 0 \\-19 & 11 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 4  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}8 & -1 & -13 \\-1 & 20 & -12 \\-13 & -12 & 17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-18 & 2 & 11 \\-2 & 8 & 6 \\-11 & -6 & -7\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}7 & 0 & 0 \\0 & -9 & 0 \\0 & 0 & 8\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & 16 & 15 \\0 & -9 & 16 \\0 & 0 & 17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & 0 & 0 \\-4 & -15 & 0 \\-12 & 11 & -18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -13 & -7 \\0 & 0 & 2 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\8 & 0 & 0 \\16 & -9 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 5  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-20 & -18 & -15 \\-18 & -17 & -8 \\-15 & -8 & -9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-6 & -20 & -20 \\20 & -17 & -19 \\20 & 19 & -19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-15 & 0 & 0 \\0 & -16 & 0 \\0 & 0 & -6\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-20 & -6 & -6 \\0 & -14 & -1 \\0 & 0 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & 0 & 0 \\-10 & -11 & 0 \\-8 & -20 & -6\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -15 & -19 \\0 & 0 & -20 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-6 & 0 & 0 \\-1 & -14 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 6  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-20 & -5 & -10 \\-5 & -13 & -19 \\-10 & -19 & -9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-3 & -15 & -13 \\15 & -5 & -18 \\13 & 18 & -2\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-6 & 0 & 0 \\0 & -2 & 0 \\0 & 0 & -19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-9 & -8 & -15 \\0 & -10 & -9 \\0 & 0 & -19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-12 & 0 & 0 \\-13 & -14 & 0 \\-19 & -13 & -3\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -10 & -2 \\0 & 0 & -15 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-19 & 0 & 0 \\-9 & -10 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 7  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-14 & 14 & 12 \\14 & -12 & 13 \\12 & 13 & -17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}6 & -6 & -1 \\6 & -20 & -3 \\1 & 3 & 17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-2 & 0 & 0 \\0 & 12 & 0 \\0 & 0 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}7 & -18 & -13 \\0 & 7 & -11 \\0 & 0 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}3 & 0 & 0 \\16 & 13 & 0 \\13 & -1 & 6\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 12 & 17 \\0 & 0 & -6 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-5 & 0 & 0 \\-11 & 7 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 8  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-18 & -1 & -19 \\-1 & -2 & -6 \\-19 & -6 & -7\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-14 & -10 & -17 \\10 & -14 & -14 \\17 & 14 & -2\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-7 & 0 & 0 \\0 & -5 & 0 \\0 & 0 & -17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-9 & -14 & -20 \\0 & -13 & -10 \\0 & 0 & -11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & 0 & 0 \\-8 & -15 & 0 \\-6 & -17 & -14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -19 & -2 \\0 & 0 & -10 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-17 & 0 & 0 \\-10 & -13 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 9  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-9 & 16 & 14 \\16 & -10 & 12 \\14 & 12 & -9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}9 & -11 & -1 \\11 & -5 & -2 \\1 & 2 & 11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-11 & 0 & 0 \\0 & 11 & 0 \\0 & 0 & -6\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}17 & -4 & -3 \\0 & 3 & -6 \\0 & 0 & -3\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}7 & 0 & 0 \\20 & 18 & 0 \\12 & -1 & 9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 14 & 11 \\0 & 0 & -11 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-6 & 0 & 0 \\-6 & 3 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 10  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}11 & -16 & -13 \\-16 & 3 & -15 \\-13 & -15 & 15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-18 & 12 & 18 \\-12 & 12 & 6 \\-18 & -6 & -4\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}2 & 0 & 0 \\0 & -16 & 0 \\0 & 0 & 8\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-11 & 20 & 5 \\0 & -11 & 8 \\0 & 0 & 7\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-19 & 0 & 0 \\-8 & -18 & 0 \\-15 & 18 & -18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -13 & -4 \\0 & 0 & 12 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\8 & 0 & 0 \\8 & -11 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 11  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-19 & -8 & -12 \\-8 & -4 & -12 \\-12 & -12 & -19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-13 & -6 & -15 \\6 & -12 & -14 \\15 & 14 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-3 & 0 & 0 \\0 & -3 & 0 \\0 & 0 & -9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & -19 & -2 \\0 & -11 & -5 \\0 & 0 & -8\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-7 & 0 & 0 \\-9 & -13 & 0 \\-12 & -15 & -13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -12 & -15 \\0 & 0 & -6 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-9 & 0 & 0 \\-5 & -11 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 12  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-2 & -18 & -17 \\-18 & -18 & -12 \\-17 & -12 & -16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-4 & -1 & -18 \\1 & -8 & -11 \\18 & 11 & -13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & 0 & 0 \\0 & -20 & 0 \\0 & 0 & -19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-14 & -19 & -9 \\0 & -1 & -3 \\0 & 0 & -14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-14 & 0 & 0 \\-4 & -1 & 0 \\-12 & -18 & -4\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -17 & -13 \\0 & 0 & -1 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-19 & 0 & 0 \\-3 & -1 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 13  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}8 & -7 & -9 \\-7 & 3 & -9 \\-9 & -9 & 20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-18 & 20 & 14 \\-20 & 1 & 11 \\-14 & -11 & -2\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}19 & 0 & 0 \\0 & -17 & 0 \\0 & 0 & 16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-17 & 9 & 15 \\0 & -8 & 19 \\0 & 0 & 15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-10 & 0 & 0 \\-1 & -2 & 0 \\-9 & 14 & -18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -9 & -2 \\0 & 0 & 20 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\16 & 0 & 0 \\19 & -8 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 14  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-18 & -5 & -14 \\-5 & -9 & -13 \\-14 & -13 & -13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-5 & -6 & -5 \\6 & -12 & -3 \\5 & 3 & -16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-20 & 0 & 0 \\0 & -7 & 0 \\0 & 0 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-15 & -18 & -15 \\0 & -14 & -9 \\0 & 0 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-16 & 0 & 0 \\-2 & -19 & 0 \\-13 & -5 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -14 & -16 \\0 & 0 & -6 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-5 & 0 & 0 \\-9 & -14 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 15  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-19 & -15 & -5 \\-15 & -2 & -9 \\-5 & -9 & -6\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-8 & -14 & -13 \\14 & -15 & -15 \\13 & 15 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-15 & 0 & 0 \\0 & -3 & 0 \\0 & 0 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-19 & -15 & -8 \\0 & -10 & -17 \\0 & 0 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-4 & 0 & 0 \\-14 & -5 & 0 \\-9 & -13 & -8\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -5 & -15 \\0 & 0 & -14 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-12 & 0 & 0 \\-17 & -10 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 16  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-3 & -5 & -14 \\-5 & -19 & -1 \\-14 & -1 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-17 & -1 & -13 \\1 & -16 & -1 \\13 & 1 & -3\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-20 & 0 & 0 \\0 & -9 & 0 \\0 & 0 & -3\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-16 & -6 & -18 \\0 & -11 & -7 \\0 & 0 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-18 & 0 & 0 \\-20 & -19 & 0 \\-1 & -13 & -17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -14 & -3 \\0 & 0 & -1 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-3 & 0 & 0 \\-7 & -11 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 17  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}16 & 7 & 16 \\7 & 19 & 1 \\16 & 1 & 9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}17 & 5 & 19 \\-5 & 18 & 4 \\-19 & -4 & 11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}12 & 0 & 0 \\0 & 12 & 0 \\0 & 0 & 19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}6 & 19 & 9 \\0 & 16 & 11 \\0 & 0 & 13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}10 & 0 & 0 \\4 & 6 & 0 \\1 & 19 & 17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 16 & 11 \\0 & 0 & 5 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\19 & 0 & 0 \\11 & 16 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 18  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-4 & 17 & 20 \\17 & -7 & 15 \\20 & 15 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}12 & -2 & -6 \\2 & -18 & -4 \\6 & 4 & 15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-9 & 0 & 0 \\0 & 17 & 0 \\0 & 0 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}2 & -18 & -7 \\0 & 8 & -19 \\0 & 0 & -20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}2 & 0 & 0 \\4 & 10 & 0 \\15 & -6 & 12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 20 & 15 \\0 & 0 & -2 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-1 & 0 & 0 \\-19 & 8 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 19  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-15 & -19 & -16 \\-19 & -3 & -14 \\-16 & -14 & -4\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-7 & -1 & -15 \\1 & -6 & -6 \\15 & 6 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-6 & 0 & 0 \\0 & -16 & 0 \\0 & 0 & -13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-20 & -6 & -10 \\0 & -17 & -5 \\0 & 0 & -13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-14 & 0 & 0 \\-9 & -16 & 0 \\-14 & -15 & -7\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -16 & -15 \\0 & 0 & -1 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-13 & 0 & 0 \\-5 & -17 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 20  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}1 & -5 & -5 \\-5 & 10 & -19 \\-5 & -19 & 6\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-12 & 16 & 13 \\-16 & 1 & 11 \\-13 & -11 & -20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}12 & 0 & 0 \\0 & -20 & 0 \\0 & 0 & 19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-11 & 12 & 14 \\0 & -11 & 7 \\0 & 0 & 1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-12 & 0 & 0 \\-20 & -20 & 0 \\-19 & 13 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -5 & -20 \\0 & 0 & 16 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\19 & 0 & 0 \\7 & -11 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 21  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}14 & -16 & -9 \\-16 & 4 & -9 \\-9 & -9 & 17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-4 & 6 & 17 \\-6 & 12 & 2 \\-17 & -2 & -3\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}13 & 0 & 0 \\0 & -3 & 0 \\0 & 0 & 7\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-8 & 2 & 19 \\0 & -5 & 8 \\0 & 0 & 10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-2 & 0 & 0 \\-19 & -1 & 0 \\-9 & 17 & -4\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -9 & -3 \\0 & 0 & 6 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\7 & 0 & 0 \\8 & -5 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 22  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}19 & 20 & 14 \\20 & 4 & 4 \\14 & 4 & 20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}14 & 18 & 15 \\-18 & 5 & 11 \\-15 & -11 & 11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}12 & 0 & 0 \\0 & 16 & 0 \\0 & 0 & 4\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}4 & 15 & 3 \\0 & 8 & 20 \\0 & 0 & 7\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}20 & 0 & 0 \\14 & 13 & 0 \\4 & 15 & 14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 14 & 11 \\0 & 0 & 18 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\4 & 0 & 0 \\20 & 8 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 23  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}12 & -1 & -4 \\-1 & 6 & -13 \\-4 & -13 & 17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-15 & 13 & 15 \\-13 & 19 & 8 \\-15 & -8 & -20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}5 & 0 & 0 \\0 & -1 & 0 \\0 & 0 & 10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-13 & 11 & 3 \\0 & -7 & 5 \\0 & 0 & 6\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-17 & 0 & 0 \\-18 & -19 & 0 \\-13 & 15 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -4 & -20 \\0 & 0 & 13 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\10 & 0 & 0 \\5 & -7 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 24  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-6 & -20 & -10 \\-20 & -14 & -6 \\-10 & -6 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-15 & -8 & -1 \\8 & -12 & -2 \\1 & 2 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-6 & 0 & 0 \\0 & -20 & 0 \\0 & 0 & -20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-6 & -20 & -11 \\0 & -4 & -1 \\0 & 0 & -18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-18 & 0 & 0 \\-3 & -17 & 0 \\-6 & -1 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -10 & -5 \\0 & 0 & -8 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-20 & 0 & 0 \\-1 & -4 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 25  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}3 & 16 & 11 \\16 & 14 & 16 \\11 & 16 & 11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}8 & 3 & 7 \\-3 & 2 & 13 \\-7 & -13 & 3\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}2 & 0 & 0 \\0 & 8 & 0 \\0 & 0 & 12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}17 & 11 & 8 \\0 & 14 & 20 \\0 & 0 & 13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}5 & 0 & 0 \\4 & 2 & 0 \\16 & 7 & 8\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 11 & 3 \\0 & 0 & 3 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\12 & 0 & 0 \\20 & 14 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 26  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-10 & -10 & -9 \\-10 & -2 & -16 \\-9 & -16 & -11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-10 & -12 & -10 \\12 & -9 & -1 \\10 & 1 & -11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-7 & 0 & 0 \\0 & -13 & 0 \\0 & 0 & -2\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-14 & -10 & -4 \\0 & -2 & -10 \\0 & 0 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-20 & 0 & 0 \\-14 & -2 & 0 \\-16 & -10 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -9 & -11 \\0 & 0 & -12 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-2 & 0 & 0 \\-10 & -2 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 27  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}20 & -7 & -13 \\-7 & 1 & -19 \\-13 & -19 & 18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-20 & 8 & 15 \\-8 & 12 & 12 \\-15 & -12 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}10 & 0 & 0 \\0 & -17 & 0 \\0 & 0 & 11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-4 & 8 & 2 \\0 & -3 & 13 \\0 & 0 & 10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-17 & 0 & 0 \\-17 & -13 & 0 \\-19 & 15 & -20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -13 & -10 \\0 & 0 & 8 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\11 & 0 & 0 \\13 & -3 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 28  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}15 & -11 & -6 \\-11 & 2 & -1 \\-6 & -1 & 15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & 2 & 1 \\-2 & 2 & 14 \\-1 & -14 & -13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}9 & 0 & 0 \\0 & -11 & 0 \\0 & 0 & 18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-14 & 16 & 13 \\0 & -1 & 10 \\0 & 0 & 2\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-18 & 0 & 0 \\-4 & -3 & 0 \\-1 & 1 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -6 & -13 \\0 & 0 & 2 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\18 & 0 & 0 \\10 & -1 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 29  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-5 & 15 & 14 \\15 & -9 & 15 \\14 & 15 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}4 & -3 & -9 \\3 & -8 & -14 \\9 & 14 & 9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-17 & 0 & 0 \\0 & 17 & 0 \\0 & 0 & -20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}17 & -18 & -17 \\0 & 19 & -11 \\0 & 0 & -16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}4 & 0 & 0 \\13 & 13 & 0 \\15 & -9 & 4\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 14 & 9 \\0 & 0 & -3 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-20 & 0 & 0 \\-11 & 19 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 30  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-10 & -15 & -20 \\-15 & -10 & -8 \\-20 & -8 & -16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-5 & -4 & -16 \\4 & -15 & -5 \\16 & 5 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-4 & 0 & 0 \\0 & -10 & 0 \\0 & 0 & -3\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-12 & -15 & -2 \\0 & -15 & -7 \\0 & 0 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-3 & 0 & 0 \\-7 & -4 & 0 \\-8 & -16 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -20 & -12 \\0 & 0 & -4 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-3 & 0 & 0 \\-7 & -15 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 31  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-17 & 9 & 4 \\9 & -8 & 16 \\4 & 16 & -16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}4 & -14 & -14 \\14 & -14 & -8 \\14 & 8 & 14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-20 & 0 & 0 \\0 & 11 & 0 \\0 & 0 & -14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}15 & -16 & -17 \\0 & 18 & -7 \\0 & 0 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}13 & 0 & 0 \\9 & 3 & 0 \\16 & -14 & 4\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 4 & 14 \\0 & 0 & -14 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-14 & 0 & 0 \\-7 & 18 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 32  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-11 & 12 & 7 \\12 & -19 & 19 \\7 & 19 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}14 & -5 & -2 \\5 & -11 & -17 \\2 & 17 & 15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-7 & 0 & 0 \\0 & 7 & 0 \\0 & 0 & -2\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}1 & -6 & -10 \\0 & 2 & -7 \\0 & 0 & -2\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}10 & 0 & 0 \\8 & 13 & 0 \\19 & -2 & 14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 7 & 15 \\0 & 0 & -5 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-2 & 0 & 0 \\-7 & 2 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 33  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}13 & -15 & -7 \\-15 & 6 & -5 \\-7 & -5 & 18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-16 & 13 & 17 \\-13 & 1 & 2 \\-17 & -2 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}18 & 0 & 0 \\0 & -18 & 0 \\0 & 0 & 1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-10 & 4 & 13 \\0 & -2 & 8 \\0 & 0 & 16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-20 & 0 & 0 \\-4 & -9 & 0 \\-5 & 17 & -16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -7 & -1 \\0 & 0 & 13 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\1 & 0 & 0 \\8 & -2 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 34  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-12 & -20 & -2 \\-20 & -9 & -5 \\-2 & -5 & -3\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-10 & -12 & -4 \\12 & -15 & -15 \\4 & 15 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-18 & 0 & 0 \\0 & -6 & 0 \\0 & 0 & -13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-18 & -3 & -12 \\0 & -3 & -9 \\0 & 0 & -14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-14 & 0 & 0 \\-1 & -16 & 0 \\-5 & -4 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -2 & -15 \\0 & 0 & -12 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-13 & 0 & 0 \\-9 & -3 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 35  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-4 & -13 & -6 \\-13 & -8 & -15 \\-6 & -15 & -6\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & -2 & -4 \\2 & -4 & -4 \\4 & 4 & -9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-14 & 0 & 0 \\0 & -20 & 0 \\0 & 0 & -2\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & -5 & -20 \\0 & -3 & -17 \\0 & 0 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-2 & 0 & 0 \\-9 & -3 & 0 \\-15 & -4 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -6 & -9 \\0 & 0 & -2 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-2 & 0 & 0 \\-17 & -3 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 36  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-7 & -15 & -9 \\-15 & -1 & -5 \\-9 & -5 & -18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-19 & -17 & -12 \\17 & -2 & -18 \\12 & 18 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-17 & 0 & 0 \\0 & -9 & 0 \\0 & 0 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-4 & -20 & -11 \\0 & -16 & -8 \\0 & 0 & -14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-16 & 0 & 0 \\-17 & -16 & 0 \\-5 & -12 & -19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -9 & -12 \\0 & 0 & -17 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-10 & 0 & 0 \\-8 & -16 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 37  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}20 & -7 & -15 \\-7 & 15 & -18 \\-15 & -18 & 11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-15 & 11 & 16 \\-11 & 8 & 10 \\-16 & -10 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}20 & 0 & 0 \\0 & -5 & 0 \\0 & 0 & 19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-14 & 20 & 10 \\0 & -5 & 4 \\0 & 0 & 15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-19 & 0 & 0 \\-13 & -8 & 0 \\-18 & 16 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -15 & -1 \\0 & 0 & 11 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\19 & 0 & 0 \\4 & -5 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 38  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-8 & 18 & 10 \\18 & -6 & 14 \\10 & 14 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}11 & -7 & -15 \\7 & -8 & -4 \\15 & 4 & 6\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & 0 & 0 \\0 & 2 & 0 \\0 & 0 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}4 & -13 & -15 \\0 & 11 & -16 \\0 & 0 & -2\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}3 & 0 & 0 \\5 & 20 & 0 \\14 & -15 & 11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 10 & 6 \\0 & 0 & -7 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-12 & 0 & 0 \\-16 & 11 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 39  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-8 & -19 & -7 \\-19 & -8 & -6 \\-7 & -6 & -17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-20 & -1 & -7 \\1 & -1 & -3 \\7 & 3 & -16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-2 & 0 & 0 \\0 & -4 & 0 \\0 & 0 & -4\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-17 & -11 & -9 \\0 & -12 & -18 \\0 & 0 & -9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-11 & 0 & 0 \\-17 & -1 & 0 \\-6 & -7 & -20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -7 & -16 \\0 & 0 & -1 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-4 & 0 & 0 \\-18 & -12 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 40  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}2 & 17 & 4 \\17 & 15 & 2 \\4 & 2 & 14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}10 & 14 & 12 \\-14 & 8 & 16 \\-12 & -16 & 14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}19 & 0 & 0 \\0 & 13 & 0 \\0 & 0 & 4\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}18 & 4 & 13 \\0 & 17 & 16 \\0 & 0 & 19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}8 & 0 & 0 \\3 & 12 & 0 \\2 & 12 & 10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 4 & 14 \\0 & 0 & 14 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\4 & 0 & 0 \\16 & 17 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 41  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}4 & 16 & 13 \\16 & 4 & 18 \\13 & 18 & 18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}16 & 20 & 13 \\-20 & 4 & 15 \\-13 & -15 & 18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}2 & 0 & 0 \\0 & 15 & 0 \\0 & 0 & 14\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}5 & 19 & 2 \\0 & 19 & 11 \\0 & 0 & 1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}9 & 0 & 0 \\5 & 8 & 0 \\18 & 13 & 16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 13 & 18 \\0 & 0 & 20 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\14 & 0 & 0 \\11 & 19 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 42  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-16 & -6 & -9 \\-6 & -4 & -15 \\-9 & -15 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-15 & -17 & -7 \\17 & -8 & -6 \\7 & 6 & -8\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-6 & 0 & 0 \\0 & -18 & 0 \\0 & 0 & -9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & -14 & -16 \\0 & -3 & -12 \\0 & 0 & -16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-6 & 0 & 0 \\-5 & -12 & 0 \\-15 & -7 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -9 & -8 \\0 & 0 & -17 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-9 & 0 & 0 \\-12 & -3 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 43  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-15 & 6 & 12 \\6 & -6 & 14 \\12 & 14 & -9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}12 & -16 & -15 \\16 & -14 & -4 \\15 & 4 & 18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-6 & 0 & 0 \\0 & 8 & 0 \\0 & 0 & -7\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}13 & -18 & -12 \\0 & 14 & -17 \\0 & 0 & -13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}19 & 0 & 0 \\7 & 15 & 0 \\14 & -15 & 12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 12 & 18 \\0 & 0 & -16 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-7 & 0 & 0 \\-17 & 14 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 44  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}1 & -15 & -13 \\-15 & 10 & -2 \\-13 & -2 & 18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-13 & 17 & 16 \\-17 & 3 & 14 \\-16 & -14 & -6\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}20 & 0 & 0 \\0 & -16 & 0 \\0 & 0 & 20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-17 & 5 & 4 \\0 & -8 & 10 \\0 & 0 & 12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-6 & 0 & 0 \\-7 & -19 & 0 \\-2 & 16 & -13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -13 & -6 \\0 & 0 & 17 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\20 & 0 & 0 \\10 & -8 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 45  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-19 & -10 & -6 \\-10 & -18 & -8 \\-6 & -8 & -15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-19 & -17 & -3 \\17 & -16 & -18 \\3 & 18 & -17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-17 & 0 & 0 \\0 & -16 & 0 \\0 & 0 & -20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-2 & -1 & -14 \\0 & -8 & -7 \\0 & 0 & -7\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-19 & 0 & 0 \\-4 & -5 & 0 \\-8 & -3 & -19\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -6 & -17 \\0 & 0 & -17 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-20 & 0 & 0 \\-7 & -8 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 46  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-6 & -11 & -18 \\-11 & -10 & -15 \\-18 & -15 & -11\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-5 & -10 & -16 \\10 & -4 & -7 \\16 & 7 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-9 & 0 & 0 \\0 & -5 & 0 \\0 & 0 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-10 & -16 & -9 \\0 & -15 & -2 \\0 & 0 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-15 & 0 & 0 \\-17 & -17 & 0 \\-15 & -16 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -18 & -10 \\0 & 0 & -10 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-1 & 0 & 0 \\-2 & -15 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 47  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}18 & -16 & -11 \\-16 & 9 & -6 \\-11 & -6 & 16\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & 7 & 7 \\-7 & 9 & 1 \\-7 & -1 & -17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}19 & 0 & 0 \\0 & -5 & 0 \\0 & 0 & 8\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-5 & 17 & 9 \\0 & -4 & 14 \\0 & 0 & 15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-1 & 0 & 0 \\-6 & -17 & 0 \\-6 & 7 & -1\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -11 & -17 \\0 & 0 & 7 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\8 & 0 & 0 \\14 & -4 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 48  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-12 & 11 & 8 \\11 & -15 & 3 \\8 & 3 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}15 & -14 & -18 \\14 & -8 & -10 \\18 & 10 & 2\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-15 & 0 & 0 \\0 & 4 & 0 \\0 & 0 & -12\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}20 & -17 & -2 \\0 & 18 & -9 \\0 & 0 & -5\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}13 & 0 & 0 \\6 & 1 & 0 \\3 & -18 & 15\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 8 & 2 \\0 & 0 & -14 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-12 & 0 & 0 \\-9 & 18 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 49  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-4 & -13 & -13 \\-13 & -16 & -4 \\-13 & -4 & -17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-17 & -19 & -18 \\19 & -13 & -19 \\18 & 19 & -8\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-18 & 0 & 0 \\0 & -20 & 0 \\0 & 0 & -7\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-5 & -17 & -14 \\0 & -4 & -17 \\0 & 0 & -9\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-18 & 0 & 0 \\-6 & -19 & 0 \\-4 & -18 & -17\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & -13 & -8 \\0 & 0 & -19 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-7 & 0 & 0 \\-17 & -4 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>  <!-- question: 50  -->
+  <question type="matching">
+    <name>
+      <text>Types of Matrix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match the following matrices with their appropriate types :  </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br><b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br><b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br><b>Upper Triangular Matrix</b> : An upper triangular matrix is a square matrix in which all entries below the leading diagonal are 0.<br><br><b>Lower Triangular Matrix</b> : A lower triangular matrix is a square matrix in which all entries above the leading diagonal are 0.<br><br><b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br><b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+ <subquestion>
+<text><![CDATA[<p>$$\small \begin{pmatrix}-19 & 11 & 19 \\11 & -15 & 8 \\19 & 8 & -18\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+   <text><![CDATA[<p> Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}13 & -16 & -6 \\16 & -1 & -3 \\6 & 3 & 13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Skew Symmetric Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}-6 & 0 & 0 \\0 & 14 & 0 \\0 & 0 & -20\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Diagonal Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}19 & -4 & -13 \\0 & 2 & -8 \\0 & 0 & -10\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}11 & 0 & 0 \\7 & 16 & 0 \\8 & -6 & 13\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 19 & 13 \\0 & 0 & -16 \\0 & 0 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Upper Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+ <subquestion>
+ <text><![CDATA[<p>$$\small \begin{pmatrix}0 & 0 & 0 \\-20 & 0 & 0 \\-8 & 2 & 0\end{pmatrix}\:$$</p>]]></text>
+ <answer>
+ <text><![CDATA[<p>Strictly Lower Triangular Matrix</p>]]></text>
+ </answer>
+ </subquestion>
+  <shuffleanswers>true</shuffleanswers>
+    <tolerance>0.001</tolerance>
+  </question>
+</quiz>

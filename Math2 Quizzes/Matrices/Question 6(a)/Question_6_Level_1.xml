@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-5 &-5 \\-6 &-5\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-10.4772:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=0.47723:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-10 &7 \\8 &-10\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-17.4833:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-2.5167:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}8 &-10 \\-4 &10\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=15.4031:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-5 &-7 \\-4 &-10\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-13.3523:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-1.6477:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-1 &-8 \\-4 &-9\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-11.9282:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=1.9282:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-8 &7 \\-1 &8\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=7.5498:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-5 &3 \\3 &-7\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-2.8377:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}4 &-8 \\-10 &4\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-4.9443:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=12.9443:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-10 &-1 \\-9 &-10\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-13:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-7:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-10 &-4 \\-10 &-9\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-3.1557:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}6 &-2 \\-2 &-3\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=6.4244:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}6 &6 \\-1 &-2\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-1.1623:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=5.1623:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-1 &2 \\-1 &-5\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-4.4142:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-1.5858:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}10 &-4 \\-6 &-1\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-2.8655:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=11.8655:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-8 &-3 \\-9 &-8\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-13.1962:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-2.8038:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-4 &-3 \\-8 &-4\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-8.899:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=0.89898:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}5 &-10 \\-4 &-4\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-7.2621:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=8.2621:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-4 &-3 \\-9 &-6\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-10.2915:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=0.2915:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}6 &-8 \\-1 &-5\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-5.6847:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=6.6847:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-3 &-4 \\-9 &-3\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-9:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=3:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-1 &5 \\9 &-7\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-11.3485:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=3.3485:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-5 &1 \\-10 &2\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=0:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}9 &-5 \\-7 &2\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-1.3739:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=12.3739:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}8 &-7 \\-9 &-1\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-5.6241:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=12.6241:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-4 &-7 \\-1 &-9\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-10.1401:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-2.8599:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-6 &-9 \\-7 &7\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=10.7591:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-4 &-3 \\-5 &-8\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-10.3589:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-1.6411:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-10 &-4 \\-1 &-4\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-3.3944:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-2 &-4 \\-5 &-9\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=-11.1789:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=0.17891:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-8 &4 \\7 &-2\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=1.0828:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-8 &-8 \\-5 &-3\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=1.3007:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-2 &1 \\-5 &3\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=1.618:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Eigenvector and Eigenvalues</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the eigenvalues and the associated eigenvectors of the following matrix: <br><br>$$\small A = \begin{pmatrix}-9 &6 \\3 &-4\end{pmatrix}\:$$ <br><br>[Calculate upto 2 significant]<br><br>$$\small \lambda_{1} = $${1:NUMERICAL:=1:0#Good job!!~*#Incorrect, try again}&nbsp;&nbsp;$$\small \lambda_{2}  = $${1:NUMERICAL:=-1.5756:0#Good job!!~*#Incorrect, try again}<br><br></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+</quiz>
