@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Basic operations</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=165:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Determinant</b> : The determinant of a matrix is useful to calculate the inverse of a matrix and to solve/assess a system of linear equations.Determinant only exists for square matrices.The determinant of a 3x3 matrix can be calculated as follows : <br><br>    <table><tr>      <td style="vertical-align: center;">A&nbsp;=&nbsp;</td>      <td style="border: 1px solid #000; border-right:0px;">&nbsp;</td>      <td>        <table><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>11</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>12</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>13</sub></td></tr><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>21</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>22</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>23</sub></td></tr><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>31</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>32</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>33</sub></td></tr>        </table>      </td>      <td style="border: 1px solid #000; border-left:0px;">&nbsp;</td>    </tr></table><br>det(A) = a<sub>11</sub>$$\small \begin{vmatrix}a_{22} & a_{23} \\a_{32} & a_{33} \end{vmatrix}\:$$ - a<sub>12</sub>$$\small \begin{vmatrix}a_{21} & a_{23} \\a_{31} & a_{33} \end{vmatrix}\:$$ + a<sub>13</sub>$$\small \begin{vmatrix}a_{21} & a_{22} \\a_{31} & a_{32} \end{vmatrix}\:$$<br><br>$$\small \Rightarrow$$ a<sub>11</sub>(a<sub>22</sub>a<sub>33</sub> - a<sub>23</sub>a<sub>32</sub>) - a<sub>12</sub>(a<sub>21</sub>a<sub>33</sub> - a<sub>23</sub>a<sub>31</sub>) + a<sub>13</sub>(a<sub>21</sub>a<sub>23</sub> - a<sub>22</sub>a<sub>31</sub>)<br><br>For higher order matrices, its a good practice to first calculate the determinants of the minor matrices and then using the formula to calculate the final determinant.<br><br></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Basic operations</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=164:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Determinant</b> : The determinant of a matrix is useful to calculate the inverse of a matrix and to solve/assess a system of linear equations.Determinant only exists for square matrices.The determinant of a 3x3 matrix can be calculated as follows : <br><br>    <table><tr>      <td style="vertical-align: center;">A&nbsp;=&nbsp;</td>      <td style="border: 1px solid #000; border-right:0px;">&nbsp;</td>      <td>        <table><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>11</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>12</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>13</sub></td></tr><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>21</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>22</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>23</sub></td></tr><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>31</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>32</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>33</sub></td></tr>        </table>      </td>      <td style="border: 1px solid #000; border-left:0px;">&nbsp;</td>    </tr></table><br>det(A) = a<sub>11</sub>$$\small \begin{vmatrix}a_{22} & a_{23} \\a_{32} & a_{33} \end{vmatrix}\:$$ - a<sub>12</sub>$$\small \begin{vmatrix}a_{21} & a_{23} \\a_{31} & a_{33} \end{vmatrix}\:$$ + a<sub>13</sub>$$\small \begin{vmatrix}a_{21} & a_{22} \\a_{31} & a_{32} \end{vmatrix}\:$$<br><br>$$\small \Rightarrow$$ a<sub>11</sub>(a<sub>22</sub>a<sub>33</sub> - a<sub>23</sub>a<sub>32</sub>) - a<sub>12</sub>(a<sub>21</sub>a<sub>33</sub> - a<sub>23</sub>a<sub>31</sub>) + a<sub>13</sub>(a<sub>21</sub>a<sub>23</sub> - a<sub>22</sub>a<sub>31</sub>)<br><br>For higher order matrices, its a good practice to first calculate the determinants of the minor matrices and then using the formula to calculate the final determinant.<br><br></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Basic operations</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=1245:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Determinant</b> : The determinant of a matrix is useful to calculate the inverse of a matrix and to solve/assess a system of linear equations.Determinant only exists for square matrices.The determinant of a 3x3 matrix can be calculated as follows : <br><br>    <table><tr>      <td style="vertical-align: center;">A&nbsp;=&nbsp;</td>      <td style="border: 1px solid #000; border-right:0px;">&nbsp;</td>      <td>        <table><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>11</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>12</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>13</sub></td></tr><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>21</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>22</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>23</sub></td></tr><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>31</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>32</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>33</sub></td></tr>        </table>      </td>      <td style="border: 1px solid #000; border-left:0px;">&nbsp;</td>    </tr></table><br>det(A) = a<sub>11</sub>$$\small \begin{vmatrix}a_{22} & a_{23} \\a_{32} & a_{33} \end{vmatrix}\:$$ - a<sub>12</sub>$$\small \begin{vmatrix}a_{21} & a_{23} \\a_{31} & a_{33} \end{vmatrix}\:$$ + a<sub>13</sub>$$\small \begin{vmatrix}a_{21} & a_{22} \\a_{31} & a_{32} \end{vmatrix}\:$$<br><br>$$\small \Rightarrow$$ a<sub>11</sub>(a<sub>22</sub>a<sub>33</sub> - a<sub>23</sub>a<sub>32</sub>) - a<sub>12</sub>(a<sub>21</sub>a<sub>33</sub> - a<sub>23</sub>a<sub>31</sub>) + a<sub>13</sub>(a<sub>21</sub>a<sub>23</sub> - a<sub>22</sub>a<sub>31</sub>)<br><br>For higher order matrices, its a good practice to first calculate the determinants of the minor matrices and then using the formula to calculate the final determinant.<br><br></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Basic operations</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=2104:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Determinant</b> : The determinant of a matrix is useful to calculate the inverse of a matrix and to solve/assess a system of linear equations.Determinant only exists for square matrices.The determinant of a 3x3 matrix can be calculated as follows : <br><br>    <table><tr>      <td style="vertical-align: center;">A&nbsp;=&nbsp;</td>      <td style="border: 1px solid #000; border-right:0px;">&nbsp;</td>      <td>        <table><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>11</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>12</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>13</sub></td></tr><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>21</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>22</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>23</sub></td></tr><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>31</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>32</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>33</sub></td></tr>        </table>      </td>      <td style="border: 1px solid #000; border-left:0px;">&nbsp;</td>    </tr></table><br>det(A) = a<sub>11</sub>$$\small \begin{vmatrix}a_{22} & a_{23} \\a_{32} & a_{33} \end{vmatrix}\:$$ - a<sub>12</sub>$$\small \begin{vmatrix}a_{21} & a_{23} \\a_{31} & a_{33} \end{vmatrix}\:$$ + a<sub>13</sub>$$\small \begin{vmatrix}a_{21} & a_{22} \\a_{31} & a_{32} \end{vmatrix}\:$$<br><br>$$\small \Rightarrow$$ a<sub>11</sub>(a<sub>22</sub>a<sub>33</sub> - a<sub>23</sub>a<sub>32</sub>) - a<sub>12</sub>(a<sub>21</sub>a<sub>33</sub> - a<sub>23</sub>a<sub>31</sub>) + a<sub>13</sub>(a<sub>21</sub>a<sub>23</sub> - a<sub>22</sub>a<sub>31</sub>)<br><br>For higher order matrices, its a good practice to first calculate the determinants of the minor matrices and then using the formula to calculate the final determinant.<br><br></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Basic operations</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=-2823:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><b>Determinant</b> : The determinant of a matrix is useful to calculate the inverse of a matrix and to solve/assess a system of linear equations.Determinant only exists for square matrices.The determinant of a 3x3 matrix can be calculated as follows : <br><br>    <table><tr>      <td style="vertical-align: center;">A&nbsp;=&nbsp;</td>      <td style="border: 1px solid #000; border-right:0px;">&nbsp;</td>      <td>        <table><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>11</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>12</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>13</sub></td></tr><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>21</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>22</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>23</sub></td></tr><tr><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>31</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>32</sub></td><td style="padding-left:5px; padding-right:5px; text-align:center;">a<sub>33</sub></td></tr>        </table>      </td>      <td style="border: 1px solid #000; border-left:0px;">&nbsp;</td>    </tr></table><br>det(A) = a<sub>11</sub>$$\small \begin{vmatrix}a_{22} & a_{23} \\a_{32} & a_{33} \end{vmatrix}\:$$ - a<sub>12</sub>$$\small \begin{vmatrix}a_{21} & a_{23} \\a_{31} & a_{33} \end{vmatrix}\:$$ + a<sub>13</sub>$$\small \begin{vmatrix}a_{21} & a_{22} \\a_{31} & a_{32} \end{vmatrix}\:$$<br><br>$$\small \Rightarrow$$ a<sub>11</sub>(a<sub>22</sub>a<sub>33</sub> - a<sub>23</sub>a<sub>32</sub>) - a<sub>12</sub>(a<sub>21</sub>a<sub>33</sub> - a<sub>23</sub>a<sub>31</sub>) + a<sub>13</sub>(a<sub>21</sub>a<sub>23</sub> - a<sub>22</sub>a<sub>31</sub>)<br><br>For higher order matrices, its a good practice to first calculate the determinants of the minor matrices and then using the formula to calculate the final determinant.<br><br></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+</quiz>
