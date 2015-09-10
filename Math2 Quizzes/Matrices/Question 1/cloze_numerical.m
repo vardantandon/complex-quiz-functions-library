@@ -12,6 +12,9 @@
 function finalStr = cloze_numerical(answer, error, rightFeedback, wrongFeedback, dp, length)
     if nargin == 6
         lengthString = ['~%%0%%' num2str(10^length - 1) ':0'];
+        if 10^length - 1 - error  <= answer & answer <= 10^length - 1 + error
+            lengthString = ['~%%0%%' num2str((10^length)/2) ':0'];
+        end
         finalStr = strcat('{1:NUMERICAL:=', sprintf(strcat('%0.', num2str(dp), 'f'), answer), ':', num2str(error), lengthString, '#', rightFeedback, '!~*#', wrongFeedback, '}');
     elseif nargin == 5
         finalStr = strcat('{1:NUMERICAL:=', sprintf(strcat('%0.', num2str(dp), 'f'), answer), ':', num2str(error), '#', rightFeedback, '!~*#', wrongFeedback, '}');

@@ -6,7 +6,7 @@
       <text>Basic operations</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=165:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=159:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -21,7 +21,7 @@
       <text>Basic operations</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=164:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=-2066:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -36,7 +36,7 @@
       <text>Basic operations</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=1245:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=2484:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -51,7 +51,7 @@
       <text>Basic operations</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=2104:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=908:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -66,7 +66,7 @@
       <text>Basic operations</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=-2823:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Determinant of B ={1:NUMERICAL:=637:0.01~%0%9999:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
