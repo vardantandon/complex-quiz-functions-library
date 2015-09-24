@@ -1,7 +1,15 @@
-file=fopen('Question_2.xml','w'); 
-fprintf(file, quiz_start()); %xml initialization code
-for i=1:1:50
+%Matrices Question 2 - Matching types of matrices
+%Authored By: Vardan Tandon under supervision of Dr. Pilar Garcia Souto
+%UCL Department: Medical Physics and Bioengineering
 
+file=fopen('Question_2.xml','w'); 
+
+%xml initialization code
+fprintf(file, quiz_start()); 
+
+for i=1:1:100
+
+%Calculations
 x = [1,-1,-1];
 pos = randi(length(x));
 pos_1 = randi(length(x));
@@ -44,6 +52,7 @@ E = [y,0,0;z,g,0;e,l,j];%LT
 F = [0,c,p;0,0,k;0,0,0]; %SUT
 G = [0,0,0;i_1,0,0;w,v,0];%SLT
 
+%Feedback string joining
 feedbackString = strcat('<b>Symmetric Matrix</b> : A symmetric matrix is a square matrix which is symmetric about its leading diagonal (top left to bottom right).In other words the transpose of the matrix equals the matrix itself. <br><br>',...
 '<b>Skew Symmetric Matrix</b> : A skew symmetric matrix is a square matrix in which the leading diagonal entries equal to 0 and it follows the rule a<sub>ij</sub> = -a<sub>ji</sub>.In other words the negative transpose of the matrix equals the matrix itself. <br><br>',...
 '<b>Diagonal Matrix</b> : A diagonal matrix is a square matrix in which all entries other than the leading diagonal equal to 0. The leading diagonal entries may or may not be 0.<br><br>',...
@@ -52,6 +61,7 @@ feedbackString = strcat('<b>Symmetric Matrix</b> : A symmetric matrix is a squar
 '<b>Strictly Upper Triangular Matrix</b> : A strictly upper triangular matrix is an upper triangular matrix in which the leading diagonal entries equal to 0.<br><br> ',...
 '<b>Strictly Lower Triangular Matrix</b> : A strictly lower triangular matrix is a lower triangular matrix in which the leading diagonal entries equal to 0.<br><br> ');
 
+%Match Type question format
 fprintf(file,'  <!-- question: %i  -->', i);
     fprintf(file,'\n  <question type="matching">');
     fprintf(file,'\n    <name>');
@@ -114,5 +124,6 @@ fprintf(file,'  <!-- question: %i  -->', i);
 
 end
 
-fprintf(file, quiz_end()); %xml closing code
+%xml closing code
+fprintf(file, quiz_end()); 
 fclose(file);
