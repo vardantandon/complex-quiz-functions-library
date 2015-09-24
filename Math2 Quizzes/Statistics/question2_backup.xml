@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;62 N/mm2, and the standard deviation of the measured strength is&nbsp;14 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;62 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=79:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;78.35$$<br>Hence, the minimum number of tests is&nbsp;79.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;61 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;61 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=42:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;41.3$$<br>Hence, the minimum number of tests is&nbsp;42.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;66 N/mm2, and the standard deviation of the measured strength is&nbsp;8 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;66 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=23:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;22.58$$<br>Hence, the minimum number of tests is&nbsp;23.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;60 N/mm2, and the standard deviation of the measured strength is&nbsp;14 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6 N/mm2 (i.e. 10% of the average measured strength&nbsp;60 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=84:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;83.66$$<br>Hence, the minimum number of tests is&nbsp;84.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;62 N/mm2, and the standard deviation of the measured strength is&nbsp;13 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;62 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=68:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;67.56$$<br>Hence, the minimum number of tests is&nbsp;68.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;65 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;65 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=45:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;44.01$$<br>Hence, the minimum number of tests is&nbsp;45.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;55 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;55 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=62:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;61.47$$<br>Hence, the minimum number of tests is&nbsp;62.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;51 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;51 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=72:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;71.49$$<br>Hence, the minimum number of tests is&nbsp;72.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;63 N/mm2, and the standard deviation of the measured strength is&nbsp;12 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.3 N/mm2 (i.e. 10% of the average measured strength&nbsp;63 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=56:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;55.75$$<br>Hence, the minimum number of tests is&nbsp;56.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;68 N/mm2, and the standard deviation of the measured strength is&nbsp;14 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.8 N/mm2 (i.e. 10% of the average measured strength&nbsp;68 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=66:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;65.13$$<br>Hence, the minimum number of tests is&nbsp;66.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;66 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;66 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=43:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;42.68$$<br>Hence, the minimum number of tests is&nbsp;43.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;69 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.9 N/mm2 (i.e. 10% of the average measured strength&nbsp;69 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=40:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;39.05$$<br>Hence, the minimum number of tests is&nbsp;40.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;50 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5 N/mm2 (i.e. 10% of the average measured strength&nbsp;50 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=31:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;30.12$$<br>Hence, the minimum number of tests is&nbsp;31.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;68 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.8 N/mm2 (i.e. 10% of the average measured strength&nbsp;68 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=34:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;33.23$$<br>Hence, the minimum number of tests is&nbsp;34.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;67 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.7 N/mm2 (i.e. 10% of the average measured strength&nbsp;67 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=17:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;16.77$$<br>Hence, the minimum number of tests is&nbsp;17.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;61 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;61 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=50:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;49.97$$<br>Hence, the minimum number of tests is&nbsp;50.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;50 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5 N/mm2 (i.e. 10% of the average measured strength&nbsp;50 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=75:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;74.37$$<br>Hence, the minimum number of tests is&nbsp;75.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;57 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.7 N/mm2 (i.e. 10% of the average measured strength&nbsp;57 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=18:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;17.03$$<br>Hence, the minimum number of tests is&nbsp;18.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;60 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6 N/mm2 (i.e. 10% of the average measured strength&nbsp;60 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=21:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;20.92$$<br>Hence, the minimum number of tests is&nbsp;21.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;52 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;52 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=28:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;27.85$$<br>Hence, the minimum number of tests is&nbsp;28.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;53 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.3 N/mm2 (i.e. 10% of the average measured strength&nbsp;53 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=27:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;26.81$$<br>Hence, the minimum number of tests is&nbsp;27.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;50 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5 N/mm2 (i.e. 10% of the average measured strength&nbsp;50 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=75:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;74.37$$<br>Hence, the minimum number of tests is&nbsp;75.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;55 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;55 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=51:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;50.8$$<br>Hence, the minimum number of tests is&nbsp;51.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;64 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.4 N/mm2 (i.e. 10% of the average measured strength&nbsp;64 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=38:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;37.52$$<br>Hence, the minimum number of tests is&nbsp;38.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;61 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;61 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=42:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;41.3$$<br>Hence, the minimum number of tests is&nbsp;42.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;52 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;52 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=57:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;56.83$$<br>Hence, the minimum number of tests is&nbsp;57.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;67 N/mm2, and the standard deviation of the measured strength is&nbsp;13 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.7 N/mm2 (i.e. 10% of the average measured strength&nbsp;67 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=58:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;57.85$$<br>Hence, the minimum number of tests is&nbsp;58.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;55 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;55 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=25:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;24.89$$<br>Hence, the minimum number of tests is&nbsp;25.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;61 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;61 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=50:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;49.97$$<br>Hence, the minimum number of tests is&nbsp;50.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;58 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.8 N/mm2 (i.e. 10% of the average measured strength&nbsp;58 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=23:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;22.38$$<br>Hence, the minimum number of tests is&nbsp;23.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;69 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.9 N/mm2 (i.e. 10% of the average measured strength&nbsp;69 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=12:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;11.62$$<br>Hence, the minimum number of tests is&nbsp;12.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;52 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;52 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=28:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;27.85$$<br>Hence, the minimum number of tests is&nbsp;28.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;53 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.3 N/mm2 (i.e. 10% of the average measured strength&nbsp;53 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=67:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;66.19$$<br>Hence, the minimum number of tests is&nbsp;67.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;62 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;62 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=15:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;14.39$$<br>Hence, the minimum number of tests is&nbsp;15.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;69 N/mm2, and the standard deviation of the measured strength is&nbsp;12 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.9 N/mm2 (i.e. 10% of the average measured strength&nbsp;69 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=47:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;46.48$$<br>Hence, the minimum number of tests is&nbsp;47.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;65 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;65 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=14:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;13.09$$<br>Hence, the minimum number of tests is&nbsp;14.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;68 N/mm2, and the standard deviation of the measured strength is&nbsp;14 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.8 N/mm2 (i.e. 10% of the average measured strength&nbsp;68 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=66:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;65.13$$<br>Hence, the minimum number of tests is&nbsp;66.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;70 N/mm2, and the standard deviation of the measured strength is&nbsp;13 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;7 N/mm2 (i.e. 10% of the average measured strength&nbsp;70 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=53:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;53$$<br>Hence, the minimum number of tests is&nbsp;53.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;66 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;66 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=36:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;35.28$$<br>Hence, the minimum number of tests is&nbsp;36.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:40  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;53 N/mm2, and the standard deviation of the measured strength is&nbsp;9 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.3 N/mm2 (i.e. 10% of the average measured strength&nbsp;53 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=45:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;44.31$$<br>Hence, the minimum number of tests is&nbsp;45.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;52 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;52 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=21:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;20.46$$<br>Hence, the minimum number of tests is&nbsp;21.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:42  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;69 N/mm2, and the standard deviation of the measured strength is&nbsp;8 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.9 N/mm2 (i.e. 10% of the average measured strength&nbsp;69 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=21:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;20.66$$<br>Hence, the minimum number of tests is&nbsp;21.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;56 N/mm2, and the standard deviation of the measured strength is&nbsp;8 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;56 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=32:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;31.36$$<br>Hence, the minimum number of tests is&nbsp;32.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:44  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;59 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.9 N/mm2 (i.e. 10% of the average measured strength&nbsp;59 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=54:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;53.41$$<br>Hence, the minimum number of tests is&nbsp;54.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;50 N/mm2, and the standard deviation of the measured strength is&nbsp;13 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5 N/mm2 (i.e. 10% of the average measured strength&nbsp;50 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=104:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;103.88$$<br>Hence, the minimum number of tests is&nbsp;104.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;61 N/mm2, and the standard deviation of the measured strength is&nbsp;13 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;61 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=70:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;69.79$$<br>Hence, the minimum number of tests is&nbsp;70.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;57 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.7 N/mm2 (i.e. 10% of the average measured strength&nbsp;57 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=48:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;47.3$$<br>Hence, the minimum number of tests is&nbsp;48.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;51 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;51 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=29:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;28.95$$<br>Hence, the minimum number of tests is&nbsp;29.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;63 N/mm2, and the standard deviation of the measured strength is&nbsp;8 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.3 N/mm2 (i.e. 10% of the average measured strength&nbsp;63 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=25:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;24.78$$<br>Hence, the minimum number of tests is&nbsp;25.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;68 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.8 N/mm2 (i.e. 10% of the average measured strength&nbsp;68 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=17:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;16.28$$<br>Hence, the minimum number of tests is&nbsp;17.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;70 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;7 N/mm2 (i.e. 10% of the average measured strength&nbsp;70 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=32:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;31.36$$<br>Hence, the minimum number of tests is&nbsp;32.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;64 N/mm2, and the standard deviation of the measured strength is&nbsp;14 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.4 N/mm2 (i.e. 10% of the average measured strength&nbsp;64 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=74:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;73.53$$<br>Hence, the minimum number of tests is&nbsp;74.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;56 N/mm2, and the standard deviation of the measured strength is&nbsp;9 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;56 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=40:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;39.69$$<br>Hence, the minimum number of tests is&nbsp;40.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:54  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;59 N/mm2, and the standard deviation of the measured strength is&nbsp;12 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.9 N/mm2 (i.e. 10% of the average measured strength&nbsp;59 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=64:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;63.57$$<br>Hence, the minimum number of tests is&nbsp;64.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;67 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.7 N/mm2 (i.e. 10% of the average measured strength&nbsp;67 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=13:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;12.32$$<br>Hence, the minimum number of tests is&nbsp;13.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:56  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;53 N/mm2, and the standard deviation of the measured strength is&nbsp;9 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.3 N/mm2 (i.e. 10% of the average measured strength&nbsp;53 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=45:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;44.31$$<br>Hence, the minimum number of tests is&nbsp;45.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:57  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;51 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;51 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=60:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;59.08$$<br>Hence, the minimum number of tests is&nbsp;60.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;57 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.7 N/mm2 (i.e. 10% of the average measured strength&nbsp;57 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=24:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;23.17$$<br>Hence, the minimum number of tests is&nbsp;24.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;54 N/mm2, and the standard deviation of the measured strength is&nbsp;14 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.4 N/mm2 (i.e. 10% of the average measured strength&nbsp;54 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=104:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;103.29$$<br>Hence, the minimum number of tests is&nbsp;104.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;64 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.4 N/mm2 (i.e. 10% of the average measured strength&nbsp;64 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=38:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;37.52$$<br>Hence, the minimum number of tests is&nbsp;38.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;69 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.9 N/mm2 (i.e. 10% of the average measured strength&nbsp;69 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=12:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;11.62$$<br>Hence, the minimum number of tests is&nbsp;12.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;65 N/mm2, and the standard deviation of the measured strength is&nbsp;12 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;65 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=53:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;52.37$$<br>Hence, the minimum number of tests is&nbsp;53.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;61 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;61 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=21:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;20.24$$<br>Hence, the minimum number of tests is&nbsp;21.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;62 N/mm2, and the standard deviation of the measured strength is&nbsp;8 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;62 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=26:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;25.58$$<br>Hence, the minimum number of tests is&nbsp;26.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;52 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;52 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=28:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;27.85$$<br>Hence, the minimum number of tests is&nbsp;28.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;68 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.8 N/mm2 (i.e. 10% of the average measured strength&nbsp;68 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=12:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;11.96$$<br>Hence, the minimum number of tests is&nbsp;12.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;55 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;55 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=19:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;18.29$$<br>Hence, the minimum number of tests is&nbsp;19.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;59 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.9 N/mm2 (i.e. 10% of the average measured strength&nbsp;59 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=16:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;15.89$$<br>Hence, the minimum number of tests is&nbsp;16.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;68 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.8 N/mm2 (i.e. 10% of the average measured strength&nbsp;68 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=17:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;16.28$$<br>Hence, the minimum number of tests is&nbsp;17.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;51 N/mm2, and the standard deviation of the measured strength is&nbsp;8 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;51 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=38:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;37.81$$<br>Hence, the minimum number of tests is&nbsp;38.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;59 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.9 N/mm2 (i.e. 10% of the average measured strength&nbsp;59 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=16:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;15.89$$<br>Hence, the minimum number of tests is&nbsp;16.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;70 N/mm2, and the standard deviation of the measured strength is&nbsp;8 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;7 N/mm2 (i.e. 10% of the average measured strength&nbsp;70 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=21:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;20.07$$<br>Hence, the minimum number of tests is&nbsp;21.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;56 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;56 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=18:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;17.64$$<br>Hence, the minimum number of tests is&nbsp;18.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;56 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;56 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=18:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;17.64$$<br>Hence, the minimum number of tests is&nbsp;18.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;60 N/mm2, and the standard deviation of the measured strength is&nbsp;12 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6 N/mm2 (i.e. 10% of the average measured strength&nbsp;60 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=62:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;61.47$$<br>Hence, the minimum number of tests is&nbsp;62.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;63 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.3 N/mm2 (i.e. 10% of the average measured strength&nbsp;63 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=14:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;13.94$$<br>Hence, the minimum number of tests is&nbsp;14.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;51 N/mm2, and the standard deviation of the measured strength is&nbsp;12 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;51 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=86:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;85.07$$<br>Hence, the minimum number of tests is&nbsp;86.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;69 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.9 N/mm2 (i.e. 10% of the average measured strength&nbsp;69 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=33:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;32.28$$<br>Hence, the minimum number of tests is&nbsp;33.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;52 N/mm2, and the standard deviation of the measured strength is&nbsp;13 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;52 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=97:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;96.04$$<br>Hence, the minimum number of tests is&nbsp;97.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;57 N/mm2, and the standard deviation of the measured strength is&nbsp;8 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.7 N/mm2 (i.e. 10% of the average measured strength&nbsp;57 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=31:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;30.27$$<br>Hence, the minimum number of tests is&nbsp;31.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;65 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;65 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=14:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;13.09$$<br>Hence, the minimum number of tests is&nbsp;14.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;51 N/mm2, and the standard deviation of the measured strength is&nbsp;12 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;51 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=86:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;85.07$$<br>Hence, the minimum number of tests is&nbsp;86.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;62 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;62 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=40:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;39.98$$<br>Hence, the minimum number of tests is&nbsp;40.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;65 N/mm2, and the standard deviation of the measured strength is&nbsp;12 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;65 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=53:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;52.37$$<br>Hence, the minimum number of tests is&nbsp;53.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;66 N/mm2, and the standard deviation of the measured strength is&nbsp;8 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;66 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=23:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;22.58$$<br>Hence, the minimum number of tests is&nbsp;23.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;64 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.4 N/mm2 (i.e. 10% of the average measured strength&nbsp;64 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=46:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;45.39$$<br>Hence, the minimum number of tests is&nbsp;46.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;58 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.8 N/mm2 (i.e. 10% of the average measured strength&nbsp;58 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=17:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;16.44$$<br>Hence, the minimum number of tests is&nbsp;17.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;66 N/mm2, and the standard deviation of the measured strength is&nbsp;9 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;66 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=29:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;28.57$$<br>Hence, the minimum number of tests is&nbsp;29.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;62 N/mm2, and the standard deviation of the measured strength is&nbsp;12 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;62 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=58:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;57.56$$<br>Hence, the minimum number of tests is&nbsp;58.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;52 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;52 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=28:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;27.85$$<br>Hence, the minimum number of tests is&nbsp;28.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:91  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;61 N/mm2, and the standard deviation of the measured strength is&nbsp;10 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;61 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=42:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;41.3$$<br>Hence, the minimum number of tests is&nbsp;42.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:92  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;68 N/mm2, and the standard deviation of the measured strength is&nbsp;13 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.8 N/mm2 (i.e. 10% of the average measured strength&nbsp;68 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=57:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;56.16$$<br>Hence, the minimum number of tests is&nbsp;57.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:93  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;65 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;65 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=14:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;13.09$$<br>Hence, the minimum number of tests is&nbsp;14.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:94  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;51 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.1 N/mm2 (i.e. 10% of the average measured strength&nbsp;51 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=22:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;21.27$$<br>Hence, the minimum number of tests is&nbsp;22.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:95  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;66 N/mm2, and the standard deviation of the measured strength is&nbsp;14 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;66 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=70:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;69.14$$<br>Hence, the minimum number of tests is&nbsp;70.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:96  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;64 N/mm2, and the standard deviation of the measured strength is&nbsp;7 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.4 N/mm2 (i.e. 10% of the average measured strength&nbsp;64 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=19:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;18.38$$<br>Hence, the minimum number of tests is&nbsp;19.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:97  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;65 N/mm2, and the standard deviation of the measured strength is&nbsp;6 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;65 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=14:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;13.09$$<br>Hence, the minimum number of tests is&nbsp;14.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:98  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;52 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.2 N/mm2 (i.e. 10% of the average measured strength&nbsp;52 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=69:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;68.76$$<br>Hence, the minimum number of tests is&nbsp;69.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:99  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;56 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;5.6 N/mm2 (i.e. 10% of the average measured strength&nbsp;56 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=60:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;59.29$$<br>Hence, the minimum number of tests is&nbsp;60.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:100  -->
+  <question type="cloze">
+    <name>
+      <text>Mean Speed range</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>2.	Based on a number of strength tests, it is found from the test results that the average strength of a material is&nbsp;65 N/mm2, and the standard deviation of the measured strength is&nbsp;11 N/mm2.<br><br>Assuming the strength follows normal distribution, determine the minimum number of tests we would have to perform such that we can construct a 95% confidence interval on the expected strength of the material with a width less than&nbsp;6.5 N/mm2 (i.e. 10% of the average measured strength&nbsp;65 N/mm2).<br><br><br>Answer:<br>Minimum number of tests required:&nbsp;{1:NUMERICAL:=45:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The 95% confidence interval on the true strength &mu; can then be determined as:<br>$$ \small \bar{X} \pm 1.96 \frac{\sigma}{\sqrt{n}} $$<br>Hence, the width of the 95% confidence interval is:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} $$<br>And it is required that:<br>$$ \small 2(1.96) \frac{\sigma}{\sqrt{n}} \leq 0.1 \bar{X}$$<br>$$ \small \Rightarrow n \geq \left( \frac{2(1.96)\sigma}{0.1\bar{X}} \right)^2 =&nbsp;44.01$$<br>Hence, the minimum number of tests is&nbsp;45.</p>]]></text>
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+</quiz>

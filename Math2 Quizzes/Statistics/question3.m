@@ -1,11 +1,11 @@
-%Last Updated: 20/07/2015
+%Last Updated: 24/07/2015
 %Created By: Avinash Javaji under supervision of Dr. Pilar Garcia Souto
 %UCL Department: Medical Physics and Bioengineering
 
 file=fopen('question3.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
 
-for i=1:1:10
+for i=1:1:100
     
     %Calculations
     
@@ -59,13 +59,13 @@ for i=1:1:10
     questionString = strcat(questionString, '<br><br>', tableString);
     questionString = strcat(questionString, '<br><br>Answer:<br>t* =&nbsp;', numString, '<br>The strength of the concrete produced by the two labs are:<br>', mcqString);
     
-    feedbackString = strcat('We set up a ', twoTailString, '-tail test of hypotheses where the hypotheses are formulated as:');
+    feedbackString = strcat('We set up a&nbsp;', twoTailString, '-tail test of hypotheses where the hypotheses are formulated as:');
     feedbackString = strcat(feedbackString, '<br><br>Null hypothesis (H<sub>o</sub>): the strengths of the concrete produced by the two labs are equal ');
     feedbackString = strcat(feedbackString, '<br>Alt. hypothesis (H<sub>a</sub>): the strengths of the concrete produced by the two labs are not equal ');
-    feedbackString = strcat(feedbackString, '<br><br>Mean of concrete produced by Lab 1: $$ \\small \\bar{X}_1 =&nbsp;', num2str(round(mean1,2)), ' $$');
-    feedbackString = strcat(feedbackString, '<br>Mean of concrete produced by Lab 2: $$ \\small \\bar{X}_2 =&nbsp;', num2str(round(mean2,2)), ' $$');
-    feedbackString = strcat(feedbackString, '<br><br>Standard dev. of concrete produced by Lab 1: $$ \\small \\sigma_1 =&nbsp;', num2str(round(std1,2)), ' $$');
-    feedbackString = strcat(feedbackString, '<br>Standard dev. of concrete produced by Lab 2: $$ \\small \\sigma_2 =&nbsp;', num2str(round(std2,2)), ' $$');
+    feedbackString = strcat(feedbackString, '<br><br>Mean strength of concrete produced by Lab 1: $$ \\small \\bar{X}_1 =&nbsp;', num2str(round(mean1,2)), ' $$');
+    feedbackString = strcat(feedbackString, '<br>Mean strength of concrete produced by Lab 2: $$ \\small \\bar{X}_2 =&nbsp;', num2str(round(mean2,2)), ' $$');
+    feedbackString = strcat(feedbackString, '<br><br>Standard dev. of strength of concrete produced by Lab 1: $$ \\small \\sigma_1 =&nbsp;', num2str(round(std1,2)), ' $$');
+    feedbackString = strcat(feedbackString, '<br>Standard dev. of strength of concrete produced by Lab 2: $$ \\small \\sigma_2 =&nbsp;', num2str(round(std2,2)), ' $$');
     feedbackString = strcat(feedbackString, '<br><br>Sample size $$ \\small n_1 = n_2 =&nbsp;', num2str(n), ' $$');
     feedbackString = strcat(feedbackString, '<br><br>Calculate the&nbsp;', twoTailString, '-sample <i>t</i> statistics as:');
     feedbackString = strcat(feedbackString, '<br>$$ \\small t^* = \\frac{\\bar{X}_1 - \\bar{X}_2}{\\sqrt{\\frac{{\\sigma_1}^2}{n_1} + \\frac{{\\sigma_2}^2}{n_2}}} =&nbsp;', num2str(round(tstar,2)), '$$');
