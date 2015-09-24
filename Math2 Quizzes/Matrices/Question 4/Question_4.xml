@@ -1,558 +1,978 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quiz>
-  <!-- question:1  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &-4 &-2 \\x &2 &2 \\3 &x &-4\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-6.7016:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-0.29844:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &-4 &-2 \\x &2 &2 \\3 &x &-4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-1((-8) - (2x)) - (-4)((-4x) - (6) + (-2)(x^{2} - (6)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}-14x-4 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-6.7016$$ <br> $$\small x_{2} =-0.29844$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:2  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &1 &-4 \\-5 &1 &x \\x &-2 &-1\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-7:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=4:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &1 &-4 \\-5 &1 &x \\x &-2 &-1\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-1((-1) - (-2x)) - (1)((5) - x^{2}) + (-4)((10) - (1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\smallx^{2}+3x-28 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-7$$ <br> $$\small x_{2} =4$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:3  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}1 &-1 &-2 \\x &-4 &1 \\1 &x &-3\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-2.5811:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=0.58114:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}1 &-1 &-2 \\x &-4 &1 \\1 &x &-3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small1((12) - (1x)) - (-1)((-3x) - (1) + (-2)(x^{2} - (-4)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}-4x+3 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-2.5811$$ <br> $$\small x_{2} =0.58114$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:4  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-4 &-4 &3 \\-3 &x &1 \\4 &-1 &x\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-5.5:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-0.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-4 &3 \\-3 &x &1 \\4 &-1 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-4(x^{2} - (-1)) - (-4)((-3x) - (4)) + (3)((-1) - (4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}-24x-11 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5.5$$ <br> $$\small x_{2} =-0.5$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:5  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}3 &-1 &-1 \\-5 &-2 &x \\x &-3 &1\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-9.1521:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=4.1521:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}3 &-1 &-1 \\-5 &-2 &x \\x &-3 &1\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small3((-2) - (-3x)) - (-1)((-5) - x^{2}) + (-1)((15) - (-2x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-x^{2}-5x+38 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-9.1521$$ <br> $$\small x_{2} =4.1521$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:6  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-5 &-5 &5 \\x &-2 &-1 \\2 &x &-5\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-0.60555:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=6.6056:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-5 &-5 &5 \\x &-2 &-1 \\2 &x &-5\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-5((10) - (-1x)) - (-5)((-5x) - (-2) + (5)(x^{2} - (-4)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small5x^{2}-30x-20 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-0.60555$$ <br> $$\small x_{2} =6.6056$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:8  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &-3 &2 \\x &-2 &3 \\2 &x &2\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-5.0895:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=0.58945:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &-3 &2 \\x &-2 &3 \\2 &x &2\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-1((-4) - (3x)) - (-3)((2x) - (6) + (2)(x^{2} - (-4)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small2x^{2}+9x-6 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5.0895$$ <br> $$\small x_{2} =0.58945$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:9  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-3 &-5 &-2 \\-4 &x &-2 \\-3 &-4 &x\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-6.8054:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-1.8613:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &-5 &-2 \\-4 &x &-2 \\-3 &-4 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-3(x^{2} - (8)) - (-5)((-4x) - (6)) + (-2)((8) - (-3x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-3x^{2}-26x-38 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-6.8054$$ <br> $$\small x_{2} =-1.8613$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:10  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &2 &5 \\x &-5 &3 \\-3 &x &2\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-3.9755:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=4.1755:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &2 &5 \\x &-5 &3 \\-3 &x &2\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-1((-10) - (3x)) - (2)((2x) - (-9) + (5)(x^{2} - (15)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small5x^{2}-x-83 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-3.9755$$ <br> $$\small x_{2} =4.1755$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:12  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}2 &-2 &-5 \\-3 &-2 &x \\x &-2 &4\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-12.2621:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.2621:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}2 &-2 &-5 \\-3 &-2 &x \\x &-2 &4\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small2((-8) - (-2x)) - (-2)((-12) - x^{2}) + (-5)((6) - (-2x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}-18x+80 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-12.2621$$ <br> $$\small x_{2} =3.2621$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:13  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-3 &-2 &4 \\-4 &-3 &x \\x &2 &-5\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-7.1969:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=5.6969:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &-2 &4 \\-4 &-3 &x \\x &2 &-5\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-3((15) - (2x)) - (-2)((20) - x^{2}) + (4)((-8) - (-3x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}-3x+82 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-7.1969$$ <br> $$\small x_{2} =5.6969$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:16  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-1 &5 \\-4 &-4 &x \\x &3 &-4\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-8.9545:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=12.9545:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-1 &5 \\-4 &-4 &x \\x &3 &-4\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-4((16) - (3x)) - (-1)((16) - x^{2}) + (5)((-12) - (-4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-1x^{2}+4x+116 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-8.9545$$ <br> $$\small x_{2} =12.9545$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:17  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &1 &-5 \\x &3 &-4 \\1 &x &-1\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-2.6723:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=1.2723:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &1 &-5 \\x &3 &-4 \\1 &x &-1\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-2((-3) - (-4x)) - (1)((-1x) - (-4) + (-5)(x^{2} - (3)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-5x^{2}-7x+17 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-2.6723$$ <br> $$\small x_{2} =1.2723$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:18  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}3 &-5 &-5 \\-2 &-4 &x \\x &-1 &3\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-7.237:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=1.437:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}3 &-5 &-5 \\-2 &-4 &x \\x &-1 &3\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small3((-12) - (-1x)) - (-5)((-6) - x^{2}) + (-5)((2) - (-4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-5x^{2}-29x+52 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-7.237$$ <br> $$\small x_{2} =1.437$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:19  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}1 &-4 &2 \\1 &x &-3 \\-1 &-4 &x\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-9.4031:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.4031:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}1 &-4 &2 \\1 &x &-3 \\-1 &-4 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small1(x^{2} - (12)) - (-4)((1x) - (3)) + (2)((12) - (-1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\smallx^{2}+6x-32 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-9.4031$$ <br> $$\small x_{2} =3.4031$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:21  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}2 &1 &5 \\-3 &x &-4 \\-5 &-2 &x\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-12.6569:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-1.3431:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}2 &1 &5 \\-3 &x &-4 \\-5 &-2 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small2(x^{2} - (8)) - (1)((-3x) - (20)) + (5)((8) - (-5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small2x^{2}+28x+34 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-12.6569$$ <br> $$\small x_{2} =-1.3431$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:22  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-5 &-1 \\x &1 &5 \\4 &x &2\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=4:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=26:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-5 &-1 \\x &1 &5 \\4 &x &2\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-4((2) - (5x)) - (-5)((2x) - (20) + (-1)(x^{2} - (4)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-x^{2}+30x-104 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =4$$ <br> $$\small x_{2} =26$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:24  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-5 &-3 &5 \\x &-5 &1 \\-4 &x &-4\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-5.4717:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=6.8717:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-5 &-3 &5 \\x &-5 &1 \\-4 &x &-4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-5((20) - (1x)) - (-3)((-4x) - (-4) + (5)(x^{2} - (20)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small5x^{2}-7x-188 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5.4717$$ <br> $$\small x_{2} =6.8717$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:25  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &-4 &-4 \\-3 &-5 &x \\x &-3 &5\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-6.75:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &-4 &-4 \\-3 &-5 &x \\x &-3 &5\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-1((-25) - (-3x)) - (-4)((-15) - x^{2}) + (-4)((9) - (-5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}-15x+81 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-6.75$$ <br> $$\small x_{2} =3$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:26  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}3 &3 &-3 \\-5 &3 &x \\x &-2 &-2\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-8.1789:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.1789:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}3 &3 &-3 \\-5 &3 &x \\x &-2 &-2\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small3((-6) - (-2x)) - (3)((10) - x^{2}) + (-3)((10) - (3x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small3x^{2}+15x-78 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-8.1789$$ <br> $$\small x_{2} =3.1789$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:27  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-3 &4 &-3 \\2 &-1 &x \\x &4 &-4\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=0.28893:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.4611:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &4 &-3 \\2 &-1 &x \\x &4 &-4\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-3((4) - (4x)) - (4)((-8) - x^{2}) + (-3)((8) - (-1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small4x^{2}-15x+4 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =0.28893$$ <br> $$\small x_{2} =3.4611$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:28  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-4 &-3 &-4 \\-1 &x &1 \\-1 &5 &x\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-4.2685:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2.5185:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-3 &-4 \\-1 &x &1 \\-1 &5 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-4(x^{2} - (5)) - (-3)((-1x) - (-1)) + (-4)((5) - (-1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}-7x+43 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-4.2685$$ <br> $$\small x_{2} =2.5185$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:30  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}3 &-3 &5 \\x &3 &-4 \\-4 &x &-1\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-1.3583:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-0.44174:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}3 &-3 &5 \\x &3 &-4 \\-4 &x &-1\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small3((-3) - (-4x)) - (-3)((-1x) - (16) + (5)(x^{2} - (-12)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small5x^{2}+9x+3 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-1.3583$$ <br> $$\small x_{2} =-0.44174$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:32  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-3 &1 &2 \\2 &x &-5 \\-4 &-5 &x\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-4.099:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=6.099:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &1 &2 \\2 &x &-5 \\-4 &-5 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-3(x^{2} - (25)) - (1)((2x) - (20)) + (2)((25) - (-4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-3x^{2}+6x+75 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-4.099$$ <br> $$\small x_{2} =6.099$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:33  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-3 &-3 &-5 \\4 &x &-4 \\-1 &-5 &x\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-5.9533:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=8.2867:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &-3 &-5 \\4 &x &-4 \\-1 &-5 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-3(x^{2} - (20)) - (-3)((4x) - (4)) + (-5)((20) - (-1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-3x^{2}+7x+148 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5.9533$$ <br> $$\small x_{2} =8.2867$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:34  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &-1 &-4 \\x &2 &3 \\-1 &x &-4\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-1.4271:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=1.9271:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &-1 &-4 \\x &2 &3 \\-1 &x &-4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-2((-8) - (3x)) - (-1)((-4x) - (-3) + (-4)(x^{2} - (-2)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}+2x+11 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-1.4271$$ <br> $$\small x_{2} =1.9271$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:36  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-5 &-4 &5 \\x &-2 &1 \\-1 &x &-5\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-2.1674:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=5.1674:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-5 &-4 &5 \\x &-2 &1 \\-1 &x &-5\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-5((10) - (1x)) - (-4)((-5x) - (-1) + (5)(x^{2} - (2)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small5x^{2}-15x-56 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-2.1674$$ <br> $$\small x_{2} =5.1674$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:37  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-3 &-4 \\-1 &-4 &x \\x &1 &-2\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-8.2032:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=0.20317:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-3 &-4 \\-1 &-4 &x \\x &1 &-2\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-4((8) - (1x)) - (-3)((2) - x^{2}) + (-4)((-1) - (-4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-3x^{2}-24x+5 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-8.2032$$ <br> $$\small x_{2} =0.20317$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:39  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}2 &-1 &5 \\-5 &x &-1 \\-5 &-2 &x\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-7.1213:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-2.8787:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}2 &-1 &5 \\-5 &x &-1 \\-5 &-2 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small2(x^{2} - (2)) - (-1)((-5x) - (5)) + (5)((2) - (-5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small2x^{2}+20x+41 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-7.1213$$ <br> $$\small x_{2} =-2.8787$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:40  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-3 &5 &5 \\x &2 &4 \\-5 &x &-3\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-6.4:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=1:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &5 &5 \\x &2 &4 \\-5 &x &-3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-3((-6) - (4x)) - (5)((-3x) - (-20) + (5)(x^{2} - (-10)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small5x^{2}+27x-32 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-6.4$$ <br> $$\small x_{2} =1$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:41  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}1 &-2 &-4 \\-4 &3 &x \\x &-2 &-2\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=2.382:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=4.618:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}1 &-2 &-4 \\-4 &3 &x \\x &-2 &-2\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small1((-6) - (-2x)) - (-2)((8) - x^{2}) + (-4)((8) - (3x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}+14x-22 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =2.382$$ <br> $$\small x_{2} =4.618$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:44  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-3 &-1 &2 \\x &4 &-3 \\-2 &x &2\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-1.4221:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=4.9221:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &-1 &2 \\x &4 &-3 \\-2 &x &2\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-3((8) - (-3x)) - (-1)((2x) - (6) + (2)(x^{2} - (-8)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small2x^{2}-7x-14 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-1.4221$$ <br> $$\small x_{2} =4.9221$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:45  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-2 &-1 \\-5 &-1 &x \\x &4 &4\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=0.27689:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=7.2231:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-2 &-1 \\-5 &-1 &x \\x &4 &4\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-4((-4) - (4x)) - (-2)((-20) - x^{2}) + (-1)((-20) - (-1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-x^{2}+15x-4 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =0.27689$$ <br> $$\small x_{2} =7.2231$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:46  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}1 &-1 &-1 \\x &-2 &-2 \\-5 &x &-1\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-1:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}1 &-1 &-1 \\x &-2 &-2 \\-5 &x &-1\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small1((2) - (-2x)) - (-1)((-1x) - (10) + (-1)(x^{2} - (10)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-x^{2}+x+2 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-1$$ <br> $$\small x_{2} =2$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:48  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-1 &4 &-2 \\2 &x &3 \\-3 &1 &x\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-10.4641:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-3.5359:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &4 &-2 \\2 &x &3 \\-3 &1 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-1(x^{2} - (3)) - (4)((2x) - (-9)) + (-2)((3) - (-3x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-1x^{2}-14x-37 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-10.4641$$ <br> $$\small x_{2} =-3.5359$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:49  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}4 &-1 &-1 \\x &-5 &-3 \\-2 &x &-4\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-6:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=14:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}4 &-1 &-1 \\x &-5 &-3 \\-2 &x &-4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small4((20) - (-3x)) - (-1)((-4x) - (6) + (-1)(x^{2} - (10)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-x^{2}+8x+84 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-6$$ <br> $$\small x_{2} =14$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:50  -->
-  <question type="cloze">
-    <name>
-      <text>Inverse matrix equations</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}5 &-4 &-4 \\x &-5 &2 \\2 &x &-4\end{pmatrix}\:$$ <br><br>[Express the answers in increasing order such that x<sub>1</sub> < x<sub>2</sub>]<br><br>x<sub>1</sub> ={1:NUMERICAL:=-7.8935:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=1.3935:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}5 &-4 &-4 \\x &-5 &2 \\2 &x &-4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small5((20) - (2x)) - (-4)((-4x) - (4) + (-4)(x^{2} - (-10)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}-26x+44 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-7.8935$$ <br> $$\small x_{2} =1.3935$$</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
+    <!-- question:3  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &1 &3 \\3 &-5 &x \\x &-5 &-3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-14.544:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2.544:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &1 &3 \\3 &-5 &x \\x &-5 &-3\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-1((15) - (-5x)) - (1)((-9) - x^{2}) + (3)((-15) - (-5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\smallx^{2}+12x-37 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-14.544$$ <br> $$\small x_{2} =2.544$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:4  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-4 &3 \\x &-1 &4 \\-4 &x &3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-5.3333:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-4:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-4 &3 \\x &-1 &4 \\-4 &x &3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-4((-3) - (4x)) - (-4)((3x) - (-16) + (3)(x^{2} - (4)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small3x^{2}+28x+64 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5.3333$$ <br> $$\small x_{2} =-4$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:5  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-5 &-1 &-3 \\2 &4 &x \\x &-4 &-1\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-6:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=13:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-5 &-1 &-3 \\2 &4 &x \\x &-4 &-1\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-5((-4) - (-4x)) - (-1)((-2) - x^{2}) + (-3)((-8) - (4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-1x^{2}+7x+78 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-6$$ <br> $$\small x_{2} =13$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:6  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-3 &-2 &-5 \\-1 &2 &x \\x &-1 &-1\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-0.386:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.886:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &-2 &-5 \\-1 &2 &x \\x &-1 &-1\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-3((-2) - (-1x)) - (-2)((1) - x^{2}) + (-5)((1) - (2x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}+7x+3 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-0.386$$ <br> $$\small x_{2} =3.886$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:9  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-2 &-2 \\x &-3 &-4 \\-1 &x &-2\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-8.4641:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-1.5359:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-2 &-2 \\x &-3 &-4 \\-1 &x &-2\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-4((6) - (-4x)) - (-2)((-2x) - (4) + (-2)(x^{2} - (3)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}-20x-26 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-8.4641$$ <br> $$\small x_{2} =-1.5359$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:10  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-5 &3 &-5 \\x &5 &-1 \\-1 &x &-3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-2.8802:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.6802:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-5 &3 &-5 \\x &5 &-1 \\-1 &x &-3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-5((-15) - (-1x)) - (3)((-3x) - (1) + (-5)(x^{2} - (-5)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-5x^{2}+4x+53 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-2.8802$$ <br> $$\small x_{2} =3.6802$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:11  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}5 &-3 &-5 \\x &-3 &-3 \\5 &x &-4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-2.1678:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2.7678:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}5 &-3 &-5 \\x &-3 &-3 \\5 &x &-4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small5((12) - (-3x)) - (-3)((-4x) - (-15) + (-5)(x^{2} - (-15)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-5x^{2}+3x+30 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-2.1678$$ <br> $$\small x_{2} =2.7678$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:12  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}4 &-3 &-5 \\x &4 &4 \\5 &x &3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-4.9532:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.5532:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}4 &-3 &-5 \\x &4 &4 \\5 &x &3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small4((12) - (4x)) - (-3)((3x) - (20) + (-5)(x^{2} - (20)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-5x^{2}-7x+88 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-4.9532$$ <br> $$\small x_{2} =3.5532$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:13  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}4 &-5 &-3 \\-2 &-2 &x \\x &-2 &5\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-7.0677:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=1.8677:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}4 &-5 &-3 \\-2 &-2 &x \\x &-2 &5\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small4((-10) - (-2x)) - (-5)((-10) - x^{2}) + (-3)((4) - (-2x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-5x^{2}-26x+66 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-7.0677$$ <br> $$\small x_{2} =1.8677$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:14  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}5 &-2 &-3 \\x &-4 &-5 \\-1 &x &-1\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-0.86004:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=8.5267:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}5 &-2 &-3 \\x &-4 &-5 \\-1 &x &-1\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small5((4) - (-5x)) - (-2)((-1x) - (5) + (-3)(x^{2} - (4)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-3x^{2}+23x+22 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-0.86004$$ <br> $$\small x_{2} =8.5267$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:15  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-4 &-3 &4 \\-4 &x &-4 \\-4 &-2 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-1.5616:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2.5616:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-3 &4 \\-4 &x &-4 \\-4 &-2 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-4(x^{2} - (8)) - (-3)((-4x) - (16)) + (4)((8) - (-4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}+4x+16 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-1.5616$$ <br> $$\small x_{2} =2.5616$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:16  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &-2 &1 \\x &-3 &1 \\-5 &x &-5\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-3.1414:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=11.1414:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &-2 &1 \\x &-3 &1 \\-5 &x &-5\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-2((15) - (1x)) - (-2)((-5x) - (-5) + (1)(x^{2} - (15)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\smallx^{2}-8x-35 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-3.1414$$ <br> $$\small x_{2} =11.1414$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:17  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-1 &-1 &3 \\-5 &x &-2 \\-1 &-1 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-5:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &-1 &3 \\-5 &x &-2 \\-1 &-1 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-1(x^{2} - (2)) - (-1)((-5x) - (2)) + (3)((2) - (-1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-1x^{2}-2x+15 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5$$ <br> $$\small x_{2} =3$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:18  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &4 &-1 \\x &2 &-2 \\5 &x &-3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=4:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=6:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &4 &-1 \\x &2 &-2 \\5 &x &-3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-1((-6) - (-2x)) - (4)((-3x) - (-10) + (-1)(x^{2} - (10)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-x^{2}+10x-24 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =4$$ <br> $$\small x_{2} =6$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:21  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}1 &4 &1 \\x &5 &-5 \\-4 &x &-5\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-21.5139:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-3.4861:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}1 &4 &1 \\x &5 &-5 \\-4 &x &-5\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small1((-25) - (-5x)) - (4)((-5x) - (20) + (1)(x^{2} - (-20)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\smallx^{2}+25x+75 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-21.5139$$ <br> $$\small x_{2} =-3.4861$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:22  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}2 &5 &1 \\x &-4 &1 \\-5 &x &4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-3.0712:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=25.0712:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}2 &5 &1 \\x &-4 &1 \\-5 &x &4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small2((-16) - (1x)) - (5)((4x) - (-5) + (1)(x^{2} - (20)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\smallx^{2}-22x-77 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-3.0712$$ <br> $$\small x_{2} =25.0712$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:25  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-5 &5 &-1 \\x &-5 &5 \\-3 &x &-5\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=4.0238:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=45.9762:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-5 &5 &-1 \\x &-5 &5 \\-3 &x &-5\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-5((25) - (5x)) - (5)((-5x) - (-15) + (-1)(x^{2} - (15)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-x^{2}+50x-185 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =4.0238$$ <br> $$\small x_{2} =45.9762$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:26  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-1 &-2 \\x &-3 &3 \\-3 &x &3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-3:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=10.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-1 &-2 \\x &-3 &3 \\-3 &x &3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-4((-9) - (3x)) - (-1)((3x) - (-9) + (-2)(x^{2} - (9)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}+15x+63 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-3$$ <br> $$\small x_{2} =10.5$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:27  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}3 &-3 &-3 \\-5 &5 &x \\x &-4 &4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-4:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}3 &-3 &-3 \\-5 &5 &x \\x &-4 &4\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small3((20) - (-4x)) - (-3)((-20) - x^{2}) + (-3)((20) - (5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-3x^{2}+3x+60 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-4$$ <br> $$\small x_{2} =5$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:28  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &5 &4 \\x &-4 &-3 \\-2 &x &4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=0.69197:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=5.058:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &5 &4 \\x &-4 &-3 \\-2 &x &4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-1((-16) - (-3x)) - (5)((4x) - (6) + (4)(x^{2} - (8)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small4x^{2}-23x+14 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =0.69197$$ <br> $$\small x_{2} =5.058$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:29  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}2 &1 &2 \\x &-4 &-5 \\-3 &x &-1\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-5.5895:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=0.089454:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}2 &1 &2 \\x &-4 &-5 \\-3 &x &-1\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small2((4) - (-5x)) - (1)((-1x) - (15) + (2)(x^{2} - (12)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small2x^{2}+11x- = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5.5895$$ <br> $$\small x_{2} =0.089454$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:31  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &-2 &4 \\-1 &2 &x \\x &-4 &-5\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-8.5944:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2.0944:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &-2 &4 \\-1 &2 &x \\x &-4 &-5\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-1((-10) - (-4x)) - (-2)((5) - x^{2}) + (4)((4) - (2x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}-13x+36 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-8.5944$$ <br> $$\small x_{2} =2.0944$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:33  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &5 &-2 \\2 &-4 &x \\x &3 &-3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=0.52822:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2.2718:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &5 &-2 \\2 &-4 &x \\x &3 &-3\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-2((12) - (3x)) - (5)((-6) - x^{2}) + (-2)((6) - (-4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small5x^{2}-14x+6 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =0.52822$$ <br> $$\small x_{2} =2.2718$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:34  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}2 &-3 &-5 \\4 &-5 &x \\x &1 &4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-7.5616:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-3.4384:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}2 &-3 &-5 \\4 &-5 &x \\x &1 &4\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small2((-20) - (1x)) - (-3)((16) - x^{2}) + (-5)((4) - (-5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-3x^{2}-33x-78 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-7.5616$$ <br> $$\small x_{2} =-3.4384$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:35  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-4 &2 \\2 &4 &x \\x &-3 &-5\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-7.1401:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=0.14005:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-4 &2 \\2 &4 &x \\x &-3 &-5\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-4((-20) - (-3x)) - (-4)((-10) - x^{2}) + (2)((-6) - (4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}-28x+4 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-7.1401$$ <br> $$\small x_{2} =0.14005$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:39  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}3 &-4 &-1 \\x &-2 &3 \\-3 &x &4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-2:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=9:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}3 &-4 &-1 \\x &-2 &3 \\-3 &x &4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small3((-8) - (3x)) - (-4)((4x) - (-9) + (-1)(x^{2} - (6)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-x^{2}+7x+18 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-2$$ <br> $$\small x_{2} =9$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:40  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-5 &-5 &3 \\x &-5 &-3 \\-3 &x &-3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-3.9443:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=13.9443:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-5 &-5 &3 \\x &-5 &-3 \\-3 &x &-3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-5((15) - (-3x)) - (-5)((-3x) - (9) + (3)(x^{2} - (15)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small3x^{2}-30x-165 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-3.9443$$ <br> $$\small x_{2} =13.9443$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:41  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &4 &3 \\x &-2 &4 \\-4 &x &3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-4.4105:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=5.7438:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &4 &3 \\x &-2 &4 \\-4 &x &3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-2((-6) - (4x)) - (4)((3x) - (-16) + (3)(x^{2} - (8)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small3x^{2}-4x-76 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-4.4105$$ <br> $$\small x_{2} =5.7438$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:42  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &-1 &2 \\-1 &1 &x \\x &-3 &-2\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-5.7417:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=1.7417:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &-1 &2 \\-1 &1 &x \\x &-3 &-2\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-1((-2) - (-3x)) - (-1)((2) - x^{2}) + (2)((3) - (1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-1x^{2}-4x+10 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5.7417$$ <br> $$\small x_{2} =1.7417$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:43  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-1 &-2 \\x &-3 &3 \\1 &x &1\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-0.22311:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=6.7231:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-1 &-2 \\x &-3 &3 \\1 &x &1\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-4((-3) - (3x)) - (-1)((1x) - (3) + (-2)(x^{2} - (-3)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}+13x+3 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-0.22311$$ <br> $$\small x_{2} =6.7231$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:44  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}2 &3 &2 \\-5 &x &5 \\-1 &-2 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-6.6085:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-1.8915:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}2 &3 &2 \\-5 &x &5 \\-1 &-2 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small2(x^{2} - (-10)) - (3)((-5x) - (-5)) + (2)((-10) - (-1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small2x^{2}+17x+25 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-6.6085$$ <br> $$\small x_{2} =-1.8915$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:47  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-2 &-5 \\-2 &-2 &x \\x &3 &-4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-11.8151:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-1.1849:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-2 &-5 \\-2 &-2 &x \\x &3 &-4\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-4((8) - (3x)) - (-2)((8) - x^{2}) + (-5)((-6) - (-2x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}-26x-28 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-11.8151$$ <br> $$\small x_{2} =-1.1849$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:48  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-4 &2 &-3 \\-1 &x &-4 \\-5 &-1 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-5.6113:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2.3613:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &2 &-3 \\-1 &x &-4 \\-5 &-1 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-4(x^{2} - (4)) - (2)((-1x) - (20)) + (-3)((4) - (-5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}-13x+53 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5.6113$$ <br> $$\small x_{2} =2.3613$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:49  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &-3 &-1 \\x &3 &-3 \\-5 &x &-4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-10.3723:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-4.6277:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &-3 &-1 \\x &3 &-3 \\-5 &x &-4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-1((-12) - (-3x)) - (-3)((-4x) - (15) + (-1)(x^{2} - (-15)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-x^{2}-15x-48 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-10.3723$$ <br> $$\small x_{2} =-4.6277$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:50  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &-3 &2 \\x &-4 &-2 \\-3 &x &-5\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-3.2226:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=12.7226:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &-3 &2 \\x &-4 &-2 \\-3 &x &-5\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-2((20) - (-2x)) - (-3)((-5x) - (6) + (2)(x^{2} - (12)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small2x^{2}-19x-82 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-3.2226$$ <br> $$\small x_{2} =12.7226$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:51  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-3 &-5 &-5 \\-2 &x &-3 \\-5 &-4 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-8.6072:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-3.0594:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &-5 &-5 \\-2 &x &-3 \\-5 &-4 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-3(x^{2} - (12)) - (-5)((-2x) - (15)) + (-5)((12) - (-5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-3x^{2}-35x-79 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-8.6072$$ <br> $$\small x_{2} =-3.0594$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:52  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-2 &-5 &5 \\-3 &x &-2 \\3 &2 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-14.7284:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-0.27158:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &-5 &5 \\-3 &x &-2 \\3 &2 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-2(x^{2} - (-4)) - (-5)((-3x) - (-6)) + (5)((-4) - (3x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}-30x-8 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-14.7284$$ <br> $$\small x_{2} =-0.27158$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:53  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-1 &4 &-5 \\2 &x &-5 \\-1 &-3 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-16.8562:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.8562:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &4 &-5 \\2 &x &-5 \\-1 &-3 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-1(x^{2} - (15)) - (4)((2x) - (5)) + (-5)((15) - (-1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-1x^{2}-13x+65 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-16.8562$$ <br> $$\small x_{2} =3.8562$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:54  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &-1 &5 \\x &-5 &3 \\-2 &x &5\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-1.2:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-1:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &-1 &5 \\x &-5 &3 \\-2 &x &5\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-2((-25) - (3x)) - (-1)((5x) - (-6) + (5)(x^{2} - (10)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small5x^{2}+11x+6 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-1.2$$ <br> $$\small x_{2} =-1$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:56  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}1 &-2 &-4 \\x &-3 &3 \\-4 &x &-1\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-5:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.75:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}1 &-2 &-4 \\x &-3 &3 \\-4 &x &-1\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small1((3) - (3x)) - (-2)((-1x) - (-12) + (-4)(x^{2} - (12)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}-5x+75 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5$$ <br> $$\small x_{2} =3.75$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:57  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-1 &-5 &-5 \\-3 &x &-4 \\4 &1 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-7.3615:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=12.3615:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &-5 &-5 \\-3 &x &-4 \\4 &1 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-1(x^{2} - (-4)) - (-5)((-3x) - (-16)) + (-5)((-4) - (4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-1x^{2}+5x+91 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-7.3615$$ <br> $$\small x_{2} =12.3615$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:60  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &-4 &1 \\x &2 &-3 \\1 &x &4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-12.8443:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-0.15571:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &-4 &1 \\x &2 &-3 \\1 &x &4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-1((8) - (-3x)) - (-4)((4x) - (-3) + (1)(x^{2} - (2)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\smallx^{2}+13x+2 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-12.8443$$ <br> $$\small x_{2} =-0.15571$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:61  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &-2 &3 \\x &-5 &-5 \\-1 &x &1\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-1.2701:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.9367:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &-2 &3 \\x &-5 &-5 \\-1 &x &1\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-2((-5) - (-5x)) - (-2)((1x) - (5) + (3)(x^{2} - (5)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small3x^{2}-8x-15 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-1.2701$$ <br> $$\small x_{2} =3.9367$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:62  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-5 &4 &3 \\3 &2 &x \\x &-2 &-4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=0.32383:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=6.1762:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-5 &4 &3 \\3 &2 &x \\x &-2 &-4\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-5((-8) - (-2x)) - (4)((-12) - x^{2}) + (3)((-6) - (2x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small4x^{2}-26x+8 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =0.32383$$ <br> $$\small x_{2} =6.1762$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:64  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &-4 &1 \\-3 &-1 &x \\x &1 &-4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-2:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=0.25:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &-4 &1 \\-3 &-1 &x \\x &1 &-4\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-2((4) - (1x)) - (-4)((12) - x^{2}) + (1)((-3) - (-1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}-7x+2 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-2$$ <br> $$\small x_{2} =0.25$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:71  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-3 &5 &-5 \\x &5 &2 \\4 &x &-4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-4.2381:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=9.4381:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &5 &-5 \\x &5 &2 \\4 &x &-4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-3((-20) - (2x)) - (5)((-4x) - (8) + (-5)(x^{2} - (20)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-5x^{2}+26x+200 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-4.2381$$ <br> $$\small x_{2} =9.4381$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:72  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &-1 &5 \\-2 &-3 &x \\x &-4 &-2\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-0.35235:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=11.3523:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &-1 &5 \\-2 &-3 &x \\x &-4 &-2\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-2((6) - (-4x)) - (-1)((4) - x^{2}) + (5)((8) - (-3x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-1x^{2}+11x+4 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-0.35235$$ <br> $$\small x_{2} =11.3523$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:73  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &-1 &-4 \\x &-4 &3 \\-4 &x &-1\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-3.5452:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=4.7952:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &-1 &-4 \\x &-4 &3 \\-4 &x &-1\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-2((4) - (3x)) - (-1)((-1x) - (-12) + (-4)(x^{2} - (16)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}+5x+68 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-3.5452$$ <br> $$\small x_{2} =4.7952$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:75  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-5 &3 &5 \\-1 &x &1 \\5 &-5 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-5:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=0.6:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-5 &3 &5 \\-1 &x &1 \\5 &-5 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-5(x^{2} - (-5)) - (3)((-1x) - (5)) + (5)((-5) - (5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-5x^{2}-22x+15 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-5$$ <br> $$\small x_{2} =0.6$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:76  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}4 &-3 &-5 \\x &-2 &-1 \\-3 &x &3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=0.25597:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2.344:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}4 &-3 &-5 \\x &-2 &-1 \\-3 &x &3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small4((-6) - (-1x)) - (-3)((3x) - (3) + (-5)(x^{2} - (6)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-5x^{2}+13x-3 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =0.25597$$ <br> $$\small x_{2} =2.344$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:77  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &-2 &-1 \\x &-2 &-2 \\-4 &x &-4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-12.899:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-3.101:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &-2 &-1 \\x &-2 &-2 \\-4 &x &-4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-4((8) - (-2x)) - (-2)((-4x) - (8) + (-1)(x^{2} - (8)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-x^{2}-16x-40 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-12.899$$ <br> $$\small x_{2} =-3.101$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:78  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}1 &-4 &-4 \\3 &5 &x \\x &-3 &-4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=0.12772:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=5.8723:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}1 &-4 &-4 \\3 &5 &x \\x &-3 &-4\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small1((-20) - (-3x)) - (-4)((-12) - x^{2}) + (-4)((-9) - (5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}+24x-3 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =0.12772$$ <br> $$\small x_{2} =5.8723$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:82  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-3 &-1 &-5 \\x &-5 &-1 \\-1 &x &2\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-3.3879:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=3.1879:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &-1 &-5 \\x &-5 &-1 \\-1 &x &2\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-3((-10) - (-1x)) - (-1)((2x) - (1) + (-5)(x^{2} - (5)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-5x^{2}-x+54 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-3.3879$$ <br> $$\small x_{2} =3.1879$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:83  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}-4 &2 &-3 \\-2 &x &-2 \\-4 &-3 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-3.5495:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=1.5495:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &2 &-3 \\-2 &x &-2 \\-4 &-3 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-4(x^{2} - (6)) - (2)((-2x) - (8)) + (-3)((6) - (-4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-4x^{2}-8x+22 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-3.5495$$ <br> $$\small x_{2} =1.5495$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:84  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-4 &1 &-2 \\x &-1 &5 \\-1 &x &-3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=0.69406:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=10.8059:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-4 &1 &-2 \\x &-1 &5 \\-1 &x &-3\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-4((3) - (5x)) - (1)((-3x) - (-5) + (-2)(x^{2} - (1)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}+23x-15 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =0.69406$$ <br> $$\small x_{2} =10.8059$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:86  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-1 &-3 &-3 \\x &-1 &-1 \\-3 &x &-1\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-1:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-0.33333:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-1 &-3 &-3 \\x &-1 &-1 \\-3 &x &-1\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-1((1) - (-1x)) - (-3)((-1x) - (3) + (-3)(x^{2} - (3)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-3x^{2}-4x- = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-1$$ <br> $$\small x_{2} =-0.33333$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:87  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}1 &-1 &-2 \\-2 &x &-1 \\2 &-3 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-4.7417:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2.7417:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}1 &-1 &-2 \\-2 &x &-1 \\2 &-3 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small1(x^{2} - (3)) - (-1)((-2x) - (-2)) + (-2)((3) - (2x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\smallx^{2}+2x-13 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-4.7417$$ <br> $$\small x_{2} =2.7417$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:88  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}2 &-2 &5 \\3 &-5 &x \\x &-5 &-5\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=1.7455:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=15.7545:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}2 &-2 &5 \\3 &-5 &x \\x &-5 &-5\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small2((25) - (-5x)) - (-2)((-15) - x^{2}) + (5)((-15) - (-5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-2x^{2}+35x-55 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =1.7455$$ <br> $$\small x_{2} =15.7545$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:90  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-5 &-4 &2 \\x &-2 &-4 \\-2 &x &-2\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-1.8882:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=15.8882:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-5 &-4 &2 \\x &-2 &-4 \\-2 &x &-2\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-5((4) - (-4x)) - (-4)((-2x) - (8) + (2)(x^{2} - (4)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small2x^{2}-28x-60 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-1.8882$$ <br> $$\small x_{2} =15.8882$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:91  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}4 &2 &1 \\4 &-3 &x \\x &5 &3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-4.7545:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=9.2545:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}4 &2 &1 \\4 &-3 &x \\x &5 &3\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small4((-9) - (5x)) - (2)((12) - x^{2}) + (1)((20) - (-3x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small2x^{2}-9x-88 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-4.7545$$ <br> $$\small x_{2} =9.2545$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:93  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-2 &-5 &4 \\x &5 &-5 \\-3 &x &-4\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=0.95492:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=6.5451:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-2 &-5 &4 \\x &5 &-5 \\-3 &x &-4\end{vmatrix}\: = 0$$ <br><br>On solving the determinant we get the following equation : <br><br>$$ \small-2((-20) - (-5x)) - (-5)((-4x) - (15) + (4)(x^{2} - (-15)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small4x^{2}-30x+25 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =0.95492$$ <br> $$\small x_{2} =6.5451$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:94  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}-3 &4 &-2 \\1 &-1 &x \\x &-5 &2\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-0.5:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-0.5:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}-3 &4 &-2 \\1 &-1 &x \\x &-5 &2\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small-3((-2) - (-5x)) - (4)((2) - x^{2}) + (-2)((-5) - (-1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small4x^{2}+4x+ = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-0.5$$ <br> $$\small x_{2} =-0.5$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:96  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}1 &2 &-4 \\-5 &-5 &x \\x &-1 &-3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-2.8607:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=11.3607:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}1 &2 &-4 \\-5 &-5 &x \\x &-1 &-3\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small1((15) - (-1x)) - (2)((15) - x^{2}) + (-4)((5) - (-5x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small2x^{2}-17x-65 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-2.8607$$ <br> $$\small x_{2} =11.3607$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:97  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse:<br><br>$$\small \begin{pmatrix}1 &1 &-3 \\-4 &x &2 \\1 &-2 &x\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-9:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=2:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}1 &1 &-3 \\-4 &x &2 \\1 &-2 &x\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small1(x^{2} - (-4)) - (1)((-4x) - (2)) + (-3)((-4) - (1x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\smallx^{2}+7x-18 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-9$$ <br> $$\small x_{2} =2$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
+    <!-- question:100  -->
+    <question type="cloze">
+        <name>
+            <text>Inverse matrix equations</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Find the values of x for which the following matrix has no inverse :<br><br>$$\small \begin{pmatrix}4 &-1 &3 \\-5 &4 &x \\x &1 &3\end{pmatrix}\:$$ <br><br>Express the answers upto 3 significant figures and in increasing order such that x<sub>1</sub> < x<sub>2</sub><br><br>x<sub>1</sub> ={1:NUMERICAL:=-22.4881:0.05#Good job!!~*#Incorrect, try again}x<sub>2</sub> ={1:NUMERICAL:=-1.5119:0.05#Good job!!~*#Incorrect, try again}</p>]]></text>
+            
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>When a matrix has no inverse, the determinant of the matrix is equal to 0. So, <br><br>$$\small \begin{vmatrix}4 &-1 &3 \\-5 &4 &x \\x &1 &3\end{vmatrix}\: = 0 $$ <br><br>On solving the determinant we get the following equation : <br><br>$$\small4((12) - (1x)) - (-1)((-15) - x^{2}) + (3)((-5) - (4x)) = 0 $$<br><br>On simplifying the equation, we get <br><br>$$\small-1x^{2}-24x-34 = 0 $$<br><br>Solving for x, we get: <br><br>$$ \small x_{1} =-22.4881$$ <br> $$\small x_{2} =-1.5119$$</p>]]></text>
+        </generalfeedback>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+    </question>
 </quiz>
