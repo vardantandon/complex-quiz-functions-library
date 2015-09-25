@@ -1,7 +1,15 @@
+%Matrices Question 3 - Solving equations using matrix
+%Authored By: Vardan Tandon under supervision of Dr. Pilar Garcia Souto
+%UCL Department: Medical Physics and Bioengineering
+
 file=fopen('Question_3.xml','w'); 
-fprintf(file, quiz_start()); %xml initialization code
+
+%xml initialization code
+fprintf(file, quiz_start()); 
+
 for i=1:1:100
 
+%Calculations
 x = [1,-1,-1];
 pos = randi(length(x));
 pos_1 = randi(length(x));
@@ -16,18 +24,22 @@ det = 1/det1;
 syms a b c d
 [sola,solb,solc,sold] = solve([a_1*a + b_1*c == 1 , a_1*b + b_1*d == 0 , c_1*a + d_1*c == 0, c_1*b + d_1* d == 1 ],[a,b,c,d]); 
 
+%Embedded components string generation
 numString_1 = cloze_numerical(double(sola), 0.05, 'Good job!', 'Incorrect, try again');
 numString_2 = cloze_numerical(double(solb), 0.05, 'Good job!', 'Incorrect, try again');
 numString_3 = cloze_numerical(double(solc), 0.05, 'Good job!', 'Incorrect, try again');
 numString_4 = cloze_numerical(double(sold), 0.05, 'Good job!', 'Incorrect, try again');
 
+A_String = matrix_table('A',{numString_1,numString_2;numString_3,numString_4});
+
+%Question string joining
 questionString = strcat ('Solve the following matrix multiplication for A (using inverse): <br><br>',...
 '$$\\small BA = I$$<br><br> ',...
 'where  $$\\small B = \\begin{pmatrix}',num2str(a_1),' & ',num2str(b_1),' \\\\',num2str(c_1),' & ',num2str(d_1), '\\end{pmatrix}\\:$$<br><br>',...
-'       $$\\small A = \\begin{pmatrix}a_{11} & a_{12} \\\\a_{21} & a_{22} \\end{pmatrix}\\:$$<br><br>',...
-'and    $$\\small I  = \\begin{pmatrix}1 & 0 \\\\0 & 1 \\end{pmatrix}\\:$$<br><br>',...
-'a<sub>11</sub> = ',numString_1,'a<sub>12</sub> = ',numString_2,'<br>a<sub>21</sub> = ',numString_3,'a<sub>22</sub> = ',numString_4);
+'and    $$\\small I  = \\begin{pmatrix}1 & 0 \\\\0 & 1 \\end{pmatrix}\\:$$<br><br>Calculate upto 3 significant figures<br><br>',...
+A_String);
 
+%Feedback string joining
 feedbackString = strcat ('Given the following equation : <br><br>',...
 '$$\\small BA = I$$<br><br>',...
 'Pre-Multiplying B<sup>-1</sup> on both sides, we get : <br><br>',...
@@ -46,7 +58,7 @@ feedbackString = strcat ('Given the following equation : <br><br>',...
 '$$\\small a_{11} = ',num2str(double(sola)),'$$&nbsp;;&nbsp;$$\\small a_{12} = ',num2str(double(solb)),'$$<br>',...
 '$$\\small a_{21} = ',num2str(double(solc)),'$$&nbsp;;&nbsp;$$\\small a_{22} = ',num2str(double(sold)),'$$<br><br>');
 
-
+%Complete question XML code generation 
 xmlCode = question_cloze(i, ...
         'Solving equations using matrix', ... 
         questionString, ...
@@ -56,5 +68,7 @@ xmlCode = question_cloze(i, ...
   fprintf(file, xmlCode);
   
 end 
-fprintf(file, quiz_end()); %xml closing code
+
+%xml closing code
+fprintf(file, quiz_end()); 
 fclose(file);
