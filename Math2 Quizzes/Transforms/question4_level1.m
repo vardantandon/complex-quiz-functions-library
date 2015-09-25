@@ -31,10 +31,10 @@ for i=1:1:100
     end
     output = laplace(f);
     
-    questionString = ['Level 1<br><br>Use a table of Laplace Transforms to find </p><br>' ...
-        '<p style="text-align: center;">$$ \small \mathscr{L}\{', latex(f),'\} $$. </p><p><br>' ...
-        'Laplace Transforms table can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/laplace.png" target="_blank">here</a>.' ...
-        '<br>Help on how to insert mathmetical expressions in your answer can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/equation_input.png" target="_blank">here</a>.'];
+    questionString = strcat('Level 1<br><br>Use a table of Laplace Transforms to find </p><br>', ...
+        '<p style="text-align: center;">$$ \small \mathscr{L}\{', latex(f),'\} $$. </p><p><br>', ...
+        'Laplace Transforms table can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/laplace.png" target="_blank">here</a>.', ...
+        '<br>Help on how to insert mathmetical expressions in your answer can be found <a href="http://www.ucl.ac.uk/~rmapdpg/ENGS203P/equation_input.png" target="_blank">here</a>.');
     
     instruction1 = 'From the Laplace Tables,';
     instruction2 = strcat('Substituting&nbsp;', substitutionString, ', we get:'); 
@@ -45,7 +45,16 @@ for i=1:1:100
     feedbackString = strcat( ...
         instruction1, '<br>', step1, '<br>', ...
         instruction2, '<br>', step2, '<br>');
-
+    
+    %This if condition is to fix an error where during some iterations in
+    %the loop, feedbackString ends up being a 1x2 matrix with two sets of
+    %the same string; that causes the code to write 'ffrroomm' instead of
+    %'from' into the output file for eg.
+    if size(feedbackString,1) > 1
+        %disp(feedbackString(1,:));
+        feedbackString = feedbackString(1,:);
+    end
+    
     %Question output
     fprintf(file,'  <!-- question: %i  -->', i);
     fprintf(file,'\n  <question type="algebra">');

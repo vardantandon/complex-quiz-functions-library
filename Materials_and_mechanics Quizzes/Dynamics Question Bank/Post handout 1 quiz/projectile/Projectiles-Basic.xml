@@ -1,0 +1,1903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp45 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp33 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=27.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=111.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #1).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (33 x sin(45)) / -9.8) = &nbsp2.4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(23.3 x &nbsp2.4) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp27.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(45 x &nbsp2.4)) = &nbsp111.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp40 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp59 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=73.4:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=349.8:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #2).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (59 x sin(40)) / -9.8) = &nbsp3.9 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(37.9 x &nbsp3.9) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp73.4 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(40 x &nbsp3.9)) = &nbsp349.8 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp36 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp48 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=40.6:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=223.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #3).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (48 x sin(36)) / -9.8) = &nbsp2.9 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(28.2 x &nbsp2.9) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp40.6 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(36 x &nbsp2.9)) = &nbsp223.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp37 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp53 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=51.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=275.5:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #4).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (53 x sin(37)) / -9.8) = &nbsp3.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(31.9 x &nbsp3.3) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp51.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(37 x &nbsp3.3)) = &nbsp275.5 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp51 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp45 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=62.4:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=202.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #5).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (45 x sin(51)) / -9.8) = &nbsp3.6 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(35 x &nbsp3.6) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp62.4 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(51 x &nbsp3.6)) = &nbsp202.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp59 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp57 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=121.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=292.7:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #6).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (57 x sin(59)) / -9.8) = &nbsp5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(48.9 x &nbsp5) - (4.9 x &nbsp5<sup>2</sup>) = &nbsp121.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(59 x &nbsp5)) = &nbsp292.7 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp34 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp46 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=33.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=200.2:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #7).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (46 x sin(34)) / -9.8) = &nbsp2.6 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(25.7 x &nbsp2.6) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp33.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(34 x &nbsp2.6)) = &nbsp200.2 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp37 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp34 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=21.4:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=113.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #8).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (34 x sin(37)) / -9.8) = &nbsp2.1 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(20.5 x &nbsp2.1) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp21.4 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(37 x &nbsp2.1)) = &nbsp113.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp37 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp56 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=57.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=307.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #9).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (56 x sin(37)) / -9.8) = &nbsp3.4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(33.7 x &nbsp3.4) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp57.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(37 x &nbsp3.4)) = &nbsp307.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp37 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp55 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=55.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=296.7:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #10).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (55 x sin(37)) / -9.8) = &nbsp3.4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(33.1 x &nbsp3.4) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp55.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(37 x &nbsp3.4)) = &nbsp296.7 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp40 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp58 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=70.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=338.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #11).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (58 x sin(40)) / -9.8) = &nbsp3.8 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(37.3 x &nbsp3.8) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp70.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(40 x &nbsp3.8)) = &nbsp338.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp37 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp36 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=23.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=127.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #12).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (36 x sin(37)) / -9.8) = &nbsp2.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(21.7 x &nbsp2.2) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp23.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(37 x &nbsp2.2)) = &nbsp127.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp44 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp49 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=59.1:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=244.9:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #13).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (49 x sin(44)) / -9.8) = &nbsp3.5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(34 x &nbsp3.5) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp59.1 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(44 x &nbsp3.5)) = &nbsp244.9 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp55 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp40 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=54.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=153.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #14).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (40 x sin(55)) / -9.8) = &nbsp3.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(32.8 x &nbsp3.3) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp54.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(55 x &nbsp3.3)) = &nbsp153.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp47 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp48 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=62.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=234.5:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #15).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (48 x sin(47)) / -9.8) = &nbsp3.6 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(35.1 x &nbsp3.6) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp62.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(47 x &nbsp3.6)) = &nbsp234.5 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp38 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp58 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=65.1:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=333.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #16).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (58 x sin(38)) / -9.8) = &nbsp3.6 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(35.7 x &nbsp3.6) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp65.1 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(38 x &nbsp3.6)) = &nbsp333.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp53 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp53 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=91.4:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=275.5:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #17).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (53 x sin(53)) / -9.8) = &nbsp4.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(42.3 x &nbsp4.3) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp91.4 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(53 x &nbsp4.3)) = &nbsp275.5 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp47 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp41 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=45.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=171.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #18).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (41 x sin(47)) / -9.8) = &nbsp3.1 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(30 x &nbsp3.1) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp45.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(47 x &nbsp3.1)) = &nbsp171.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp31 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp32 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=13.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=92.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #19).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (32 x sin(31)) / -9.8) = &nbsp1.7 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(16.5 x &nbsp1.7) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp13.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(31 x &nbsp1.7)) = &nbsp92.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp54 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp46 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=70.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=205.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #20).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (46 x sin(54)) / -9.8) = &nbsp3.8 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(37.2 x &nbsp3.8) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp70.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(54 x &nbsp3.8)) = &nbsp205.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp34 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp58 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=53.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=318.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #21).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (58 x sin(34)) / -9.8) = &nbsp3.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(32.4 x &nbsp3.3) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp53.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(34 x &nbsp3.3)) = &nbsp318.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp44 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp47 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=54.4:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=225.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #22).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (47 x sin(44)) / -9.8) = &nbsp3.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(32.6 x &nbsp3.3) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp54.4 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(44 x &nbsp3.3)) = &nbsp225.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp40 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp30 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=19:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=90.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #23).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (30 x sin(40)) / -9.8) = &nbsp2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(19.3 x &nbsp2) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp19 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(40 x &nbsp2)) = &nbsp90.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp54 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp35 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=40.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=118.9:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #24).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (35 x sin(54)) / -9.8) = &nbsp2.9 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(28.3 x &nbsp2.9) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp40.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(54 x &nbsp2.9)) = &nbsp118.9 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp46 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp39 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=40.2:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=155.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #25).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (39 x sin(46)) / -9.8) = &nbsp2.9 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(28.1 x &nbsp2.9) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp40.2 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(46 x &nbsp2.9)) = &nbsp155.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp48 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp35 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=34.5:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=124.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #26).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (35 x sin(48)) / -9.8) = &nbsp2.7 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(26 x &nbsp2.7) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp34.5 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(48 x &nbsp2.7)) = &nbsp124.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp50 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp38 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=43.2:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=145.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #27).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (38 x sin(50)) / -9.8) = &nbsp3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(29.1 x &nbsp3) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp43.2 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(50 x &nbsp3)) = &nbsp145.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp53 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp51 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=84.6:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=255.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #28).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (51 x sin(53)) / -9.8) = &nbsp4.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(40.7 x &nbsp4.2) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp84.6 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(53 x &nbsp4.2)) = &nbsp255.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp32 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp43 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=26.5:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=169.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #29).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (43 x sin(32)) / -9.8) = &nbsp2.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(22.8 x &nbsp2.3) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp26.5 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(32 x &nbsp2.3)) = &nbsp169.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp58 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp37 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=50.2:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=125.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #30).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (37 x sin(58)) / -9.8) = &nbsp3.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(31.4 x &nbsp3.2) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp50.2 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(58 x &nbsp3.2)) = &nbsp125.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp55 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp34 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=39.6:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=110.8:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #31).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (34 x sin(55)) / -9.8) = &nbsp2.8 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(27.9 x &nbsp2.8) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp39.6 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(55 x &nbsp2.8)) = &nbsp110.8 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #32</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp60 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp46 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=81:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=187:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #32).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (46 x sin(60)) / -9.8) = &nbsp4.1 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(39.8 x &nbsp4.1) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp81 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(60 x &nbsp4.1)) = &nbsp187 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #33</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp43 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp32 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=24.3:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=104.2:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #33).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (32 x sin(43)) / -9.8) = &nbsp2.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(21.8 x &nbsp2.2) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp24.3 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(43 x &nbsp2.2)) = &nbsp104.2 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #34</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp59 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp33 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=40.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=98.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #34).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (33 x sin(59)) / -9.8) = &nbsp2.9 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(28.3 x &nbsp2.9) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp40.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(59 x &nbsp2.9)) = &nbsp98.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #35</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp54 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp30 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=30.1:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=87.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #35).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (30 x sin(54)) / -9.8) = &nbsp2.5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(24.3 x &nbsp2.5) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp30.1 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(54 x &nbsp2.5)) = &nbsp87.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #36</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp56 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp55 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=106.1:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=286.2:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #36).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (55 x sin(56)) / -9.8) = &nbsp4.7 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(45.6 x &nbsp4.7) - (4.9 x &nbsp5<sup>2</sup>) = &nbsp106.1 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(56 x &nbsp4.7)) = &nbsp286.2 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #37</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp42 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp32 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=23.4:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=103.9:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #37).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (32 x sin(42)) / -9.8) = &nbsp2.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(21.4 x &nbsp2.2) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp23.4 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(42 x &nbsp2.2)) = &nbsp103.9 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #38</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp54 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp38 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=48.2:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=140.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #38).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (38 x sin(54)) / -9.8) = &nbsp3.1 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(30.7 x &nbsp3.1) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp48.2 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(54 x &nbsp3.1)) = &nbsp140.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #39</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp58 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp43 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=67.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=169.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #39).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (43 x sin(58)) / -9.8) = &nbsp3.7 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(36.5 x &nbsp3.7) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp67.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(58 x &nbsp3.7)) = &nbsp169.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:40  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #40</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp38 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp35 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=23.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=121.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #40).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (35 x sin(38)) / -9.8) = &nbsp2.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(21.5 x &nbsp2.2) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp23.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(38 x &nbsp2.2)) = &nbsp121.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #41</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp34 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp34 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=18.4:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=109.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #41).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (34 x sin(34)) / -9.8) = &nbsp1.9 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(19 x &nbsp1.9) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp18.4 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(34 x &nbsp1.9)) = &nbsp109.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:42  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #42</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp47 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp56 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=85.6:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=319.2:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #42).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (56 x sin(47)) / -9.8) = &nbsp4.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(41 x &nbsp4.2) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp85.6 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(47 x &nbsp4.2)) = &nbsp319.2 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #43</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp34 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp47 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=35.2:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=209:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #43).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (47 x sin(34)) / -9.8) = &nbsp2.7 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(26.3 x &nbsp2.7) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp35.2 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(34 x &nbsp2.7)) = &nbsp209 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:44  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #44</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp49 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp56 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=91.1:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=316.9:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #44).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (56 x sin(49)) / -9.8) = &nbsp4.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(42.3 x &nbsp4.3) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp91.1 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(49 x &nbsp4.3)) = &nbsp316.9 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #45</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp45 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp40 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=40.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=163.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #45).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (40 x sin(45)) / -9.8) = &nbsp2.9 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(28.3 x &nbsp2.9) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp40.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(45 x &nbsp2.9)) = &nbsp163.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #46</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp32 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp42 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=25.3:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=161.8:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #46).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (42 x sin(32)) / -9.8) = &nbsp2.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(22.3 x &nbsp2.3) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp25.3 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(32 x &nbsp2.3)) = &nbsp161.8 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #47</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp33 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp37 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=20.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=127.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #47).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (37 x sin(33)) / -9.8) = &nbsp2.1 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(20.2 x &nbsp2.1) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp20.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(33 x &nbsp2.1)) = &nbsp127.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #48</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp37 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp35 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=22.6:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=120.2:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #48).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (35 x sin(37)) / -9.8) = &nbsp2.1 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(21.1 x &nbsp2.1) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp22.6 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(37 x &nbsp2.1)) = &nbsp120.2 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #49</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp31 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp42 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=23.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=158.9:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #49).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (42 x sin(31)) / -9.8) = &nbsp2.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(21.6 x &nbsp2.2) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp23.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(31 x &nbsp2.2)) = &nbsp158.9 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #50</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp59 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp57 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=121.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=292.7:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #50).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (57 x sin(59)) / -9.8) = &nbsp5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(48.9 x &nbsp5) - (4.9 x &nbsp5<sup>2</sup>) = &nbsp121.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(59 x &nbsp5)) = &nbsp292.7 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #51</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp45 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp45 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=51.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=206.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #51).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (45 x sin(45)) / -9.8) = &nbsp3.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(31.8 x &nbsp3.2) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp51.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(45 x &nbsp3.2)) = &nbsp206.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #52</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp57 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp40 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=57.4:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=149.2:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #52).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (40 x sin(57)) / -9.8) = &nbsp3.4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(33.5 x &nbsp3.4) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp57.4 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(57 x &nbsp3.4)) = &nbsp149.2 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #53</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp33 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp41 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=25.4:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=156.7:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #53).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (41 x sin(33)) / -9.8) = &nbsp2.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(22.3 x &nbsp2.3) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp25.4 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(33 x &nbsp2.3)) = &nbsp156.7 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:54  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #54</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp42 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp54 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=66.6:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=295.9:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #54).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (54 x sin(42)) / -9.8) = &nbsp3.7 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(36.1 x &nbsp3.7) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp66.6 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(42 x &nbsp3.7)) = &nbsp295.9 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #55</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp42 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp37 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=31.3:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=138.9:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #55).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (37 x sin(42)) / -9.8) = &nbsp2.5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(24.8 x &nbsp2.5) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp31.3 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(42 x &nbsp2.5)) = &nbsp138.9 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:56  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #56</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp34 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp32 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=16.3:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=96.9:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #56).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (32 x sin(34)) / -9.8) = &nbsp1.8 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(17.9 x &nbsp1.8) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp16.3 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(34 x &nbsp1.8)) = &nbsp96.9 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:57  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #57</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp59 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp59 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=130.5:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=313.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #57).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (59 x sin(59)) / -9.8) = &nbsp5.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(50.6 x &nbsp5.2) - (4.9 x &nbsp5<sup>2</sup>) = &nbsp130.5 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(59 x &nbsp5.2)) = &nbsp313.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #58</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp31 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp47 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=29.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=199:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #58).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (47 x sin(31)) / -9.8) = &nbsp2.5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(24.2 x &nbsp2.5) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp29.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(31 x &nbsp2.5)) = &nbsp199 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #59</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp40 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp37 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=28.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=137.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #59).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (37 x sin(40)) / -9.8) = &nbsp2.4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(23.8 x &nbsp2.4) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp28.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(40 x &nbsp2.4)) = &nbsp137.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #60</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp30 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp55 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=38.6:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=267.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #60).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (55 x sin(30)) / -9.8) = &nbsp2.8 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(27.5 x &nbsp2.8) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp38.6 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(30 x &nbsp2.8)) = &nbsp267.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #61</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp35 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp31 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=16.1:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=92.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #61).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (31 x sin(35)) / -9.8) = &nbsp1.8 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(17.8 x &nbsp1.8) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp16.1 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(35 x &nbsp1.8)) = &nbsp92.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #62</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp52 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp50 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=79.2:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=247.5:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #62).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (50 x sin(52)) / -9.8) = &nbsp4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(39.4 x &nbsp4) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp79.2 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(52 x &nbsp4)) = &nbsp247.5 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #63</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp43 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp50 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=59.3:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=254.5:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #63).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (50 x sin(43)) / -9.8) = &nbsp3.5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(34.1 x &nbsp3.5) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp59.3 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(43 x &nbsp3.5)) = &nbsp254.5 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #64</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp39 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp46 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=42.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=211.2:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #64).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (46 x sin(39)) / -9.8) = &nbsp3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(28.9 x &nbsp3) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp42.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(39 x &nbsp3)) = &nbsp211.2 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #65</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp35 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp53 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=47.1:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=269.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #65).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (53 x sin(35)) / -9.8) = &nbsp3.1 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(30.4 x &nbsp3.1) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp47.1 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(35 x &nbsp3.1)) = &nbsp269.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #66</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp35 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp51 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=43.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=249.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #66).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (51 x sin(35)) / -9.8) = &nbsp3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(29.3 x &nbsp3) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp43.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(35 x &nbsp3)) = &nbsp249.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #67</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp49 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp41 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=48.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=169.9:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #67).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (41 x sin(49)) / -9.8) = &nbsp3.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(30.9 x &nbsp3.2) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp48.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(49 x &nbsp3.2)) = &nbsp169.9 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #68</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp32 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp54 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=41.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=267.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #68).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (54 x sin(32)) / -9.8) = &nbsp2.9 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(28.6 x &nbsp2.9) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp41.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(32 x &nbsp2.9)) = &nbsp267.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #69</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp54 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp58 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=112.3:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=326.5:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #69).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (58 x sin(54)) / -9.8) = &nbsp4.8 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(46.9 x &nbsp4.8) - (4.9 x &nbsp5<sup>2</sup>) = &nbsp112.3 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(54 x &nbsp4.8)) = &nbsp326.5 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #70</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp43 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp45 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=48.1:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=206.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #70).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (45 x sin(43)) / -9.8) = &nbsp3.1 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(30.7 x &nbsp3.1) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp48.1 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(43 x &nbsp3.1)) = &nbsp206.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #71</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp39 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp43 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=37.4:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=184.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #71).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (43 x sin(39)) / -9.8) = &nbsp2.8 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(27.1 x &nbsp2.8) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp37.4 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(39 x &nbsp2.8)) = &nbsp184.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #72</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp45 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp45 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=51.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=206.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #72).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (45 x sin(45)) / -9.8) = &nbsp3.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(31.8 x &nbsp3.2) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp51.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(45 x &nbsp3.2)) = &nbsp206.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #73</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp54 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp55 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=101:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=293.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #73).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (55 x sin(54)) / -9.8) = &nbsp4.5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(44.5 x &nbsp4.5) - (4.9 x &nbsp5<sup>2</sup>) = &nbsp101 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(54 x &nbsp4.5)) = &nbsp293.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #74</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp41 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp49 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=52.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=242.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #74).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (49 x sin(41)) / -9.8) = &nbsp3.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(32.1 x &nbsp3.3) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp52.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(41 x &nbsp3.3)) = &nbsp242.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp46 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp55 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=79.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=308.5:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #75).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (55 x sin(46)) / -9.8) = &nbsp4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(39.6 x &nbsp4) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp79.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(46 x &nbsp4)) = &nbsp308.5 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #76</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp59 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp40 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=60:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=144.2:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #76).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (40 x sin(59)) / -9.8) = &nbsp3.5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(34.3 x &nbsp3.5) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp60 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(59 x &nbsp3.5)) = &nbsp144.2 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #77</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp47 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp57 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=88.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=330.7:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #77).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (57 x sin(47)) / -9.8) = &nbsp4.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(41.7 x &nbsp4.3) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp88.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(47 x &nbsp4.3)) = &nbsp330.7 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #78</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp48 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp49 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=67.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=243.7:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #78).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (49 x sin(48)) / -9.8) = &nbsp3.7 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(36.4 x &nbsp3.7) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp67.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(48 x &nbsp3.7)) = &nbsp243.7 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #79</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp39 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp36 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=26.2:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=129.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #79).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (36 x sin(39)) / -9.8) = &nbsp2.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(22.7 x &nbsp2.3) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp26.2 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(39 x &nbsp2.3)) = &nbsp129.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #80</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp37 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp44 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=35.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=189.9:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #80).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (44 x sin(37)) / -9.8) = &nbsp2.7 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(26.5 x &nbsp2.7) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp35.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(37 x &nbsp2.7)) = &nbsp189.9 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #81</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp36 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp56 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=55.3:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=304.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #81).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (56 x sin(36)) / -9.8) = &nbsp3.4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(32.9 x &nbsp3.4) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp55.3 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(36 x &nbsp3.4)) = &nbsp304.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #82</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp35 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp37 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=23:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=131.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #82).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (37 x sin(35)) / -9.8) = &nbsp2.2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(21.2 x &nbsp2.2) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp23 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(35 x &nbsp2.2)) = &nbsp131.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #83</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp43 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp37 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=32.5:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=139.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #83).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (37 x sin(43)) / -9.8) = &nbsp2.6 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(25.2 x &nbsp2.6) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp32.5 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(43 x &nbsp2.6)) = &nbsp139.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #84</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp58 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp39 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=55.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=139.5:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #84).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (39 x sin(58)) / -9.8) = &nbsp3.4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(33.1 x &nbsp3.4) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp55.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(58 x &nbsp3.4)) = &nbsp139.5 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #85</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp35 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp43 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=31:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=177.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #85).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (43 x sin(35)) / -9.8) = &nbsp2.5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(24.7 x &nbsp2.5) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp31 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(35 x &nbsp2.5)) = &nbsp177.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #86</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp60 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp58 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=128.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=297.3:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #86).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (58 x sin(60)) / -9.8) = &nbsp5.1 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(50.2 x &nbsp5.1) - (4.9 x &nbsp5<sup>2</sup>) = &nbsp128.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(60 x &nbsp5.1)) = &nbsp297.3 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #87</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp33 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp43 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=28:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=172.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #87).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (43 x sin(33)) / -9.8) = &nbsp2.4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(23.4 x &nbsp2.4) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp28 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(33 x &nbsp2.4)) = &nbsp172.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #88</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp42 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp38 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=33:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=146.5:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #88).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (38 x sin(42)) / -9.8) = &nbsp2.6 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(25.4 x &nbsp2.6) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp33 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(42 x &nbsp2.6)) = &nbsp146.5 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #89</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp38 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp48 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=44.6:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=228.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #89).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (48 x sin(38)) / -9.8) = &nbsp3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(29.6 x &nbsp3) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp44.6 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(38 x &nbsp3)) = &nbsp228.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #90</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp52 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp48 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=73:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=228.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #90).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (48 x sin(52)) / -9.8) = &nbsp3.9 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(37.8 x &nbsp3.9) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp73 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(52 x &nbsp3.9)) = &nbsp228.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:91  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #91</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp33 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp36 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=19.6:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=120.8:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #91).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (36 x sin(33)) / -9.8) = &nbsp2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(19.6 x &nbsp2) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp19.6 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(33 x &nbsp2)) = &nbsp120.8 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:92  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #92</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp39 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp39 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=30.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=151.8:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #92).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (39 x sin(39)) / -9.8) = &nbsp2.5 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(24.5 x &nbsp2.5) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp30.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(39 x &nbsp2.5)) = &nbsp151.8 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:93  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #93</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp45 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp43 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=47.2:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=188.7:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #93).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (43 x sin(45)) / -9.8) = &nbsp3.1 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(30.4 x &nbsp3.1) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp47.2 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(45 x &nbsp3.1)) = &nbsp188.7 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:94  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #94</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp38 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp32 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=19.8:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=101.4:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #94).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (32 x sin(38)) / -9.8) = &nbsp2 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(19.7 x &nbsp2) - (4.9 x &nbsp2<sup>2</sup>) = &nbsp19.8 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(38 x &nbsp2)) = &nbsp101.4 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:95  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #95</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp30 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp54 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=37.2:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=257.7:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #95).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (54 x sin(30)) / -9.8) = &nbsp2.8 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(27 x &nbsp2.8) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp37.2 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(30 x &nbsp2.8)) = &nbsp257.7 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:96  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #96</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp52 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp58 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=106.6:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=333.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #96).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (58 x sin(52)) / -9.8) = &nbsp4.7 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(45.7 x &nbsp4.7) - (4.9 x &nbsp5<sup>2</sup>) = &nbsp106.6 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(52 x &nbsp4.7)) = &nbsp333.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:97  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #97</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp47 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp45 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=55.3:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=206.1:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #97).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (45 x sin(47)) / -9.8) = &nbsp3.4 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(32.9 x &nbsp3.4) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp55.3 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(47 x &nbsp3.4)) = &nbsp206.1 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:98  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #98</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp44 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp37 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=33.7:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=139.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #98).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (37 x sin(44)) / -9.8) = &nbsp2.6 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(25.7 x &nbsp2.6) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp33.7 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(44 x &nbsp2.6)) = &nbsp139.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:99  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #99</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp46 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp59 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=91.9:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=355:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #99).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (59 x sin(46)) / -9.8) = &nbsp4.3 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(42.4 x &nbsp4.3) - (4.9 x &nbsp4<sup>2</sup>) = &nbsp91.9 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(46 x &nbsp4.3)) = &nbsp355 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+  <!-- question:100  -->
+  <question type="cloze">
+    <name>
+      <text>Projectiles-Basic. Question ID #100</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A projectile is released at an angle $$\theta$$ of &nbsp37 degrees from horizontal at an initial velocity (V<sub>I</sub>) of &nbsp46 m/s, as per the image below.</p><p>What is the maximum height (h), that the projectile reaches?</p>{1:NUMERICAL:=39.1:0.05#Good job!!~*#Incorrect, try again}<p>What is the horizontal range (R) that the projectile will travel before hitting the ground?</p>{1:NUMERICAL:=207.6:0.05#Good job!!~*#Incorrect, try again}<p>(Give your answers in metres correct to 1.d.p.)</p><p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p><p><img src="http://francesa.phy.cmich.edu/people/andy/physics110/book/Chapters/Chapter2_files/image034.jpg" alt="" width="522" height="199" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Question ID #100).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>Looking at the y component first, and using the knowledge that the vertical velocity is zero at the maximum height:</p><p>t = (v-u)/a = (0 - (46 x sin(37)) / -9.8) = &nbsp2.8 seconds.<p>h = (u*t) + (0.5*a*t<sup>2</sup>) = &nbsp(27.7 x &nbsp2.8) - (4.9 x &nbsp3<sup>2</sup>) = &nbsp39.1 metres.</p><p>Looking at the x component, and using the knowledge that the horizontal acceleration is zero:</p><p>R = (2*u*t) = (2 x cos(37 x &nbsp2.8)) = &nbsp207.6 metres.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p>Use the SUVAT equations of motion on both the x and y components of the projectile's motion to solve this question.</p>]]></text>
+    </hint>
+  </question>
+</quiz>

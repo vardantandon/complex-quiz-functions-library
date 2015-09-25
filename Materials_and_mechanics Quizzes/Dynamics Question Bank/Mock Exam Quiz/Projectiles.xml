@@ -1,0 +1,1903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="cloze">
+<name>
+<text>Projectiles 1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=862.1:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 27.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 31.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=884.1:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 17.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 39.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=475.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 28.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 31.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=915.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=735.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 6 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 26.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=553.3:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 7 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 24.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=800.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 8 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 27.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 24.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=1131.1:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 9 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 23.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=619.0:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 10 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 29.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=503.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 11 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 16.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 39.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=452.6:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 12 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 23.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=833.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 13 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 40.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=751.0:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 14 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=870.3:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 15 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 15.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=553.0:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 16 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 25.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=888.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 17 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 34.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=668.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 18 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=645.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 19 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 16.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 26.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=628.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 20 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 18.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 30.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=617.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 21 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 11.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 25.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=456.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 22 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 26.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=1303.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 23 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 35.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=846.1:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 24 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=644.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 25 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 29.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=503.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 26 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 30.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 31.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=979.6:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 27 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 24.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=841.6:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 28 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 33.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=627.3:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 29 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=868.1:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 30 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 17.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 40.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=468.0:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 31 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 10.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=322.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 32 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 36.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=824.6:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 33 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 12.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 25.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=495.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 34 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 17.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 34.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=527.0:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 35 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 12.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 35.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=383.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 36 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 12.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 33.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=398.0:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 37 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 36.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=582.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 38 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 25.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=683.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 39 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 28.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=1045.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 40 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 24.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=1006.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 41 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 10.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 35.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=333.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 42 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 30.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=682.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 43 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 28.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=888.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 44 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=608.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 45 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 26.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=827.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 46 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 25.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=534.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 47 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 28.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=1403.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 48 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 23.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=876.8:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 49 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 30.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 34.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=897.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 50 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 29.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=704.1:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 51 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 11.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 34.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=363.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 52 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 10.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 21.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=487.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 53 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=915.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 54 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 27.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=751.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 55 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 25.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 23.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=1092.8:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 56 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 30.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=780.6:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 57 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 30.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 33.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=923.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 58 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 26.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 29.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=907.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 59 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=544.6:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 60 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 11.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=511.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 61 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=484.1:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 62 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 27.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 36.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=770.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 63 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 11.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=416.1:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 64 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 21.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=762.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 65 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 33.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=715.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 66 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 16.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 29.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=569.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 67 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 10.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 40.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=317.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 68 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=600.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 69 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 17.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 24.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=718.0:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 70 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=752.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 71 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 39.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=767.8:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 72 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 11.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 35.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=358.0:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 73 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 15.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=553.0:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 74 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 21.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 39.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=571.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 75 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 18.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 40.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=490.8:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 76 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 16.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 34.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=499.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 77 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 31.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=757.3:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 78 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 33.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=745.0:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 79 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=600.7:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 80 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 30.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 23.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=1309.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 81 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 10.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 31.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=356.6:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 82 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 28.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 34.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=840.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 83 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=499.3:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 84 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 40.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=513.8:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 85 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=395.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 86 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=862.1:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 87 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=518.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 88 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=915.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 89 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 24.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=924.2:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 90 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 18.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=583.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 91 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 15.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 26.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=590.8:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 92 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 25.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=888.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 93 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 27.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 40.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=702.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 94 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 25.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=935.3:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 95 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=1005.8:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 96 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=785.5:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 97 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 27.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 25.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=1086.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 98 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=1104.4:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 99 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 18.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 26.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=703.9:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles 100 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p><span>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13.0 (D) km away.</span></p>
+<p><span>Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 23.0 (T) seconds?</span></p>
+<p><span>(Give your answer in m/s to 1.d.p.)</span></p>
+<p><span>(Use a value of g of -9.8 m/s<sup>2</sup>)</span></p>
+<p> {1:NUMERICAL:=576.3:0.05#Good job!~*#Sorry. Try again.}</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity. </p>]]></text>
+</hint>
+</question>
+</quiz>

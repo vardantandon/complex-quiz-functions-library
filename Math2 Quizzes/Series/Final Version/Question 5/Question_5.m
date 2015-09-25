@@ -1,7 +1,7 @@
 file = fopen('Question_5.xml', 'w');
 fprintf(file,quiz_start());
 
-for i=1:1:10
+for i=1:1:90
 
 a = randi([1 5],1,1)
 b = randi([1 3],1,1)

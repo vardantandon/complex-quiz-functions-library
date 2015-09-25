@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #1).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #2).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #3).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #4).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #5).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #6).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!}<p>(Question ID #7).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #8).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #9).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #10).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!}<p>(Question ID #11).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #12).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #13).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #14).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #15).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #16).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #17).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #18).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!}<p>(Question ID #19).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #20).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #21).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #22).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #23).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #24).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Freefall. Question ID #25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A ball is released from a height and it drops under the effect of gravity.</p><p>If we plot the ball's acceleration (m/s<sup>2</sup>) in red, velocity (m/s) in green, and displacement (m) in blue, from release for the first five seconds, which of the diagrams below is correct?</p>{1:MCV:~<p><img src="http://s7.postimg.org/f62wyy697/wrong2.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~<p><img src="http://s7.postimg.org/85jz3aasr/wrong3.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect~=<p><img src="http://s7.postimg.org/5a1tzb0h7/correct.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Good Job!~<p><img src="http://s7.postimg.org/97p3opnaj/wrong1.jpg" alt="" width="560" height="420" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p>#Incorrect}<p>(Question ID #25).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p>The correct answer to this question is shown above</p><p>Acceleration due to gravity is -9.8 m/s<sup>2</sup>, and remains constant regardless of size, shape or weight of an object in freefall.</p><p>Therefore acceleration in this case is represented by the straight line $$y=-9.8$$, which has a gradient of zero.</p><p>Velocity is the integral of acceleration with respect to time, and is therefore represented by the straight line $$y=-9.8\times (time)$$.</p><p>Displacement is the integral of velocity with respect to time, and is therefore represented by the curve $$y=-4.9\times (time)^2$$.</p><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities. As acceleration has a negative value in this case, so too do velocity and displacement.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Remember that acceleration, velocity and displacement are vector (not scalar) quantities.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+</quiz>

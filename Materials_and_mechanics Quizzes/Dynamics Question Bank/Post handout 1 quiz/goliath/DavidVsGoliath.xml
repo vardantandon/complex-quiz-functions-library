@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.06 m slingshot is accelerated for&nbsp0.8 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=11:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #1)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time0.8=10.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.06\times10.4=11$$ m/s.</p><br><p>This is equivalent to&nbsp40 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:2  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.37 m slingshot is accelerated for&nbsp1.3 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=23.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #2)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time1.3=16.9$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.37\times16.9=23.2$$ m/s.</p><br><p>This is equivalent to&nbsp83 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:3  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.14 m slingshot is accelerated for&nbsp0.9 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=16.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #3)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time0.9=14.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.14\times14.4=16.4$$ m/s.</p><br><p>This is equivalent to&nbsp59 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.38 m slingshot is accelerated for&nbsp1.1 s at&nbsp11 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=16.7:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #4)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=11\time1.1=12.1$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.38\times12.1=16.7$$ m/s.</p><br><p>This is equivalent to&nbsp60 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:5  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.29 m slingshot is accelerated for&nbsp1.2 s at&nbsp11 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=17:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #5)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=11\time1.2=13.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.29\times13.2=17$$ m/s.</p><br><p>This is equivalent to&nbsp61 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:6  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.81 m slingshot is accelerated for&nbsp0.8 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=9.1:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #6)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time0.8=11.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.81\times11.2=9.1$$ m/s.</p><br><p>This is equivalent to&nbsp33 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.07 m slingshot is accelerated for&nbsp0.8 s at&nbsp19 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=16.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #7)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=19\time0.8=15.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.07\times15.2=16.3$$ m/s.</p><br><p>This is equivalent to&nbsp59 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.26 m slingshot is accelerated for&nbsp0.8 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=16.1:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #8)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time0.8=12.8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.26\times12.8=16.1$$ m/s.</p><br><p>This is equivalent to&nbsp58 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.77 m slingshot is accelerated for&nbsp1.2 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=12:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #9)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time1.2=15.6$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.77\times15.6=12$$ m/s.</p><br><p>This is equivalent to&nbsp43 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.17 m slingshot is accelerated for&nbsp0.8 s at&nbsp17 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=15.9:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #10)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=17\time0.8=13.6$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.17\times13.6=15.9$$ m/s.</p><br><p>This is equivalent to&nbsp57 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.97 m slingshot is accelerated for&nbsp0.9 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=10.5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #11)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time0.9=10.8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.97\times10.8=10.5$$ m/s.</p><br><p>This is equivalent to&nbsp38 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.21 m slingshot is accelerated for&nbsp1.4 s at&nbsp20 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=33.9:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #12)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=20\time1.4=28$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.21\times28=33.9$$ m/s.</p><br><p>This is equivalent to&nbsp122 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.06 m slingshot is accelerated for&nbsp0.7 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=11.9:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #13)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time0.7=11.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.06\times11.2=11.9$$ m/s.</p><br><p>This is equivalent to&nbsp43 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.84 m slingshot is accelerated for&nbsp0.9 s at&nbsp19 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=14.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #14)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=19\time0.9=17.1$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.84\times17.1=14.4$$ m/s.</p><br><p>This is equivalent to&nbsp52 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1 m slingshot is accelerated for&nbsp1.5 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=21:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #15)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time1.5=21$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1\times21=21$$ m/s.</p><br><p>This is equivalent to&nbsp76 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.19 m slingshot is accelerated for&nbsp1.1 s at&nbsp11 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=14.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #16)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=11\time1.1=12.1$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.19\times12.1=14.4$$ m/s.</p><br><p>This is equivalent to&nbsp52 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.99 m slingshot is accelerated for&nbsp1.5 s at&nbsp10 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=14.9:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #17)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=10\time1.5=15$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.99\times15=14.9$$ m/s.</p><br><p>This is equivalent to&nbsp53 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.97 m slingshot is accelerated for&nbsp0.7 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=8.1:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #18)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time0.7=8.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.97\times8.4=8.1$$ m/s.</p><br><p>This is equivalent to&nbsp29 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.95 m slingshot is accelerated for&nbsp1.5 s at&nbsp15 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=21.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #19)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=15\time1.5=22.5$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.95\times22.5=21.4$$ m/s.</p><br><p>This is equivalent to&nbsp77 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.27 m slingshot is accelerated for&nbsp0.8 s at&nbsp15 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=15.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #20)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=15\time0.8=12$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.27\times12=15.2$$ m/s.</p><br><p>This is equivalent to&nbsp55 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.37 m slingshot is accelerated for&nbsp0.6 s at&nbsp10 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=8.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #21)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=10\time0.6=6$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.37\times6=8.2$$ m/s.</p><br><p>This is equivalent to&nbsp30 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.2 m slingshot is accelerated for&nbsp1.5 s at&nbsp11 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=19.8:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #22)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=11\time1.5=16.5$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.2\times16.5=19.8$$ m/s.</p><br><p>This is equivalent to&nbsp71 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.16 m slingshot is accelerated for&nbsp0.6 s at&nbsp17 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=11.8:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #23)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=17\time0.6=10.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.16\times10.2=11.8$$ m/s.</p><br><p>This is equivalent to&nbsp43 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.14 m slingshot is accelerated for&nbsp0.5 s at&nbsp18 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=10.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #24)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=18\time0.5=9$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.14\times9=10.3$$ m/s.</p><br><p>This is equivalent to&nbsp37 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.4 m slingshot is accelerated for&nbsp0.9 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=16.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #25)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time0.9=11.7$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.4\times11.7=16.4$$ m/s.</p><br><p>This is equivalent to&nbsp59 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.73 m slingshot is accelerated for&nbsp0.7 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=8.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #26)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time0.7=11.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.73\times11.2=8.2$$ m/s.</p><br><p>This is equivalent to&nbsp29 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.12 m slingshot is accelerated for&nbsp0.7 s at&nbsp17 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=13.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #27)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=17\time0.7=11.9$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.12\times11.9=13.3$$ m/s.</p><br><p>This is equivalent to&nbsp48 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.74 m slingshot is accelerated for&nbsp1.5 s at&nbsp11 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=12.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #28)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=11\time1.5=16.5$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.74\times16.5=12.2$$ m/s.</p><br><p>This is equivalent to&nbsp44 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.93 m slingshot is accelerated for&nbsp1.2 s at&nbsp15 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=16.7:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #29)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=15\time1.2=18$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.93\times18=16.7$$ m/s.</p><br><p>This is equivalent to&nbsp60 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.07 m slingshot is accelerated for&nbsp0.9 s at&nbsp18 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=17.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #30)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=18\time0.9=16.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.07\times16.2=17.3$$ m/s.</p><br><p>This is equivalent to&nbsp62 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.9 m slingshot is accelerated for&nbsp1.2 s at&nbsp20 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=21.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #31)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=20\time1.2=24$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.9\times24=21.6$$ m/s.</p><br><p>This is equivalent to&nbsp78 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #32</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.93 m slingshot is accelerated for&nbsp1.3 s at&nbsp18 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=21.8:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #32)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=18\time1.3=23.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.93\times23.4=21.8$$ m/s.</p><br><p>This is equivalent to&nbsp78 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #33</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.78 m slingshot is accelerated for&nbsp0.6 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=6.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #33)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time0.6=8.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.78\times8.4=6.6$$ m/s.</p><br><p>This is equivalent to&nbsp24 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #34</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.18 m slingshot is accelerated for&nbsp1.2 s at&nbsp17 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=24.1:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #34)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=17\time1.2=20.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.18\times20.4=24.1$$ m/s.</p><br><p>This is equivalent to&nbsp87 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #35</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.7 m slingshot is accelerated for&nbsp0.6 s at&nbsp18 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=7.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #35)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=18\time0.6=10.8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.7\times10.8=7.6$$ m/s.</p><br><p>This is equivalent to&nbsp27 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #36</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.29 m slingshot is accelerated for&nbsp1.3 s at&nbsp20 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=33.5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #36)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=20\time1.3=26$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.29\times26=33.5$$ m/s.</p><br><p>This is equivalent to&nbsp121 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #37</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.35 m slingshot is accelerated for&nbsp0.7 s at&nbsp15 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=14.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #37)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=15\time0.7=10.5$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.35\times10.5=14.2$$ m/s.</p><br><p>This is equivalent to&nbsp51 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #38</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.25 m slingshot is accelerated for&nbsp1 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=20:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #38)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time1=16$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.25\times16=20$$ m/s.</p><br><p>This is equivalent to&nbsp72 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #39</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.09 m slingshot is accelerated for&nbsp1.3 s at&nbsp10 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=14.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #39)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=10\time1.3=13$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.09\times13=14.2$$ m/s.</p><br><p>This is equivalent to&nbsp51 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:40  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #40</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.04 m slingshot is accelerated for&nbsp0.7 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=9.5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #40)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time0.7=9.1$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.04\times9.1=9.5$$ m/s.</p><br><p>This is equivalent to&nbsp34 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #41</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.09 m slingshot is accelerated for&nbsp1.3 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=19.8:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #41)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time1.3=18.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.09\times18.2=19.8$$ m/s.</p><br><p>This is equivalent to&nbsp71 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:42  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #42</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.06 m slingshot is accelerated for&nbsp0.6 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=7.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #42)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time0.6=7.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.06\times7.2=7.6$$ m/s.</p><br><p>This is equivalent to&nbsp27 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #43</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.9 m slingshot is accelerated for&nbsp0.9 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=9.7:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #43)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time0.9=10.8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.9\times10.8=9.7$$ m/s.</p><br><p>This is equivalent to&nbsp35 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:44  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #44</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.88 m slingshot is accelerated for&nbsp1.4 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=19.7:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #44)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time1.4=22.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.88\times22.4=19.7$$ m/s.</p><br><p>This is equivalent to&nbsp71 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #45</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.36 m slingshot is accelerated for&nbsp1.1 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=18:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #45)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time1.1=13.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.36\times13.2=18$$ m/s.</p><br><p>This is equivalent to&nbsp65 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #46</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.77 m slingshot is accelerated for&nbsp1.1 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=11.9:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #46)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time1.1=15.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.77\times15.4=11.9$$ m/s.</p><br><p>This is equivalent to&nbsp43 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #47</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.19 m slingshot is accelerated for&nbsp1.3 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=21.7:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #47)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time1.3=18.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.19\times18.2=21.7$$ m/s.</p><br><p>This is equivalent to&nbsp78 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #48</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.1 m slingshot is accelerated for&nbsp0.7 s at&nbsp20 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=15.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #48)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=20\time0.7=14$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.1\times14=15.4$$ m/s.</p><br><p>This is equivalent to&nbsp55 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #49</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.06 m slingshot is accelerated for&nbsp0.8 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=10.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #49)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time0.8=9.6$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.06\times9.6=10.2$$ m/s.</p><br><p>This is equivalent to&nbsp37 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #50</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.37 m slingshot is accelerated for&nbsp1.2 s at&nbsp17 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=27.9:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #50)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=17\time1.2=20.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.37\times20.4=27.9$$ m/s.</p><br><p>This is equivalent to&nbsp101 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #51</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.16 m slingshot is accelerated for&nbsp1.3 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=24.1:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #51)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time1.3=20.8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.16\times20.8=24.1$$ m/s.</p><br><p>This is equivalent to&nbsp87 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #52</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.05 m slingshot is accelerated for&nbsp1.4 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=20.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #52)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time1.4=19.6$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.05\times19.6=20.6$$ m/s.</p><br><p>This is equivalent to&nbsp74 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #53</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.87 m slingshot is accelerated for&nbsp0.8 s at&nbsp19 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=13.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #53)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=19\time0.8=15.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.87\times15.2=13.2$$ m/s.</p><br><p>This is equivalent to&nbsp48 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:54  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #54</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.19 m slingshot is accelerated for&nbsp1.4 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=23.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #54)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time1.4=19.6$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.19\times19.6=23.3$$ m/s.</p><br><p>This is equivalent to&nbsp84 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #55</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.14 m slingshot is accelerated for&nbsp0.5 s at&nbsp20 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=11.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #55)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=20\time0.5=10$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.14\times10=11.4$$ m/s.</p><br><p>This is equivalent to&nbsp41 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:56  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #56</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.03 m slingshot is accelerated for&nbsp1 s at&nbsp18 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=18.5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #56)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=18\time1=18$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.03\times18=18.5$$ m/s.</p><br><p>This is equivalent to&nbsp67 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:57  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #57</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.93 m slingshot is accelerated for&nbsp1.1 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=13.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #57)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time1.1=14.3$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.93\times14.3=13.3$$ m/s.</p><br><p>This is equivalent to&nbsp48 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #58</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.92 m slingshot is accelerated for&nbsp1.2 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=15.5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #58)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time1.2=16.8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.92\times16.8=15.5$$ m/s.</p><br><p>This is equivalent to&nbsp56 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #59</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.77 m slingshot is accelerated for&nbsp0.7 s at&nbsp20 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=10.8:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #59)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=20\time0.7=14$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.77\times14=10.8$$ m/s.</p><br><p>This is equivalent to&nbsp39 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #60</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.19 m slingshot is accelerated for&nbsp1.2 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=18.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #60)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time1.2=15.6$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.19\times15.6=18.6$$ m/s.</p><br><p>This is equivalent to&nbsp67 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #61</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.71 m slingshot is accelerated for&nbsp1.1 s at&nbsp10 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=7.8:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #61)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=10\time1.1=11$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.71\times11=7.8$$ m/s.</p><br><p>This is equivalent to&nbsp28 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #62</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.88 m slingshot is accelerated for&nbsp0.7 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=8.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #62)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time0.7=9.8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.88\times9.8=8.6$$ m/s.</p><br><p>This is equivalent to&nbsp31 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #63</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.24 m slingshot is accelerated for&nbsp1.1 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=17.7:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #63)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time1.1=14.3$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.24\times14.3=17.7$$ m/s.</p><br><p>This is equivalent to&nbsp64 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #64</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.9 m slingshot is accelerated for&nbsp0.5 s at&nbsp11 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #64)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=11\time0.5=5.5$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.9\times5.5=5$$ m/s.</p><br><p>This is equivalent to&nbsp18 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #65</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.21 m slingshot is accelerated for&nbsp0.5 s at&nbsp20 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=12.1:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #65)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=20\time0.5=10$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.21\times10=12.1$$ m/s.</p><br><p>This is equivalent to&nbsp44 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #66</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1 m slingshot is accelerated for&nbsp0.5 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=8:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #66)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time0.5=8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1\times8=8$$ m/s.</p><br><p>This is equivalent to&nbsp29 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #67</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.29 m slingshot is accelerated for&nbsp0.8 s at&nbsp18 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=18.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #67)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=18\time0.8=14.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.29\times14.4=18.6$$ m/s.</p><br><p>This is equivalent to&nbsp67 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #68</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.2 m slingshot is accelerated for&nbsp1.1 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=18.5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #68)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time1.1=15.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.2\times15.4=18.5$$ m/s.</p><br><p>This is equivalent to&nbsp67 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #69</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.97 m slingshot is accelerated for&nbsp0.9 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=12.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #69)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time0.9=12.6$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.97\times12.6=12.2$$ m/s.</p><br><p>This is equivalent to&nbsp44 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #70</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.85 m slingshot is accelerated for&nbsp1 s at&nbsp10 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=8.5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #70)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=10\time1=10$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.85\times10=8.5$$ m/s.</p><br><p>This is equivalent to&nbsp31 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #71</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.1 m slingshot is accelerated for&nbsp0.5 s at&nbsp19 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=10.5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #71)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=19\time0.5=9.5$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.1\times9.5=10.5$$ m/s.</p><br><p>This is equivalent to&nbsp38 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #72</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.31 m slingshot is accelerated for&nbsp0.8 s at&nbsp20 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=21:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #72)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=20\time0.8=16$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.31\times16=21$$ m/s.</p><br><p>This is equivalent to&nbsp75 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #73</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.37 m slingshot is accelerated for&nbsp1.5 s at&nbsp11 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=22.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #73)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=11\time1.5=16.5$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.37\times16.5=22.6$$ m/s.</p><br><p>This is equivalent to&nbsp81 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #74</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.7 m slingshot is accelerated for&nbsp0.7 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=6.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #74)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time0.7=9.1$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.7\times9.1=6.4$$ m/s.</p><br><p>This is equivalent to&nbsp23 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.86 m slingshot is accelerated for&nbsp1.3 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=13.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #75)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time1.3=15.6$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.86\times15.6=13.4$$ m/s.</p><br><p>This is equivalent to&nbsp48 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #76</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.01 m slingshot is accelerated for&nbsp0.7 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=9.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #76)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time0.7=9.1$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.01\times9.1=9.2$$ m/s.</p><br><p>This is equivalent to&nbsp33 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #77</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.34 m slingshot is accelerated for&nbsp0.5 s at&nbsp11 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=7.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #77)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=11\time0.5=5.5$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.34\times5.5=7.4$$ m/s.</p><br><p>This is equivalent to&nbsp27 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #78</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.97 m slingshot is accelerated for&nbsp1.4 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=16.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #78)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time1.4=16.8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.97\times16.8=16.3$$ m/s.</p><br><p>This is equivalent to&nbsp59 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #79</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.36 m slingshot is accelerated for&nbsp1.5 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=28.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #79)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time1.5=21$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.36\times21=28.6$$ m/s.</p><br><p>This is equivalent to&nbsp103 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #80</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.39 m slingshot is accelerated for&nbsp0.6 s at&nbsp18 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=15:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #80)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=18\time0.6=10.8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.39\times10.8=15$$ m/s.</p><br><p>This is equivalent to&nbsp54 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #81</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.11 m slingshot is accelerated for&nbsp1.1 s at&nbsp15 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=18.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #81)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=15\time1.1=16.5$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.11\times16.5=18.3$$ m/s.</p><br><p>This is equivalent to&nbsp66 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #82</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.85 m slingshot is accelerated for&nbsp0.6 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=8.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #82)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time0.6=9.6$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.85\times9.6=8.2$$ m/s.</p><br><p>This is equivalent to&nbsp29 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #83</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.26 m slingshot is accelerated for&nbsp1.2 s at&nbsp15 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=22.7:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #83)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=15\time1.2=18$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.26\times18=22.7$$ m/s.</p><br><p>This is equivalent to&nbsp82 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #84</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.37 m slingshot is accelerated for&nbsp1.1 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=18.1:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #84)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time1.1=13.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.37\times13.2=18.1$$ m/s.</p><br><p>This is equivalent to&nbsp65 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #85</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.18 m slingshot is accelerated for&nbsp0.8 s at&nbsp18 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=17:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #85)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=18\time0.8=14.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.18\times14.4=17$$ m/s.</p><br><p>This is equivalent to&nbsp61 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #86</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.4 m slingshot is accelerated for&nbsp0.7 s at&nbsp20 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=19.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #86)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=20\time0.7=14$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.4\times14=19.6$$ m/s.</p><br><p>This is equivalent to&nbsp71 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #87</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.19 m slingshot is accelerated for&nbsp0.6 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=8.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #87)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time0.6=7.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.19\times7.2=8.6$$ m/s.</p><br><p>This is equivalent to&nbsp31 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #88</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.36 m slingshot is accelerated for&nbsp1 s at&nbsp19 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=25.8:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #88)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=19\time1=19$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.36\times19=25.8$$ m/s.</p><br><p>This is equivalent to&nbsp93 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #89</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.25 m slingshot is accelerated for&nbsp0.5 s at&nbsp18 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=11.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #89)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=18\time0.5=9$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.25\times9=11.3$$ m/s.</p><br><p>This is equivalent to&nbsp41 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #90</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.18 m slingshot is accelerated for&nbsp1.4 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=26.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #90)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time1.4=22.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.18\times22.4=26.4$$ m/s.</p><br><p>This is equivalent to&nbsp95 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:91  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #91</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.14 m slingshot is accelerated for&nbsp0.6 s at&nbsp12 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=8.2:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #91)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=12\time0.6=7.2$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.14\times7.2=8.2$$ m/s.</p><br><p>This is equivalent to&nbsp30 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:92  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #92</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.72 m slingshot is accelerated for&nbsp0.9 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=8.4:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #92)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time0.9=11.7$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.72\times11.7=8.4$$ m/s.</p><br><p>This is equivalent to&nbsp30 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:93  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #93</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.9 m slingshot is accelerated for&nbsp1 s at&nbsp11 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=9.9:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #93)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=11\time1=11$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.9\times11=9.9$$ m/s.</p><br><p>This is equivalent to&nbsp36 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:94  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #94</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.36 m slingshot is accelerated for&nbsp1.5 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=32.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #94)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time1.5=24$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.36\times24=32.6$$ m/s.</p><br><p>This is equivalent to&nbsp118 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:95  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #95</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.7 m slingshot is accelerated for&nbsp1.4 s at&nbsp17 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=16.7:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #95)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=17\time1.4=23.8$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.7\times23.8=16.7$$ m/s.</p><br><p>This is equivalent to&nbsp60 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:96  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #96</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp0.75 m slingshot is accelerated for&nbsp1.5 s at&nbsp13 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=14.6:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #96)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=13\time1.5=19.5$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=0.75\times19.5=14.6$$ m/s.</p><br><p>This is equivalent to&nbsp53 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:97  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #97</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.27 m slingshot is accelerated for&nbsp1 s at&nbsp16 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=20.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #97)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=16\time1=16$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.27\times16=20.3$$ m/s.</p><br><p>This is equivalent to&nbsp73 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:98  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #98</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.03 m slingshot is accelerated for&nbsp1.1 s at&nbsp11 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=12.5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #98)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=11\time1.1=12.1$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.03\times12.1=12.5$$ m/s.</p><br><p>This is equivalent to&nbsp45 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:99  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #99</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.11 m slingshot is accelerated for&nbsp0.6 s at&nbsp14 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=9.3:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #99)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=14\time0.6=8.4$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.11\times8.4=9.3$$ m/s.</p><br><p>This is equivalent to&nbsp34 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+  <!-- question:100  -->
+  <question type="cloze">
+    <name>
+      <text>DavidVsGoliath. Question ID #100</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>David is fighting Goliath. If David's&nbsp1.08 m slingshot is accelerated for&nbsp1 s at&nbsp19 rad/s<sup>2</sup>, what will be the initial linear velocity of the projected stone as it leaves the slingshot?</p><br><p><img src="http://s8.postimg.org/vobi0cig5/image.jpg" alt="" width="470" height="429" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>(Please give your answer correct to 1.d.p)</p>{1:NUMERICAL:=20.5:0.05#Good job!!~*#Incorrect, try again} m/s<p>(Question ID #100)</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First of all we need to calculate the stone's angular velocity at the moment it leaves the slingshot, using one of the equations from the previous question:</p><p>$$\small\omega=\alpha\cdot t=19\time1=19$$ rad/s.</p><br><p>Next, we need to convert this angular velocity into linear velocity using the relationship $$V=r\cdot \omega$$, where $$V$$ is linear velocity in m/s, $$r$$ is radius in m, and $$\small\omega$$ is angular velocity, in rad/s.</p><br><p>Applying this equation to this question gives,</p><p>$$V=1.08\times19=20.5$$ m/s.</p><br><p>This is equivalent to&nbsp74 km/h!<p>---------------------------------------------------------------------------------------------------------------------</p><p>Image adapted from Dynamics lecture notes.</p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p>Calculate the stone's angular velocity, and then convert this to linear velocity.</p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+</quiz>
