@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>Power. Question ID #1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><p>A car travles at a constant speed of&nbsp76 km per hour. It encounters a retarding force (rolling resistance, air ressitance etc) of&nbsp560 N.</p><p><br></p><p><img src="http://s28.postimg.org/hvkhngsot/car.gif" alt="" width="350" height="244" role="presentation" style="vertical-align:middle; margin: 0 .5em;" class="img-responsive"><br></p><p><br></p><p>At what power level does the engine deliver energy to the wheels to maintain the car's speed?</p><p>{1:NUMERICAL:=11.8:-94.1176#Good job!!~*#Incorrect, try again} kW<p>(Please give your answer correct to 1.d.p.)</p><p>(Question ID #1).</p></p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p></p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p><b>HINT</b><p></p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+</quiz>

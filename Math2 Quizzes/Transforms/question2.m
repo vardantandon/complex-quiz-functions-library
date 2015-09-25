@@ -5,7 +5,7 @@
 file=fopen('question2.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
 
-for i=1:1:1
+for i=1:1:10
     
     opposite = mod(i, 2);
     

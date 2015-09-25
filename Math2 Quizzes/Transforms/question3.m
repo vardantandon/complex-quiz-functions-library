@@ -5,7 +5,7 @@
 file=fopen('question3.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
 
-for i=1:1:1
+for i=1:1:100
     
     fprintf(['Processing Question: ', num2str(i), '\n']);
     

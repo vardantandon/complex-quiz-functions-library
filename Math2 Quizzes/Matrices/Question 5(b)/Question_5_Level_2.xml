@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <quiz>
   <!-- question:1  -->
   <question type="cloze">
@@ -1501,3 +1502,6 @@
     <hidden>0</hidden>
   </question>
 </quiz>
+=======
+<quiz>
+>>>>>>> origin/master

@@ -5,67 +5,7 @@
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(x). </p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
-    </generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <compareby>eval</compareby>
-    <tolerance>0.001</tolerance>
-    <nchecks>10</nchecks>
-    <disallow><text></text></disallow>
-    <allowedfuncs></allowedfuncs>
-    <answerprefix><text>Answer(in x) = </text></answerprefix>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>x^2 + (2*x^4)/3</text>
-      <feedback format="html">
-        <text></text>
-      </feedback>
-    </answer>
-    <variable name="x">
-        <min>1</min>
-        <max>10</max>
-    </variable>
-  </question>  <!-- question: 2  -->
-  <question type="algebra">
-    <name>
-      <text>Maclaurin Series</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(2x). </p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
-    </generalfeedback>
-    <defaultgrade>1.0000000</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <compareby>eval</compareby>
-    <tolerance>0.001</tolerance>
-    <nchecks>10</nchecks>
-    <disallow><text></text></disallow>
-    <allowedfuncs></allowedfuncs>
-    <answerprefix><text>Answer(in x) = </text></answerprefix>
-    <answer fraction="100" format="moodle_auto_format">
-      <text>4*x^2*(2*x^2 + 3)</text>
-      <feedback format="html">
-        <text></text>
-      </feedback>
-    </answer>
-    <variable name="x">
-        <min>1</min>
-        <max>10</max>
-    </variable>
-  </question>  <!-- question: 3  -->
-  <question type="algebra">
-    <name>
-      <text>Maclaurin Series</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(2x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 2sin<sup>2</sup>(2x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
@@ -80,7 +20,67 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>-4*x^2*(x^2 - 3)</text>
+      <text>-(8*x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 2  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 3  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-x^2*(x^2 - 3)</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -95,7 +95,37 @@
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(2x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 4*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 5  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(2x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
@@ -110,7 +140,7 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>4*x^2*(2*x^2 + 3)</text>
+      <text>(4*x^2*(2*x^2 + 3))/3</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -119,7 +149,37 @@
         <min>1</min>
         <max>10</max>
     </variable>
-  </question>  <!-- question: 5  -->
+  </question>  <!-- question: 6  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-x^2*(x^2 - 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 7  -->
   <question type="algebra">
     <name>
       <text>Maclaurin Series</text>
@@ -149,16 +209,16 @@
         <min>1</min>
         <max>10</max>
     </variable>
-  </question>  <!-- question: 6  -->
+  </question>  <!-- question: 8  -->
   <question type="algebra">
     <name>
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 2sin<sup>2</sup>(x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -170,7 +230,7 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>2 - 2*x^2</text>
+      <text>-(2*x^2*(x^2 - 3))/3</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -179,7 +239,67 @@
         <min>1</min>
         <max>10</max>
     </variable>
-  </question>  <!-- question: 7  -->
+  </question>  <!-- question: 9  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 10  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(8*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 11  -->
   <question type="algebra">
     <name>
       <text>Maclaurin Series</text>
@@ -209,16 +329,16 @@
         <min>1</min>
         <max>10</max>
     </variable>
-  </question>  <!-- question: 8  -->
+  </question>  <!-- question: 12  -->
   <question type="algebra">
     <name>
       <text>Maclaurin Series</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(x). </p>]]></text>
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(2x). </p>]]></text>
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
     </generalfeedback>
     <defaultgrade>1.0000000</defaultgrade>
     <penalty>0.3333333</penalty>
@@ -230,7 +350,7 @@
     <allowedfuncs></allowedfuncs>
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
-      <text>2 - 2*x^2</text>
+      <text>(4*x^2*(2*x^2 + 3))/3</text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -239,7 +359,37 @@
         <min>1</min>
         <max>10</max>
     </variable>
-  </question>  <!-- question: 9  -->
+  </question>  <!-- question: 13  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 14  -->
   <question type="algebra">
     <name>
       <text>Maclaurin Series</text>
@@ -269,7 +419,457 @@
         <min>1</min>
         <max>10</max>
     </variable>
-  </question>  <!-- question: 10  -->
+  </question>  <!-- question: 15  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 16  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 17  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 18  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 19  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 20  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 3cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3 - 6*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 21  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 22  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(8*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 23  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 4*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 24  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 25  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 4*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 26  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-4*x^2*(x^2 - 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 27  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>x^2*(2*x^2 + 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 28  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 29  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(2*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 30  -->
   <question type="algebra">
     <name>
       <text>Maclaurin Series</text>
@@ -291,6 +891,2106 @@
     <answerprefix><text>Answer(in x) = </text></answerprefix>
     <answer fraction="100" format="moodle_auto_format">
       <text>x^2 + (2*x^4)/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 31  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-x^2*(x^2 - 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 32  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(4*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 33  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 3cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3 - 3*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 34  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(4*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 35  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>x^2 + (2*x^4)/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 36  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 2sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(2*x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 37  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>4*x^2*(2*x^2 + 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 38  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 3cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3 - 6*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 39  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(2*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 40  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 2sin<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(8*x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 41  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>x^2 + (2*x^4)/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 42  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 43  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(4*x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 44  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 45  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>x^2 + (2*x^4)/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 46  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 47  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 48  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(2*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 49  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>x^2*(2*x^2 + 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 50  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(2*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 51  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 52  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 4*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 53  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>x^2 + (2*x^4)/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 54  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 4*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 55  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(4*x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 56  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 3cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3 - 6*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 57  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 58  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 59  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(4*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 60  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 61  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 62  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 63  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 3cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3 - 3*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 64  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(4*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 65  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 3cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3 - 3*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 66  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(4*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 67  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 3cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3 - 6*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 68  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 69  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 4*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 70  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(2*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 71  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 72  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(8*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 73  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(2*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 74  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(8*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 75  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 76  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-4*x^2*(x^2 - 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 77  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 78  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 79  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-4*x^2*(x^2 - 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 80  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-x^2*(x^2 - 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 81  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>4*x^2*(2*x^2 + 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 82  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 4*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 83  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 3cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3 - 3*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 84  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 85  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>4*x^2*(2*x^2 + 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 86  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 4*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 87  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>x^2*(2*x^2 + 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 88  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(2*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 89  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 4*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 90  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 91  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 2cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2 - 4*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 92  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>x^2*(2*x^2 + 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 93  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(8*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 94  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1 - 2*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 95  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for cos(x) to find the first two-non zero terms of the Maclaurin expansion for 3cos<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for cos(x) : <br>x^4/24 - x^2/2 + 1<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>3 - 6*x^2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 96  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 2tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>(8*x^2*(2*x^2 + 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 97  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for sin<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-(4*x^2*(x^2 - 3))/3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 98  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for tan(x) to find the first two-non zero terms of the Maclaurin expansion for 3tan<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for tan(x) : <br>x + x^3/3 + (2*x^5)/15<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>4*x^2*(2*x^2 + 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 99  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(2x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-4*x^2*(x^2 - 3)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <variable name="x">
+        <min>1</min>
+        <max>10</max>
+    </variable>
+  </question>  <!-- question: 100  -->
+  <question type="algebra">
+    <name>
+      <text>Maclaurin Series</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use the Maclaurin series for sin(x) to find the first two-non zero terms of the Maclaurin expansion for 3sin<sup>2</sup>(x). </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for sin(x) : <br>(x*(x^4 - 20*x^2 + 120))/120<br></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <compareby>eval</compareby>
+    <tolerance>0.001</tolerance>
+    <nchecks>10</nchecks>
+    <disallow><text></text></disallow>
+    <allowedfuncs></allowedfuncs>
+    <answerprefix><text>Answer(in x) = </text></answerprefix>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-x^2*(x^2 - 3)</text>
       <feedback format="html">
         <text></text>
       </feedback>

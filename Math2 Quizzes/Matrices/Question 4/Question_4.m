@@ -21,8 +21,6 @@ f = randi ([1 5],1,1)*x(randi(length(x)));
 g = randi([1 5],1,1)*x(randi(length(x)));
 h = randi ([1 5],1,1)*x(randi(length(x)));
 
-
-
 if (flag == 1)
     syms x1
     A = [a,b,c;d,x1,e;f,g,x1];

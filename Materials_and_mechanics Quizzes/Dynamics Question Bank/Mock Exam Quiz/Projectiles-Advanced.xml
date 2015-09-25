@@ -1,0 +1,3103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1322.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1539 m/s. 
+Each shell weighs 63 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=67:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 27 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=974.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1540 m/s. 
+Each shell weighs 67 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=72:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 16 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 31 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=538.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1550 m/s. 
+Each shell weighs 61 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=66:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 16 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 33 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=511.1:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1524 m/s. 
+Each shell weighs 65 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=68:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 18 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 30 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=617.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1538 m/s. 
+Each shell weighs 70 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=75:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 6 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 16 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=468.9:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1540 m/s. 
+Each shell weighs 70 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=75:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 7 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 10 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=393.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1537 m/s. 
+Each shell weighs 55 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=59:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 8 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 34 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=444.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1535 m/s. 
+Each shell weighs 62 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=66:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 9 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1154.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1524 m/s. 
+Each shell weighs 59 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=62:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 10 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 15 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 35 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=461.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1545 m/s. 
+Each shell weighs 55 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=59:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 11 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 25 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1141.5:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1544 m/s. 
+Each shell weighs 52 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=56:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 12 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=825.5:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1543 m/s. 
+Each shell weighs 60 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=65:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 13 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=558.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1524 m/s. 
+Each shell weighs 59 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=62:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 14 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 30 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1503.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1549 m/s. 
+Each shell weighs 53 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=58:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 15 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=766.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1537 m/s. 
+Each shell weighs 57 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=61:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 16 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=647.5:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1510 m/s. 
+Each shell weighs 51 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=52:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 17 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 30 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 33 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=923.4:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1519 m/s. 
+Each shell weighs 58 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=60:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 18 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 12 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 25 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=495.4:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1520 m/s. 
+Each shell weighs 56 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=58:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 19 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=499.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1514 m/s. 
+Each shell weighs 68 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=70:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 20 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 11 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 39 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=340.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1526 m/s. 
+Each shell weighs 50 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=53:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 21 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 17 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 35 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=515.1:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1542 m/s. 
+Each shell weighs 61 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=66:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 22 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=658.5:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1512 m/s. 
+Each shell weighs 56 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=58:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 23 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 10 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 24 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=432.9:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1539 m/s. 
+Each shell weighs 65 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=70:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 24 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 28 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=888.9:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1512 m/s. 
+Each shell weighs 69 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=71:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 25 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 26 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 26 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1008.1:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1532 m/s. 
+Each shell weighs 70 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=74:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 26 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 25 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=699.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1527 m/s. 
+Each shell weighs 59 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=62:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 27 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 21 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 25 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=848.9:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1540 m/s. 
+Each shell weighs 60 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=64:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 28 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 26 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=893.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1515 m/s. 
+Each shell weighs 59 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=61:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 29 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 17 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 36 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=504.1:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1541 m/s. 
+Each shell weighs 64 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=69:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 30 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 12 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=608.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1532 m/s. 
+Each shell weighs 56 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=59:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 31 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 40 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=751.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1521 m/s. 
+Each shell weighs 66 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=69:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 32 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 28 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=888.9:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1546 m/s. 
+Each shell weighs 69 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=75:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 33 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 21 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 35 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=624.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1533 m/s. 
+Each shell weighs 50 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=53:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 34 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 33 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=598.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1531 m/s. 
+Each shell weighs 57 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=60:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 35 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=804.5:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1544 m/s. 
+Each shell weighs 57 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=61:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 36 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=608.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1548 m/s. 
+Each shell weighs 64 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=69:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 37 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 33 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=454.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1512 m/s. 
+Each shell weighs 58 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=60:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 38 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 39 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=644.4:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1543 m/s. 
+Each shell weighs 60 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=65:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 39 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 25 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=903.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1549 m/s. 
+Each shell weighs 70 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=76:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 40 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 28 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1009.4:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1528 m/s. 
+Each shell weighs 55 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=58:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 41 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 26 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=709.1:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1547 m/s. 
+Each shell weighs 61 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=66:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 42 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 23 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=963.1:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1546 m/s. 
+Each shell weighs 59 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=64:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 43 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=412.8:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1541 m/s. 
+Each shell weighs 68 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=73:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 44 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 15 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 34 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=471.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1537 m/s. 
+Each shell weighs 52 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=55:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 45 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 18 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 25 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=730.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1539 m/s. 
+Each shell weighs 55 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=59:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 46 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 28 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=778.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1525 m/s. 
+Each shell weighs 60 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=63:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 47 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=673.5:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1534 m/s. 
+Each shell weighs 62 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=66:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 48 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 16 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 29 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=569.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1539 m/s. 
+Each shell weighs 68 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=73:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 49 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 25 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1253.8:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1537 m/s. 
+Each shell weighs 59 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=63:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 50 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=870.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1543 m/s. 
+Each shell weighs 56 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=60:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 51 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 15 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=571.1:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1525 m/s. 
+Each shell weighs 61 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=64:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 52 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 21 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=762.4:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1526 m/s. 
+Each shell weighs 60 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=63:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 53 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 39 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=619.9:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1539 m/s. 
+Each shell weighs 58 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=62:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 54 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 27 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1232.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1512 m/s. 
+Each shell weighs 51 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=52:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 55 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 26 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=516.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1522 m/s. 
+Each shell weighs 50 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=52:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 56 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 21 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=960.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1516 m/s. 
+Each shell weighs 63 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=65:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 57 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 28 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 40 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=726.9:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1533 m/s. 
+Each shell weighs 70 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=74:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 58 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 21 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 30 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=715.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1523 m/s. 
+Each shell weighs 59 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=62:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 59 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 21 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=957.9:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1546 m/s. 
+Each shell weighs 51 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=55:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 60 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=544.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1526 m/s. 
+Each shell weighs 62 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=65:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 61 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 27 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=734.5:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1548 m/s. 
+Each shell weighs 54 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=59:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 62 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 15 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=436.4:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1534 m/s. 
+Each shell weighs 60 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=64:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 63 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=621.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1531 m/s. 
+Each shell weighs 54 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=57:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 64 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=692.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1549 m/s. 
+Each shell weighs 63 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=68:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 65 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 35 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=706.8:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1524 m/s. 
+Each shell weighs 60 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=63:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 66 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 21 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 23 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=920.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1533 m/s. 
+Each shell weighs 64 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=68:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 67 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 18 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 37 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=519.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1539 m/s. 
+Each shell weighs 57 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=61:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 68 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=692.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1541 m/s. 
+Each shell weighs 65 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=70:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 69 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 34 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=583.1:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1548 m/s. 
+Each shell weighs 66 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=72:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 70 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1096.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1525 m/s. 
+Each shell weighs 62 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=65:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 71 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 21 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=910.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1519 m/s. 
+Each shell weighs 67 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=70:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 72 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 10 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=322.4:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1513 m/s. 
+Each shell weighs 64 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=66:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 73 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 20 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 24 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=841.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1533 m/s. 
+Each shell weighs 52 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=55:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 74 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=766.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1512 m/s. 
+Each shell weighs 51 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=52:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 75 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=657.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1527 m/s. 
+Each shell weighs 67 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=70:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 76 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 30 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=747.9:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1545 m/s. 
+Each shell weighs 52 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=56:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 77 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1322.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1531 m/s. 
+Each shell weighs 53 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=56:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 78 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 21 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1054.6:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1541 m/s. 
+Each shell weighs 67 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=72:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 79 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 40 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=751.0:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1530 m/s. 
+Each shell weighs 55 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=58:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 80 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 12 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 30 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=426.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1534 m/s. 
+Each shell weighs 66 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=70:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 81 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 11 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 33 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=370.5:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1531 m/s. 
+Each shell weighs 53 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=56:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 82 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 29 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=919.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1528 m/s. 
+Each shell weighs 69 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=73:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 83 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 29 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=805.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1544 m/s. 
+Each shell weighs 61 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=66:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 84 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 21 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 34 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=639.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1525 m/s. 
+Each shell weighs 55 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=58:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 85 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 22 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 38 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=608.2:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1526 m/s. 
+Each shell weighs 52 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=55:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 86 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 19 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 26 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=741.8:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1526 m/s. 
+Each shell weighs 67 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=70:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 87 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 18 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=657.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1524 m/s. 
+Each shell weighs 52 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=54:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 88 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 15 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 21 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=721.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1527 m/s. 
+Each shell weighs 55 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=58:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 89 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 16 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 28 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=587.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1514 m/s. 
+Each shell weighs 60 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=62:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 90 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 24 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 25 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=967.8:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1542 m/s. 
+Each shell weighs 51 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=55:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 91 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 18 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=905.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1519 m/s. 
+Each shell weighs 50 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=52:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 92 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 13 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 22 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=600.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1520 m/s. 
+Each shell weighs 53 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=55:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 93 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 12 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 32 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=406.5:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1546 m/s. 
+Each shell weighs 69 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=75:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 94 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 30 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=489.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1525 m/s. 
+Each shell weighs 60 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=63:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 95 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 15 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 21 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=721.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1527 m/s. 
+Each shell weighs 53 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=56:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 96 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 10 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 40 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=317.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1527 m/s. 
+Each shell weighs 70 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=74:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 97 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 26 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 20 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=1303.7:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1537 m/s. 
+Each shell weighs 64 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=68:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 98 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 23 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 31 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=757.3:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1518 m/s. 
+Each shell weighs 66 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=69:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 99 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 14 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 27 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=535.1:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1546 m/s. 
+Each shell weighs 67 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=72:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+<question type="cloze">
+<name>
+<text>Projectiles Advanced 100 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>HMS Belfast is a warship situated on the River Thames. Its guns are aimed to fire at a motorway service station 18 km away. 
+Assuming no air resistance, and that the ship and service station are at the same height above sea level, at what velocity must the shells leave the guns in order to reach the service station in a time of 26 seconds?</p>
+<p>(Give your answer in m/s to 1.d.p.)</p>
+<p>(Use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=703.9:0.05#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p>The maximum firing range of the HMS Belfast front guns at 45 degrees, taking air resistance into account, is stated to be 23.3 km. 
+The stated maximum velocity at which the shells leave the gun is 1534 m/s. 
+Each shell weighs 69 kg. Calculate the energy loss of the shells due to air resistance when they are fired to the maximum range at 45 degrees.</p>
+<p>(Give your answer in MJ to 2.s.f.)</p>
+<p>(Again use a value of g of -9.8 m/s<sup>2</sup>)</p>
+<p>{1:NUMERICAL:=73:0.5#Good job!~*#Sorry. Try again.}</p>
+<p></p>
+<p></p>
+<p></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text></text>
+</generalfeedback>
+<penalty>0.0000000</penalty>
+<hidden>0</hidden>
+<hint format="html">
+<text><![CDATA[<p>First of all, work out the velocity in the x-direction, and then obtain an expression for the initial velocity in the y-direction. Then combine these two expressions to calculate the angle of trajectory of the shells, and then their velocity.</p>
+<p>For the second question, calculate the initial velocity to achieve the maximum given range with no air resistance, when fired at 45 degrees. Then calculate the difference in kinetic energy between the shells when fired at this speed compared to the speed calculated in the first question.</p>]]></text>
+</hint>
+</question>
+</quiz>

@@ -6,11 +6,11 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -21,11 +21,11 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -36,11 +36,11 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -51,11 +51,11 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -81,11 +81,11 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -96,11 +96,11 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -126,11 +126,11 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -146,6 +146,1206 @@
     </questiontext>
     <generalfeedback format="html">
       <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:20  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:40  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:42  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:44  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:54  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:56  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:57  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9143:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9143</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8286:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8286</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.2857:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^15e^{x^2}$$dx =&nbsp;7.2857</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3714:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3714</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4571:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The general equation for Maclaurin series :<br> $$\small f\left(x\right)\:=\:\sum \:_{n=0}^{\infty \:}\:\frac{f^{\left(n\right)}\left(0\right)}{n!}x^n$$<br>=> $$\small f\left(0\right)\:+\:f\:'\left(0\right)x\:+\:\frac{f\:''\left(0\right)}{2!}x^2\:+\:\frac{f\:'''\left(0\right)}{3!}x^3\:+\:....$$<br><br>The Maclaurin expansion for e<sup>x</sup> is given by :<br> $$\small 1 + x + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + ...$$ <br><br>The series for e<sup>x<sup>2</sup></sup> becomes :<br> $$\small 1 + x^{2} + \frac{x^{4}}{2!} + \frac{x^{6}}{3!} + ...$$ <br><br>Integrating and Applying limits, we get :<br>$$\small[x + \frac{x^{3}}{3} + \frac{x^{5}}{10} + \frac{x^{7}}{42} + ...]_{0}^{1}$$<br>[Higher terms in x are ignored because the denomitor increases leading to a negligible value]<br><br>So the correct answer is : $$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4571</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>

@@ -3,6 +3,7 @@
 %UCL Department: Medical Physics and Bioengineering
 
 file=fopen('Question_6_Level_2.xml','w'); 
+<<<<<<< HEAD
 
 %xml initialization code
 fprintf(file, quiz_start()); 
@@ -11,6 +12,11 @@ for i=1:1:200
 
 
 %Calculations
+=======
+fprintf(file, quiz_start()); %xml initialization code
+for i=1:1:100
+  
+>>>>>>> origin/master
 x = [1,-1,-1];
 
 a = randi([1 10],1,1)*x(randi(length(x)));
