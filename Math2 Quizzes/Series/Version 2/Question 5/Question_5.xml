@@ -6,11 +6,11 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -21,11 +21,11 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -36,11 +36,11 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -66,46 +66,16 @@
       <text>Integral</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
   <!-- question:6  -->
-  <question type="cloze">
-    <name>
-      <text>Integral</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:7  -->
-  <question type="cloze">
-    <name>
-      <text>Integral</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:8  -->
   <question type="cloze">
     <name>
       <text>Integral</text>
@@ -120,7 +90,202 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
+  <!-- question:7  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:8  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
   <!-- question:9  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:10  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:11  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:12  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:13  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:14  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:15  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:16  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:17  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:18  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:19  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:20  -->
   <question type="cloze">
     <name>
       <text>Integral</text>
@@ -135,7 +300,1192 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:10  -->
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:40  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:41  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:42  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:43  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:44  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:45  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:46  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:47  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:49  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:54  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:56  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:57  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^15e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=7.3089:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^15e^{x^2}$$dx =&nbsp;7.3089</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:91  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:92  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:93  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:94  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:95  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^13e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=4.3853:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^13e^{x^2}$$dx =&nbsp;4.3853</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:96  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^14e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=5.8471:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^14e^{x^2}$$dx =&nbsp;5.8471</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:97  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^12e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=2.9235:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^12e^{x^2}$$dx =&nbsp;2.9235</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:98  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:99  -->
+  <question type="cloze">
+    <name>
+      <text>Integral</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Use Maclaurin series to calculate the following integral to 2 significant figures : <br>$$\small\int_0^1e^{x^2}$$dx<br><br>Answer : <br>{1:NUMERICAL:=1.4618:0.1#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The Maclaurin expansion for e<sup>x</sup> =&nbsp;x + x^2/2 + x^3/6 + x^4/24 + x^5/120 + 1 ... <br>Integrating and Applying limits, we get&nbsp;$$\small\int_0^1e^{x^2}$$dx =&nbsp;1.4618</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:100  -->
   <question type="cloze">
     <name>
       <text>Integral</text>

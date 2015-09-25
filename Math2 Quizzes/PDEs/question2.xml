@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>PDEs - Terminology</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Categorise the following partial differential equations: <br><br>$$ \small \frac{\partial^2 u}{\partial x^2} = x \frac{\partial^2 u}{\partial t^2} $$ <br><br>{1:MULTICHOICE:~Elliptic#$$ \small y = \partialy $$~None of the above#Incorrect~Partially hyperbolic and partially elliptic#Incorrect~=Hyperbolic#Correct}<br><br>$$ \small y\frac{\partial^2 u}{\partial x^2} + x \frac{\partial^2 u}{\partial x \partial y} = 0 $$ <br><br>{1:MULTICHOICE:~=Hyperbolic#Correct~Partially hyperbolic, partially parabolic and partially elliptic#Incorrect~None of the above#Incorrect~Partially hyperbolic and partially elliptic#Incorrect}<br><br>$$ \small (1+ y) \frac{\partial^2 u}{\partial x^2} + (1 + 2y) \frac{\partial^2 u}{\partial x \partial y} + 4y \frac{\partial^2 u}{\partial y^2} = 0 $$ <br><br>{1:MULTICHOICE:~=Hyperbolic#Correct~Elliptic#Incorrect~None of the above#Incorrect~Parabolic#Incorrect}<br><br>$$ \small (1+ y) \frac{\partial^2 u}{\partial x^2} + (1 + 2y) \frac{\partial^2 u}{\partial x \partial y} + 4y \frac{\partial^2 u}{\partial y^2} = 0 $$ <br><br>{1:MULTICHOICE:~=Linear homogeneous#Correct~Linear inhomogeneous#Incorrect~Nonlinear homogeneous#Incorrect~Nonlinear inhomogeneous#Incorrect}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+</quiz>

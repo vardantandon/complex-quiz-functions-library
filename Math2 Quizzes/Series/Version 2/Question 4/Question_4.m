@@ -1,15 +1,15 @@
 file = fopen('Question_4.xml', 'w');
 fprintf(file,quiz_start());
 
-for i=1:1:10
+for i=1:1:100
     
-flag = randi([1 3],1,1)
-a = randi ([1 2],1,1)
-b = randi([1 3],1,1)
+flag = randi([1 3],1,1);
+a = randi ([1 2],1,1);
+b = randi([1 3],1,1);
 syms x
-cos_f =  1 - (a*(x^2))/2
-sin_f = a*x - (a*(x^3))/6
-tan_f = a*x +  (a*(x^3))/3
+cos_f =  1 - (a*(x^2))/2;
+sin_f = a*x - (a*(x^3))/6;
+tan_f = a*x +  (a*(x^3))/3;
 
 aString = '';
 bString = '';
@@ -22,25 +22,23 @@ if b~= 1
 end
 
 if (flag == 1)
-        str = 'cos'
-        answer = simplify(b*(cos_f*cos_f  - (a*(x^2)/2)^2) ) 
+        str = 'cos';
+        answer = simplify(b*(cos_f*cos_f  - (a*(x^2)/2)^2) );
         feedbackString = strcat('The Maclaurin expansion for cos(x) : <br>', char(simplify(taylor(cos(x)))),'<br>');
   
 else if (flag == 2)
-        str = 'sin'
-        answer = simplify(b*(sin_f*sin_f -   ((a*(x^3))/6)^2 ))
+        str = 'sin';
+        answer = simplify(b*(sin_f*sin_f -   ((a*(x^3))/6)^2 ));
          feedbackString = strcat('The Maclaurin expansion for sin(x) : <br>', char(simplify(taylor(sin(x)))),'<br>');
   
 else 
-        str = 'tan'
-        answer = simplify(b*(tan_f*tan_f  -  ((a*(x^3))/3) ^2 ))
+        str = 'tan';
+        answer = simplify(b*(tan_f*tan_f  -  ((a*(x^3))/3) ^2 ));
          feedbackString = strcat('The Maclaurin expansion for tan(x) : <br>', char(simplify(taylor(tan(x)))),'<br>');
   
     end
-end 
- 
- 
- 
+end
+
     fprintf(file,'  <!-- question: %i  -->', i);
     fprintf(file,'\n  <question type="algebra">');
     fprintf(file,'\n    <name>');

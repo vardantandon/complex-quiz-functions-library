@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- question:1  -->
+  <question type="cloze">
+    <name>
+      <text>PDEs - True or False</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Categorise the following partial differential equations: <br><br>The Duhamel method can provide the solution to any inhomogeneous linear PDE, provided that we already know the solution to the corresponding homogenous equation.<br>{1:MCV:~=true#Correct~false#Incorrect}<br><br>The convolution theorem for Fourier or Laplace transforms allows us to solve nonlinear PDEs analytically.<br>{1:MCV:~false#Incorrect~=true#Correct}<br><br>The separation-of-variables method can only be used for PDEs defined on finite spatial domains.<br>{1:MCV:~=true#Correct~false#Incorrect}<br><br>The separation-of-variables method can only be used for homogeneous PDEs.<br>{1:MCV:~=true#Correct~false#Incorrect}<br><br>The separation-of-variables method can only be used for homogeneous BCs.<br>{1:MCV:~false#Incorrect~=true#Correct}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p></p>]]></text>
+
+    </generalfeedback>
+    <penalty>0.00000</penalty>
+    <hidden>0</hidden>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+    <hint format="html">
+      <text><![CDATA[<p></p>]]></text>
+    </hint>
+  </question>
+</quiz>

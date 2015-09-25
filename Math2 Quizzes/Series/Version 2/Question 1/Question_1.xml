@@ -6,11 +6,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>50+55+60.....795+800<br><br>Answer : <br>{1:NUMERICAL:=64175:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-200-195-190.....795+800<br><br>Answer : <br>{1:NUMERICAL:=60300:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =64175</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =60300</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -21,11 +21,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-1500-1495-1490.....9495+9500<br><br>Answer : <br>{1:NUMERICAL:=8804000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;15 and&nbsp;95<br><br>Answer : <br>{1:NUMERICAL:=2200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =8804000</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =2200</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -36,16 +36,31 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-18 and&nbsp;87<br><br>Answer : <br>{1:NUMERICAL:=1855:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-15-12-9.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1260:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1855</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1260</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
   <!-- question:4  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-1800-1797-1794.....8997+9000<br><br>Answer : <br>{1:NUMERICAL:=12963600:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =12963600</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:5  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
@@ -60,32 +75,17 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:5  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-20-15-10.....75+80<br><br>Answer : <br>{1:NUMERICAL:=630:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =630</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
   <!-- question:6  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-18-15-12.....93+96<br><br>Answer : <br>{1:NUMERICAL:=1521:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>9+12+15.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1296:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1521</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1296</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -96,11 +96,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>150+155+160.....795+800<br><br>Answer : <br>{1:NUMERICAL:=62225:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-500-495-490.....7995+8000<br><br>Answer : <br>{1:NUMERICAL:=6378750:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =62225</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =6378750</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -111,781 +111,16 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-15-10-5.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1020:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-18-15-12.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1242:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1020</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1242</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
   <!-- question:9  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;500 and&nbsp;8800<br><br>Answer : <br>{1:NUMERICAL:=19302150:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =19302150</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:10  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-200-195-190.....845+850<br><br>Answer : <br>{1:NUMERICAL:=68575:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =68575</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:11  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-500-495-490.....8495+8500<br><br>Answer : <br>{1:NUMERICAL:=7204000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =7204000</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:12  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-1300 and&nbsp;8800<br><br>Answer : <br>{1:NUMERICAL:=18941250:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =18941250</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:13  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>150+153+156.....867+870<br><br>Answer : <br>{1:NUMERICAL:=122910:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =122910</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:14  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-1500-1495-1490.....8995+9000<br><br>Answer : <br>{1:NUMERICAL:=7878750:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =7878750</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:15  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-100-95-90.....945+950<br><br>Answer : <br>{1:NUMERICAL:=89675:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =89675</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:16  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-14 and&nbsp;92<br><br>Answer : <br>{1:NUMERICAL:=2067:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =2067</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:17  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>15+18+21.....78+81<br><br>Answer : <br>{1:NUMERICAL:=1104:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1104</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:18  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-6-30.....90+93<br><br>Answer : <br>{1:NUMERICAL:=1479:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1479</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:19  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>30+33+36.....807+810<br><br>Answer : <br>{1:NUMERICAL:=109620:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =109620</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:20  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-1000-995-990.....7995+8000<br><br>Answer : <br>{1:NUMERICAL:=6303500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =6303500</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:21  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>200+205+210.....795+800<br><br>Answer : <br>{1:NUMERICAL:=60500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =60500</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:22  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-600-597-594.....9297+9300<br><br>Answer : <br>{1:NUMERICAL:=14359350:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =14359350</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:23  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>150+153+156.....837+840<br><br>Answer : <br>{1:NUMERICAL:=114345:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =114345</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:24  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-1800 and&nbsp;8100<br><br>Answer : <br>{1:NUMERICAL:=15595650:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =15595650</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:25  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-1600 and&nbsp;9600<br><br>Answer : <br>{1:NUMERICAL:=22400000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =22400000</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:26  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-1200-1197-1194.....8397+8400<br><br>Answer : <br>{1:NUMERICAL:=11523600:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =11523600</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:27  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-50-45-40.....795+800<br><br>Answer : <br>{1:NUMERICAL:=64125:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =64125</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:28  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-120-117-114.....867+870<br><br>Answer : <br>{1:NUMERICAL:=124125:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =124125</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:29  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-100-95-90.....795+800<br><br>Answer : <br>{1:NUMERICAL:=63350:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =63350</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:30  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-1700 and&nbsp;8900<br><br>Answer : <br>{1:NUMERICAL:=19080000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =19080000</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:31  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;18 and&nbsp;83<br><br>Answer : <br>{1:NUMERICAL:=1650:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1650</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:32  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-12-9-6.....81+84<br><br>Answer : <br>{1:NUMERICAL:=1188:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1188</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:33  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>1200+1203+1206.....9897+9900<br><br>Answer : <br>{1:NUMERICAL:=16100550:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =16100550</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:34  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-1800-1797-1794.....9297+9300<br><br>Answer : <br>{1:NUMERICAL:=13878750:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =13878750</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:35  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-15-10-5.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1020:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1020</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:36  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-303.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1302:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1302</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:37  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-505.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1045:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1045</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:38  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-20-15-10.....75+80<br><br>Answer : <br>{1:NUMERICAL:=630:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =630</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:39  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-14 and&nbsp;95<br><br>Answer : <br>{1:NUMERICAL:=2200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =2200</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:40  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>15+18+21.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1275:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1275</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:41  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>1500+1505+1510.....9495+9500<br><br>Answer : <br>{1:NUMERICAL:=8805500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =8805500</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:42  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-18-15-12.....87+90<br><br>Answer : <br>{1:NUMERICAL:=1332:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1332</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:43  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>500+505+510.....9495+9500<br><br>Answer : <br>{1:NUMERICAL:=9005000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =9005000</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:44  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;17 and&nbsp;87<br><br>Answer : <br>{1:NUMERICAL:=1872:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1872</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:45  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-6-30.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1296:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1296</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:46  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-100-95-90.....795+800<br><br>Answer : <br>{1:NUMERICAL:=63350:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =63350</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:47  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-60-57-54.....987+990<br><br>Answer : <br>{1:NUMERICAL:=163215:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =163215</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:48  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-70 and&nbsp;800<br><br>Answer : <br>{1:NUMERICAL:=159140:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =159140</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:49  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-200-195-190.....845+850<br><br>Answer : <br>{1:NUMERICAL:=68575:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =68575</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:50  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;18 and&nbsp;91<br><br>Answer : <br>{1:NUMERICAL:=1998:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1998</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:51  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-60 and&nbsp;800<br><br>Answer : <br>{1:NUMERICAL:=159100:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =159100</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:52  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-500-495-490.....9495+9500<br><br>Answer : <br>{1:NUMERICAL:=9004500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =9004500</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:53  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-170 and&nbsp;910<br><br>Answer : <br>{1:NUMERICAL:=199800:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =199800</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:54  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>5+10+15.....80+85<br><br>Answer : <br>{1:NUMERICAL:=765:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =765</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:55  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;1800 and&nbsp;8100<br><br>Answer : <br>{1:NUMERICAL:=15592500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =15592500</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:56  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-1900 and&nbsp;9900<br><br>Answer : <br>{1:NUMERICAL:=23604000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =23604000</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:57  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>500+505+510.....9495+9500<br><br>Answer : <br>{1:NUMERICAL:=9005000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =9005000</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:58  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-30-27-24.....867+870<br><br>Answer : <br>{1:NUMERICAL:=126420:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =126420</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:59  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-19 and&nbsp;88<br><br>Answer : <br>{1:NUMERICAL:=1836:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1836</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:60  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
@@ -900,163 +135,448 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:61  -->
+  <!-- question:10  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-200-195-190.....945+950<br><br>Answer : <br>{1:NUMERICAL:=86625:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-300-297-294.....8997+9000<br><br>Answer : <br>{1:NUMERICAL:=13489350:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =86625</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =13489350</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:62  -->
+  <!-- question:11  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-200-195-190.....795+800<br><br>Answer : <br>{1:NUMERICAL:=60300:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-180-177-174.....957+960<br><br>Answer : <br>{1:NUMERICAL:=148590:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =60300</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =148590</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:63  -->
+  <!-- question:12  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-2000-1995-1990.....8495+8500<br><br>Answer : <br>{1:NUMERICAL:=6828250:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-200-195-190.....995+1000<br><br>Answer : <br>{1:NUMERICAL:=96400:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =6828250</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =96400</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:64  -->
+  <!-- question:13  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-170 and&nbsp;870<br><br>Answer : <br>{1:NUMERICAL:=182000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-505.....85+90<br><br>Answer : <br>{1:NUMERICAL:=850:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =182000</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =850</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:65  -->
+  <!-- question:14  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-2000-1995-1990.....8495+8500<br><br>Answer : <br>{1:NUMERICAL:=6828250:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-1000-995-990.....9495+9500<br><br>Answer : <br>{1:NUMERICAL:=8929250:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =6828250</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =8929250</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:66  -->
+  <!-- question:15  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>50+55+60.....845+850<br><br>Answer : <br>{1:NUMERICAL:=72450:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-1800-1797-1794.....8697+8700<br><br>Answer : <br>{1:NUMERICAL:=12078450:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =72450</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =12078450</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:67  -->
+  <!-- question:16  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;120 and&nbsp;940<br><br>Answer : <br>{1:NUMERICAL:=217300:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-18-15-12.....96+99<br><br>Answer : <br>{1:NUMERICAL:=1620:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =217300</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1620</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:68  -->
+  <!-- question:17  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-100 and&nbsp;9800<br><br>Answer : <br>{1:NUMERICAL:=24007500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>180+183+186.....897+900<br><br>Answer : <br>{1:NUMERICAL:=130140:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =24007500</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =130140</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:69  -->
+  <!-- question:18  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>15+18+21.....78+81<br><br>Answer : <br>{1:NUMERICAL:=1104:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-1800 and&nbsp;8500<br><br>Answer : <br>{1:NUMERICAL:=17255850:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1104</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =17255850</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:70  -->
+  <!-- question:19  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>150+153+156.....927+930<br><br>Answer : <br>{1:NUMERICAL:=140940:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-6-30.....93+96<br><br>Answer : <br>{1:NUMERICAL:=1575:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =140940</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1575</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:71  -->
+  <!-- question:20  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-15-12-9.....78+81<br><br>Answer : <br>{1:NUMERICAL:=1089:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-800 and&nbsp;9000<br><br>Answer : <br>{1:NUMERICAL:=20094100:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =20094100</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:21  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-100-95-90.....895+900<br><br>Answer : <br>{1:NUMERICAL:=80400:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =80400</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:22  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-500-495-490.....9495+9500<br><br>Answer : <br>{1:NUMERICAL:=9004500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =9004500</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:23  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>150+153+156.....867+870<br><br>Answer : <br>{1:NUMERICAL:=122910:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =122910</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:24  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-110 and&nbsp;910<br><br>Answer : <br>{1:NUMERICAL:=204000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =204000</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:25  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-180-177-174.....957+960<br><br>Answer : <br>{1:NUMERICAL:=148590:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =148590</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:26  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>300+303+306.....8097+8100<br><br>Answer : <br>{1:NUMERICAL:=10924200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =10924200</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:27  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;1 and&nbsp;91<br><br>Answer : <br>{1:NUMERICAL:=2116:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =2116</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:28  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-200 and&nbsp;910<br><br>Answer : <br>{1:NUMERICAL:=197380:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =197380</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:29  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>90+93+96.....897+900<br><br>Answer : <br>{1:NUMERICAL:=134145:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =134145</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:30  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;900 and&nbsp;9700<br><br>Answer : <br>{1:NUMERICAL:=23320000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =23320000</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:31  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-1800-1797-1794.....8397+8400<br><br>Answer : <br>{1:NUMERICAL:=11223300:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =11223300</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:32  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-1100 and&nbsp;9200<br><br>Answer : <br>{1:NUMERICAL:=20861550:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =20861550</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:33  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-9-6-3.....96+99<br><br>Answer : <br>{1:NUMERICAL:=1665:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1665</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:34  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-900-897-894.....8997+9000<br><br>Answer : <br>{1:NUMERICAL:=13369050:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =13369050</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:35  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-15-12-9.....84+87<br><br>Answer : <br>{1:NUMERICAL:=1260:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1260</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:36  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-1000-995-990.....8495+8500<br><br>Answer : <br>{1:NUMERICAL:=7128750:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =7128750</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:37  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-1500-1495-1490.....9995+10000<br><br>Answer : <br>{1:NUMERICAL:=9779250:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =9779250</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:38  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>1000+1005+1010.....8995+9000<br><br>Answer : <br>{1:NUMERICAL:=8005000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =8005000</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:39  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>18+21+24.....78+81<br><br>Answer : <br>{1:NUMERICAL:=1089:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
@@ -1065,232 +585,82 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:72  -->
+  <!-- question:40  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-18-15-12.....93+96<br><br>Answer : <br>{1:NUMERICAL:=1521:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-15-10-5.....80+85<br><br>Answer : <br>{1:NUMERICAL:=735:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1521</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =735</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:73  -->
+  <!-- question:41  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;1000 and&nbsp;9800<br><br>Answer : <br>{1:NUMERICAL:=23760000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-12-9-6.....78+81<br><br>Answer : <br>{1:NUMERICAL:=1104:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =23760000</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1104</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:74  -->
+  <!-- question:42  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>2000+2005+2010.....9495+9500<br><br>Answer : <br>{1:NUMERICAL:=8630750:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;9 and&nbsp;97<br><br>Answer : <br>{1:NUMERICAL:=2332:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =8630750</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =2332</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:75  -->
+  <!-- question:43  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-2000-1995-1990.....7995+8000<br><br>Answer : <br>{1:NUMERICAL:=6003000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>1800+1803+1806.....8097+8100<br><br>Answer : <br>{1:NUMERICAL:=10399950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =6003000</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =10399950</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:76  -->
+  <!-- question:44  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-50 and&nbsp;910<br><br>Answer : <br>{1:NUMERICAL:=206830:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-303.....93+96<br><br>Answer : <br>{1:NUMERICAL:=1581:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =206830</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1581</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:77  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-1000-995-990.....8995+9000<br><br>Answer : <br>{1:NUMERICAL:=8004000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =8004000</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:78  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-100 and&nbsp;900<br><br>Answer : <br>{1:NUMERICAL:=200000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =200000</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:79  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-300 and&nbsp;8700<br><br>Answer : <br>{1:NUMERICAL:=18900000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =18900000</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:80  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-190 and&nbsp;810<br><br>Answer : <br>{1:NUMERICAL:=155310:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =155310</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:81  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;500 and&nbsp;9900<br><br>Answer : <br>{1:NUMERICAL:=24445200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =24445200</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:82  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-2000-1995-1990.....8495+8500<br><br>Answer : <br>{1:NUMERICAL:=6828250:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =6828250</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:83  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-900 and&nbsp;9900<br><br>Answer : <br>{1:NUMERICAL:=24304500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =24304500</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:84  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;17 and&nbsp;88<br><br>Answer : <br>{1:NUMERICAL:=1908:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1908</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:85  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-1500-1497-1494.....9897+9900<br><br>Answer : <br>{1:NUMERICAL:=15964200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =15964200</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:86  -->
-  <question type="cloze">
-    <name>
-      <text>Sum of numbers</text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-15-12-9.....93+96<br><br>Answer : <br>{1:NUMERICAL:=1539:0#Good job!!~*#Incorrect, try again}</p>]]></text>
-
-    </questiontext>
-    <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1539</p>]]></text>
-    </generalfeedback>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-  </question>
-  <!-- question:87  -->
+  <!-- question:45  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
@@ -1305,37 +675,52 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:88  -->
+  <!-- question:46  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>20+25+30.....90+95<br><br>Answer : <br>{1:NUMERICAL:=920:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-160 and&nbsp;810<br><br>Answer : <br>{1:NUMERICAL:=157950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =920</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =157950</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:89  -->
+  <!-- question:47  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-2000 and&nbsp;9000<br><br>Answer : <br>{1:NUMERICAL:=19250000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-12-9-6.....87+90<br><br>Answer : <br>{1:NUMERICAL:=1365:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =19250000</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1365</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:90  -->
+  <!-- question:48  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-200-195-190.....895+900<br><br>Answer : <br>{1:NUMERICAL:=77350:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =77350</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:49  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
@@ -1350,7 +735,67 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
-  <!-- question:91  -->
+  <!-- question:50  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>100+105+110.....845+850<br><br>Answer : <br>{1:NUMERICAL:=71725:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =71725</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:51  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-900-897-894.....8697+8700<br><br>Answer : <br>{1:NUMERICAL:=12483900:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =12483900</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:52  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;9 and&nbsp;85<br><br>Answer : <br>{1:NUMERICAL:=1833:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1833</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:53  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-15-12-9.....81+84<br><br>Answer : <br>{1:NUMERICAL:=1173:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1173</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:54  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
@@ -1365,17 +810,572 @@
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
   </question>
+  <!-- question:55  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;6 and&nbsp;83<br><br>Answer : <br>{1:NUMERICAL:=1755:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1755</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:56  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-600-597-594.....8997+9000<br><br>Answer : <br>{1:NUMERICAL:=13444200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =13444200</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:57  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>30+33+36.....897+900<br><br>Answer : <br>{1:NUMERICAL:=135315:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =135315</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:58  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-9 and&nbsp;100<br><br>Answer : <br>{1:NUMERICAL:=2530:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =2530</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:59  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-1300 and&nbsp;9100<br><br>Answer : <br>{1:NUMERICAL:=20280000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =20280000</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:60  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-20-15-10.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1000</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:61  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-18-15-12.....96+99<br><br>Answer : <br>{1:NUMERICAL:=1620:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1620</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:62  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-9-6-3.....96+99<br><br>Answer : <br>{1:NUMERICAL:=1665:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1665</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:63  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-40 and&nbsp;870<br><br>Answer : <br>{1:NUMERICAL:=188825:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =188825</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:64  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-10 and&nbsp;910<br><br>Answer : <br>{1:NUMERICAL:=207000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =207000</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:65  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;20 and&nbsp;99<br><br>Answer : <br>{1:NUMERICAL:=2360:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =2360</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:66  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-505.....75+80<br><br>Answer : <br>{1:NUMERICAL:=675:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =675</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:67  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-1100 and&nbsp;8900<br><br>Answer : <br>{1:NUMERICAL:=19500000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =19500000</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:68  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-1200-1197-1194.....9597+9600<br><br>Answer : <br>{1:NUMERICAL:=15124200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =15124200</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:69  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-9-6-3.....78+81<br><br>Answer : <br>{1:NUMERICAL:=1116:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1116</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:70  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-9 and&nbsp;94<br><br>Answer : <br>{1:NUMERICAL:=2184:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =2184</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:71  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;190 and&nbsp;990<br><br>Answer : <br>{1:NUMERICAL:=236000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =236000</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:72  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-2000 and&nbsp;8100<br><br>Answer : <br>{1:NUMERICAL:=15402500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =15402500</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:73  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-1200-1197-1194.....9597+9600<br><br>Answer : <br>{1:NUMERICAL:=15124200:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =15124200</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:74  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>30+33+36.....987+990<br><br>Answer : <br>{1:NUMERICAL:=163710:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =163710</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:75  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-40 and&nbsp;840<br><br>Answer : <br>{1:NUMERICAL:=176000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =176000</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:76  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>50+55+60.....845+850<br><br>Answer : <br>{1:NUMERICAL:=72450:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =72450</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:77  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-303.....90+93<br><br>Answer : <br>{1:NUMERICAL:=1485:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1485</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:78  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-50 and&nbsp;890<br><br>Answer : <br>{1:NUMERICAL:=197820:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =197820</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:79  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-50 and&nbsp;970<br><br>Answer : <br>{1:NUMERICAL:=235060:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =235060</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:80  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>150+155+160.....845+850<br><br>Answer : <br>{1:NUMERICAL:=70500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =70500</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:81  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-50-45-40.....795+800<br><br>Answer : <br>{1:NUMERICAL:=64125:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =64125</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:82  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-1400 and&nbsp;9500<br><br>Answer : <br>{1:NUMERICAL:=22072500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =22072500</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:83  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-1800-1797-1794.....8097+8100<br><br>Answer : <br>{1:NUMERICAL:=10398150:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =10398150</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:84  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;150 and&nbsp;910<br><br>Answer : <br>{1:NUMERICAL:=201930:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =201930</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:85  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-1000-995-990.....8995+9000<br><br>Answer : <br>{1:NUMERICAL:=8004000:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =8004000</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:86  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>10+15+20.....85+90<br><br>Answer : <br>{1:NUMERICAL:=850:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =850</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:87  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>1000+1005+1010.....9995+10000<br><br>Answer : <br>{1:NUMERICAL:=9905500:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =9905500</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:88  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>50+55+60.....995+1000<br><br>Answer : <br>{1:NUMERICAL:=100275:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =100275</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:89  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>1200+1203+1206.....8397+8400<br><br>Answer : <br>{1:NUMERICAL:=11524800:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =11524800</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:90  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>-10-50.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1035:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1035</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+  <!-- question:91  -->
+  <question type="cloze">
+    <name>
+      <text>Sum of numbers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Find the sum of the series :<br>5+10+15.....90+95<br><br>Answer : <br>{1:NUMERICAL:=950:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =950</p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
   <!-- question:92  -->
   <question type="cloze">
     <name>
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>9+12+15.....81+84<br><br>Answer : <br>{1:NUMERICAL:=1209:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>9+12+15.....96+99<br><br>Answer : <br>{1:NUMERICAL:=1674:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1209</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1674</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1386,11 +1386,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;170 and&nbsp;840<br><br>Answer : <br>{1:NUMERICAL:=169175:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>15+18+21.....87+90<br><br>Answer : <br>{1:NUMERICAL:=1365:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =169175</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1365</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1401,11 +1401,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>200+205+210.....995+1000<br><br>Answer : <br>{1:NUMERICAL:=96600:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-1200-1197-1194.....9297+9300<br><br>Answer : <br>{1:NUMERICAL:=14179050:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =96600</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =14179050</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1416,11 +1416,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-2 and&nbsp;82<br><br>Answer : <br>{1:NUMERICAL:=1680:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-20-15-10.....75+80<br><br>Answer : <br>{1:NUMERICAL:=630:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1680</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =630</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1431,11 +1431,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all even numbers between&nbsp;-8 and&nbsp;95<br><br>Answer : <br>{1:NUMERICAL:=2236:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>60+63+66.....957+960<br><br>Answer : <br>{1:NUMERICAL:=153510:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =2236</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =153510</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1446,11 +1446,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-10-50.....90+95<br><br>Answer : <br>{1:NUMERICAL:=935:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-505.....95+100<br><br>Answer : <br>{1:NUMERICAL:=1045:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =935</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1045</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1461,11 +1461,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-20-15-10.....90+95<br><br>Answer : <br>{1:NUMERICAL:=900:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-100-95-90.....995+1000<br><br>Answer : <br>{1:NUMERICAL:=99450:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =900</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =99450</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1476,11 +1476,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of all odd numbers between&nbsp;-70 and&nbsp;850<br><br>Answer : <br>{1:NUMERICAL:=179400:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>-18-15-12.....81+84<br><br>Answer : <br>{1:NUMERICAL:=1155:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =179400</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =1155</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
@@ -1491,11 +1491,11 @@
       <text>Sum of numbers</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Find the sum of the series :<br>-150-145-140.....945+950<br><br>Answer : <br>{1:NUMERICAL:=88400:0#Good job!!~*#Incorrect, try again}</p>]]></text>
+      <text><![CDATA[<p>Find the sum of the series :<br>1800+1803+1806.....9597+9600<br><br>Answer : <br>{1:NUMERICAL:=14825700:0#Good job!!~*#Incorrect, try again}</p>]]></text>
 
     </questiontext>
     <generalfeedback format="html">
-      <text><![CDATA[<p>First term  = a<br>Common difference = d<br> Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =88400</p>]]></text>
+      <text><![CDATA[<p>First term  = a<br>Common difference = d<br>Last term = a<sub>n</sub><br>Calculate the total number of terms(n) : a<sub>n</sub> = a + (n-1)d<br>Sum = (n/2)(2a + (n-1)d) =14825700</p>]]></text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>

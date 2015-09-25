@@ -4,11 +4,11 @@
 %This code takes an image and encodes it to a base64 string that can be
 %used directly in the xml code.
 %
-%Last Updated: 13/07/2015
+%Last Updated: 22/07/2015
 %Created By: Avinash Javaji under supervision of Dr. Pilar Garcia Souto
 
 function finalString = generateImageString(fig, imageNameStr)
-    file=strcat(strcat(imageNameStr,'.png'));
+    file=strcat(imageNameStr,'.png');
     fig.PaperPositionMode = 'auto';
     print(imageNameStr,'-dpng','-r0')
     encodedImageString = base64file(file);

@@ -1,6 +1,6 @@
 file=fopen('Question_6_Level_2.xml','w'); 
 fprintf(file, quiz_start()); %xml initialization code
-for i=1:1:50
+for i=1:1:100
   
 x = [1,-1,-1];
 

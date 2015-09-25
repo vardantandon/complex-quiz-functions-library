@@ -69,12 +69,13 @@ for i=1:1:100
     feedbackString = strcat(feedbackString, '<br><br>Sample size $$ \\small n_1 = n_2 =&nbsp;', num2str(n), ' $$');
     feedbackString = strcat(feedbackString, '<br><br>Calculate the&nbsp;', twoTailString, '-sample <i>t</i> statistics as:');
     feedbackString = strcat(feedbackString, '<br>$$ \\small t^* = \\frac{\\bar{X}_1 - \\bar{X}_2}{\\sqrt{\\frac{{\\sigma_1}^2}{n_1} + \\frac{{\\sigma_2}^2}{n_2}}} =&nbsp;', num2str(round(tstar,2)), '$$');
-    feedbackString = strcat(feedbackString, '<br>At 5%% significance level, the critical value of t (with degree of freedom:&nbsp;', num2str(n), '-1 =&nbsp;', num2str(n-1), ') for rejecting the null hypothesis is t* =&nbsp;', num2str(round(tcrit,2)));
+    feedbackString = strcat(feedbackString, '<br><br>Therefore at 5%% significance level, the critical value of t (with degree of freedom:&nbsp;', num2str(n), '-1 =&nbsp;', num2str(n-1), ') for rejecting the null hypothesis is t* =&nbsp;', num2str(round(tcrit,2)));
     if equalStrength == 1
         feedbackString = strcat(feedbackString, '<br><br>Hence the null hypothesis cannot be rejected');
     else
         feedbackString = strcat(feedbackString, '<br><br>Hence the null hypothesis can be rejected');
     end
+    feedbackString = strcat(feedbackString, '<br><br>Note: The critical value for t can also be determined from EXCEL (or MATLAB) using the following formulas:<br><br>EXCEL: "=NORM.S.INV(0.95)" (or in general: "=NORM.S.INV(1-alpha)", where alpha is the significance level)<br>MATLAB: "= norminv(0.95,0,1)" (or in general: "= norminv(1-alpha,0,1)", where alpha is the significance level)');
     
     %Complete question XML code generation
     xmlCode = question_cloze(i, ...
@@ -83,11 +84,11 @@ for i=1:1:100
         feedbackString, ...
         '', ...
         '', ...
+        '', ...
         '');
     
     %Output
     fprintf(file, xmlCode);
-    
 end
 fprintf(file, quiz_end()); %xml closing code
 fclose(file);

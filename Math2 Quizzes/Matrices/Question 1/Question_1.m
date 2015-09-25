@@ -9,7 +9,7 @@ fprintf(file3, quiz_start());
 fprintf(file4, quiz_start());
 
 
-for i=1:1:5
+for i=1:1:100
     
 x = [1,-1,-1];
 pos = randi(length(x));

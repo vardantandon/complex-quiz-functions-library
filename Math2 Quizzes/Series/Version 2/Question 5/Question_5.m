@@ -1,13 +1,13 @@
 file = fopen('Question_5.xml', 'w');
 fprintf(file,quiz_start());
 
-for i=1:1:10
+for i=1:1:100
 
-a = randi([1 5],1,1)
-b = randi([1 3],1,1)
+a = randi([1 5],1,1);
+b = randi([1 3],1,1);
 syms x
-fun = @(x)(((x).^2).^4/24 + ((x).^2).^3/6 + ((x).^2).^2/2 + ((x).^2) + 1)
-answer = a*integral(fun,0,1)
+fun = @(x)(((x).^2).^4/24 + ((x).^2).^3/6 + ((x).^2).^2/2 + ((x).^2) + 1);
+answer = a*integral(fun,0,1);
 
 numString = cloze_numerical(answer, 0.10 , 'Good job!', 'Incorrect, try again');
 

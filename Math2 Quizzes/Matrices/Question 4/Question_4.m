@@ -2,6 +2,8 @@ file=fopen('Question_4.xml','w');
 fprintf(file, quiz_start()); %xml initialization code
 for i=1:1:50
 
+    i
+    
 x = [1,-1,-1];
 flag = randi([1 3],1,1);
 a = randi([1 5],1,1)*x(randi(length(x)));
@@ -13,13 +15,11 @@ f = randi ([1 5],1,1)*x(randi(length(x)));
 g = randi([1 5],1,1)*x(randi(length(x)));
 h = randi ([1 5],1,1)*x(randi(length(x)));
 
-
-
 if (flag == 1)
     syms x1
     A = [a,b,c;d,x1,e;f,g,x1];
     solx = solve((a*(x1*x1 - e*g) - b*(d*x1 - e*f) + c*(d*g - f*x1)),x1);
-    Cof = coeffs(simplify(a*(x1*x1 - e*g) - b*(d*x1 - e*f) + c*(d*g - f*x1))) 
+    Cof = coeffs(simplify(a*(x1*x1 - e*g) - b*(d*x1 - e*f) + c*(d*g - f*x1)));
     if (isreal(solx)==0)
         continue;
     end
@@ -27,7 +27,7 @@ else if(flag == 2)
         syms x1
         A = [a,b,c;d,e,x1;x1,f,g];
         solx = solve((a*(e*g - x1*f) - b*(d*g - x1*x1) + c*(d*f - e*x1)),x1);
-        Cof = coeffs(simplify(a*(e*g - x1*f) - b*(d*g - x1*x1) + c*(d*f - e*x1)))
+        Cof = coeffs(simplify(a*(e*g - x1*f) - b*(d*g - x1*x1) + c*(d*f - e*x1)));
         if (isreal(solx)==0)
             continue;
         end
@@ -35,7 +35,7 @@ else if(flag == 2)
         syms x1
         A = [a,b,c;x1,d,e;f,x1,g];
          solx = solve((a*(d*g - x1*e) - b*(x1*g - e*f) + c*(x1*x1 - d*f)),x1);
-         Cof = coeffs(simplify(a*(d*g - x1*e) - b*(x1*g - e*f) + c*(x1*x1 - d*f)))
+         Cof = coeffs(simplify(a*(d*g - x1*e) - b*(x1*g - e*f) + c*(x1*x1 - d*f)));
         if (isreal(solx)==0)
             continue;
         end
@@ -49,7 +49,7 @@ cString = '+';
 if double(Cof(3))~= 1
     aString = num2str(double(Cof(3)));
     if (c==-1)
-    aString = '-'
+    aString = '-';
     end
 end
 
@@ -57,7 +57,7 @@ if double(Cof(2))~= 1
     if double(Cof(2)) < -1
     bString = num2str(double(Cof(2)));
     else if(double(Cof(2))==-1)
-    bString = '-'
+    bString = '-';
     else if((double(Cof(2))>-1))
     bString = strcat('+',num2str(double(Cof(2))));  
         end
@@ -68,7 +68,7 @@ if double(Cof(1))~= 1
     if double(Cof(1)) < -1
     cString = num2str(double(Cof(1)));
     else if(double(Cof(1))==-1)
-    cString = '-'
+    cString = '-';
     else if((double(Cof(1))>-1))
     cString = strcat('+',num2str(double(Cof(1))));  
         end

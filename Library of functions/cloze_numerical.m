@@ -5,7 +5,7 @@
 %rightFeedback - string: correct answer feedback
 %wrongFeedback - string: wrong answer feedback
 %dp - OPTIONAL, number of decimal points to round the expected answer to
-%length - Min width of text box in number of characters
+%length - OPTIONAL, Min width of text box in number of characters
 %Last Updated: 09/09/2015
 %Created By: Avinash Javaji under supervision of Dr. Pilar Garcia Souto
 
