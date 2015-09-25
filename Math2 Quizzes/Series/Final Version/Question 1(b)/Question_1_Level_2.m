@@ -1,17 +1,23 @@
-file = fopen('Question_1.xml', 'w');
+%Series Question 1 Level 2 - Sum of numbers
+%Authored By: Vardan Tandon under supervision of Dr. Pilar Garcia Souto
+%UCL Department: Medical Physics and Bioengineering
+
+file = fopen('Question_1_Level_2.xml', 'w');
+
+%xml initialization code
 fprintf(file,quiz_start());
 
 for i=1:1:100
     
-    %Calculations
-    flag = randi([1 3],1,1)
-    multiplier = [1,10,100]
-    pos = randi(length(multiplier))
-    numb = multiplier(pos)
+%Calculations
+    flag = randi([1 3],1,1);
+    multiplier = [1,10,100];
+    pos = randi(length(multiplier));
+    numb = multiplier(pos);
     
-    multiplier_1 = [1,-1,-1]
-    pos_1 = randi(length(multiplier_1))
-    numb_1 = multiplier_1(pos_1)
+    multiplier_1 = [-1,-1];
+    pos_1 = randi(length(multiplier_1));
+    numb_1 = multiplier_1(pos_1);
     
     if (flag == 1)
       
@@ -87,15 +93,14 @@ for i=1:1:100
             
     
     
-    %Embedded components string generation
+%Embedded components string generation
+numString = cloze_numerical(sum, 0 , 'Good job!', 'Incorrect, try again');
     
-    numString = cloze_numerical(sum, 0 , 'Good job!', 'Incorrect, try again');
-    
- %Question string joining
- questionString = strcat('Find the sum of all ',var ,' numbers between&nbsp;', num2str(a), ' and&nbsp;' , num2str(b), '<br>', ...
- '<br>Answer : <br>', numString);
+%Question string joining
+questionString = strcat('Find the sum of all ',var ,' numbers between&nbsp;', num2str(a), ' and&nbsp;' , num2str(b), '<br>', ...
+'<br>Answer : <br>', numString);
 
-  
+%Feedback string joining  
 feedbackString = strcat('This contains an arithmetic series where the following is given : <br>First term(a)  = ',num2str(a1), '<br>Common difference(d) = 2',...
   '<br>Last term(a<sub>n</sub>) =&nbsp;',num2str(b1), '<br><br>The total number of terms(n) can be calculated by the formula : <br>', ...
 ' a<sub>n</sub> = a + (n-1)d => n = ',num2str(n), '<br><br>Now that we have n, the Sum is given by :<br>',...
@@ -113,24 +118,34 @@ feedbackString = strcat('This contains an arithmetic series where the following 
             
             
                  
-   %Embedded components string generation
+%Embedded components string generation
+numString = cloze_numerical(sum, 0 , 'Good job!', 'Incorrect, try again');
     
-    numString = cloze_numerical(sum, 0 , 'Good job!', 'Incorrect, try again');
-    
-if (numb_1==1)
- %Question string joining
- questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'+',num2str(var_2),'+',num2str( var_2 + 3),'.....',num2str(var_3 - 3),'+',num2str(var_3), '<br>', ...
- '<br>Answer : <br>', numString);
+if (numb_1==1 || var_2 == 0 )
+
+%Question string joining
+questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'+',num2str(var_2),'+',num2str( var_2 + 3),'.....',num2str(var_3 - 3),'+',num2str(var_3), '<br>', ...
+'<br>Answer : <br>', numString);
+ 
+else if (var_2 == -3)
+        
+%Question string joining
+questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'',num2str(var_2),'+',num2str( var_2 + 3),'.....',num2str(var_3 - 3),'+',num2str(var_3), '<br>', ...
+'<br>Answer : <br>', numString);    
+        
 else
- questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'',num2str(var_2),'',num2str( var_2 + 3),'.....',num2str(var_3 - 3),'+',num2str(var_3), '<br>', ...
- '<br>Answer : <br>', numString);   
     
-end 
-  
+%Question string joining
+questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'',num2str(var_2),'',num2str( var_2 + 3),'.....',num2str(var_3 - 3),'+',num2str(var_3), '<br>', ...
+'<br>Answer : <br>', numString);      
+    end 
+end
+ 
+%Feedback string joining
 feedbackString = strcat('This contains an arithmetic series where the following is given : <br>First term(a)  = ',num2str(var_1), '<br>Common difference(d) = 3',...
-  '<br>Last term(a<sub>n</sub>) =&nbsp;',num2str(var_3), '<br><br>The total number of terms(n) can be calculated by the formula : <br>', ...
+'<br>Last term(a<sub>n</sub>) =&nbsp;',num2str(var_3), '<br><br>The total number of terms(n) can be calculated by the formula : <br>', ...
 ' a<sub>n</sub> = a + (n-1)d => n = ',num2str(n), '<br><br>Now that we have n, the Sum is given by :<br>',...
-   'Sum = (n/2)(2a + (n-1)d) => Sum = ', num2str(sum));
+'Sum = (n/2)(2a + (n-1)d) => Sum = ', num2str(sum));
 
     
 
@@ -147,21 +162,30 @@ feedbackString = strcat('This contains an arithmetic series where the following 
             sum = n/2*(2*var_1 + (n-1)*d)
             
                     
-   %Embedded components string generation
+%Embedded components string generation
+numString = cloze_numerical(sum, 0 , 'Good job!', 'Incorrect, try again');
     
-    numString = cloze_numerical(sum, 0 , 'Good job!', 'Incorrect, try again');
+
+if (numb_1==1 || var_2 ==0 )
     
- %Question string joining
+%Question string joining
+questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'+',num2str(var_2),'+',num2str(var_2 + 5),'.....',num2str(var_3 - 5),'+',num2str(var_3), '<br>', ...
+ '<br>Answer : <br>', numString);
+
+else if (var_2 == -5)
  
-if (numb_1==1) 
- questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'+',num2str(var_2),'+',num2str(var_2 + 5),'.....',num2str(var_3 - 5),'+',num2str(var_3), '<br>', ...
- '<br>Answer : <br>', numString);
+%Question string joining
+questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'',num2str(var_2),'+',num2str( var_2 + 3),'.....',num2str(var_3 - 3),'+',num2str(var_3), '<br>', ...
+ '<br>Answer : <br>', numString); 
 else
- questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'',num2str(var_2),'',num2str(var_2 + 5),'.....',num2str(var_3 - 5),'+',num2str(var_3), '<br>', ...
- '<br>Answer : <br>', numString);
-    
+
+%Question string joining    
+questionString = strcat('Find the sum of the series :<br>',num2str( var_1) ,'',num2str(var_2),'',num2str(var_2 + 5),'.....',num2str(var_3 - 5),'+',num2str(var_3), '<br>', ...
+ '<br>Answer : <br>', numString);    
+    end   
 end
 
+%Feedback string joining
 feedbackString = strcat('This contains an arithmetic series where the following is given : <br>First term(a)  = ',num2str(var_1), '<br>Common difference(d) = 5',...
   '<br>Last term(a<sub>n</sub>) =&nbsp;',num2str(var_3), '<br><br>The total number of terms(n) can be calculated by the formula : <br>', ...
 ' a<sub>n</sub> = a + (n-1)d => n = ',num2str(n), '<br><br>Now that we have n, the Sum is given by :<br>',...
@@ -181,12 +205,13 @@ xmlCode = question_cloze(i, ...
         feedbackString, ...
         '');
     
-%Output
+
 fprintf(file, xmlCode);
     
 end
 
-fprintf(file, quiz_end()); %xml closing code
+%xml closing code
+fprintf(file, quiz_end()); 
 fclose(file);
     
     
