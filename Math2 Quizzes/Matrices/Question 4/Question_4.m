@@ -52,7 +52,7 @@ aString = '';
 bString = '+';
 cString = '+';
 
-if(length(Cof) < 3)
+if(length(Cof) < 3 || Cof(3) == 0 || Cof(2) == 0 || Cof(1) == 0)
     continue;
 end
 
